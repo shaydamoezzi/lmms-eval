@@ -34,7 +34,7 @@ class LlamaVision(lmms):
         batch_size: int = 1,
         trust_remote_code: Optional[bool] = False,
         attn_implementation: Optional[str] = None,
-        device_map: str = "",
+        device_map: str = "auto",
         max_frames_num: Optional[int] = 32,
         **kwargs,
     ) -> None:
