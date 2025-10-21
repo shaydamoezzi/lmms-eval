@@ -31,6 +31,7 @@ from lmms_eval.utils import (
     handle_non_serializable,
     make_table,
     simple_parse_args_string,
+    load_yaml_config #adding this for potential fix
 )
 
 
@@ -315,8 +316,10 @@ def cli_evaluate(args: Union[argparse.Namespace, None] = None) -> None:
         if not os.path.exists(args.config):
             raise ValueError(f"Config file does not exist: {args.config}")
 
-        with open(args.config, "r") as file:
-            config_args = yaml.safe_load(file)
+        #with open(args.config, "r") as file:
+            #config_args = yaml.safe_load(file) potentially fixing initial error with !function
+            #config_args = yaml.load(file, Loader=yaml.FullLoader)
+        config_args = load_yaml_config(args.config)
         config_args = [config_args] if type(config_args) != list else config_args
         # multiple configs, create args list first
         for config in config_args:
