@@ -83,6 +83,7 @@ def simple_evaluate(
     distributed_executor_backend: str = "accelerate",
     cli_args=None,
     force_simple: bool = False,
+    wandb_logger=None,
 ):
     """Instantiate and evaluate a model on a list of tasks.
 
@@ -281,6 +282,7 @@ def simple_evaluate(
         distributed_executor_backend=distributed_executor_backend,
         cli_args=cli_args,
         eval_server_launcher=eval_launcher,
+        wandb_logger=wandb_logger,
     )
 
     if global_rank == 0:
@@ -344,6 +346,7 @@ def evaluate(
     distributed_executor_backend: str = "accelerate",
     eval_server_launcher: Optional[Union[str, Callable]] = None,
     cli_args=None,
+    wandb_logger=None,
 ):
     """Instantiate and evaluate a model on a list of tasks.
 
@@ -592,6 +595,10 @@ def evaluate(
                     }
                     example.update(metrics)
                     task_output.logged_samples.append(example)
+
+                    if wandb_logger is not None and cli_args.wandb_log_samples:
+                        wandb_logger.log_eval_samples_incrementally(task_output.task_name, example)
+
                 for metric, value in metrics.items():
                     task_output.sample_metrics[(metric, filter_key)].append(value)
                 pbar.update(1)
