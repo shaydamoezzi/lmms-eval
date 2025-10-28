@@ -249,6 +249,9 @@ def simple_evaluate(
 
     task_dict = _adjust_config(task_dict)
 
+    if wandb_logger is not None:
+        wandb_logger.init_tables(task_dict)
+
     if check_integrity:
         run_task_tests(task_list=tasks)
 
