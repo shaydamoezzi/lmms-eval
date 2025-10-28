@@ -7,15 +7,15 @@ import numpy as np
 import pandas as pd
 from loguru import logger
 from packaging.version import Version
-import wandb
-from wandb.sdk.lib.printer import get_printer
-from wandb.sdk.wandb_settings import Settings
 
 from lmms_eval.loggers.utils import _handle_non_serializable, remove_none_pattern
 
 
 def get_wandb_printer() -> Literal["Printer"]:
     """Returns a wandb printer instance for pretty stdout."""
+    from wandb.sdk.lib.printer import get_printer
+    from wandb.sdk.wandb_settings import Settings
+
     printer = get_printer(Settings()._jupyter)
     return printer
 
@@ -33,6 +33,8 @@ class WandbLogger:
             wandb_logger.log_eval_samples(results["samples"])
         """
         try:
+            import wandb
+
             assert Version(wandb.__version__) >= Version("0.13.6")
             if Version(wandb.__version__) < Version("0.13.6"):
                 wandb.require("report-editing:v0")
@@ -48,78 +50,11 @@ class WandbLogger:
             self.run = wandb.run
 
         self.printer = get_wandb_printer()
-        self.sample_tables = {}
-        self.task_configs = {}
 
     def post_init(self, results: Dict[str, Any]) -> None:
         self.results: Dict[str, Any] = copy.deepcopy(results)
         self.task_names: List[str] = list(results.get("results", {}).keys())
         self.group_names: List[str] = list(results.get("groups", {}).keys())
-
-    def init_tables(self, task_dict: Dict[str, Any]):
-        """Initialize W&B Tables for logging samples."""
-        from lmms_eval.evaluator_utils import get_task_list
-        import wandb
-
-        eval_tasks = get_task_list(task_dict)
-
-        task_names_from_dict = []
-        group_names_from_dict = set()
-
-        for task_output in eval_tasks:
-            task_name = task_output.task_name
-            task = task_output.task
-
-            task_names_from_dict.append(task_name)
-            if task_output.group_name:
-                group_names_from_dict.add(task_output.group_name)
-
-            if task:
-                self.task_configs[task_name] = dict(task.dump_config())
-
-        task_names_for_tables = [name for name in task_names_from_dict if name not in group_names_from_dict]
-
-        for task_name in task_names_for_tables:
-            config = self.task_configs.get(task_name)
-            if not config:
-                continue
-
-            columns = ["id", "data"]
-            if config.get("output_type") == "multiple_choice":
-                columns.append("choices")
-            columns.extend(["input_len", "labels", "output_type", "raw_predictions", "filtered_predictions"])
-
-            metrics_list = config.get("metric_list", [])
-            for metric in metrics_list:
-                metric_name = metric.get("metric")
-                if metric_name in ["word_perplexity", "byte_perplexity", "bits_per_byte"]:
-                    columns.append(f"{metric_name}_loglikelihood")
-                    if metric_name in ["byte_perplexity", "bits_per_byte"]:
-                        columns.append(f"{metric_name}_bytes")
-                    else:
-                        columns.append(f"{metric_name}_words")
-                elif metric_name:
-                    columns.append(metric_name)
-
-            self.sample_tables[task_name] = wandb.Table(columns=columns)
-
-    def log_eval_samples_incrementally(self, task_name: str, sample: Dict[str, Any]):
-        if task_name not in self.sample_tables:
-            return
-
-        table = self.sample_tables[task_name]
-        config = self.task_configs.get(task_name)
-        if not config:
-            return
-
-        df = self._generate_dataset([sample], config)
-        if not df.empty:
-            row = df.values[0].tolist()
-            table.add_data(*row)
-
-    def commit_sample_tables(self):
-        for task_name, table in self.sample_tables.items():
-            self.run.log({f"{task_name}_eval_results": table})
 
     def _get_config(self) -> Dict[str, Any]:
         """Get configuration parameters."""
@@ -180,6 +115,7 @@ class WandbLogger:
         ]
 
         def make_table(columns: List[str], key: str = "results"):
+            import wandb
 
             table = wandb.Table(columns=columns)
             results = copy.deepcopy(self.results)
@@ -219,6 +155,7 @@ class WandbLogger:
 
     def _log_results_as_artifact(self) -> None:
         """Log results as JSON artifact to W&B."""
+        import wandb
 
         dumped = json.dumps(self.results, indent=2, default=_handle_non_serializable, ensure_ascii=False)
         artifact = wandb.Artifact("results", type="eval_results")
@@ -252,8 +189,6 @@ class WandbLogger:
         Returns:
             pd.DataFrame: A dataframe that is ready to be uploaded to W&B.
         """
-        if not data:
-            return pd.DataFrame()
         ids = [x["doc_id"] for x in data]
         labels = [x["target"] for x in data]
         instance = [""] * len(ids)
@@ -315,6 +250,7 @@ class WandbLogger:
         return pd.DataFrame(df_data)
 
     def _log_samples_as_artifact(self, data: List[Dict[str, Any]], task_name: str) -> None:
+        import wandb
 
         # log the samples as an artifact
         dumped = json.dumps(
@@ -335,10 +271,45 @@ class WandbLogger:
         Args:
             samples (Dict[str, List[Dict[str, Any]]]): Evaluation samples for each task.
         """
-        self.commit_sample_tables()
-
         task_names: List[str] = [x for x in self.task_names if x not in self.group_names]
 
+        ungrouped_tasks = []
+        tasks_by_groups = {}
+
         for task_name in task_names:
-            if task_name in samples:
-                self._log_samples_as_artifact(samples[task_name], task_name)
+            group_names = self.task_configs[task_name].get("group", None)
+            if group_names:
+                if isinstance(group_names, str):
+                    group_names = [group_names]
+
+                for group_name in group_names:
+                    if not tasks_by_groups.get(group_name):
+                        tasks_by_groups[group_name] = [task_name]
+                    else:
+                        tasks_by_groups[group_name].append(task_name)
+            else:
+                ungrouped_tasks.append(task_name)
+
+        for task_name in ungrouped_tasks:
+            eval_preds = samples[task_name]
+
+            # log the samples as a W&B Table
+            df = self._generate_dataset(eval_preds, self.task_configs.get(task_name))
+            self.run.log({f"{task_name}_eval_results": df})
+
+            # log the samples as a json file as W&B Artifact
+            self._log_samples_as_artifact(eval_preds, task_name)
+
+        for group, grouped_tasks in tasks_by_groups.items():
+            grouped_df = pd.DataFrame()
+            for task_name in grouped_tasks:
+                eval_preds = samples[task_name]
+                df = self._generate_dataset(eval_preds, self.task_configs.get(task_name))
+                df["group"] = group
+                df["task"] = task_name
+                grouped_df = pd.concat([grouped_df, df], ignore_index=True)
+
+                # log the samples as a json file as W&B Artifact
+                self._log_samples_as_artifact(eval_preds, task_name)
+
+            self.run.log({f"{group}_eval_results": grouped_df})

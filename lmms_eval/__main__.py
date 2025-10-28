@@ -347,19 +347,14 @@ def cli_evaluate(args: Union[argparse.Namespace, None] = None) -> None:
             # if is_main_process and args.wandb_args:  # thoughtfully we should only init wandb once, instead of multiple ranks to avoid network traffics and unwanted behaviors.
             #     wandb_logger = WandbLogger()
 
-            if is_main_process and args.wandb_args:
-                wandb_logger = WandbLogger(**simple_parse_args_string(args.wandb_args))
-            else:
-                wandb_logger = None
-
-            results, samples = cli_evaluate_single(args, wandb_logger)
+            results, samples = cli_evaluate_single(args)
             results_list.append(results)
 
             if accelerator:
                 accelerator.wait_for_everyone()
             elif torch.distributed.is_available() and torch.distributed.is_initialized():
                 torch.distributed.barrier()
-            if is_main_process and args.wandb_args and wandb_logger:
+            if is_main_process and args.wandb_args:
                 try:
                     wandb_logger.post_init(results)
                     wandb_logger.log_eval_result()
@@ -385,11 +380,11 @@ def cli_evaluate(args: Union[argparse.Namespace, None] = None) -> None:
             if "groups" in results:
                 print(make_table(results, "groups"))
 
-    if args.wandb_args and wandb_logger:
+    if args.wandb_args:
         wandb_logger.run.finish()
 
 
-def cli_evaluate_single(args: Union[argparse.Namespace, None] = None, wandb_logger: "WandbLogger" = None) -> None:
+def cli_evaluate_single(args: Union[argparse.Namespace, None] = None) -> None:
     selected_task_list = args.tasks.split(",") if args.tasks else None
 
     if args.include_path is not None:
@@ -509,7 +504,6 @@ def cli_evaluate_single(args: Union[argparse.Namespace, None] = None, wandb_logg
         distributed_executor_backend="torchrun" if (torch.distributed.is_available() and torch.distributed.is_initialized()) else "accelerate",
         force_simple=args.force_simple,
         launcher_args=args.launcher_args,
-        wandb_logger=wandb_logger,
         **request_caching_args,
     )
 
