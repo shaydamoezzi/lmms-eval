@@ -184,7 +184,7 @@ class VideoLLaVA(lmms):
             visuals = [doc_to_visual(self.task_dict[task][split][doc_id])]
             visuals = self.flatten(visuals)
             assert len(visuals) == 1
-            clip = read_video_pyav(visuals[0], self.num_frames)
+            clip = read_video_pyav(visuals[0], num_frm=self.num_frames) #updating optional numfrm arg for error TypeError: read_video_pyav() takes 1 positional argument but 2 were given 
 
             inputs = self._processor(text=self.prompt.format(contexts), videos=clip, return_tensors="pt")
             pixel_values_videos = inputs["pixel_values_videos"]

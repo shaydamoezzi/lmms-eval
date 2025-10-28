@@ -50,7 +50,6 @@ dependencies = [
     "yt-dlp",
     "pycocoevalcap",
     "tqdm-multiprocess",
-    "transformers>=4.39.2",
     "transformers-stream-generator",
     "zstandard",
     "pillow",
@@ -63,7 +62,7 @@ dependencies = [
     "loguru",
     "hf_transfer",
     "tenacity==8.3.0",
-    "wandb>=0.16.0",
+    "wandb==0.16.6",
     "tiktoken",
     "pre-commit",
     "pydantic",
@@ -74,6 +73,9 @@ dependencies = [
     "protobuf",
     "sentence_transformers",
     "python-dotenv",
+    "moviepy>=2.2.1",
+    "scikit-image>=0.24.0",
+    "transformers<=4.49.0",
 ]
 
 [project.optional-dependencies]

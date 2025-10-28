@@ -5,7 +5,7 @@ import random
 import re
 from collections import defaultdict
 from pathlib import Path
-
+import os
 # ============================================================
 # Helpers
 # ============================================================
@@ -64,6 +64,7 @@ def motion_analysis_bench_doc_to_visual(doc):
         video_id = doc.get("video_id")
     
     video_path = os.path.join(base_data_dir, f"{benchmark}/data/{video_id}.mp4")
+    print(f"Processing Video {video_path}")
     return [video_path]  # or return [<path>] if available
 
 def _format_options_for_prompt(opts: dict) -> str:

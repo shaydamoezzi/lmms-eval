@@ -1,10 +1,10 @@
 task: motion_analysis_bench
 tag: video_qa
-dataset_path: /projects/aclab/shayda/vqa_benchmarks/
+dataset_path: json
 dataset_kwargs:
   data_files:
     test:
-      - /projects/aclab/shayda/vqa_benchmarks/qa_final_2.jsonl
+      - /projects/aclab/shayda/vqa_benchmarks/qa.jsonl
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils.motion_analysis_bench_doc_to_visual

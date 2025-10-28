@@ -258,7 +258,7 @@ class Qwen2_VL(lmms):
                             if len(vr) > 0:
                                 first_frame = vr[0].asnumpy()
                                 height, width = first_frame.shape[:2]
-                                # max_pixels = height * width # This seems incorrect, should use instance config
+                                max_pixels = height * width # This seems incorrect, should use instance config  ##SHAYDA MODIFIED HERE FOR CUDA OOM BUG POTENTIALLY
                                 processed_visuals.append({"type": "video", "video": visual, "max_pixels": self.max_pixels, "min_pixels": self.min_pixels})
                             else:
                                 eval_logger.warning(f"Skipping empty video: {visual}")
