@@ -1,0 +1,171 @@
+import json
+import os
+from typing import Dict, List, Tuple
+
+import matplotlib.pyplot as plt
+import numpy as np
+from tqdm import tqdm
+
+
+def load_question_to_global_id(qa_jsonl_path: str) -> Dict[str, str]:
+    mapping: Dict[str, str] = {}
+    with open(qa_jsonl_path, 'r', encoding='utf-8') as f:
+        for line in tqdm(f, desc='Reading qa.jsonl'):
+            d = json.loads(line)
+            mapping[d['question_id']] = d['global_id']
+    return mapping
+
+
+def load_global_id_to_motion(qa_labeled_path: str) -> Dict[str, bool]:
+    mapping: Dict[str, bool] = {}
+    with open(qa_labeled_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        for item in tqdm(data, desc='Reading qa_data_labeled.json'):
+            gid = item.get('global_id')
+            if gid is not None and 'has_motion' in item:
+                mapping[gid] = bool(item['has_motion'])
+    return mapping
+
+
+def collect_results(files: List[str], qid2gid: Dict[str, str], gid2motion: Dict[str, bool]) -> List[Tuple[bool, bool]]:
+    # returns list of (correct, has_motion)
+    out: List[Tuple[bool, bool]] = []
+    for fp in files:
+        if not os.path.exists(fp):
+            continue
+        with open(fp, 'r', encoding='utf-8') as f:
+            for line in tqdm(f, desc=f'Processing {os.path.basename(fp)}', leave=False):
+                try:
+                    d = json.loads(line)
+                except Exception:
+                    continue
+                bench = d.get('motion_analysis_bench_acc') or {}
+                qid = bench.get('question_id')
+                correct = bench.get('correct')
+                if qid is None or correct is None:
+                    continue
+                gid = qid2gid.get(qid)
+                if gid is None:
+                    continue
+                has_motion = gid2motion.get(gid)
+                if has_motion is None:
+                    continue
+                out.append((bool(correct), bool(has_motion)))
+    return out
+
+
+def compute_accuracy(pairs: List[Tuple[bool, bool]]) -> Dict[str, float]:
+    # returns dict with keys: overall, motion, non_motion and counts
+    total = len(pairs)
+    motion_pairs = [c for c in pairs if c[1] is True]
+    non_motion_pairs = [c for c in pairs if c[1] is False]
+
+    def acc(lst: List[Tuple[bool, bool]]):
+        if not lst:
+            return None, 0, 0
+        num_correct = sum(1 for c, _ in lst if c)
+        return num_correct / len(lst), num_correct, len(lst) - num_correct
+
+    overall_acc, _, _ = acc(pairs) if total else (None, 0, 0)
+    motion_acc, motion_correct, motion_incorrect = acc(motion_pairs)
+    non_motion_acc, non_motion_correct, non_motion_incorrect = acc(non_motion_pairs)
+
+    return {
+        'overall': overall_acc if overall_acc is not None else float('nan'),
+        'motion': motion_acc if motion_acc is not None else float('nan'),
+        'non_motion': non_motion_acc if non_motion_acc is not None else float('nan'),
+        'motion_correct': motion_correct,
+        'motion_incorrect': motion_incorrect,
+        'non_motion_correct': non_motion_correct,
+        'non_motion_incorrect': non_motion_incorrect,
+    }
+
+
+def main():
+    qid2gid = load_question_to_global_id('qa.jsonl')
+    gid2motion = load_global_id_to_motion('qa_data_labeled.json')
+
+    # Define files for each benchmark
+    lvbench_files = [
+        'output/internvl-lvbench-1/OpenGVLab__InternVL2-8B/20251028_232855_samples_motion_analysis_bench.jsonl',
+        'output/internvl-lvbench-2/OpenGVLab__InternVL2-8B/20251028_233849_samples_motion_analysis_bench.jsonl',
+        'output/internvl-lvbench-3/OpenGVLab__InternVL2-8B/20251029_005716_samples_motion_analysis_bench.jsonl',
+        'output/internvl-lvbench-4/OpenGVLab__InternVL2-8B/20251029_010159_samples_motion_analysis_bench.jsonl',
+    ]
+    nextqa_files = [
+        'output/internvl-nextqa-1/OpenGVLab__InternVL2-8B/20251029_014914_samples_motion_analysis_bench.jsonl',
+        'output/internvl-nextqa-2/OpenGVLab__InternVL2-8B/20251029_015003_samples_motion_analysis_bench.jsonl',
+        'output/internvl-nextqa-3/OpenGVLab__InternVL2-8B/20251029_021315_samples_motion_analysis_bench.jsonl',
+        'output/internvl-nextqa-4/OpenGVLab__InternVL2-8B/20251029_021417_samples_motion_analysis_bench.jsonl',
+    ]
+    egoschema_files = [
+        'output/internvl-egoschema-1/OpenGVLab__InternVL2-8B/20251028_102841_samples_motion_analysis_bench.jsonl',
+        'output/internvl-egoschema-2/OpenGVLab__InternVL2-8B/20251028_225019_samples_motion_analysis_bench.jsonl',
+    ]
+
+    print('Collecting LVBench...')
+    lv_pairs = collect_results(lvbench_files, qid2gid, gid2motion)
+    print('Collecting NextQA...')
+    nq_pairs = collect_results(nextqa_files, qid2gid, gid2motion)
+    print('Collecting EgoSchema...')
+    ego_pairs = collect_results(egoschema_files, qid2gid, gid2motion)
+
+    lv_stats = compute_accuracy(lv_pairs)
+    nq_stats = compute_accuracy(nq_pairs)
+    ego_stats = compute_accuracy(ego_pairs)
+
+    # Prepare grouped bar chart: x groups = ['Short (NextQA)', 'Medium (EgoSchema)', 'Long (LVBench)']
+    groups = ['Short (NextQA)', 'Medium (EgoSchema)', 'Long (LVBench)']
+    motion_vals = [
+        nq_stats['motion'],
+        ego_stats['motion'],
+        lv_stats['motion'],
+    ]
+    non_motion_vals = [
+        nq_stats['non_motion'],
+        ego_stats['non_motion'],
+        lv_stats['non_motion'],
+    ]
+
+    # Create folder
+    out_dir = os.path.join('internvl-8b', 'comparison_results')
+    os.makedirs(out_dir, exist_ok=True)
+
+    # Plot
+    x = np.arange(len(groups))
+    width = 0.35
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+    rects1 = ax.bar(x - width/2, motion_vals, width, label='Motion', color='#4C78A8')
+    rects2 = ax.bar(x + width/2, non_motion_vals, width, label='Non-Motion', color='#F58518')
+
+    ax.set_ylabel('Accuracy')
+    ax.set_title('Accuracy by Duration Group and Motion Type')
+    ax.set_xticks(x, groups)
+    ax.set_ylim(0, 1)
+    ax.legend()
+
+    def autolabel(rects):
+        for rect in rects:
+            height = rect.get_height()
+            if np.isnan(height):
+                label = 'N/A'
+                height = 0
+                rect.set_height(0)
+                ax.text(rect.get_x() + rect.get_width()/2., 0.02, label,
+                        ha='center', va='bottom', fontsize=9, color='gray')
+            else:
+                ax.text(rect.get_x() + rect.get_width()/2., height + 0.02,
+                        f'{height*100:.1f}%', ha='center', va='bottom', fontsize=9)
+
+    autolabel(rects1)
+    autolabel(rects2)
+
+    fig.tight_layout()
+    out_path = os.path.join(out_dir, 'motion_nonmotion_accuracy_by_duration.png')
+    plt.savefig(out_path)
+    print(f'Saved {out_path}')
+
+
+if __name__ == '__main__':
+    main()
