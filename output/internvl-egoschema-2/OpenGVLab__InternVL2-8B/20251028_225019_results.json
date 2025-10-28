@@ -1,0 +1,164 @@
+{
+  "results": {
+    "motion_analysis_bench": {
+      "alias": "motion_analysis_bench",
+      "motion_analysis_bench_acc,none": {
+        "overall_acc": 61.2,
+        "by_question_type": {
+          "Reasoning": {
+            "num": 250,
+            "acc": 61.2
+          }
+        },
+        "by_duration_bucket": {
+          "medium": {
+            "num": 250,
+            "acc": 61.2
+          }
+        },
+        "by_motion_number": {
+          "Single": {
+            "num": 250,
+            "acc": 61.2
+          }
+        },
+        "by_timestamps_in_question": {
+          "N": {
+            "num": 250,
+            "acc": 61.2
+          }
+        },
+        "by_object_involved": {
+          "Y": {
+            "num": 250,
+            "acc": 61.2
+          }
+        },
+        "by_egocentric": {
+          "Y": {
+            "num": 250,
+            "acc": 61.2
+          }
+        }
+      },
+      "motion_analysis_bench_acc_stderr,none": "N/A"
+    }
+  },
+  "group_subtasks": {
+    "motion_analysis_bench": []
+  },
+  "configs": {
+    "motion_analysis_bench": {
+      "task": "motion_analysis_bench",
+      "tag": "video_qa",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": [
+            "/projects/aclab/shayda/vqa_benchmarks/egoschema_2.jsonl"
+          ]
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function motion_analysis_bench_doc_to_visual at 0x14a604be27a0>",
+      "doc_to_text": "<function motion_analysis_bench_doc_to_text at 0x14a60793a980>",
+      "doc_to_target": "answer",
+      "process_results": "<function motion_analysis_bench_process_results at 0x14a604bdf380>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "motion_analysis_bench_acc",
+          "aggregation": "<function motion_analysis_bench_aggregate_results at 0x14a604be05e0>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 1024,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      },
+      "lmms_eval_specific_kwargs": {
+        "default": {
+          "pre_prompt": "",
+          "post_prompt": "\nAnswer with the option's letter from the given choices directly."
+        },
+        "gpt4v": {
+          "pre_prompt": "",
+          "post_prompt": "Answer the question with A, B, C, D, or E."
+        },
+        "llava_vid": {
+          "pre_prompt": "",
+          "post_prompt": "The best answer is:"
+        },
+        "pre_prompt": "",
+        "post_prompt": "\nAnswer with the option's letter from the given choices directly."
+      }
+    }
+  },
+  "versions": {
+    "motion_analysis_bench": 0.1
+  },
+  "n-shot": {
+    "motion_analysis_bench": 0
+  },
+  "higher_is_better": {
+    "motion_analysis_bench": {
+      "motion_analysis_bench_acc": true
+    }
+  },
+  "n-samples": {
+    "motion_analysis_bench": {
+      "original": 250,
+      "effective": 250
+    }
+  },
+  "config": {
+    "model": "internvl2",
+    "model_args": "pretrained=OpenGVLab/InternVL2-8B,modality=video,num_frame=32",
+    "batch_size": "1",
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": "/projects/aclab/shayda/motion_understanding/lmms-eval/lmms_eval/.cache/sqlite_cache.db",
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": {
+      "max_new_tokens": 1024
+    },
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "79a4fa2",
+  "date": "20251028_225019",
+  "task_hashes": {
+    "motion_analysis_bench": "d4ed6432724e26cf37ee61eb23de4e0fa6f6288bc304ce2409b280a323f4e042"
+  },
+  "model_source": "internvl2",
+  "model_name": "OpenGVLab/InternVL2-8B",
+  "model_name_sanitized": "OpenGVLab__InternVL2-8B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 8278567.193550833,
+  "end_time": 8280049.876879124,
+  "total_evaluation_time_seconds": "1482.6833282914013"
+}

@@ -1,7 +1,6 @@
 **/.cache
 env
 *.pyc
-output/
 data/
 lm_cache
 .idea
@@ -45,7 +44,6 @@ lmms_eval/tasks/mlvu/__pycache__/utils.cpython-310.pyc
 scripts/
 .env
 .venv
-outputs/
 span.log
 uv.lock
 workspace/*
