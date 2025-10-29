@@ -81,7 +81,7 @@ def compute_accuracy(pairs: List[Tuple[bool, bool]]) -> Dict[str, float]:
 
 
 def main():
-    # Resolve data paths (prefer compiled_qa_data if available)
+    # Prefer compiled_qa_data
     qa_jsonl = 'compiled_qa_data/qa.jsonl' if os.path.exists('compiled_qa_data/qa.jsonl') else 'qa.jsonl'
     qa_labeled = 'compiled_qa_data/qa_data_labeled.json' if os.path.exists('compiled_qa_data/qa_data_labeled.json') else 'qa_data_labeled.json'
 
@@ -90,23 +90,40 @@ def main():
 
     # Auto-discover files for each benchmark
     lvbench_files = sorted(glob.glob('output/internvl-lvbench-*/OpenGVLab__InternVL2-8B/*.jsonl'))
+    longvideobench_files = sorted(glob.glob('output/internvl-longvideobench-*/OpenGVLab__InternVL2-8B/*.jsonl'))
     nextqa_files = sorted(glob.glob('output/internvl-nextqa-*/OpenGVLab__InternVL2-8B/*.jsonl'))
     egoschema_files = sorted(glob.glob('output/internvl-egoschema-*/OpenGVLab__InternVL2-8B/*.jsonl'))
 
     print('Collecting LVBench...')
     lv_pairs = collect_results(lvbench_files, qid2gid, gid2motion)
+    print('Collecting LongVideoBench...')
+    lvb_pairs = collect_results(longvideobench_files, qid2gid, gid2motion)
     print('Collecting NextQA...')
     nq_pairs = collect_results(nextqa_files, qid2gid, gid2motion)
     print('Collecting EgoSchema...')
     ego_pairs = collect_results(egoschema_files, qid2gid, gid2motion)
 
     lv_stats = compute_accuracy(lv_pairs)
+    lvb_stats = compute_accuracy(lvb_pairs)
     nq_stats = compute_accuracy(nq_pairs)
     ego_stats = compute_accuracy(ego_pairs)
 
-    groups = ['Short (NextQA)', 'Medium (EgoSchema)', 'Long (LVBench)']
-    motion_vals = [nq_stats['motion'], ego_stats['motion'], lv_stats['motion']]
-    non_motion_vals = [nq_stats['non_motion'], ego_stats['non_motion'], lv_stats['non_motion']]
+    groups = ['Short (NextQA)', 'Medium (EgoSchema)', 'Long (LVBench)', 'Long (LongVideoBench)']
+    motion_vals = [nq_stats['motion'], ego_stats['motion'], lv_stats['motion'], lvb_stats['motion']]
+    non_motion_vals = [nq_stats['non_motion'], ego_stats['non_motion'], lv_stats['non_motion'], lvb_stats['non_motion']]
+
+    # counts for labels
+    motion_correct = [nq_stats['motion_correct'], ego_stats['motion_correct'], lv_stats['motion_correct'], lvb_stats['motion_correct']]
+    motion_total = [nq_stats['motion_correct'] + nq_stats['motion_incorrect'],
+                    ego_stats['motion_correct'] + ego_stats['motion_incorrect'],
+                    lv_stats['motion_correct'] + lv_stats['motion_incorrect'],
+                    lvb_stats['motion_correct'] + lvb_stats['motion_incorrect']]
+
+    non_motion_correct = [nq_stats['non_motion_correct'], ego_stats['non_motion_correct'], lv_stats['non_motion_correct'], lvb_stats['non_motion_correct']]
+    non_motion_total = [nq_stats['non_motion_correct'] + nq_stats['non_motion_incorrect'],
+                        ego_stats['non_motion_correct'] + ego_stats['non_motion_incorrect'],
+                        lv_stats['non_motion_correct'] + lv_stats['non_motion_incorrect'],
+                        lvb_stats['non_motion_correct'] + lvb_stats['non_motion_incorrect']]
 
     out_dir = os.path.join('internvl-8b', 'comparison_results')
     os.makedirs(out_dir, exist_ok=True)
@@ -114,7 +131,7 @@ def main():
     x = np.arange(len(groups))
     width = 0.35
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(12, 6))
     rects1 = ax.bar(x - width/2, motion_vals, width, label='Motion', color='#4C78A8')
     rects2 = ax.bar(x + width/2, non_motion_vals, width, label='Non-Motion', color='#F58518')
 
@@ -124,21 +141,22 @@ def main():
     ax.set_ylim(0, 1)
     ax.legend()
 
-    def autolabel(rects):
-        for rect in rects:
+    def autolabel(rects, correct_counts, total_counts):
+        for idx, rect in enumerate(rects):
             height = rect.get_height()
-            if np.isnan(height):
+            total = total_counts[idx]
+            correct = correct_counts[idx]
+            if total == 0 or np.isnan(height):
                 label = 'N/A'
-                height = 0
-                rect.set_height(0)
-                ax.text(rect.get_x() + rect.get_width()/2., 0.02, label,
-                        ha='center', va='bottom', fontsize=9, color='gray')
+                y = 0.02
             else:
-                ax.text(rect.get_x() + rect.get_width()/2., height + 0.02,
-                        f'{height*100:.1f}%', ha='center', va='bottom', fontsize=9)
+                label = f'{correct}/{total}'
+                y = height + 0.02
+            ax.text(rect.get_x() + rect.get_width()/2., y, label,
+                    ha='center', va='bottom', fontsize=9)
 
-    autolabel(rects1)
-    autolabel(rects2)
+    autolabel(rects1, motion_correct, motion_total)
+    autolabel(rects2, non_motion_correct, non_motion_total)
 
     fig.tight_layout()
     out_path = os.path.join(out_dir, 'motion_nonmotion_accuracy_by_duration.png')
