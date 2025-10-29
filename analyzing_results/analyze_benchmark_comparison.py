@@ -1,5 +1,6 @@
 import json
 import os
+import glob
 from typing import Dict, List, Tuple
 
 import matplotlib.pyplot as plt
@@ -28,7 +29,6 @@ def load_global_id_to_motion(qa_labeled_path: str) -> Dict[str, bool]:
 
 
 def collect_results(files: List[str], qid2gid: Dict[str, str], gid2motion: Dict[str, bool]) -> List[Tuple[bool, bool]]:
-    # returns list of (correct, has_motion)
     out: List[Tuple[bool, bool]] = []
     for fp in files:
         if not os.path.exists(fp):
@@ -55,7 +55,6 @@ def collect_results(files: List[str], qid2gid: Dict[str, str], gid2motion: Dict[
 
 
 def compute_accuracy(pairs: List[Tuple[bool, bool]]) -> Dict[str, float]:
-    # returns dict with keys: overall, motion, non_motion and counts
     total = len(pairs)
     motion_pairs = [c for c in pairs if c[1] is True]
     non_motion_pairs = [c for c in pairs if c[1] is False]
@@ -82,26 +81,17 @@ def compute_accuracy(pairs: List[Tuple[bool, bool]]) -> Dict[str, float]:
 
 
 def main():
-    qid2gid = load_question_to_global_id('qa.jsonl')
-    gid2motion = load_global_id_to_motion('qa_data_labeled.json')
+    # Resolve data paths (prefer compiled_qa_data if available)
+    qa_jsonl = 'compiled_qa_data/qa.jsonl' if os.path.exists('compiled_qa_data/qa.jsonl') else 'qa.jsonl'
+    qa_labeled = 'compiled_qa_data/qa_data_labeled.json' if os.path.exists('compiled_qa_data/qa_data_labeled.json') else 'qa_data_labeled.json'
 
-    # Define files for each benchmark
-    lvbench_files = [
-        'output/internvl-lvbench-1/OpenGVLab__InternVL2-8B/20251028_232855_samples_motion_analysis_bench.jsonl',
-        'output/internvl-lvbench-2/OpenGVLab__InternVL2-8B/20251028_233849_samples_motion_analysis_bench.jsonl',
-        'output/internvl-lvbench-3/OpenGVLab__InternVL2-8B/20251029_005716_samples_motion_analysis_bench.jsonl',
-        'output/internvl-lvbench-4/OpenGVLab__InternVL2-8B/20251029_010159_samples_motion_analysis_bench.jsonl',
-    ]
-    nextqa_files = [
-        'output/internvl-nextqa-1/OpenGVLab__InternVL2-8B/20251029_014914_samples_motion_analysis_bench.jsonl',
-        'output/internvl-nextqa-2/OpenGVLab__InternVL2-8B/20251029_015003_samples_motion_analysis_bench.jsonl',
-        'output/internvl-nextqa-3/OpenGVLab__InternVL2-8B/20251029_021315_samples_motion_analysis_bench.jsonl',
-        'output/internvl-nextqa-4/OpenGVLab__InternVL2-8B/20251029_021417_samples_motion_analysis_bench.jsonl',
-    ]
-    egoschema_files = [
-        'output/internvl-egoschema-1/OpenGVLab__InternVL2-8B/20251028_102841_samples_motion_analysis_bench.jsonl',
-        'output/internvl-egoschema-2/OpenGVLab__InternVL2-8B/20251028_225019_samples_motion_analysis_bench.jsonl',
-    ]
+    qid2gid = load_question_to_global_id(qa_jsonl)
+    gid2motion = load_global_id_to_motion(qa_labeled)
+
+    # Auto-discover files for each benchmark
+    lvbench_files = sorted(glob.glob('output/internvl-lvbench-*/OpenGVLab__InternVL2-8B/*.jsonl'))
+    nextqa_files = sorted(glob.glob('output/internvl-nextqa-*/OpenGVLab__InternVL2-8B/*.jsonl'))
+    egoschema_files = sorted(glob.glob('output/internvl-egoschema-*/OpenGVLab__InternVL2-8B/*.jsonl'))
 
     print('Collecting LVBench...')
     lv_pairs = collect_results(lvbench_files, qid2gid, gid2motion)
@@ -114,24 +104,13 @@ def main():
     nq_stats = compute_accuracy(nq_pairs)
     ego_stats = compute_accuracy(ego_pairs)
 
-    # Prepare grouped bar chart: x groups = ['Short (NextQA)', 'Medium (EgoSchema)', 'Long (LVBench)']
     groups = ['Short (NextQA)', 'Medium (EgoSchema)', 'Long (LVBench)']
-    motion_vals = [
-        nq_stats['motion'],
-        ego_stats['motion'],
-        lv_stats['motion'],
-    ]
-    non_motion_vals = [
-        nq_stats['non_motion'],
-        ego_stats['non_motion'],
-        lv_stats['non_motion'],
-    ]
+    motion_vals = [nq_stats['motion'], ego_stats['motion'], lv_stats['motion']]
+    non_motion_vals = [nq_stats['non_motion'], ego_stats['non_motion'], lv_stats['non_motion']]
 
-    # Create folder
     out_dir = os.path.join('internvl-8b', 'comparison_results')
     os.makedirs(out_dir, exist_ok=True)
 
-    # Plot
     x = np.arange(len(groups))
     width = 0.35
 
