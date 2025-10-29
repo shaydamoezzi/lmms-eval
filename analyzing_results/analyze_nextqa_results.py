@@ -3,33 +3,35 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
+import glob
 from tqdm import tqdm
 
 
 def analyze_results():
+    # Resolve data paths (prefer compiled_qa_data if available)
+    qa_jsonl = 'compiled_qa_data/qa.jsonl' if os.path.exists('compiled_qa_data/qa.jsonl') else 'qa.jsonl'
+    qa_labeled = 'compiled_qa_data/qa_data_labeled.json' if os.path.exists('compiled_qa_data/qa_data_labeled.json') else 'qa_data_labeled.json'
+
     print("Creating question_id to global_id mapping from qa.jsonl...")
     question_id_to_global_id = {}
-    with open('qa.jsonl', 'r', encoding='utf-8') as f:
+    with open(qa_jsonl, 'r', encoding='utf-8') as f:
         for line in tqdm(f):
             data = json.loads(line)
             question_id_to_global_id[data['question_id']] = data['global_id']
-    print(f"Found {len(question_id_to_global_id)} mappings in qa.jsonl")
+    print(f"Found {len(question_id_to_global_id)} mappings in {qa_jsonl}")
 
     print("Creating global_id to has_motion mapping from qa_data_labeled.json...")
     global_id_to_has_motion = {}
-    with open('qa_data_labeled.json', 'r', encoding='utf-8') as f:
+    with open(qa_labeled, 'r', encoding='utf-8') as f:
         qa_data = json.load(f)
         for item in tqdm(qa_data):
             if 'global_id' in item and 'has_motion' in item:
                 global_id_to_has_motion[item['global_id']] = item['has_motion']
-    print(f"Found {len(global_id_to_has_motion)} mappings in qa_data_labeled.json")
+    print(f"Found {len(global_id_to_has_motion)} mappings in {qa_labeled}")
 
-    result_files = [
-        'output/internvl-nextqa-1/OpenGVLab__InternVL2-8B/20251029_014914_samples_motion_analysis_bench.jsonl',
-        'output/internvl-nextqa-2/OpenGVLab__InternVL2-8B/20251029_015003_samples_motion_analysis_bench.jsonl',
-        'output/internvl-nextqa-3/OpenGVLab__InternVL2-8B/20251029_021315_samples_motion_analysis_bench.jsonl',
-        'output/internvl-nextqa-4/OpenGVLab__InternVL2-8B/20251029_021417_samples_motion_analysis_bench.jsonl'
-    ]
+    # Auto-discover all NextQA result files
+    result_files = sorted(glob.glob('output/internvl-nextqa-*/OpenGVLab__InternVL2-8B/*.jsonl'))
+    print(f"Discovered {len(result_files)} NextQA result files")
 
     print("Processing result files...")
     results = []
@@ -84,12 +86,15 @@ def analyze_results():
 
     print("Generating visualizations...")
 
+    out_dir = os.path.join('internvl-8b', 'nextqa_results')
+    os.makedirs(out_dir, exist_ok=True)
+
     plt.figure(figsize=(8, 6))
     sns.countplot(x='correct', data=df)
     plt.title('NextQA: Overall Distribution of Correct and Incorrect Answers')
     plt.xlabel('Answer Correctness')
     plt.ylabel('Count')
-    plt.savefig('overall_distribution_nextqa.png')
+    plt.savefig(os.path.join(out_dir, 'overall_distribution_nextqa.png'))
 
     plt.figure(figsize=(10, 6))
     sns.countplot(x='has_motion', hue='correct', data=df)
@@ -98,7 +103,7 @@ def analyze_results():
     plt.ylabel('Count')
     plt.xticks(ticks=[0, 1], labels=['Non-Motion', 'Motion'])
     plt.legend(title='Correctness')
-    plt.savefig('motion_distribution_nextqa.png')
+    plt.savefig(os.path.join(out_dir, 'motion_distribution_nextqa.png'))
 
     accuracy_data = {
         'Category': ['Overall', 'Motion', 'Non-Motion'],
@@ -115,9 +120,9 @@ def analyze_results():
     plt.ylim(0, 1)
     for index, row in accuracy_df.iterrows():
         plt.text(row.name, row.Accuracy + 0.02, f"{row.Accuracy:.2%}", color='black', ha='center')
-    plt.savefig('accuracy_by_category_nextqa.png')
+    plt.savefig(os.path.join(out_dir, 'accuracy_by_category_nextqa.png'))
 
-    print("Saved overall_distribution_nextqa.png, motion_distribution_nextqa.png, accuracy_by_category_nextqa.png")
+    print("Saved NextQA figures into", out_dir)
 
 
 if __name__ == '__main__':
