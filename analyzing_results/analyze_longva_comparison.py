@@ -55,7 +55,6 @@ def collect_results(files: List[str], qid2gid: Dict[str, str], gid2motion: Dict[
 
 
 def collect_results_with_duration(files: List[str], qid2gid: Dict[str, str], gid2motion: Dict[str, bool]) -> List[Tuple[bool, bool, str]]:
-    # returns list of (correct, has_motion, duration_bucket)
     out: List[Tuple[bool, bool, str]] = []
     for fp in files:
         if not os.path.exists(fp):
@@ -109,34 +108,37 @@ def compute_accuracy(pairs: List[Tuple[bool, bool]]) -> Dict[str, float]:
 
 
 def main():
-    # Prefer compiled_qa_data
     qa_jsonl = 'compiled_qa_data/qa.jsonl' if os.path.exists('compiled_qa_data/qa.jsonl') else 'qa.jsonl'
     qa_labeled = 'compiled_qa_data/qa_data_labeled.json' if os.path.exists('compiled_qa_data/qa_data_labeled.json') else 'qa_data_labeled.json'
 
     qid2gid = load_question_to_global_id(qa_jsonl)
     gid2motion = load_global_id_to_motion(qa_labeled)
 
-    # Auto-discover files for each benchmark
-    lvbench_files = sorted(glob.glob('output/internvl-lvbench-*/OpenGVLab__InternVL2-8B/*.jsonl'))
-    longvideobench_files = sorted(glob.glob('output/internvl-longvideobench-*/OpenGVLab__InternVL2-8B/*.jsonl'))
-    nextqa_files = sorted(glob.glob('output/internvl-nextqa-*/OpenGVLab__InternVL2-8B/*.jsonl'))
-    egoschema_files = sorted(glob.glob('output/internvl-egoschema-*/OpenGVLab__InternVL2-8B/*.jsonl'))
+    # Discover LongVA result files
+    nextqa_files = sorted(glob.glob('output/longva-nextqa-*/**/*samples_motion_analysis_bench.jsonl'))
+    egoschema_files = sorted(glob.glob('output/longva-egoschema-*/**/*samples_motion_analysis_bench.jsonl'))
+    lvb_files = sorted(glob.glob('output/longva-longvideobench-*/**/*samples_motion_analysis_bench.jsonl'))
+    lv_files = sorted(glob.glob('output/longva-lvbench-*/**/*samples_motion_analysis_bench.jsonl'))
 
-    # Collect per-benchmark triplets
-    lv_triplets = [(c, m, 'long') for (c, m) in collect_results(lvbench_files, qid2gid, gid2motion)]
-    lvb_triplets = collect_results_with_duration(longvideobench_files, qid2gid, gid2motion)
     nq_triplets = [(c, m, 'short') for (c, m) in collect_results(nextqa_files, qid2gid, gid2motion)]
     ego_triplets = [(c, m, 'medium') for (c, m) in collect_results(egoschema_files, qid2gid, gid2motion)]
+    lvb_triplets = collect_results_with_duration(lvb_files, qid2gid, gid2motion)
+    lv_triplets = [(c, m, 'long') for (c, m) in collect_results(lv_files, qid2gid, gid2motion)]
 
-    # Compute stats for each explicit benchmark point
-    entries = [
-        ('Short - NextQA', nq_triplets),
-        ('Short - LVB-S', [(c, m, d) for (c, m, d) in lvb_triplets if d == 'short']),
-        ('Medium - EgoSchema', ego_triplets),
-        ('Medium - LVB-M', [(c, m, d) for (c, m, d) in lvb_triplets if d == 'medium']),
-        ('Long - LVB-L', [(c, m, d) for (c, m, d) in lvb_triplets if d == 'long']),
-        ('Long - LVBench', lv_triplets),
-    ]
+    # Ordered entries: include points if present
+    entries = []
+    if nq_triplets:
+        entries.append(('Short - NextQA', nq_triplets))
+    if any(d == 'short' for _, _, d in lvb_triplets):
+        entries.append(('Short - LVB-S', [(c, m, d) for (c, m, d) in lvb_triplets if d == 'short']))
+    if ego_triplets:
+        entries.append(('Medium - EgoSchema', ego_triplets))
+    if any(d == 'medium' for _, _, d in lvb_triplets):
+        entries.append(('Medium - LVB-M', [(c, m, d) for (c, m, d) in lvb_triplets if d == 'medium']))
+    if any(d == 'long' for _, _, d in lvb_triplets):
+        entries.append(('Long - LVB-L', [(c, m, d) for (c, m, d) in lvb_triplets if d == 'long']))
+    if lv_triplets:
+        entries.append(('Long - LVBench', lv_triplets))
 
     labels = [name for name, _ in entries]
     motion_vals = []
@@ -150,31 +152,29 @@ def main():
 
     x = np.arange(len(labels))
 
-    out_dir = os.path.join('internvl-8b', 'comparison_results')
+    out_dir = os.path.join('longva-7b', 'comparison_results')
     os.makedirs(out_dir, exist_ok=True)
 
-    plt.figure(figsize=(14, 6))
-    # Connect only finite points so lines do not break on NaN
-    motion_vals_np = np.array(motion_vals, dtype=float)
-    non_motion_vals_np = np.array(non_motion_vals, dtype=float)
+    plt.figure(figsize=(12, 5))
+    mv = np.array(motion_vals, dtype=float)
+    nmv = np.array(non_motion_vals, dtype=float)
+    mask_m = np.isfinite(mv)
+    mask_nm = np.isfinite(nmv)
 
-    mask_m = np.isfinite(motion_vals_np)
-    mask_nm = np.isfinite(non_motion_vals_np)
+    plt.plot(x[mask_m], mv[mask_m], marker='o', linewidth=2.5, color='#4C78A8', label='Motion')
+    plt.plot(x[mask_nm], nmv[mask_nm], marker='s', linewidth=2.5, color='#F58518', label='Non-Motion')
 
-    plt.plot(x[mask_m], motion_vals_np[mask_m], marker='o', linewidth=2.5, color='#4C78A8', label='Motion')
-    plt.plot(x[mask_nm], non_motion_vals_np[mask_nm], marker='s', linewidth=2.5, color='#F58518', label='Non-Motion')
-
-    plt.xticks(x, labels, rotation=25, ha='right')
+    plt.xticks(x, labels, rotation=20, ha='right')
     plt.ylim(0, 1)
     plt.ylabel('Accuracy')
-    plt.title('InternVL-2.0: QA Accuracy vs Video Duration (Motion vs Non-Motion)')
+    plt.title('LongVA-7B: QA Accuracy vs Video Duration (Motion vs Non-Motion)')
     plt.grid(alpha=0.25, linestyle='--')
     plt.legend()
     plt.tight_layout()
 
     out_path = os.path.join(out_dir, 'motion_nonmotion_accuracy_by_duration.png')
     plt.savefig(out_path, dpi=300)
-    print(f'Saved {out_path}')
+    print('Saved', out_path)
 
 
 if __name__ == '__main__':

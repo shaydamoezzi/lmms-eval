@@ -1,0 +1,5 @@
+category_id,category_name,correct,total,accuracy
+1,Change Detection,159,333,0.4775
+2,Interaction Recognition,37,61,0.6066
+3,Action Transition,81,148,0.5473
+5,Holistic Understanding of Events,141,264,0.5341
