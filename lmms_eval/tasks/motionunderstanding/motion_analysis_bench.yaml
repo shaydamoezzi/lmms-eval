@@ -4,7 +4,7 @@ dataset_path: json
 dataset_kwargs:
   data_files:
     test:
-      - /projects/aclab/shayda/vqa_benchmarks/nextqa/nextqa_remainder_part3.jsonl
+      - /projects/aclab/shayda/vqa_benchmarks/egoschema/egoschema_2.jsonl
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils.motion_analysis_bench_doc_to_visual
