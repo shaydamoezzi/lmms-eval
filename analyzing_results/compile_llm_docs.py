@@ -28,6 +28,7 @@ def load_question_metadata() -> Tuple[Dict[str, str], Dict[str, Dict]]:
                 'question': d.get('question'),
                 'options': d.get('options') or {},
                 'benchmark': d.get('benchmark'),
+                'duration_bucket': (d.get('duration_bucket') or ''),
             }
     return qid2gid, qid2meta
 
@@ -89,7 +90,8 @@ def render_markdown(entries: List[Tuple[str, Dict]], title: str) -> str:
         opts = p.get('options') or {}
         has_motion = p.get('has_motion')
         correct = p.get('correct')
-        lines.append(f"- **QID**: {qid} | **motion**: {'Y' if has_motion else 'N'} | **correct**: {correct}")
+        duration_bucket = (p.get('duration_bucket') or '').lower() or 'unknown'
+        lines.append(f"- **QID**: {qid} | **motion**: {'Y' if has_motion else 'N'} | **correct**: {correct} | **duration**: {duration_bucket}")
         lines.append("")
         lines.append(f"  - **Question**: {q}")
         if isinstance(opts, dict):
@@ -120,6 +122,7 @@ def write_docs_for_model(model_prefix: str, out_base_dir: str) -> None:
             'benchmark': meta.get('benchmark'),
             'has_motion': bool(has_motion) if has_motion is not None else False,
             'correct': bool(correct),
+            'duration_bucket': meta.get('duration_bucket'),
         }
 
     # Partition

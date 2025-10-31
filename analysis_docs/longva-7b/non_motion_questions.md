@@ -1,6 +1,6 @@
 ### LONGVA: Non-Motion Questions
 
-- **QID**: -QSAotqKqX8_0 | **motion**: N | **correct**: False
+- **QID**: -QSAotqKqX8_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: How many women appear in the video in total?
   - A. 4 women
@@ -9,7 +9,7 @@
   - D. 1 woman
   - E. 3 women
 
-- **QID**: -Xg2-SUq6wo_0 | **motion**: N | **correct**: True
+- **QID**: -Xg2-SUq6wo_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A man appears in a studio. The man is wearing a black suit and a white shirt. He has glasses on and his hands are crossed. Behind the man on the screen is a nighttime city view. When the subtitle 'direction rather than total loss of' appears, what object is present in the studio?
   - A. watch
@@ -18,7 +18,7 @@
   - D. potted plant
   - E. necklace
 
-- **QID**: -Xg2-SUq6wo_1 | **motion**: N | **correct**: False
+- **QID**: -Xg2-SUq6wo_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A woman appears in the broadcast room, wearing a dark top and a watch. She is holding a pen in one hand, drawing something. The screen behind her shows a nighttime cityscape. When the subtitle 'investigations can kick off properly but' appears, what object is present in the broadcast room?
   - A. necklace
@@ -27,7 +27,7 @@
   - D. microphone
   - E. desk lamp
 
-- **QID**: -iCLYpeghJs_0 | **motion**: N | **correct**: True
+- **QID**: -iCLYpeghJs_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In front of a white tiled wallpaper with icy and sweet candy circles, there are two men standing side by side, one wearing short sleeves and the other holding a remote control wearing long sleeves. When the phrase 'tlicking topping motion is that how you' is mentioned, how are their clothes described?
   - A. The man on the left is wearing light red short sleeves, and the man on the right is wearing a white long sleeve.
@@ -35,7 +35,7 @@
   - C. The man on the right is wearing light red short sleeves, and the man on the left is wearing a black long sleeve.
   - D. The man on the left is wearing light red short sleeves, and the man on the right is wearing a black long sleeve.
 
-- **QID**: -kaF6SnSEo8_0 | **motion**: N | **correct**: True
+- **QID**: -kaF6SnSEo8_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: When a man wearing a red shirt with white stripes and a man wearing a white short-sleeve shirt with red and blue patterns appear in the video, which item are they both wearing?
   - A. The man in the white shirt is wearing black-framed glasses, while the man in the red shirt is not
@@ -43,7 +43,7 @@
   - C. The man in the red shirt is wearing black-framed glasses, while the man in the white shirt is not
   - D. The man in the red shirt is wearing an orange scarf, while the man in the white shirt is not
 
-- **QID**: -kaF6SnSEo8_1 | **motion**: N | **correct**: False
+- **QID**: -kaF6SnSEo8_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: When a pie chart representing the Czech Ethnicity appears in the video, with blue occupying the largest portion, red being the second, and light green the least, which of the following sentences is displayed on the screen?
   - A. 25% "Unspecified"
@@ -51,7 +51,7 @@
   - C. 95% Czech
   - D. 38% Czech
 
-- **QID**: 0 | **motion**: N | **correct**: True
+- **QID**: 0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: what does the girl hold onto while riding the seat at the start
   - A. hold onto boy
@@ -60,7 +60,7 @@
   - D. front of seat
   - E. put hands on head
 
-- **QID**: 0up5NxTiGZE_0 | **motion**: N | **correct**: True
+- **QID**: 0up5NxTiGZE_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a house built of wooden planks, there is a brown sheep eating something. A man in a black coat is petting it. Where else has this sheep appeared?
   - A. In front of a wooden table under a thatched roof
@@ -69,7 +69,7 @@
   - D. In a park
   - E. On the roof
 
-- **QID**: 0up5NxTiGZE_1 | **motion**: N | **correct**: True
+- **QID**: 0up5NxTiGZE_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Above a circular stove burning with red flames, a person is holding a cleaned and dried chicken, roasting it on the stove. Where else has this chicken appeared?
   - A. In the refrigerator
@@ -78,7 +78,7 @@
   - D. On the snow-covered ground
   - E. In a sheep pen
 
-- **QID**: 1 | **motion**: N | **correct**: False
+- **QID**: 1 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: why do the people wear coats
   - A. formal business event
@@ -87,7 +87,7 @@
   - D. it is cold
   - E. experimenting with chemicals
 
-- **QID**: 10 | **motion**: N | **correct**: True
+- **QID**: 10 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: what did the man do with the foam
   - A. rub on his hands
@@ -96,7 +96,7 @@
   - D. take a picture
   - E. blow it in the air
 
-- **QID**: 1069 | **motion**: N | **correct**: True
+- **QID**: 1069 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color watch do respondents wearing blue short sleeves and glasses wear?
   - A. Golden
@@ -104,7 +104,7 @@
   - C. Red
   - D. Blue
 
-- **QID**: 1070 | **motion**: N | **correct**: True
+- **QID**: 1070 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color hats do children wearing yellow short sleeves wear?
   - A. Black
@@ -112,7 +112,7 @@
   - C. Blue
   - D. Red
 
-- **QID**: 1076 | **motion**: N | **correct**: True
+- **QID**: 1076 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is hanging around the neck of the girl observing birds in the forest in the video?
   - A. Telescope
@@ -120,7 +120,7 @@
   - C. Watercup
   - D. Camera
 
-- **QID**: 1077 | **motion**: N | **correct**: False
+- **QID**: 1077 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What animal is this at 42:00?
   - A. Horse
@@ -128,7 +128,7 @@
   - C. Bird
   - D. Chicken
 
-- **QID**: 1080 | **motion**: N | **correct**: False
+- **QID**: 1080 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What animal is shown in the scene that follows the scene Karen Sim submits a sighting photo and earns a badge on the phone?
   - A. Whale
@@ -136,7 +136,7 @@
   - C. Lizard
   - D. Hippo
 
-- **QID**: 1082 | **motion**: N | **correct**: False
+- **QID**: 1082 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the device that Mark Wong wears to monitor his health?
   - A. Black
@@ -144,7 +144,7 @@
   - C. Red
   - D. Yellow
 
-- **QID**: 11 | **motion**: N | **correct**: True
+- **QID**: 11 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: what does the lady do after approaching the vase
   - A. take the music script
@@ -153,7 +153,7 @@
   - D. dance
   - E. pass the ipad
 
-- **QID**: 1113 | **motion**: N | **correct**: True
+- **QID**: 1113 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What kind of Mercedes-Benz car is this black one?
   - A. Maybach
@@ -161,7 +161,7 @@
   - C. C class
   - D. E class
 
-- **QID**: 1126 | **motion**: N | **correct**: True
+- **QID**: 1126 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the main color of the car interior?
   - A. Purple
@@ -169,7 +169,7 @@
   - C. Red
   - D. Blue
 
-- **QID**: 113 | **motion**: N | **correct**: False
+- **QID**: 113 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the scene at the begining?
   - A. White
@@ -177,7 +177,7 @@
   - C. Brown
   - D. Grey
 
-- **QID**: 1132 | **motion**: N | **correct**: True
+- **QID**: 1132 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the serial number of the car that Samir Boulahya works on?
   - A. 24
@@ -185,7 +185,7 @@
   - C. 12
   - D. 120
 
-- **QID**: 1135 | **motion**: N | **correct**: False
+- **QID**: 1135 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What's this man's expression like at 06:01?
   - A. Numb
@@ -193,7 +193,7 @@
   - C. Angry
   - D. Laugh
 
-- **QID**: 1136 | **motion**: N | **correct**: False
+- **QID**: 1136 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What does this documentary mainly introduce?
   - A. Introducing BRABUS's modification of BMW cars. This video records the process of BRABUS's modification of Mercedes Benz E Class
@@ -201,7 +201,7 @@
   - C. Introducing BRABUS's modification of Mercedes-Benz cars. This video records the process of BRABUS's modification of Mercedes Benz E Class
   - D. Introducing BRABUS's modification of Mercedes-Benz cars. This video records the process of BRABUS's modification of Mercedes Benz G Class
 
-- **QID**: 1137 | **motion**: N | **correct**: False
+- **QID**: 1137 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the steering wheel?
   - A. White
@@ -209,7 +209,7 @@
   - C. Black
   - D. Blue
 
-- **QID**: 1227 | **motion**: N | **correct**: False
+- **QID**: 1227 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many flags of the Russian Federation are there on the stage when Putin delivers the first speech?
   - A. 5
@@ -217,7 +217,7 @@
   - C. 9
   - D. 4
 
-- **QID**: 1229 | **motion**: N | **correct**: True
+- **QID**: 1229 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color is Putin's tie between the interview with Antony Blinkoen and interview with Marie Yovanovitch?
   - A. Blue
@@ -225,7 +225,7 @@
   - C. Wine red
   - D. White
 
-- **QID**: 1234 | **motion**: N | **correct**: True
+- **QID**: 1234 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: When Putin spoke for the first time in the video, how many microphones were on the stage?
   - A. 4
@@ -233,7 +233,7 @@
   - C. 2
   - D. 1
 
-- **QID**: 1240 | **motion**: N | **correct**: False
+- **QID**: 1240 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many microphones are on stage during Donald Trump's speech?
   - A. 3
@@ -241,7 +241,7 @@
   - C. 0
   - D. 1
 
-- **QID**: 1241 | **motion**: N | **correct**: False
+- **QID**: 1241 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color of coat does Melania Trump wear for the meeting that is hosted at Helsinki, Finland?
   - A. Green
@@ -249,7 +249,7 @@
   - C. Bright red
   - D. Yellow
 
-- **QID**: 1247 | **motion**: N | **correct**: True
+- **QID**: 1247 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the number on the tank can be seen, with two tanks appear in front of it, in the snow?
   - A. 321
@@ -257,7 +257,7 @@
   - C. 132
   - D. 312
 
-- **QID**: 1249 | **motion**: N | **correct**: True
+- **QID**: 1249 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Which country's flag is on the flagpole on the top of the building with gold clock?
   - A. Russian Federation
@@ -265,7 +265,7 @@
   - C. Ukraine
   - D. France
 
-- **QID**: 13 | **motion**: N | **correct**: True
+- **QID**: 13 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: how did the baby react to the camera approaching him
   - A. stick tongue out
@@ -274,7 +274,7 @@
   - D. shy
   - E. smile
 
-- **QID**: 132 | **motion**: N | **correct**: False
+- **QID**: 132 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where do the man and the woman sit at where the woman is eating a pear?
   - A. A river
@@ -282,7 +282,7 @@
   - C. A street corner
   - D. A park bench
 
-- **QID**: 15 | **motion**: N | **correct**: False
+- **QID**: 15 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What year is written on the first cake appears in the video?
   - A. 1942
@@ -290,7 +290,7 @@
   - C. 1949
   - D. 1943
 
-- **QID**: 1558 | **motion**: N | **correct**: True
+- **QID**: 1558 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Who are the main individuals featured in this video?
   - A. Jane Mayer
@@ -298,7 +298,7 @@
   - C. Matt Apuzzo
   - D. Donald John Trump
 
-- **QID**: 1562 | **motion**: N | **correct**: False
+- **QID**: 1562 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What object is in front of the J. Edgar Hoover FBI Building sign?
   - A. A mirror
@@ -306,7 +306,7 @@
   - C. A camera
   - D. A car
 
-- **QID**: 1567 | **motion**: N | **correct**: False
+- **QID**: 1567 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the headline of the second news report?
   - A. Trump team needs to treat Russia as a serious issue
@@ -314,7 +314,7 @@
   - C. Sessions Controversy Heightens Trump's Feeling of Being UnderSiege
   - D. Why Trump's attorney general has come under fire for earlier contaects
 
-- **QID**: 1569 | **motion**: N | **correct**: False
+- **QID**: 1569 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which direction does Don Mcgahn look at in the black and white picture that has a portrait behind his back?
   - A. He is looking at his left
@@ -322,7 +322,7 @@
   - C. He is looking at the ceiling
   - D. He is looking at the floor
 
-- **QID**: 1570 | **motion**: N | **correct**: False
+- **QID**: 1570 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Why two sentences have red underlines on two different documents?
   - A. To highlight the central theme of the documentary, serving as a thematic anchor
@@ -330,7 +330,7 @@
   - C. As evidence presented in a court trial
   - D. To visually emphasize the theme of the two documents
 
-- **QID**: 1576 | **motion**: N | **correct**: False
+- **QID**: 1576 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is in the center of the table?
   - A. A circle of white dotted patterns
@@ -338,7 +338,7 @@
   - C. A circle of white name tags
   - D. A circle of white government documents
 
-- **QID**: 1938 | **motion**: N | **correct**: False
+- **QID**: 1938 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where is the podium located, respective to the people on the stage?
   - A. There is no rostrum
@@ -346,7 +346,7 @@
   - C. In the middle of the stage
   - D. Left side of the stage
 
-- **QID**: 1944 | **motion**: N | **correct**: False
+- **QID**: 1944 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where are the Nobel laureates in physiology or medicine come from?
   - A. Americans
@@ -354,7 +354,7 @@
   - C. Japanese
   - D. Norwegian
 
-- **QID**: 1945 | **motion**: N | **correct**: True
+- **QID**: 1945 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What kind of clothes do winners of the Nobel Prize in Physiology or Medicine wear?
   - A. Black suit
@@ -362,7 +362,7 @@
   - C. Kimono
   - D. Men's tuxedo
 
-- **QID**: 1948 | **motion**: N | **correct**: False
+- **QID**: 1948 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color are the stools on which the four members of the royal family sit?
   - A. Blue and gold
@@ -370,7 +370,7 @@
   - C. White and gold
   - D. Red and gold
 
-- **QID**: 1955 | **motion**: N | **correct**: True
+- **QID**: 1955 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color is the ribbon on the man who accompanied the first winner of the Nobel Prize in Physics?
   - A. White and green
@@ -378,7 +378,7 @@
   - C. Yellow and white
   - D. Blue and white
 
-- **QID**: 1957 | **motion**: N | **correct**: True
+- **QID**: 1957 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color is the bow tie worn by the man who presided over the Nobel Prize in Chemistry?
   - A. Red bow tie
@@ -386,7 +386,7 @@
   - C. White bow tie
   - D. Blue bow tie
 
-- **QID**: 1958 | **motion**: N | **correct**: False
+- **QID**: 1958 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many female winners are there in this Nobel Prize?
   - A. Only one woman won the prize this year
@@ -394,7 +394,7 @@
   - C. Two women won the prize this year
   - D. No women have won prizes this year
 
-- **QID**: 1959 | **motion**: N | **correct**: True
+- **QID**: 1959 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What kind of awards have two winners?
   - A. Nobel Prize in Literature
@@ -402,7 +402,7 @@
   - C. Nobel Peace Prize
   - D. Nobel Memorial Prize in Economic Sciences
 
-- **QID**: 1961 | **motion**: N | **correct**: False
+- **QID**: 1961 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where is the woman in a blue dress sitting on the right side of the podium?
   - A. Last row
@@ -410,7 +410,7 @@
   - C. First row
   - D. Second row
 
-- **QID**: 1964 | **motion**: N | **correct**: False
+- **QID**: 1964 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many hosts didn't wear any badges on their chests?
   - A. 4
@@ -418,7 +418,7 @@
   - C. 1
   - D. 8
 
-- **QID**: 1967 | **motion**: N | **correct**: False
+- **QID**: 1967 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where is the harp player, respective to the people on the stage?
   - A. Right side of stage
@@ -426,7 +426,7 @@
   - C. On the left side of the stage
   - D. Second floor on the right
 
-- **QID**: 1D9TgBrW6Sw_1 | **motion**: N | **correct**: False
+- **QID**: 1D9TgBrW6Sw_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the middle of the screen, there is a man wearing black clothes and a black hat talking to a man wearing a gray coat. On the left side, there is a man wearing a windbreaker. In the video, which subtitle appears along with the man wearing a black hat?
   - A. (SINGING) Don't settle for some of the taste some of the time
@@ -434,7 +434,7 @@
   - C. heart disease, and birth defects including
   - D. I know every inch of the 707.
 
-- **QID**: 1D9TgBrW6Sw_2 | **motion**: N | **correct**: False
+- **QID**: 1D9TgBrW6Sw_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the scene where a man in a red and white striped long-sleeve shirt is on the left side of the room and a man in a blue long-sleeve shirt is on the right side, which subtitle does the man in the red and white striped shirt appear with?
   - A. heart disease,and birth defects including
@@ -442,7 +442,7 @@
   - C. I'm OK.
   - D. You won't be sorry.
 
-- **QID**: 1IpgyV9u5nE_0 | **motion**: N | **correct**: True
+- **QID**: 1IpgyV9u5nE_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The sky is already late, a man under a dim yellow streetlamp with his right hand slightly clenched is looking at a mirror. What clothes is he wearing?
   - A. He is wearing a red top
@@ -450,7 +450,7 @@
   - C. Wearing a light yellow windbreaker
   - D. Wearing a light yellow top
 
-- **QID**: 1R5uPaL0V-0_0 | **motion**: N | **correct**: False
+- **QID**: 1R5uPaL0V-0_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the scene, a man is conversing with a woman. They are seated in a colorful room with plants and colorful curtains. The man is sitting on a white chair, and the woman is sitting on a sofa, holding a pillow. The man is wearing a round-neck T-shirt, and the woman is dressed in pink. Both have black hair. What type of outfit is the woman wearing?
   - A. coat
@@ -459,7 +459,7 @@
   - D. sweater
   - E. shirt
 
-- **QID**: 1R5uPaL0V-0_1 | **motion**: N | **correct**: True
+- **QID**: 1R5uPaL0V-0_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: The person on the screen is a black-haired man wearing a T-shirt and a black scarf. He is in a white kitchen, with a stove behind him. On the stove, there are some cylinders and tools, as well as transparent bottles and various other items. In front of the man, there is a countertop with a cutting board and a metal tray containing a large sushi roll. The man is holding a yellow model of a boat. What material is this boat made of?
   - A. plastic
@@ -468,7 +468,7 @@
   - D. stainless steel
   - E. glass
 
-- **QID**: 1R5uPaL0V-0_2 | **motion**: N | **correct**: True
+- **QID**: 1R5uPaL0V-0_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: The screen shows a woman in a pink outfit holding a bun filled with some meat and vegetables. She also has a spoon in her hand with some sauce on it, which she pours onto the bun. The background is blurry, and there is a cute white design on her outfit. In front of the camera, there are some green avocados. What color is the sauce that the woman pours?
   - A. pink
@@ -477,7 +477,7 @@
   - D. yellow
   - E. green
 
-- **QID**: 1vvYsirvA2I_1 | **motion**: N | **correct**: False
+- **QID**: 1vvYsirvA2I_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the video, a white-ringed vegetable is being cut with a knife on a wooden cutting board. What is this vegetable that is being cut?
   - A. Apple
@@ -486,7 +486,7 @@
   - D. Radish
   - E. Pumpkin
 
-- **QID**: 21 | **motion**: N | **correct**: False
+- **QID**: 21 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What year is written on the second cake appears in the video?
   - A. 1944
@@ -494,7 +494,7 @@
   - C. 1945
   - D. 1943
 
-- **QID**: 2370 | **motion**: N | **correct**: True
+- **QID**: 2370 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color is the prince's belt?
   - A. Pink
@@ -502,7 +502,7 @@
   - C. Black
   - D. White
 
-- **QID**: 2381 | **motion**: N | **correct**: True
+- **QID**: 2381 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What words are written in the background for an event that involves a group of princesses or royal girls?
   - A. The contest
@@ -510,7 +510,7 @@
   - C. The conceal
   - D. The competition
 
-- **QID**: 2394 | **motion**: N | **correct**: False
+- **QID**: 2394 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What crutch is the man in the cloak holding?
   - A. Tiger head walking stick
@@ -518,7 +518,7 @@
   - C. Sheep head walking stick
   - D. Cobra crutch
 
-- **QID**: 2398 | **motion**: N | **correct**: False
+- **QID**: 2398 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color pants are the first woman dancing on stage wearing?
   - A. Blue
@@ -526,7 +526,7 @@
   - C. Green
   - D. Black
 
-- **QID**: 2411 | **motion**: N | **correct**: False
+- **QID**: 2411 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: When the Buddha statue appears, how many people are next to it?
   - A. 2
@@ -534,7 +534,7 @@
   - C. 1
   - D. 4
 
-- **QID**: 252 | **motion**: N | **correct**: False
+- **QID**: 252 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many doors have colored lights at 00:29?
   - A. 2
@@ -542,7 +542,7 @@
   - C. 3
   - D. 0
 
-- **QID**: 2561 | **motion**: N | **correct**: True
+- **QID**: 2561 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the planet hanging on the stage background?
   - A. Sun
@@ -550,7 +550,7 @@
   - C. Moon
   - D. Mars
 
-- **QID**: 2565 | **motion**: N | **correct**: False
+- **QID**: 2565 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What kind of hat does the little boy wear?
   - A. Cowboy hat
@@ -558,7 +558,7 @@
   - C. Baseball cap
   - D. Top hat
 
-- **QID**: 2573 | **motion**: N | **correct**: True
+- **QID**: 2573 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color skirts do cats holding white fans wear?
   - A. Blue
@@ -566,7 +566,7 @@
   - C. Black
   - D. Red
 
-- **QID**: 258 | **motion**: N | **correct**: True
+- **QID**: 258 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What are the patterns on the shawls of Kings and queens?
   - A. Heart pattern
@@ -574,7 +574,7 @@
   - C. Star pattern
   - D. Fruit pattern
 
-- **QID**: 2580 | **motion**: N | **correct**: True
+- **QID**: 2580 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What letter is on the black board placed on the second floor of the background?
   - A. Matches
@@ -582,7 +582,7 @@
   - C. Fire
   - D. Stop
 
-- **QID**: 259 | **motion**: N | **correct**: True
+- **QID**: 259 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color are the teeth in the middle of the green dragon?
   - A. Yellow
@@ -590,7 +590,7 @@
   - C. Brown
   - D. Faint yellow
 
-- **QID**: 26 | **motion**: N | **correct**: True
+- **QID**: 26 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Which platform does the video stream on first?
   - A. Tencent
@@ -598,7 +598,7 @@
   - C. Youtube
   - D. Twitch
 
-- **QID**: 2651 | **motion**: N | **correct**: False
+- **QID**: 2651 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which objects appears at 16:46?
   - A. A barbecue grill
@@ -606,7 +606,7 @@
   - C. A book
   - D. A keyboard
 
-- **QID**: 2654 | **motion**: N | **correct**: True
+- **QID**: 2654 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the first warn on the warning sign in the volcano skali?
   - A. Do not walk on the lava
@@ -614,7 +614,7 @@
   - C. Do not throw anything at the lava
   - D. Do not make carvings on the lava
 
-- **QID**: 2674 | **motion**: N | **correct**: False
+- **QID**: 2674 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the door of the national monument in the video?
   - A. Dark blue
@@ -622,7 +622,7 @@
   - C. Green
   - D. Black
 
-- **QID**: 2680 | **motion**: N | **correct**: True
+- **QID**: 2680 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the color of the vlogger's sunglasses frame?
   - A. Orange
@@ -630,7 +630,7 @@
   - C. Black
   - D. Blue
 
-- **QID**: 2731 | **motion**: N | **correct**: False
+- **QID**: 2731 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many percentage of the land is covered in forest mentioned in the video?
   - A. 60
@@ -638,7 +638,7 @@
   - C. 40
   - D. 50
 
-- **QID**: 2741 | **motion**: N | **correct**: False
+- **QID**: 2741 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the best word that describes the local market?
   - A. Historic
@@ -646,7 +646,7 @@
   - C. Chaotic
   - D. Fancy
 
-- **QID**: 2747 | **motion**: N | **correct**: True
+- **QID**: 2747 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What might be the most common type of grain in this city?
   - A. Wheat
@@ -654,7 +654,7 @@
   - C. Rice
   - D. Bread
 
-- **QID**: 2750 | **motion**: N | **correct**: True
+- **QID**: 2750 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color of the jacket does Sophia wear when she sees the crane status?
   - A. Pink
@@ -662,7 +662,7 @@
   - C. White
   - D. Blue
 
-- **QID**: 2753 | **motion**: N | **correct**: False
+- **QID**: 2753 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Who is the owner of Gourment Conch Salad?
   - A. Dino
@@ -670,7 +670,7 @@
   - C. Conny
   - D. Sonny
 
-- **QID**: 2754 | **motion**: N | **correct**: True
+- **QID**: 2754 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Which animal appears at 00:07?
   - A. Manatee
@@ -678,7 +678,7 @@
   - C. Lobster
   - D. Clownfish
 
-- **QID**: 2756 | **motion**: N | **correct**: False
+- **QID**: 2756 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which animal does the vlogger hold on a boat?
   - A. Starfish
@@ -686,7 +686,7 @@
   - C. Lobster
   - D. Conch
 
-- **QID**: 2759 | **motion**: N | **correct**: True
+- **QID**: 2759 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the name of the vlogger?
   - A. Sonny
@@ -694,7 +694,7 @@
   - C. Jonny
   - D. Conny
 
-- **QID**: 2769 | **motion**: N | **correct**: True
+- **QID**: 2769 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What does the vlogger wear?
   - A. An earring
@@ -702,7 +702,7 @@
   - C. A ring
   - D. A headband
 
-- **QID**: 2778 | **motion**: N | **correct**: False
+- **QID**: 2778 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Who is Shay?
   - A. The chef of the Captain's table
@@ -710,7 +710,7 @@
   - C. The food expert who makes the video
   - D. The chef of the Frankie Gone Bananas
 
-- **QID**: 278 | **motion**: N | **correct**: True
+- **QID**: 278 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What festival are they celebrating?
   - A. Mid-Autumn Festival
@@ -718,7 +718,7 @@
   - C. All Saints' Day
   - D. Valentine's day
 
-- **QID**: 2780 | **motion**: N | **correct**: False
+- **QID**: 2780 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the name of MT. Pleasant Fishing Lodge's chef?
   - A. Amber
@@ -726,7 +726,7 @@
   - C. Jupy
   - D. Emerson
 
-- **QID**: 279 | **motion**: N | **correct**: False
+- **QID**: 279 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is on the green dragon at 27:08?
   - A. Black scarf
@@ -734,7 +734,7 @@
   - C. Green scarf
   - D. Yellow scarf
 
-- **QID**: 2790 | **motion**: N | **correct**: True
+- **QID**: 2790 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How many pictures of food are on the menu at 17:49?
   - A. 6
@@ -742,7 +742,7 @@
   - C. 11
   - D. 10
 
-- **QID**: 28 | **motion**: N | **correct**: False
+- **QID**: 28 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Does the protagonist wear a pair of glasses in the video?
   - A. No
@@ -750,7 +750,7 @@
   - C. Yes, all the time
   - D. Yes, most of the time
 
-- **QID**: 2804 | **motion**: N | **correct**: False
+- **QID**: 2804 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where is the vlogger when it comes to day 6?
   - A. Masan
@@ -758,7 +758,7 @@
   - C. Muan
   - D. Busan
 
-- **QID**: 2805 | **motion**: N | **correct**: False
+- **QID**: 2805 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where is the vlogger at when there is gondola above him?
   - A. On a beach
@@ -766,7 +766,7 @@
   - C. In a mountain
   - D. At an amusement park
 
-- **QID**: 2819 | **motion**: N | **correct**: True
+- **QID**: 2819 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the best word that describes Tokyo's night view?
   - A. Dark
@@ -774,7 +774,7 @@
   - C. Bright white
   - D. Sparkling
 
-- **QID**: 2827 | **motion**: N | **correct**: False
+- **QID**: 2827 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What are the items sold in the bookoff that the vlogger went to?
   - A. Book, Handmade, switch, DVDs, MP3
@@ -782,7 +782,7 @@
   - C. Book, phone, switch, DVDs
   - D. Book, phone, switch, trinkets, cards
 
-- **QID**: 2832 | **motion**: N | **correct**: False
+- **QID**: 2832 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which floor is the bookoff on?
   - A. 4
@@ -790,7 +790,7 @@
   - C. 3
   - D. 6
 
-- **QID**: 2958 | **motion**: N | **correct**: False
+- **QID**: 2958 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the highest percentage of the country's respondents who experienced anger on the day previous to the survey?
   - A. 48%
@@ -798,7 +798,7 @@
   - C. 53%
   - D. 49%
 
-- **QID**: 2965 | **motion**: N | **correct**: True
+- **QID**: 2965 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the discount on the vlogger's merchandise?
   - A. 50% off
@@ -806,7 +806,7 @@
   - C. 20% off
   - D. 40% off
 
-- **QID**: 2975 | **motion**: N | **correct**: True
+- **QID**: 2975 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the attitudes of people living in Lebanon towards life?
   - A. They think their life are meaningless
@@ -814,7 +814,7 @@
   - C. They are hopeless about their life
   - D. They are angry about their life
 
-- **QID**: 2982 | **motion**: N | **correct**: False
+- **QID**: 2982 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Who is Staffan's roommate?
   - A. Christ
@@ -822,7 +822,7 @@
   - C. Ammar
   - D. No roommate
 
-- **QID**: 3 | **motion**: N | **correct**: False
+- **QID**: 3 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: where does the water come from
   - A. jungle
@@ -831,7 +831,7 @@
   - D. water tap
   - E. sink
 
-- **QID**: 3180 | **motion**: N | **correct**: False
+- **QID**: 3180 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the name of the coffee shop behind the road that appears at 49:50?
   - A. Starbrooklyn coffee
@@ -839,7 +839,7 @@
   - C. Starbucks coffee
   - D. Starboom coffee
 
-- **QID**: 3182 | **motion**: N | **correct**: False
+- **QID**: 3182 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which kid has a little sister?
   - A. Boss Baby
@@ -847,7 +847,7 @@
   - C. Pablo
   - D. Masha
 
-- **QID**: 3183 | **motion**: N | **correct**: False
+- **QID**: 3183 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What are the words that appear in the top left corner of the screen at 71:00?
   - A. Comment "BIKE" if you see this!
@@ -855,7 +855,7 @@
   - C. Comment "LIKE" if you see this!
   - D. Comment "NIKE" if you see this!
 
-- **QID**: 3184 | **motion**: N | **correct**: False
+- **QID**: 3184 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the main content discussed from 73:13-73:31?
   - A. Memories kids have about Janice, who did something bad in the past
@@ -863,7 +863,7 @@
   - C. Memories kids have about Pablo, who did something nice in the past
   - D. Memories kids have about JJ, who did something nice in the past
 
-- **QID**: 3335 | **motion**: N | **correct**: False
+- **QID**: 3335 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What vegetables are in the first burger?
   - A. Peppers and lettuce
@@ -871,7 +871,7 @@
   - C. Onions and tomatos
   - D. Tomatos and lettuce
 
-- **QID**: 3339 | **motion**: N | **correct**: True
+- **QID**: 3339 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What type of sauce does the label indicate on the second bottle that is closest to the view?
   - A. Barbecue Sauce
@@ -879,7 +879,7 @@
   - C. Sweet chili sauce
   - D. Mustard
 
-- **QID**: 3357 | **motion**: N | **correct**: True
+- **QID**: 3357 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color is the rubber part of the tong?
   - A. Navy blue
@@ -887,7 +887,7 @@
   - C. Baby blue
   - D. Light yellow
 
-- **QID**: 3358 | **motion**: N | **correct**: False
+- **QID**: 3358 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the side of the no-bun burger?
   - A. Onion rings
@@ -895,7 +895,7 @@
   - C. Fries
   - D. Chili
 
-- **QID**: 3370 | **motion**: N | **correct**: False
+- **QID**: 3370 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Where are the hamburger bun stored?
   - A. In the right drawer under the iron plate
@@ -903,7 +903,7 @@
   - C. In the left drawer under the iron plate
   - D. On the left side of the iron plate
 
-- **QID**: 3392 | **motion**: N | **correct**: False
+- **QID**: 3392 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many steak on the left side of the table at 21:00?
   - A. 3
@@ -911,7 +911,7 @@
   - C. 2
   - D. 4
 
-- **QID**: 3397 | **motion**: N | **correct**: False
+- **QID**: 3397 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What might be the number on the stove above the table next to the trash can?
   - A. Countdown numbers
@@ -919,7 +919,7 @@
   - C. Random numbers
   - D. Clock numbers
 
-- **QID**: 3399 | **motion**: N | **correct**: True
+- **QID**: 3399 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Given the vlog, is the restaurant profitable?
   - A. No loss, no profit
@@ -927,7 +927,7 @@
   - C. No
   - D. Yes
 
-- **QID**: 3436 | **motion**: N | **correct**: True
+- **QID**: 3436 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color is the atmosphere of the room?
   - A. Purple
@@ -935,7 +935,7 @@
   - C. Pink
   - D. Red
 
-- **QID**: 3455 | **motion**: N | **correct**: False
+- **QID**: 3455 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which beauty brand does the vlogger visit?
   - A. Kicks
@@ -943,7 +943,7 @@
   - C. Buxom
   - D. Sephora
 
-- **QID**: 3640 | **motion**: N | **correct**: True
+- **QID**: 3640 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color is the football in the video?
   - A. Yellow
@@ -951,7 +951,7 @@
   - C. Blue
   - D. White
 
-- **QID**: 3790 | **motion**: N | **correct**: False
+- **QID**: 3790 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the stoppage time for the first half?
   - A. 1 minute
@@ -959,7 +959,7 @@
   - C. 2 minute
   - D. 3 minute
 
-- **QID**: 3793 | **motion**: N | **correct**: False
+- **QID**: 3793 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What does the commentator say during 58:39-58:48
   - A. Liverpool does a good job in the second part of the game before
@@ -967,7 +967,7 @@
   - C. Liverpool attacks many times in the second part of the game before
   - D. Liverpool doesn't attack in the second part of the game before
 
-- **QID**: 3948 | **motion**: N | **correct**: True
+- **QID**: 3948 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Where might the conversation take place?
   - A. Park
@@ -975,7 +975,7 @@
   - C. Playground
   - D. Tennis court
 
-- **QID**: 3955 | **motion**: N | **correct**: False
+- **QID**: 3955 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many titles did Tsitsipas got?
   - A. 98
@@ -983,7 +983,7 @@
   - C. 3
   - D. 10
 
-- **QID**: 3974 | **motion**: N | **correct**: False
+- **QID**: 3974 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What was the final score of the game?
   - A. 6:3
@@ -991,7 +991,7 @@
   - C. 5:3
   - D. 2:1
 
-- **QID**: 3JzhP8qfbqE_0 | **motion**: N | **correct**: True
+- **QID**: 3JzhP8qfbqE_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a red road, with yellow and green plants on both sides and tall peaks in the distance, what color is the car parked on the red road?
   - A. Black
@@ -1000,7 +1000,7 @@
   - D. Red
   - E. Silver White
 
-- **QID**: 3JzhP8qfbqE_1 | **motion**: N | **correct**: False
+- **QID**: 3JzhP8qfbqE_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a piece of white paper displaying various Earth plates, there is a blue line, below which there is a box with a red stripe, and below the box, there is a black horizontal stripe with white letters inside. What shape is the box with the red stripe?
   - A. Triangle
@@ -1009,7 +1009,7 @@
   - D. Ellipse
   - E. Rounded Square
 
-- **QID**: 3Qv2K_0GEE0_0 | **motion**: N | **correct**: True
+- **QID**: 3Qv2K_0GEE0_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: There is a woman in the room in the video, and there is a green plant in the room. Which caption appears with the green plant at the beginning of the video?
   - A. no
@@ -1017,7 +1017,7 @@
   - C. I grew my first plant when I was about six years old
   - D. ok
 
-- **QID**: 3hyPwjkdHEA_0 | **motion**: N | **correct**: False
+- **QID**: 3hyPwjkdHEA_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a room with a wooden surface, a woman in a yellow floral dress is standing in front of the wooden surface, holding a white piece of paper. Which of the following captions have appeared together with the woman in the yellow floral dress?
   - A. "salutations welcome to the cottage fairy"
@@ -1026,7 +1026,7 @@
   - D. "today i will be making my own paper and"
   - E. "wanted to give you some insight into"
 
-- **QID**: 3t_Knk7FWT8_0 | **motion**: N | **correct**: True
+- **QID**: 3t_Knk7FWT8_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, two people are having a conversation. The woman on the left is sitting in a broadcasting room, while the man on the right is in a room having a discussion. When the man on the right says 'end not in a good place I mean I wish I', what accessory is the woman on the left wearing?
   - A. bracelet
@@ -1034,7 +1034,7 @@
   - C. earrings
   - D. glasses
 
-- **QID**: 3zv9RkDPX14_0 | **motion**: N | **correct**: True
+- **QID**: 3zv9RkDPX14_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, a short-haired man is standing in a forest. He is wearing a thick green coat and pointing a gun at someone in front of him. The person in front is dressed in black and has their back to the camera. What objects are present in the scene?
   - A. Black gloves
@@ -1043,7 +1043,7 @@
   - D. Green gloves
   - E. Yellow gloves
 
-- **QID**: 4 | **motion**: N | **correct**: True
+- **QID**: 4 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: why is the man in black moving his arms as he speaks
   - A. hot sun
@@ -1052,7 +1052,7 @@
   - D. engage audience
   - E. playing guitar
 
-- **QID**: 401 | **motion**: N | **correct**: False
+- **QID**: 401 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: When is the school let out in the afternoon?
   - A. 2:00 pm
@@ -1060,7 +1060,7 @@
   - C. 2:30 pm
   - D. 3:00 pm
 
-- **QID**: 4104 | **motion**: N | **correct**: True
+- **QID**: 4104 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Who is wearing the black mask and orange shirt in the video?
   - A. The referee
@@ -1068,7 +1068,7 @@
   - C. The audience
   - D. The coach
 
-- **QID**: 4169 | **motion**: N | **correct**: False
+- **QID**: 4169 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which country's flag is being waved at the beginning of the video?
   - A. Italy
@@ -1076,7 +1076,7 @@
   - C. Brazil
   - D. Japan
 
-- **QID**: 4177 | **motion**: N | **correct**: False
+- **QID**: 4177 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the name of the player wearing number 16 for Brazil in the video?
   - A. Ken
@@ -1084,7 +1084,7 @@
   - C. Lucas
   - D. James
 
-- **QID**: 4189 | **motion**: N | **correct**: True
+- **QID**: 4189 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A famous football star comes to watch the game, who is he?
   - A. Aguero
@@ -1092,7 +1092,7 @@
   - C. Ronaldo
   - D. Messi
 
-- **QID**: 421 | **motion**: N | **correct**: True
+- **QID**: 421 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Who is the director of this video?
   - A. Bong Ho Kim
@@ -1100,7 +1100,7 @@
   - C. Mike Yangtzi
   - D. Jin Kum
 
-- **QID**: 4452 | **motion**: N | **correct**: True
+- **QID**: 4452 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the name of the judge who is second to the left from the camera's view during the first performance?
   - A. MICHAL
@@ -1108,7 +1108,7 @@
   - C. JAMES
   - D. NIALL
 
-- **QID**: 4454 | **motion**: N | **correct**: True
+- **QID**: 4454 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color top is the second conteatant wearing?
   - A. Gold
@@ -1116,7 +1116,7 @@
   - C. Black
   - D. White
 
-- **QID**: 4459 | **motion**: N | **correct**: False
+- **QID**: 4459 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color coat does the sixth contestant wear?
   - A. White
@@ -1124,7 +1124,7 @@
   - C. Yellow
   - D. Red
 
-- **QID**: 4463 | **motion**: N | **correct**: True
+- **QID**: 4463 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color shirt is the tenth contestant singing on stage wearing?
   - A. Blue
@@ -1132,7 +1132,7 @@
   - C. Black
   - D. White
 
-- **QID**: 4473 | **motion**: N | **correct**: False
+- **QID**: 4473 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the 24th contestant on stage wearing?
   - A. Blue and black
@@ -1140,7 +1140,7 @@
   - C. Black and white
   - D. Red and white
 
-- **QID**: 4490 | **motion**: N | **correct**: True
+- **QID**: 4490 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color are the pants worn by the first contestant in the video?
   - A. Pink
@@ -1148,7 +1148,7 @@
   - C. Black
   - D. White
 
-- **QID**: 4491 | **motion**: N | **correct**: False
+- **QID**: 4491 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What accessory is the second contestant wearing around his neck?
   - A. Silver pendant
@@ -1156,7 +1156,7 @@
   - C. Gold chain
   - D. Pearl necklace
 
-- **QID**: 4495 | **motion**: N | **correct**: True
+- **QID**: 4495 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How many rings are the 12th contestant wearing on their hands?
   - A. 2
@@ -1164,7 +1164,7 @@
   - C. 3
   - D. 1
 
-- **QID**: 4503 | **motion**: N | **correct**: True
+- **QID**: 4503 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the name of the tenth contestant displayed on the screen?
   - A. Shanae Watson
@@ -1172,7 +1172,7 @@
   - C. Jason Jones
   - D. Chandelier
 
-- **QID**: 4682 | **motion**: N | **correct**: False
+- **QID**: 4682 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the name of the third group?
   - A. Aron and Buddy
@@ -1180,7 +1180,7 @@
   - C. Heather and Bogart
   - D. Adrian Stoica and Hurricane
 
-- **QID**: 4683 | **motion**: N | **correct**: False
+- **QID**: 4683 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Who is the woman wearing a tall hat, dressed head to toe in black, holding a magician stick, and the dog wearing black clothes with a silver star?
   - A. Amber and Nymeria's show time
@@ -1188,7 +1188,7 @@
   - C. Adrian Stoica and Hurricane's show time
   - D. Heather and Bogart's show time
 
-- **QID**: 4692 | **motion**: N | **correct**: False
+- **QID**: 4692 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is written on the paper that Heather holds in her hand?
   - A. Bogart Simon
@@ -1196,7 +1196,7 @@
   - C. Adrian Stoica
   - D. Heather
 
-- **QID**: 4693 | **motion**: N | **correct**: False
+- **QID**: 4693 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many legs does Bogart have?
   - A. Four
@@ -1204,7 +1204,7 @@
   - C. One
   - D. Two
 
-- **QID**: 4703 | **motion**: N | **correct**: False
+- **QID**: 4703 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many judges are there?
   - A. Five
@@ -1212,7 +1212,7 @@
   - C. Six
   - D. Three
 
-- **QID**: 4741 | **motion**: N | **correct**: True
+- **QID**: 4741 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What color tie is the host wearing?
   - A. Purple
@@ -1220,7 +1220,7 @@
   - C. White
   - D. Black
 
-- **QID**: 4744 | **motion**: N | **correct**: False
+- **QID**: 4744 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is Kobe's tie at the beginning of the video?
   - A. Red
@@ -1228,7 +1228,7 @@
   - C. Black
   - D. Purple
 
-- **QID**: 4745 | **motion**: N | **correct**: False
+- **QID**: 4745 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is Kobe's sitting posture at 05:32?
   - A. Sitting upright
@@ -1236,7 +1236,7 @@
   - C. Sitting leaning forward
   - D. Legs together
 
-- **QID**: 4747 | **motion**: N | **correct**: True
+- **QID**: 4747 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What's the part of the interview where Kobe wears a gray suit?
   - A. Reminiscing about Kobe's training days
@@ -1244,7 +1244,7 @@
   - C. Recall what others said about Kobe Bryant
   - D. Remembering Kobe's game moments
 
-- **QID**: 4750 | **motion**: N | **correct**: True
+- **QID**: 4750 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Who is sitting to the right of Kobe?
   - A. Derek Fisher
@@ -1252,7 +1252,7 @@
   - C. Ariza
   - D. Paul Gasol
 
-- **QID**: 4751 | **motion**: N | **correct**: False
+- **QID**: 4751 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: From the audience's point of view, what color are the shoes on Kobe's left?
   - A. Black
@@ -1260,7 +1260,7 @@
   - C. Purple
   - D. White
 
-- **QID**: 4754 | **motion**: N | **correct**: False
+- **QID**: 4754 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the person closest to the picture wearing at 20:29?
   - A. Solid color shirt
@@ -1268,7 +1268,7 @@
   - C. Striped shirt
   - D. Plaid shirt
 
-- **QID**: 4757 | **motion**: N | **correct**: True
+- **QID**: 4757 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: At 23:50, what color tie is the host wearing?
   - A. Purple
@@ -1276,7 +1276,7 @@
   - C. Black
   - D. White
 
-- **QID**: 4759 | **motion**: N | **correct**: False
+- **QID**: 4759 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which team is wearing the green jersey?
   - A. Milwaukee Bucks
@@ -1284,7 +1284,7 @@
   - C. Los Angeles Clippers
   - D. Los Angeles Lakers
 
-- **QID**: 478 | **motion**: N | **correct**: True
+- **QID**: 478 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Is this a recent cartoon?
   - A. Yes
@@ -1292,7 +1292,7 @@
   - C. I don't know
   - D. Maybe
 
-- **QID**: 4793 | **motion**: N | **correct**: False
+- **QID**: 4793 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the camera directs at the only woman on stage as James Corden speaks from 31:46 to 31:51?
   - A. Pink
@@ -1300,7 +1300,7 @@
   - C. Black
   - D. White
 
-- **QID**: 4798 | **motion**: N | **correct**: True
+- **QID**: 4798 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: When James Corden is talking to another man through the door, what is the word in the red area on the door?
   - A. ST-1
@@ -1308,7 +1308,7 @@
   - C. ST-5
   - D. ST-2
 
-- **QID**: 4831 | **motion**: N | **correct**: False
+- **QID**: 4831 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color comb is this woman using to comb the pig?
   - A. Light yellow
@@ -1316,7 +1316,7 @@
   - C. Dark blue
   - D. Dark green
 
-- **QID**: 4838 | **motion**: N | **correct**: True
+- **QID**: 4838 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: At 12:26, how old is Abby?
   - A. 47
@@ -1324,7 +1324,7 @@
   - C. 30
   - D. 74
 
-- **QID**: 484 | **motion**: N | **correct**: True
+- **QID**: 484 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the first human girl holding when she first appears in the video?
   - A. A bag
@@ -1332,7 +1332,7 @@
   - C. A mobile phone
   - D. A photo
 
-- **QID**: 4840 | **motion**: N | **correct**: False
+- **QID**: 4840 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the dotted line at 12:06 on the map?
   - A. Black
@@ -1340,7 +1340,7 @@
   - C. Red
   - D. Write
 
-- **QID**: 4845 | **motion**: N | **correct**: True
+- **QID**: 4845 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What's the name of the 36-year-old cameraman?
   - A. Paul
@@ -1348,7 +1348,7 @@
   - C. Will
   - D. Sam
 
-- **QID**: 4846 | **motion**: N | **correct**: True
+- **QID**: 4846 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How many years older is Paul than Beth?
   - A. 30
@@ -1356,7 +1356,7 @@
   - C. 3
   - D. 6
 
-- **QID**: 487 | **motion**: N | **correct**: True
+- **QID**: 487 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Where is the blue fairy?
   - A. On a bowl
@@ -1364,7 +1364,7 @@
   - C. On a pot
   - D. On a wheel
 
-- **QID**: 498 | **motion**: N | **correct**: False
+- **QID**: 498 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many fairies are trapped on the spider web?
   - A. 0
@@ -1372,7 +1372,7 @@
   - C. 1
   - D. 3
 
-- **QID**: 49YMA0f1yhI_0 | **motion**: N | **correct**: True
+- **QID**: 49YMA0f1yhI_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the driver's seat of a car, a tense-looking man with a seatbelt on is driving. The car is speeding down the road. What color shirt is the man wearing?
   - A. Blue
@@ -1381,7 +1381,7 @@
   - D. White
   - E. Black
 
-- **QID**: 4ouAf1ldH60_0 | **motion**: N | **correct**: False
+- **QID**: 4ouAf1ldH60_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On a brown cutting board, a person is holding a knife and cutting an orange carrot. What shape are the carrot pieces that have already been cut?
   - A. Round
@@ -1390,7 +1390,7 @@
   - D. Minced
   - E. Square
 
-- **QID**: 4ouAf1ldH60_1 | **motion**: N | **correct**: True
+- **QID**: 4ouAf1ldH60_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Underneath a shelf filled with round wooden logs, a man is stretching his arms while pulling a long, thin white noodle. What color is the shirt the man is wearing?
   - A. white
@@ -1399,7 +1399,7 @@
   - D. black
   - E. purple
 
-- **QID**: 4ouAf1ldH60_2 | **motion**: N | **correct**: True
+- **QID**: 4ouAf1ldH60_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A person is holding a spatula and putting pre-cut meat slices into a pan with hot oil. What is the shape of the pan containing the hot oil?
   - A. Triangular
@@ -1408,7 +1408,7 @@
   - D. Rectangular
   - E. Round
 
-- **QID**: 5 | **motion**: N | **correct**: True
+- **QID**: 5 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: why are the people looking to their left at the beginning of the video
   - A. waiting for people in front move
@@ -1417,7 +1417,7 @@
   - D. people are recording santa and man
   - E. look for other ship
 
-- **QID**: 50 | **motion**: N | **correct**: True
+- **QID**: 50 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What might be the best film rating system according to the Motion Picture Association?
   - A. PG-13
@@ -1425,7 +1425,7 @@
   - C. PG
   - D. R
 
-- **QID**: 503 | **motion**: N | **correct**: True
+- **QID**: 503 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How many round glasses are there in the round frame above the house?
   - A. 7
@@ -1433,7 +1433,7 @@
   - C. 6
   - D. 8
 
-- **QID**: 5063 | **motion**: N | **correct**: False
+- **QID**: 5063 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How old is Magan?
   - A. 27
@@ -1441,7 +1441,7 @@
   - C. 17
   - D. 18
 
-- **QID**: 510 | **motion**: N | **correct**: False
+- **QID**: 510 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: There is a group of people wearing the same outfit, lining up in a line across the street. How many people are there
   - A. 8
@@ -1449,7 +1449,7 @@
   - C. 5
   - D. 4
 
-- **QID**: 513 | **motion**: N | **correct**: True
+- **QID**: 513 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How do people in the government communicate with everyone?
   - A. They use a telephone hotline
@@ -1457,7 +1457,7 @@
   - C. They communicate through the government window
   - D. They utilize the email listed on the website
 
-- **QID**: 514 | **motion**: N | **correct**: True
+- **QID**: 514 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How many people are there in the government?
   - A. 7
@@ -1465,7 +1465,7 @@
   - C. 6
   - D. 5
 
-- **QID**: 522 | **motion**: N | **correct**: False
+- **QID**: 522 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How much does the man with a long nose get paid?
   - A. A gold coin
@@ -1473,7 +1473,7 @@
   - C. Three gold coins
   - D. A bag of gold coins
 
-- **QID**: 5262 | **motion**: N | **correct**: False
+- **QID**: 5262 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the day and night situation in the scene when the journalist in Jerusalem is interviewed?
   - A. Sunset
@@ -1481,7 +1481,7 @@
   - C. During the day
   - D. Late at night
 
-- **QID**: 527 | **motion**: N | **correct**: False
+- **QID**: 527 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: One of the events for the celebration is a number of people riding on top of each other and performing acrobatics. How many people are there?
   - A. 5
@@ -1489,7 +1489,7 @@
   - C. 2
   - D. 4
 
-- **QID**: 5272 | **motion**: N | **correct**: True
+- **QID**: 5272 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How many people appear in the screen when NCAA WOMAN'S BASKETBALL VP is interviewed?
   - A. 3
@@ -1497,7 +1497,7 @@
   - C. 4
   - D. 1
 
-- **QID**: 529 | **motion**: N | **correct**: True
+- **QID**: 529 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is the image of the government?
   - A. Irresponsible and stingy
@@ -1505,7 +1505,7 @@
   - C. Friendly but unorganized
   - D. Wealthy and responsible
 
-- **QID**: 531 | **motion**: N | **correct**: True
+- **QID**: 531 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Who is the narrator?
   - A. John Hambley
@@ -1513,7 +1513,7 @@
   - C. Chris Walker
   - D. David Rohl
 
-- **QID**: 55 | **motion**: N | **correct**: False
+- **QID**: 55 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What year appears in the opening caption of the video?
   - A. 1636
@@ -1521,7 +1521,7 @@
   - C. 1363
   - D. 1633
 
-- **QID**: 551 | **motion**: N | **correct**: False
+- **QID**: 551 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is this scene during 43:15-43:21?
   - A. The ocean
@@ -1529,7 +1529,7 @@
   - C. A blue oil painting
   - D. A sky with clouds
 
-- **QID**: 571nruSayeo_0 | **motion**: N | **correct**: False
+- **QID**: 571nruSayeo_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the news footage, in front of the virtual cityscape background, there is a man in a gray suit and red tie speaking to the camera, with the subtitle 'long has it been like that in the'. In which sentences does this man wearing a red tie appear together with those subtitles?
   - A. You make a duck become a beautiful swan
@@ -1538,7 +1538,7 @@
   - D. Of all the subject
   - E. Time passed quickly
 
-- **QID**: 571nruSayeo_1 | **motion**: N | **correct**: True
+- **QID**: 571nruSayeo_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the news footage, there is a man wearing green clothes in front of a virtual city background, speaking to the camera. The subtitles show 'the impression that uh the gangs were'. With which subtitles did this man in green clothes appear?
   - A. my parents gave me what I wanted
@@ -1547,7 +1547,7 @@
   - D.  He has a big mouth
   - E. And we're getting on well with each other
 
-- **QID**: 58mCJVNMJvw_0 | **motion**: N | **correct**: False
+- **QID**: 58mCJVNMJvw_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: At the very beginning, a man with a mustache and curly hair says in the subtitles 'the prospective bride, where both families had agreed to marry Aziz and Isa's daughter. However, what color is this man's hair?
   - A. Brown
@@ -1556,7 +1556,7 @@
   - D. Blonde
   - E. Red
 
-- **QID**: 59iv6EYWNn8_0 | **motion**: N | **correct**: True
+- **QID**: 59iv6EYWNn8_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: When mentioning 'foreign', there's a Chinese flag in front of a dark blue background, and a man wearing a white shirt, black suit jacket, and a blue and white striped tie. What is his hairstyle like?
   - A. Long straight black hair
@@ -1564,7 +1564,7 @@
   - C. Explosive hair
   - D. Black and white mixed short hair
 
-- **QID**: 5Hn1UhlLphk_0 | **motion**: N | **correct**: True
+- **QID**: 5Hn1UhlLphk_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, a woman is standing in the kitchen wearing an apron. Behind her are white cabinets with many items on the counter, including cutting boards, bowls, small appliances, and bottles. Next to her on the counter is a microwave, along with two small bowls and a small bottle. The woman has light brown hair and is wearing a blue outfit. What is the shape of the picture on the wall behind the counter where she is standing?
   - A. Pentagon
@@ -1573,7 +1573,7 @@
   - D. Hexagon
   - E. Rectangle
 
-- **QID**: 5dJUUQufzw4_1 | **motion**: N | **correct**: False
+- **QID**: 5dJUUQufzw4_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a grassy area covered with yellow and green weeds, there is a man lying in the middle wearing a brown coat and sporting short curly hair. In which of the following scenes has the man on the grassy area appeared?
   - A. On a yellowish-brown boulder
@@ -1582,7 +1582,7 @@
   - D. On the roof of a red van
   - E. Inside a car with white interior
 
-- **QID**: 5dJUUQufzw4_2 | **motion**: N | **correct**: False
+- **QID**: 5dJUUQufzw4_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: By the blue-green waterside of the lake, a man in black clothes is sitting on the ground on the left, and a man in a hooded jacket is standing on the right. In which of the following scenes does the man standing by the lake appear?
   - A. On the ground in front of a red hill
@@ -1591,7 +1591,7 @@
   - D. At a crowded intersection
   - E. On a yacht on the blue sea
 
-- **QID**: 5qMcDQd17Y4_1 | **motion**: N | **correct**: True
+- **QID**: 5qMcDQd17Y4_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A woman wearing a black and white woven top, glasses, with long black hair is mentioned with the subtitle 'you're interested in.' What is behind her on the right?
   - A. door
@@ -1599,7 +1599,7 @@
   - C. lamp
   - D. phone
 
-- **QID**: 5tN9hyfdkaE_0 | **motion**: N | **correct**: False
+- **QID**: 5tN9hyfdkaE_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Walking on a street filled with red lanterns, a black-haired man wearing a black coat is speaking to the camera. What hairstyle did he have when the subtitle reads 'celebrated Chinese culture but really to'?
   - A. Long curly hair
@@ -1608,7 +1608,7 @@
   - D. Curly hair
   - E. Crew cut
 
-- **QID**: 5tN9hyfdkaE_1 | **motion**: N | **correct**: False
+- **QID**: 5tN9hyfdkaE_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color pants is the woman, who is walking away from the camera on a street decorated with red lanterns, wearing when she says in the subtitles 'me to try the viral TikTok Foods in' while wearing a brown top and with long hair?
   - A. Gray
@@ -1617,7 +1617,7 @@
   - D. White
   - E. Olive
 
-- **QID**: 5tN9hyfdkaE_2 | **motion**: N | **correct**: True
+- **QID**: 5tN9hyfdkaE_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a kitchen, there is a white plate with ingredients on the table. A person with an apron tied around their waist is cutting vegetables on a brown wooden board with a knife. What color top is the person wearing when the subtitle says 'Cuisines that extend well beyond Asia'?
   - A. red
@@ -1626,7 +1626,7 @@
   - D. black
   - E. purple
 
-- **QID**: 6 | **motion**: N | **correct**: True
+- **QID**: 6 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: how many times in total does the dog jump up
   - A. fifteen
@@ -1635,7 +1635,7 @@
   - D. six
   - E. two
 
-- **QID**: 600 | **motion**: N | **correct**: False
+- **QID**: 600 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the flower planted by the boy when he and the girl plant the flower?
   - A. Red
@@ -1643,7 +1643,7 @@
   - C. Yellow
   - D. Blue
 
-- **QID**: 602 | **motion**: N | **correct**: True
+- **QID**: 602 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is located in the sea?
   - A. A bird house
@@ -1651,7 +1651,7 @@
   - C. A palace
   - D. A garden
 
-- **QID**: 603 | **motion**: N | **correct**: True
+- **QID**: 603 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What does the queen living in the palace have?
   - A. A big garden
@@ -1659,7 +1659,7 @@
   - C. A big sculpture
   - D. A big mirror
 
-- **QID**: 609 | **motion**: N | **correct**: True
+- **QID**: 609 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What is on the other side of the river when the girl rides on a boat in spring?
   - A. The entry to another world
@@ -1667,7 +1667,7 @@
   - C. A high mountain
   - D. A beautiful palace
 
-- **QID**: 60oHeCZHtvI_0 | **motion**: N | **correct**: True
+- **QID**: 60oHeCZHtvI_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: An armored vehicle is traveling on a sandy ground. There is a person extending their upper body out of the armored vehicle. Behind the armored vehicle, there are several tanks. Among these tanks, there is a person wearing a green vest. What is the color of the traveling armored vehicle?
   - A. Red
@@ -1676,7 +1676,7 @@
   - D. Pink
   - E. Black
 
-- **QID**: 60oHeCZHtvI_1 | **motion**: N | **correct**: True
+- **QID**: 60oHeCZHtvI_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the PPT, there is a technical data label at the top, an armored vehicle with tracks in the middle, and 'Empty Weight' with 7 000kg (15 432 lbs) written below the vehicle. What is the color of the tracked armored vehicle?
   - A. Pink
@@ -1685,7 +1685,7 @@
   - D. Tan and green
   - E. White
 
-- **QID**: 60oHeCZHtvI_2 | **motion**: N | **correct**: True
+- **QID**: 60oHeCZHtvI_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the PPT, the words 'Thanks to all Supporters!!!' are written at the top. There are two tanks on the left and right in the middle, between which are the words 'Enjoy this type of Content? Consider supporting me.' What color are the two tanks?
   - A. Yellow
@@ -1694,7 +1694,7 @@
   - D. Gray
   - E. Pink
 
-- **QID**: 616 | **motion**: N | **correct**: True
+- **QID**: 616 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Are there foxes in the place that has a cage with rabbits?
   - A. Hard to observe
@@ -1702,7 +1702,7 @@
   - C. Yes
   - D. I don't know
 
-- **QID**: 61SYvhojGvg_0 | **motion**: N | **correct**: False
+- **QID**: 61SYvhojGvg_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Against the backdrop of a large wooden ship floating on the sea, the word 'FORECASTLE' is written at the top of the video. In the middle, there is a painting depicting a deep blue sky with three wooden ships floating on the water. One of the ships is crowded with soldiers wearing armor. What is the shape of the border area marked with 'FORECASTLE'?
   - A. Cuboid
@@ -1711,7 +1711,7 @@
   - D. Circle
   - E. Square
 
-- **QID**: 61SYvhojGvg_1 | **motion**: N | **correct**: True
+- **QID**: 61SYvhojGvg_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a storage room, many wine casks are stacked. At the top of the video, 'WATER CASKS 300 tons' is written. Two wooden pillars stand in the middle. A lamp is hanging from the back pillar. A pile of hemp ropes, an iron hook, and a white string lie to the left of the lamp. What is the shape of the bottom of the wine casks?
   - A. rectangular
@@ -1720,7 +1720,7 @@
   - D. stepped
   - E. parallelogram
 
-- **QID**: 61SYvhojGvg_2 | **motion**: N | **correct**: True
+- **QID**: 61SYvhojGvg_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On the wooden floor, there is a large cannon placed on the left side, tied with a thick rope. In front of it is a wooden wall with windows, and there is a protruding section at the bottom of the wall. Cannonballs are neatly arranged on it. What is the material of the cannonballs?
   - A. tin
@@ -1729,7 +1729,7 @@
   - D. wood
   - E. iron
 
-- **QID**: 651 | **motion**: N | **correct**: True
+- **QID**: 651 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What instruments are already on the stage before the actors come on?
   - A. Harp
@@ -1737,7 +1737,7 @@
   - C. Drum kit
   - D. Piano
 
-- **QID**: 653 | **motion**: N | **correct**: True
+- **QID**: 653 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: How does the red-haired girl who plays bass look from 01:42-01:47?
   - A. Angry
@@ -1745,7 +1745,7 @@
   - C. Amazed
   - D. Excited
 
-- **QID**: 654 | **motion**: N | **correct**: False
+- **QID**: 654 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color vest is the man lifting weights wearing?
   - A. Green
@@ -1753,7 +1753,7 @@
   - C. Orange
   - D. Yellow
 
-- **QID**: 659 | **motion**: N | **correct**: False
+- **QID**: 659 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the license plate number of the purple car driven by a woman with long black hair?
   - A. Mandy
@@ -1761,7 +1761,7 @@
   - C. Lucy
   - D. Angela
 
-- **QID**: 674 | **motion**: N | **correct**: False
+- **QID**: 674 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: How many knives are hanging on the wall of the kitchen where the chef is?
   - A. 8
@@ -1769,7 +1769,7 @@
   - C. 11
   - D. 9
 
-- **QID**: 6Lb1PyJxVQM_0 | **motion**: N | **correct**: True
+- **QID**: 6Lb1PyJxVQM_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the scene, there is a black car parked on the beach by the sea. A man has his left hand on his waist and his right hand on the car. Who is the man making this gesture?
   - A. The man wearing a purple short-sleeved shirt
@@ -1777,7 +1777,7 @@
   - C. The man wearing a blue uniform
   - D. The man wearing a black short-sleeved shirt
 
-- **QID**: 6Lb1PyJxVQM_1 | **motion**: N | **correct**: True
+- **QID**: 6Lb1PyJxVQM_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the scene, who is the person standing in front of the yellow dirt slope, holding food in their left hand and chopsticks in their right hand?
   - A. The man wearing a white short-sleeve shirt with tattoos on both arms
@@ -1785,7 +1785,7 @@
   - C. The man wearing a yellow short-sleeve shirt
   - D. The man wearing a black jacket
 
-- **QID**: 6hBbXVkgxGE_1 | **motion**: N | **correct**: True
+- **QID**: 6hBbXVkgxGE_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A person wearing a black coat is sitting, holding a document. Next to him is a table with a gun and a cell phone on it. There's a black lamp on the table. Who is holding the document?
   - A. Statham
@@ -1794,7 +1794,7 @@
   - D. Mike
   - E. Bullet
 
-- **QID**: 6moss7hGbvg_0 | **motion**: N | **correct**: True
+- **QID**: 6moss7hGbvg_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the driver's seat of a car, a woman wearing a white top and earrings is holding a cup of green beverage. Along with which subtitles did this cup of green beverage appear?
   - A. good luck
@@ -1803,7 +1803,7 @@
   - D. wow
   - E. goodbye
 
-- **QID**: 7 | **motion**: N | **correct**: True
+- **QID**: 7 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: how does the lady try to keep the goat away when it licked her
   - A. moves away from goat
@@ -1812,7 +1812,7 @@
   - D. use a stick to hit them
   - E. call for help
 
-- **QID**: 72 | **motion**: N | **correct**: True
+- **QID**: 72 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What does the protagonist see through the window after she is taken to the utility room?
   - A. A group of monks sitting cross-legged in the snow
@@ -1820,7 +1820,7 @@
   - C. A group of warriors practicing swords
   - D. A group of samurais eating
 
-- **QID**: 7MemY9jOmuk_0 | **motion**: N | **correct**: False
+- **QID**: 7MemY9jOmuk_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the radio room scene, there are two soldiers holding a boy in a short-sleeved shirt and black pants against the wall. A man wearing a blue shirt with a pink tie and a blue suit is speaking in the radio room. A pink handkerchief is visible in the man's suit pocket. Which subtitle lines appear together with this man?
   - A. amplifying local Dynamics um however as
@@ -1829,7 +1829,7 @@
   - D. where we have a set of policies across
   - E. control well I'm joined Now by Vonda
 
-- **QID**: 7MemY9jOmuk_1 | **motion**: N | **correct**: False
+- **QID**: 7MemY9jOmuk_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On the left, there is a topless man covering his head, while behind him stands a uniformed armed personnel wearing a mask. On the right, there is a woman sitting on a black sofa, dressed in black and white striped clothing. In which subtitles does the topless man appear?
   - A. in
@@ -1838,7 +1838,7 @@
   - D. between cartel and
   - E. where we have a set of policies across
 
-- **QID**: 8 | **motion**: N | **correct**: True
+- **QID**: 8 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: how did the man in stripped see the children clearly
   - A. rubs eyes
@@ -1847,7 +1847,7 @@
   - D. wear glasses
   - E. lean backwards
 
-- **QID**: 83 | **motion**: N | **correct**: False
+- **QID**: 83 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What part of the cook is different from other people?
   - A. Leg
@@ -1855,7 +1855,7 @@
   - C. Eye
   - D. Hand
 
-- **QID**: 842 | **motion**: N | **correct**: True
+- **QID**: 842 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There is a scene of of cutting trees to get the sap in the video. Immediately after it there is a scene of man's arm. What's tattooed on the man's arm?
   - A. A skull and bones
@@ -1863,7 +1863,7 @@
   - C. A word
   - D. A Dog
 
-- **QID**: 854 | **motion**: N | **correct**: True
+- **QID**: 854 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: What kind of transportation do the people carry on the boat?
   - A. Car
@@ -1871,7 +1871,7 @@
   - C. Motocycle
   - D. Skateboard
 
-- **QID**: 859 | **motion**: N | **correct**: False
+- **QID**: 859 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: ___ is an insect appears in the video.
   - A. Mantis
@@ -1879,7 +1879,7 @@
   - C. Spider
   - D. Cockroach
 
-- **QID**: 86CxyhFV9MI_0 | **motion**: N | **correct**: False
+- **QID**: 86CxyhFV9MI_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the video, which subtitles appear at the same time as the man with black hair, dressed in grey clothes with black sleeves, on stage?
   - A. promisc has come to an end, in and run away countless times, i was just scared, i still
@@ -1887,7 +1887,7 @@
   - C. promisc has come to an end, in and front of our crown, like a world of souls,
   - D. promisc has come to an end, in and captain of the godson, three three three three three three
 
-- **QID**: 8905KCkLDYc_0 | **motion**: N | **correct**: True
+- **QID**: 8905KCkLDYc_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Under the sunlight, the sea water reflects dazzling lights, and several men and women laugh heartily on the beach, raising their beer bottles to toast each other. What objects are present in this scene?
   - A. American flag
@@ -1896,7 +1896,7 @@
   - D. balloon
   - E. mobile phone
 
-- **QID**: 8905KCkLDYc_1 | **motion**: N | **correct**: False
+- **QID**: 8905KCkLDYc_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the blue seawater, there are black rocks. A sea turtle is swimming, and beside it, there is a man wearing black shorts following closely with a light on his body. What objects are present in this scene?
   - A. Diving mask
@@ -1905,7 +1905,7 @@
   - D. Wetsuit
   - E. Net
 
-- **QID**: 898 | **motion**: N | **correct**: False
+- **QID**: 898 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Who is the man wearing glasses, a black suit, and a blue patterned tie?
   - A. Ma Huateng
@@ -1913,7 +1913,7 @@
   - C. Li Kaifu
   - D. Robin Li
 
-- **QID**: 8Gl6iy7OEM4_0 | **motion**: N | **correct**: False
+- **QID**: 8Gl6iy7OEM4_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room filled with photos, two men of different skin tones are having a discussion. One man says 'malayta ah mala,' while the other man is holding a yellow piece of paper with some drawings and words on it. Which man is holding the yellow paper in front of the camera?
   - A. The man wearing a black long-sleeve shirt
@@ -1922,7 +1922,7 @@
   - D. The man wearing a black short-sleeve shirt
   - E. The man wearing a yellow short-sleeve shirt
 
-- **QID**: 8Gl6iy7OEM4_2 | **motion**: N | **correct**: True
+- **QID**: 8Gl6iy7OEM4_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In front of a map, a man with short blonde hair wearing a black short-sleeved shirt is working out in the video. Behind him is a rice-white door. What equipment is the man with short blonde hair holding?
   - A. black resistance band
@@ -1931,7 +1931,7 @@
   - D. black jump rope
   - E. black kettlebell
 
-- **QID**: 8Qe03WDCrB4_0 | **motion**: N | **correct**: True
+- **QID**: 8Qe03WDCrB4_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, there is a group of people, young and old, male and female, gathered in front of a building watching a performance on a stage. What object exists in this scene?
   - A. Basketball
@@ -1940,7 +1940,7 @@
   - D. Ping pong ball
   - E. Balloon
 
-- **QID**: 8ew0d0JmsfA_0 | **motion**: N | **correct**: False
+- **QID**: 8ew0d0JmsfA_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the desolate military base, parked next to two tents, there are four fully armed individuals holding water guns, and in front there are two soldiers dressed in olive military uniforms and carrying guns. Which of the following objects has not appeared?
   - A. A light olive helmet
@@ -1948,7 +1948,7 @@
   - C. A yellow oil drum
   - D. An army green tank
 
-- **QID**: 8urCPp_yhWs_0 | **motion**: N | **correct**: False
+- **QID**: 8urCPp_yhWs_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the video, a desert scene appears at dusk. When the subtitle mentions 'so our stay here at Thousand nights was,' how many people appear on the screen?
   - A. 4
@@ -1956,7 +1956,7 @@
   - C. 2
   - D. 5
 
-- **QID**: 9 | **motion**: N | **correct**: False
+- **QID**: 9 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: why did the smaller white dog get up at the start
   - A. eating
@@ -1965,7 +1965,7 @@
   - D. protect from sun
   - E. wants toy
 
-- **QID**: 900 | **motion**: N | **correct**: False
+- **QID**: 900 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the label on the toggle switch button after the first driver sitting in a truck without driving in chapter 2 'The promise' of the video?
   - A. Engaged
@@ -1973,7 +1973,7 @@
   - C. Embark
   - D. Speed
 
-- **QID**: 901 | **motion**: N | **correct**: False
+- **QID**: 901 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Is the autonomous vehicle driving scene after a man in black said something real or simulated?
   - A. The scene is filmed in reality
@@ -1981,7 +1981,7 @@
   - C. This scene has neither simulation nor reality
   - D. This scene has both simulation and real-life scenarios
 
-- **QID**: 908 | **motion**: N | **correct**: True
+- **QID**: 908 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Around what year do the blue and red lines intersect?
   - A. Around 2006
@@ -1989,7 +1989,7 @@
   - C. Around 2001
   - D. Around 1991
 
-- **QID**: 912 | **motion**: N | **correct**: False
+- **QID**: 912 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Based on the visual cues, what is on the scene before the scene focus on a water glass with white top and gray bottom with words 'Promotional Video' in the upper left corner of the video
   - A. Showcasing innovative working automation
@@ -1997,7 +1997,7 @@
   - C. Exhibition of advanced labotoray technology
   - D. Smart home scenes display
 
-- **QID**: 913 | **motion**: N | **correct**: False
+- **QID**: 913 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Which account's Facebook page is displayed with 28402 likes?
   - A. Pope Benedict XVI
@@ -2005,7 +2005,7 @@
   - C. Tell Me Now
   - D. Your News Wire
 
-- **QID**: 977 | **motion**: N | **correct**: False
+- **QID**: 977 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What is the animal in the first scene that appears after the opening cloud scene?
   - A. The little lion
@@ -2013,7 +2013,7 @@
   - C. The ostrich
   - D. The deer
 
-- **QID**: 991 | **motion**: N | **correct**: False
+- **QID**: 991 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What animal is one of the five animals that appears in the picture walking on the grass?
   - A. African goshawks
@@ -2021,7 +2021,7 @@
   - C. Bateleur
   - D. Helmeted guineafowl
 
-- **QID**: 992 | **motion**: N | **correct**: False
+- **QID**: 992 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What color is the grass around the lioness lying alone in the grass?
   - A. Yellow
@@ -2029,7 +2029,7 @@
   - C. Black
   - D. Green
 
-- **QID**: 9PD3ciudpIE_0 | **motion**: N | **correct**: False
+- **QID**: 9PD3ciudpIE_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of an ancient building, a woman walks by holding something. When the subtitle says 'temples scattered throughout the', what color is the woman's clothing at that moment?
   - A. yellow
@@ -2037,7 +2037,7 @@
   - C. blue
   - D. red
 
-- **QID**: 9PD3ciudpIE_1 | **motion**: N | **correct**: False
+- **QID**: 9PD3ciudpIE_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of a light yellow wall, there is a woman wearing a pink hat sitting with another woman with long hair wearing a dark blue outfit. When the subtitle mentions 'the old people that can't work anymore,' what is the woman with the pink hat wearing?
   - A. red short sleeves
@@ -2045,7 +2045,7 @@
   - C. black long sleeves
   - D. pink short sleeves
 
-- **QID**: 9aWPbYosJUw_0 | **motion**: N | **correct**: True
+- **QID**: 9aWPbYosJUw_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On a red table, there is a white plate containing a delicious dish with a golden crust on the outside and cheese underneath, with the right side cut off. A person wearing gloves is picking up half of the dish. When they mention 'Its crispy exterior, with a soft cheesy heart, makes it irresistible delicious,' what kind of gloves is this person wearing?
   - A. Wearing heat-resistant cotton gloves
@@ -2053,7 +2053,7 @@
   - C. Not wearing gloves
   - D. Wearing black plastic gloves
 
-- **QID**: @healthfood-6867204066108329221_0 | **motion**: N | **correct**: False
+- **QID**: @healthfood-6867204066108329221_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: A lady with gray hair tied up is sitting on a sofa watching TV, holding a white bowl in one hand and a spoon in the other. There's a mirror on the white wall behind her reflecting the TV screen. When 'Who you gonna call?' is mentioned, what object is not present in the scene?
   - A. white socks
@@ -2062,7 +2062,7 @@
   - D. black belt
   - E. black pillow
 
-- **QID**: @healthfood-6948509102305791238_0 | **motion**: N | **correct**: True
+- **QID**: @healthfood-6948509102305791238_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: When the subtitle: 'First, you're going to want to heat your tortillas on a pan for a little bit so that they're more flexible.' appears at the bottom of the screen, what color sauce is spread on the tortilla placed in the white speckled round plate on the gray marble countertop?
   - A. Green
@@ -2070,7 +2070,7 @@
   - C. Yellow
   - D. White
 
-- **QID**: @healthfood-6999715804623293702_0 | **motion**: N | **correct**: True
+- **QID**: @healthfood-6999715804623293702_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The screen shows a pile of colorful foods, with a white paper towel underneath, a silver plate below the paper towel, and the plate has floral patterns. What is not present in the screen?
   - A. Yellow bell peppers
@@ -2079,7 +2079,7 @@
   - D. Carrot
   - E. White blocks sprinkled with seasoning
 
-- **QID**: @healthfood-7267233980473314606_0 | **motion**: N | **correct**: False
+- **QID**: @healthfood-7267233980473314606_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: On the table in the kitchen, a person is adding yellow lemon slices to a glass jar filled with yellow squash slices. When the subtitle says 'I'm a New York Medicine Ave,' what other objects are present in the room?
   - A. Refrigerator
@@ -2088,7 +2088,7 @@
   - D. Green plants
   - E. Oven
 
-- **QID**: @jess.morg-7206809277867052330_0 | **motion**: N | **correct**: True
+- **QID**: @jess.morg-7206809277867052330_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On an olive-colored marble table, there is a black stove with a pot of boiling water. When the subtitle 'tall white house with an empty room and your name carved over the door Facing up to the tallest hill' appears, what object is present on the screen?
   - A. White plate
@@ -2097,7 +2097,7 @@
   - D. Kitchen knife
   - E. Napkin
 
-- **QID**: @jess.morg-7272881154838023467_0 | **motion**: N | **correct**: False
+- **QID**: @jess.morg-7272881154838023467_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: Under the blue sky, a flock of seagulls is soaring. There are white characters in the center of the screen. In what other scenes have this flock of seagulls appeared?
   - A. Giant rocks by the sea
@@ -2106,7 +2106,7 @@
   - D. Branches on the beach
   - E. The sea where the tourists sail a red boat
 
-- **QID**: @jetset_anna-7126584501228129542_0 | **motion**: N | **correct**: True
+- **QID**: @jetset_anna-7126584501228129542_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the middle of the white room, there is a door with two pots of flowers on its sides. The flower on the right side is very tall, while the pot on the left side has a white pipe on it. The top part of the door is triangular. What color is the door?
   - A. Pink
@@ -2115,7 +2115,7 @@
   - D. Black
   - E. Yellow
 
-- **QID**: @jonijawne-7197144530024500485_0 | **motion**: N | **correct**: True
+- **QID**: @jonijawne-7197144530024500485_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: Where else have we seen the man in black clothes standing indoors beside a large floor-to-ceiling window with a black frame, through which we can see the view of tall buildings outside?
   - A. Inside the hotel lobby
@@ -2124,7 +2124,7 @@
   - D. Beside the transparent glass wall on the rooftop under the blue sky
   - E. Inside the coffee shop
 
-- **QID**: @kelseyinlondon-7068018011139050758_0 | **motion**: N | **correct**: True
+- **QID**: @kelseyinlondon-7068018011139050758_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The screen shows three women sitting by the river, facing the Eiffel Tower. The sky is very blue. The women are respectively wearing a white coat, black and white striped clothing, and a pink outfit. They have their backs to the camera. What kind of hats are the two women in the screen wearing?
   - A. sun hat
@@ -2133,7 +2133,7 @@
   - D. wool hat
   - E. beret
 
-- **QID**: @kelseyinlondon-7287537087203511585_0 | **motion**: N | **correct**: False
+- **QID**: @kelseyinlondon-7287537087203511585_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In front of a building with a green roof, there is an ice surface reflecting the building. Many people are skating and playing on the ice. After the subtitle 'So show up your soul' appears, what item is shown in the video?
   - A. a silver knife
@@ -2142,7 +2142,7 @@
   - D. a red chair
   - E. a green bag
 
-- **QID**: @kerstinong-7074483613273754882_0 | **motion**: N | **correct**: False
+- **QID**: @kerstinong-7074483613273754882_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: Inside a floor-to-ceiling window with a view of tall buildings there is a beauty room with pink walls and a white beauty bed. When the subtitle 'Okay, let's get started' appears, what objects are present in the scene?
   - A. false eyelashes
@@ -2151,7 +2151,7 @@
   - D. lighting stand
   - E. mirror
 
-- **QID**: @kerstinong-7097604725134118146_0 | **motion**: N | **correct**: True
+- **QID**: @kerstinong-7097604725134118146_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The background is a vibrant sky with sunlight above, featuring trees and a green meadow. A woman wearing an orange dress, a green shoulder bag, and green shoes is walking on stone steps with a handrail on the right side. In which other scenes does this woman appear?
   - A. On a green meadow with long shadows cast by the sun
@@ -2160,7 +2160,7 @@
   - D. Next to the dining table in a dining hall
   - E. By the swimming pool
 
-- **QID**: @lisolna-7198577717292322054_0 | **motion**: N | **correct**: False
+- **QID**: @lisolna-7198577717292322054_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: Through the clouds, there is a red sunset. Behind many neatly parked cars, there is a white house and a red brick house. What objects are present in the scene at this moment?
   - A. Blue sky
@@ -2169,7 +2169,7 @@
   - D. Grassland
   - E. Fire truck
 
-- **QID**: @lisolna-7203500499360877829_0 | **motion**: N | **correct**: True
+- **QID**: @lisolna-7203500499360877829_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A cat is putting its head on a white cushion. On the wall above the cat, there's a white shelf with some colorful vases on it. When the subtitle 'Thinking of running to get by' appears, what color is the cat's face?
   - A. Blue and white face
@@ -2178,7 +2178,7 @@
   - D. Black and white face
   - E. Blue face
 
-- **QID**: @lisolna-7231929658869107994_0 | **motion**: N | **correct**: False
+- **QID**: @lisolna-7231929658869107994_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a glass bowl containing some white and green foods, there is some brown powder. There are some fruits beside the glass bowl. A person is holding a wooden spoon, stirring inside the glass bowl. What objects are present in the scene?
   - A. Yellow plums
@@ -2187,7 +2187,7 @@
   - D. Green mangoes
   - E. Pink peaches
 
-- **QID**: @lisolna-7333990579963039009_0 | **motion**: N | **correct**: True
+- **QID**: @lisolna-7333990579963039009_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: Next to a shelf on a gray tile floor, a hand with red nail polish is holding a small bottle of nail polish. When the subtitle 'so I'm going to make a Thank you.' appears, what is the color of the nail polish in the bottle?
   - A. White
@@ -2196,7 +2196,7 @@
   - D. Crimson
   - E. Black
 
-- **QID**: @movie.explained6-7252661595875183874_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7252661595875183874_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A man with black hair wearing a green coat sits with a boy who also has black hair. The man is saying something to the boy. In which subtitles have this man appeared before?
   - A. I am a photographer
@@ -2205,7 +2205,7 @@
   - D. Help me
   - E. Don't do this
 
-- **QID**: @movie.explained6-7253164232307379457_0 | **motion**: N | **correct**: False
+- **QID**: @movie.explained6-7253164232307379457_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a room with a black and white checkered floor, a man wearing a black hooded jacket is holding a woman whose mouth is taped with blue tape. When the subtitle "In a short time, her friend fell to the ground in pain. Her organs were dissolved by the venom" appears, what color clothes is the woman wearing?
   - A. Purple
@@ -2214,7 +2214,7 @@
   - D. Red
   - E. Green
 
-- **QID**: @movie.explained6-7254803496900267266_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7254803496900267266_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a car with black seats, there are four people sitting in a row. One of them is a man wearing a black shirt. He rests his right hand on the shoulder of the woman next to him. When the subtitle 'She didn't want to harm the flowers of her country' appears, what hairstyle does the man in the black shirt have?
   - A. Short hair
@@ -2223,7 +2223,7 @@
   - D. Bald
   - E. Shoulder-length curls
 
-- **QID**: @movie.explained6-7257359603489443073_0 | **motion**: N | **correct**: False
+- **QID**: @movie.explained6-7257359603489443073_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the scene, there is a woman with white hair wearing blue clothes. Behind her, there is a man in a white coat and another woman in white clothes. They are in a futuristic-looking glass room. What is the object present in the scene?
   - A. Orange-red thread
@@ -2232,7 +2232,7 @@
   - D. Blue clothing with a black collar
   - E. Rose-colored pants
 
-- **QID**: @movie.explained6-7259227637992705282_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7259227637992705282_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A woman wearing a ponytail appears in the middle of the screen, with 'The camera only works with people' text at the bottom of the screen. Which item appears in the middle of the screen?
   - A. earrings
@@ -2241,7 +2241,7 @@
   - D. necklace
   - E. earphones
 
-- **QID**: @movie.explained6-7262938043315686664_0 | **motion**: N | **correct**: False
+- **QID**: @movie.explained6-7262938043315686664_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a classroom with many wooden desks and chairs, there is a woman wearing a black dress and has black hair standing. The woman is surrounded by many children. With which of the following subtitles did the woman in the black dress appear together?
   - A. "the truth of the matter. Call on your friend and sneak into the teacher's house. The three have"
@@ -2250,7 +2250,7 @@
   - D. "The three of them had to hide behind the sofa."
   - E. "Unexpectedly, a few people even entered the room, discovering the previous teacher leaning"
 
-- **QID**: @movie.explained6-7267884432420277506_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7267884432420277506_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a scene with the white text 'to partner in the firm', there is a man wearing a blue shirt who is resting his hand on the shoulder of another man beside him. What kind of beard does the man in the blue shirt have?
   - A. Mountain goat beard
@@ -2259,7 +2259,7 @@
   - D. One-character beard
   - E. Shaving beard
 
-- **QID**: @movie.explained6-7268167132591000833_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7268167132591000833_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a scene where a pair of hands is holding a phone with a black case, there is a text message on the phone containing a string of numbers 558441328. What color is the nail polish on the hands in the scene?
   - A. green
@@ -2268,7 +2268,7 @@
   - D. blue
   - E. red
 
-- **QID**: @movie.explained6-7268771669123042562_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7268771669123042562_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the amusement park at night, there is a woman standing with her hair covered, holding a camera. Behind her, there is an amusement facility with yellow lights. What color clothes is the woman holding the camera wearing?
   - A. blue
@@ -2277,7 +2277,7 @@
   - D. green
   - E. purple
 
-- **QID**: @movie.explained6-7268936523481943297_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7268936523481943297_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, there is a little boy and a little girl. The little boy is wearing black clothes, the little girl is wearing white clothes, and there is also an older man in the background. At the same time, what subtitles appear with the little girl?
   - A. He told me.
@@ -2286,7 +2286,7 @@
   - D. thank you
   - E. so
 
-- **QID**: @movie.explained6-7269746510462536962_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7269746510462536962_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a scene with white text 'I want you to start with that man over there, okay?' there are many people, and in front of a man in a black suit there is a triangular shelf with a basketball on it. What other objects are present in the scene?
   - A. A doll wearing purple clothes
@@ -2295,7 +2295,7 @@
   - D. A white chrysanthemum
   - E. A white dress
 
-- **QID**: @movie.explained6-7270293967017725185_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7270293967017725185_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On a flat surface illuminated by the sun, there is a woman wearing a gray hoodie and a black choker on her neck. Behind her, there is a white door and white columns. What hairstyle does the woman in the gray hoodie have?
   - A. high ponytail
@@ -2304,7 +2304,7 @@
   - D. bun
   - E. pigtails
 
-- **QID**: @movie.explained6-7275653401025826050_0 | **motion**: N | **correct**: True
+- **QID**: @movie.explained6-7275653401025826050_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a sunny outdoor setting, a fire truck stands nearby along with a firefighter whose skin is dark. In which of the following scenes has this dark-skinned firefighter appeared before?
   - A. In front of a burning house
@@ -2313,7 +2313,7 @@
   - D. In a rainy park
   - E. On a golden sandy beach
 
-- **QID**: @placesunleashed-7283971258755140869_0 | **motion**: N | **correct**: True
+- **QID**: @placesunleashed-7283971258755140869_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: Under a blue sky with white clouds, there is a reddish-brown rock. In its center, there is a piece of rock, surrounded by water, and the whole scene resembles a horseshoe shape. Which subtitles have mentioned this place together?
   - A. You've got the Wave, Antelope Canyon, Havasu Falls, Monument Valley, Horseshoe Bend, Hoover Dam, and the Grand Canyon, just to name a few.
@@ -2321,7 +2321,7 @@
   - C. the vast landscape
   - D. And that doesn't even include the vast landscape that stretches for eternity.
 
-- **QID**: @placesunleashed-7298820532466683142_0 | **motion**: N | **correct**: True
+- **QID**: @placesunleashed-7298820532466683142_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On the yellowish vast terrain, when the words 'TRY TO VIEW IT FROM' appear on the screen, and when it mentions 'Try to view it from space if you can', what object is present on the screen?
   - A. irregular structured object
@@ -2329,7 +2329,7 @@
   - C. square structured object
   - D. bead-like circular structured object
 
-- **QID**: @placesunleashed-7303594391850044678_0 | **motion**: N | **correct**: False
+- **QID**: @placesunleashed-7303594391850044678_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: There is a small island on the blue sea, the island is full of green plants, and there are many boats docked along the shore. Among them, the largest boat in the middle, what color is the largest boat in the middle?
   - A. red
@@ -2338,7 +2338,7 @@
   - D. white
   - E. green
 
-- **QID**: @placesunleashed-7324498849857326341_0 | **motion**: N | **correct**: True
+- **QID**: @placesunleashed-7324498849857326341_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, in the green valley filled with green plants, there are green letters spelling 'GREENERY IN THE'. What is the color of the path in the scene?
   - A. green
@@ -2346,7 +2346,7 @@
   - C. gray
   - D. orange
 
-- **QID**: @placesunleashed-7324761016909188358_0 | **motion**: N | **correct**: True
+- **QID**: @placesunleashed-7324761016909188358_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the video, there is a woman wearing a yellow coat with a ponytail. She is holding a mobile phone in her right hand and raises it to her ear. Which object does not appear in the video?
   - A. Yellow coat
@@ -2354,7 +2354,7 @@
   - C. Swimming pool
   - D. Mobile phone
 
-- **QID**: @placesunleashed-7325156862486220038_0 | **motion**: N | **correct**: True
+- **QID**: @placesunleashed-7325156862486220038_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On the cliff, there are many protruding rocks. Water flows down the rocks from the peak. Below, there are two men wearing shorts and bare upper bodies. Another man runs towards them from the staircase below. When the subtitle mentions 'Visitors can choose to enter the spectacular La Gloria cave, which is filled with mineral deposits,' what two colors are present on the clothes of the man who is running?
   - A. green and white
@@ -2363,7 +2363,7 @@
   - D. red and green
   - E. red and white
 
-- **QID**: @placesunleashed-7326709884102216965_0 | **motion**: N | **correct**: False
+- **QID**: @placesunleashed-7326709884102216965_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the video, there is a black-haired woman wearing a backless yellow floral dress with her back to the camera, facing a white curtain. What other objects are present in this scene?
   - A. life preserver
@@ -2372,7 +2372,7 @@
   - D. sailboat
   - E. cradle
 
-- **QID**: @recipesbyanne-7141686631676808454_0 | **motion**: N | **correct**: False
+- **QID**: @recipesbyanne-7141686631676808454_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: On a white marble countertop, there is a rectangular container lined with white paper. On the white paper, there is a large piece of chocolate-colored dessert sprinkled with yellow hard fruit bits. Which subtitles have appeared simultaneously with this chocolate dessert?
   - A. Doing it all night, all summer'in Chinese Simplified can be translated
@@ -2381,7 +2381,7 @@
   - D. It looks good to eat
   - E. Got my day, my heart out till the dawn
 
-- **QID**: @recipesbyanne-7161798161395240197_0 | **motion**: N | **correct**: True
+- **QID**: @recipesbyanne-7161798161395240197_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The screen shows a prepared wrap, with a piece cut off and held by a pair of hands. The background is a white marble table. In which other scene does this wrap appear?
   - A. Still on a marble table, there is a round green plate with the wrap covered in sesame seeds.
@@ -2390,7 +2390,7 @@
   - D. Still on a marble table, there is a round white plate with the wrap covered in sesame seeds.
   - E. Still on a marble table, there is a round pink plate with the wrap covered in sesame seeds.
 
-- **QID**: @recipesbyanne-7234536361296940314_0 | **motion**: N | **correct**: False
+- **QID**: @recipesbyanne-7234536361296940314_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the black pot with some broth, tomato sauce, and yellow vegetable pieces, what items are visible when the subtitle 'You still give me butterflies, my butterfly' appears?
   - A. Plate
@@ -2399,7 +2399,7 @@
   - D. Garlic
   - E. Green vegetable
 
-- **QID**: @thatrecipe.us-7262468242692689194_0 | **motion**: N | **correct**: False
+- **QID**: @thatrecipe.us-7262468242692689194_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: There is a wooden table in the video, and on the table there is a wooden board. A pair of hands is using a knife to cut a vegetable that has a yellow outer part and white inner part. What is the vegetable being cut?
   - A. Turnip
@@ -2407,7 +2407,7 @@
   - C. Garlic
   - D. Leek
 
-- **QID**: @tiffycooks-6940704678569053446_0 | **motion**: N | **correct**: False
+- **QID**: @tiffycooks-6940704678569053446_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the video, a woman in a white top is holding a large dumpling in her left hand and a white bowl in her right hand. What other items appeared together with the dumpling?
   - A. Glutinous rice flour, sugar, hot water, knead until it forms into a ball.
@@ -2415,7 +2415,7 @@
   - C. Like this, roll it out. Cut into 10 pieces.
   - D. 15 Shree food for 15 days.
 
-- **QID**: @tiffycooks-7201571680890670342_0 | **motion**: N | **correct**: True
+- **QID**: @tiffycooks-7201571680890670342_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A woman wearing green clothes and draped in long hair is sitting in front of a table outdoors. There is also a dish in a brown bowl in front of her. When mentioning 'The cricket was crispy, savory, and paired with pad thai, super delicious,' what is the material of the chopsticks the woman is holding?
   - A. Red plastic chopsticks
@@ -2423,7 +2423,7 @@
   - C. Wooden chopsticks
   - D. Silver stainless steel chopsticks
 
-- **QID**: AU0UJVNZMvA_0 | **motion**: N | **correct**: True
+- **QID**: AU0UJVNZMvA_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The screen has two pairs of separate eyes and a cartoon girl headshot, and in the bottom right corner there is an old man with white hair, wearing glasses and a mustache. What is the object in the middle of this screen?
   - A. sword
@@ -2431,7 +2431,7 @@
   - C. mobile phone
   - D. computer
 
-- **QID**: AjF13uKVQa0_1 | **motion**: N | **correct**: True
+- **QID**: AjF13uKVQa0_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the lower right corner of the screen, there is a man wearing a suit. His right hand is raised, and beside his right hand is the number 47. Behind this man, there is a white background with 10 lines of text. What color are these words?
   - A. The top line is yellow, the rest are black
@@ -2439,7 +2439,7 @@
   - C. The top 8 lines of text are black, the bottom 2 lines are red
   - D. All are black
 
-- **QID**: AnLMDMzO4QY_0 | **motion**: N | **correct**: True
+- **QID**: AnLMDMzO4QY_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Which subtitles appear together with the woman wearing a white top, denim overalls, and round earrings in the beginning of the video?
   - A. we've got the cookies and the freezer and cooling for about maybe 10 minutes so appear together
@@ -2448,7 +2448,7 @@
 
   - D. beath bars are mike chocolate covered
 
-- **QID**: AnLMDMzO4QY_1 | **motion**: N | **correct**: True
+- **QID**: AnLMDMzO4QY_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the opening of the video, the person wearing a white top, black skirt, and black short hair, which subtitles do they appear with?
   - A. beath bars are mike chocolate covered
@@ -2457,7 +2457,7 @@
   - D. the a hint of salt
 
 
-- **QID**: AxciimuEZAc_0 | **motion**: N | **correct**: True
+- **QID**: AxciimuEZAc_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In front of a building made of glass, there are some green plants and benches around, as well as red and orange striped sculptures. A man is walking down the steps on a marble-paved ground. In front of him, there is a black sculpture covered in raised dots. When the phrase 'sculpture garden looking at' is mentioned, what is this man wearing?
   - A. blue long-sleeve shirt
@@ -2466,7 +2466,7 @@
   - D. blue T-shirt
   - E. blue jacket
 
-- **QID**: AxciimuEZAc_1 | **motion**: N | **correct**: True
+- **QID**: AxciimuEZAc_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In front of a transparent glass building, surrounded by green trees and a few other trees, there are some black rectangular objects placed in front of the trees. The sunlight is shining on the marble surface. A man in white and a blonde woman walk past a black, prominently sculpted point structure. When the phrase 'what does that mean for others' is mentioned, what kind of shoes is the woman wearing?
   - A. White sneakers with black edges
@@ -2475,7 +2475,7 @@
   - D. White leather shoes with black edges
   - E. White straw shoes with black edges
 
-- **QID**: Bjymxow3TVQ_0 | **motion**: N | **correct**: True
+- **QID**: Bjymxow3TVQ_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In a room with a large control panel, there is a man with short hair and glasses. Under the man's hand is a cream-colored paper. What style of clothing is the man with glasses wearing?
   - A. Black hooded jacket
@@ -2484,7 +2484,7 @@
   - D. Black suit
   - E. White T-shirt
 
-- **QID**: Bjymxow3TVQ_1 | **motion**: N | **correct**: True
+- **QID**: Bjymxow3TVQ_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In a room with a white table, there is a man wearing black pants and glasses standing. In front of the man, there is a gray wooden board. What hairstyle does the man with glasses have?
   - A. Brown short hair
@@ -2493,7 +2493,7 @@
   - D. Black shoulder-length curls
   - E. Black buzz cut
 
-- **QID**: CEZ9rbjK3P4_0 | **motion**: N | **correct**: True
+- **QID**: CEZ9rbjK3P4_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A woman in a black top is sitting in front of a table. Behind and beside her are white walls and a bookshelf filled with books. There is a wooden object in front of her, and there are drawings on the table in front of her. Where else has this woman appeared?
   - A. A room with a window
@@ -2502,7 +2502,7 @@
   - D. In front of a table with a desk lamp
   - E. A bench in the park
 
-- **QID**: CEZ9rbjK3P4_1 | **motion**: N | **correct**: True
+- **QID**: CEZ9rbjK3P4_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the center of the screen is a drawing, depicting a person resting their hand on their forehead on a yellowish paper. The drawing is composed of lines and lacks colors. Where else has this artwork appeared?
   - A. In a room with a bookshelf
@@ -2511,7 +2511,7 @@
   - D. On the glass of a transparent window
   - E. In front of a table with a desk lamp
 
-- **QID**: CdTijM0_es4_0 | **motion**: N | **correct**: True
+- **QID**: CdTijM0_es4_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Under the blue sky and white clouds, there is an endless stretch of mountain ranges. In front of the mountain ranges, there are some brown tents with two soldiers standing beside them. The soldiers are wearing gray helmets and holding crescent-shaped shields. In which of the following scenes have soldiers wearing gray helmets appeared?
   - A. Inside a dense forest
@@ -2520,7 +2520,7 @@
   - D. In a scene with an olive tree and numerous arrows flying in the sky
   - E. On a grassland during rain
 
-- **QID**: CdTijM0_es4_1 | **motion**: N | **correct**: True
+- **QID**: CdTijM0_es4_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a green meadow, in the distance there are gray mountains. In front of the mountains stands a group of soldiers wearing gray helmets and a group wearing dark blue helmets. In which of the following scenes do the soldiers wearing dark blue helmets appear?
   - A. In a desert with no vegetation
@@ -2529,7 +2529,7 @@
   - D. On a plain during a thunderstorm
   - E. In a scene where soldiers wearing yellow helmets are riding a blackish brown horse
 
-- **QID**: ClYmTkGTGYg_0 | **motion**: N | **correct**: False
+- **QID**: ClYmTkGTGYg_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A painting is hanging on the wall. In the painting, a woman wearing a long dress is raising her right hand and looking forward. Next to her stands a man with short hair and his hands naturally hanging down. What kind of outerwear is this man wearing?
   - A. Red suit
@@ -2538,7 +2538,7 @@
   - D. Gray sweater
   - E. Red long-sleeved jacket
 
-- **QID**: ClYmTkGTGYg_2 | **motion**: N | **correct**: True
+- **QID**: ClYmTkGTGYg_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There is a small garden surrounded by white columns, where the greenery is luxuriant. Three people are in the garden. The person on the right has short hair, the person in the middle is facing a mirror, and the person on the left is wearing a blue coat. What kind of hairstyle does the person wearing a blue coat have?
   - A. Blond short curly hair
@@ -2547,7 +2547,7 @@
   - D. White long hair
   - E. Crew cut
 
-- **QID**: DRIpznER-VQ_0 | **motion**: N | **correct**: True
+- **QID**: DRIpznER-VQ_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Four people are standing in a row in front of a window: two women are in the middle, and two men are on the outside. The man on the right is wearing a black coat, black-framed glasses, and carrying a backpack. One woman is wearing a gold-black patterned headscarf, and the other woman is in a black and white striped long skirt. The man on the left has a long beard, is resting his arm on the counter, and is dressed in gold-embroidered attire. In which other scenes does the man resting his arm appear?
   - A. Outside a store window in a high-end mall
@@ -2556,7 +2556,7 @@
   - D. Flipping through a book on a table
   - E. On a chair in a library
 
-- **QID**: DRIpznER-VQ_1 | **motion**: N | **correct**: True
+- **QID**: DRIpznER-VQ_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A man with a blue shirt and curled hair and a woman with a checkered shirt are in a room, both looking down. In front of them is a pile of yellow cardboard-like objects. The man's black-framed glasses are in the pocket of his shirt. In which other scenes does this man appear?
   - A. A high-floor room in a hotel
@@ -2565,7 +2565,7 @@
   - D. A room with blurred block patterns in the background and a silver support frame
   - E. Inside a luxurious living room
 
-- **QID**: DVsw1brd_Yc_0 | **motion**: N | **correct**: True
+- **QID**: DVsw1brd_Yc_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On a white desk, there is an open book, and in front of it stands a book with a black side face silhouette cutout on its cover, which also has bold white text. In which of the following scenes does this book with the cutout appear?
   - A. In the hands of a man wearing black clothes
@@ -2573,7 +2573,7 @@
   - C. In a quiet library
   - D. In the hands of a woman wearing black clothes
 
-- **QID**: DVsw1brd_Yc_1 | **motion**: N | **correct**: False
+- **QID**: DVsw1brd_Yc_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a scene with two display screens in the background, a man in a black coat is holding a blue book with a black cap in his left hand. In which of the following scenarios does this book appear?
   - A. On a black keyboard
@@ -2581,7 +2581,7 @@
   - C. On a white bookshelf
   - D. On an olive-colored desk
 
-- **QID**: DVsw1brd_Yc_2 | **motion**: N | **correct**: False
+- **QID**: DVsw1brd_Yc_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On a white desk with an open book and a black keyboard, there is an orange-red book with the words 'LUCKY PLANET' on the cover. In which of the following scenes has this book appeared?
   - A. In the hands of a child wearing a black short-sleeve shirt
@@ -2589,7 +2589,7 @@
   - C. In the hands of a man wearing black scrubs
   - D. In the hands of a man wearing a black short-sleeve shirt
 
-- **QID**: DoizYSYQRqU_0 | **motion**: N | **correct**: True
+- **QID**: DoizYSYQRqU_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a sunlit room, there is a woman wearing a black short-sleeve shirt. She is grabbing her hair with her left hand and combing her hair with her right hand. What objects are present in this scene?
   - A. Comb
@@ -2598,7 +2598,7 @@
   - D. Glasses
   - E. Watch
 
-- **QID**: DoizYSYQRqU_1 | **motion**: N | **correct**: False
+- **QID**: DoizYSYQRqU_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A woman in a red dress is singing on the screen, and behind her is a dancer wearing white clothing. The dancer has the word 'ICONIC' on their head. What objects are present in this scene?
   - A. Display screen
@@ -2607,7 +2607,7 @@
   - D. Car
   - E. Speaker
 
-- **QID**: DoizYSYQRqU_2 | **motion**: N | **correct**: False
+- **QID**: DoizYSYQRqU_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a car, a woman wearing a white coat is sitting with her eyes closed. She is holding a cup of coffee in her right hand and a mobile phone in her left hand. What objects are present in this scene?
   - A. transparent water cup
@@ -2616,7 +2616,7 @@
   - D. watch
   - E. earphone
 
-- **QID**: Efuyl2Anehg_0 | **motion**: N | **correct**: True
+- **QID**: Efuyl2Anehg_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: There are two gentlemen standing against a worn-down wall on the screen. One is wearing a white T-shirt and the other is wearing a purple T-shirt, with sunglasses and two strings hanging from his chest. This gentleman simultaneously appears with what kind of subtitles?
   - A. How hot does it typically get in Bahrain in the summer?
@@ -2625,7 +2625,7 @@
   - D. in Bahrain, like 200 years ago
   - E. Abdullah: Probably like this.
 
-- **QID**: Efuyl2Anehg_1 | **motion**: N | **correct**: False
+- **QID**: Efuyl2Anehg_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A man wearing a gray coat and sporting short black hair is sitting upright on a cream-colored couch against a cream-colored background, eating from a green-white dessert bowl. What subtitle appeared at the same time as this man?
   - A. The next morning
@@ -2634,7 +2634,7 @@
   - D. It's a little after 10 and I just made it to Bahrain.
   - E. You golta buy tulip bulbs.
 
-- **QID**: F2OhCCEIOcU_0 | **motion**: N | **correct**: True
+- **QID**: F2OhCCEIOcU_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the video, the man wearing red short sleeves and sunglasses is holding a phone in his right hand, and sitting outside with a few green plants in the background. In which other scene does this man appear?
   - A. By the seaside
@@ -2642,7 +2642,7 @@
   - C. Inside a milk tea shop
   - D. Inside a fried chicken shop
 
-- **QID**: F2OhCCEIOcU_1 | **motion**: N | **correct**: True
+- **QID**: F2OhCCEIOcU_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the video, many people are sitting on the grass. On the screen, there is a man with blonde hair wearing a necklace and an overcoat with a white inner layer, sitting cross-legged on the ground. In which other scene does the man wearing the white inner layer appear in the video?
   - A. Inside a room
@@ -2650,7 +2650,7 @@
   - C. Inside a cargo truck
   - D. In a milk tea shop
 
-- **QID**: F2OhCCEIOcU_2 | **motion**: N | **correct**: False
+- **QID**: F2OhCCEIOcU_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On the left side of the screen is a man wearing a white long-sleeved shirt, and on the right side is a man wearing a blue and white checkered shirt and a watch. They are in a room. In which other scene does the man wearing the white long-sleeved shirt appear?
   - A. In front of a car
@@ -2658,7 +2658,7 @@
   - C. In a hamburger store
   - D. Inside a truck
 
-- **QID**: F7RSW-2rF4w_0 | **motion**: N | **correct**: False
+- **QID**: F7RSW-2rF4w_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a street, next to the road, there is a house built with stones. The house has a black tiled roof and is covered with vines on the walls. A woman wearing a yellow top and a white floral half-skirt is walking on the street holding a book. From the subtitles listed below, which ones have appeared while this woman in the white floral half-skirt is present?
   - A. "Music"
@@ -2667,7 +2667,7 @@
   - D. "this title"
   - E. "and it does feel like time has stopped"
 
-- **QID**: F7RSW-2rF4w_1 | **motion**: N | **correct**: False
+- **QID**: F7RSW-2rF4w_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a dark and gloomy day, on a street lined with stone-built houses, there's a red and white round traffic barrier at the side of the street. Which of the following subtitles appeared together with the round traffic barrier?
   - A. "sometimes we feel that our problems are"
@@ -2676,7 +2676,7 @@
   - D. "and things are so bad that it's almost"
   - E. "Music"
 
-- **QID**: FnKDgC9aNu0_0 | **motion**: N | **correct**: True
+- **QID**: FnKDgC9aNu0_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Next to the tan table made of two pieces put together, there are three men sitting on black chairs. When the subtitle 'August you could say okay we can ship' appears, what objects are present in the frame?
   - A. black T-shirt
@@ -2685,7 +2685,7 @@
   - D. white shirt
   - E. white T-shirt
 
-- **QID**: FnKDgC9aNu0_1 | **motion**: N | **correct**: True
+- **QID**: FnKDgC9aNu0_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a white room, three men are sitting. In the top right corner of the screen, there is a square picture. When the subtitle 'doomed doomed attempt ah they don't know' appears, what objects are present on the screen?
   - A. A blue shirt
@@ -2694,7 +2694,7 @@
   - D. A black chair
   - E. A white short sleeve
 
-- **QID**: FnKDgC9aNu0_2 | **motion**: N | **correct**: True
+- **QID**: FnKDgC9aNu0_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room, there are three men sitting. One is wearing a black short-sleeve shirt, another is wearing a dark grey short-sleeve shirt, and the third is wearing a grey-and-white dress shirt. When the subtitle 'Sicily to Libya and some technical' appears, what objects can be seen in the frame?
   - A. red arrow
@@ -2703,7 +2703,7 @@
   - D. black camera
   - E. black phone
 
-- **QID**: Fq3zbbp-lv4_0 | **motion**: N | **correct**: False
+- **QID**: Fq3zbbp-lv4_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: Outdoors, there is a patch of ground with some fallen leaves and wild grass, with a chrysanthemum plant blooming with purple petals and yellow florets. On it, a bee is stopping on the florets. This chrysanthemum has also appeared simultaneously with which subtitles?
   - A. friend
@@ -2712,7 +2712,7 @@
   - D. or gentle or helpful will we be
   - E. be when we grow up
 
-- **QID**: Fq3zbbp-lv4_1 | **motion**: N | **correct**: False
+- **QID**: Fq3zbbp-lv4_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the grove of yellow leaves illuminated by sunlight, there is a woman with a checkered scarf, khaki-colored jacket, and jeans playing with a black Labrador beside her. Which of the following subtitles appeared simultaneously with the sight of this black dog?
   - A. "define who we are"
@@ -2721,7 +2721,7 @@
   - D. "my life is full of routines and"
   - E. “that puts me in a nostalgic mood it's”
 
-- **QID**: GAoK4XjssrM_0 | **motion**: N | **correct**: True
+- **QID**: GAoK4XjssrM_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In front of a black screen, a man wearing a black short-sleeved shirt, with his left hand clenched into a fist and his right hand tightly grasping his left forearm, what object is present on the screen when he mentions 'guards for helping us out and uh that'?
   - A. A plain black short-sleeved shirt
@@ -2729,7 +2729,7 @@
   - C. A long-sleeved shirt with red, blue, and green prints
   - D. A plain black long-sleeved shirt
 
-- **QID**: GFg98TDqCpw_0 | **motion**: N | **correct**: True
+- **QID**: GFg98TDqCpw_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the lower right corner of the video, there is a bald person wearing sunglasses and dressed in black. There are also three boys on the screen: the one on the left is wearing a blue short-sleeve shirt, the one on the right is wearing a red long-sleeve shirt, and the one in the middle is wearing a gray short-sleeve shirt. Which of the following items does not appear in the video?
   - A. Black hat
@@ -2737,7 +2737,7 @@
   - C. Sunglasses
   - D. Blue short-sleeve shirt
 
-- **QID**: GFg98TDqCpw_1 | **motion**: N | **correct**: True
+- **QID**: GFg98TDqCpw_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the bottom right corner of the video, there is a bald man wearing sunglasses and dressed in black. In the frame, there are two bloodshot eyeballs. Which object does not appear in the video?
   - A. sunglasses
@@ -2745,7 +2745,7 @@
   - C. a man wearing glasses and a suit
   - D. eyeballs
 
-- **QID**: GFg98TDqCpw_2 | **motion**: N | **correct**: True
+- **QID**: GFg98TDqCpw_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There is a bald man wearing sunglasses in the bottom right corner of the video, he is dressed in black clothing, and there is a man in the screen wearing a white short-sleeve shirt with a beard. The man is holding a cigarette in his right hand. Which object does not appear in the video?
   - A. Hat
@@ -2753,7 +2753,7 @@
   - C. Cigarette
   - D. White short-sleeve shirt
 
-- **QID**: GRPLynULvJY_0 | **motion**: N | **correct**: False
+- **QID**: GRPLynULvJY_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the scene, a woman is standing in front of a cash register, and there are two other people behind the counter. The four people in the scene are clearly visible. The woman at the register is wearing black clothes, and the woman buying coffee is wearing an olive-green trench coat. Who is the person in the scene with their head slightly bowed and smiling?
   - A. The black-haired woman in the white jacket
@@ -2762,7 +2762,7 @@
   - D. The woman in the olive-green trench coat
   - E. The woman in the black dress
 
-- **QID**: GZFL58_pXPg_0 | **motion**: N | **correct**: True
+- **QID**: GZFL58_pXPg_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On the screen, there are many advanced math problems on a piece of white paper. Among the problems, there is also a complete brain diagram. When the subtitle mentions 'an extraordinary brain that lacked the,' what color appears on the right side of the brain diagram?
   - A. The left side of the brain diagram is gray with stained patterns.
@@ -2770,7 +2770,7 @@
   - C. The right side of the brain diagram is gray, resembling stains.
   - D. The left side of the brain is blue with stains.
 
-- **QID**: GwcXYTX2GmA_0 | **motion**: N | **correct**: False
+- **QID**: GwcXYTX2GmA_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: With a green background, there are two overlapping photos of Black children. Additionally, there are bold white text elements on the top and right sides of the screen. Which of the following subtitles was displayed at the same time?
   - A. population belonging to the next biggest
@@ -2778,7 +2778,7 @@
   - C. have ancestral roots actually to arabs
   - D. that leaves about four percent of the 
 
-- **QID**: H7gnsO4UZmU_0 | **motion**: N | **correct**: True
+- **QID**: H7gnsO4UZmU_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the room, a woman wearing a necklace and white clothes is talking. When she mentions 'don't have to go to the gym for like a', which object does not appear in the scene?
   - A. Milk tea
@@ -2786,7 +2786,7 @@
   - C. Mirror
   - D. Bright lamp
 
-- **QID**: HPunfsyjETs_0 | **motion**: N | **correct**: False
+- **QID**: HPunfsyjETs_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: There are several small bowls used for holding items on the screen. In which scenes do these small bowls appear?
   - A. One scene involves pouring flour into a bowl, another scene involves adding colorful frosting to a big bowl, and another scene involves adding a liquid oil substance.
@@ -2794,7 +2794,7 @@
   - C. One scene is adding colorful frosting to a big bowl, another scene is adding a liquid oil substance.
   - D. Adding a liquid oil substance.
 
-- **QID**: HRYlXC_ChzU_0 | **motion**: N | **correct**: True
+- **QID**: HRYlXC_ChzU_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: Sitting in the driver's seat of the car, a woman wearing blue jeans and a high ponytail mentioned in the subtitles 'really in depth car videos like those'. What color top was she wearing?
   - A. purple
@@ -2803,7 +2803,7 @@
   - D. black
   - E. green
 
-- **QID**: I-yg_3yx6iA_0 | **motion**: N | **correct**: True
+- **QID**: I-yg_3yx6iA_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Under a gray sky, a bullet-riddled airplane is flying with red and white stripes on its tail wings. There is a red pattern dot on the back of the fuselage, and the rest of the plane is silver. When the subtitle 'the aircraft falling away after being' appears, what is the shape of the red pattern on the tail of the fuselage?
   - A. A star
@@ -2812,7 +2812,7 @@
   - D. A pattern composed of a rectangle and a star
   - E. A rectangle
 
-- **QID**: I-yg_3yx6iA_1 | **motion**: N | **correct**: True
+- **QID**: I-yg_3yx6iA_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A green transport truck is parked on the roadside, with two groups of people fighting around the car. One group is in dark green uniforms holding axes, clubs and other weapons, while the other group is wearing white hats and uniforms with armbands. The highway is lined with greenery on both sides. When the subtitle 'there have been dozens of Border' appears, what shape is the decorative pattern on the rear of the car?
   - A. Circle
@@ -2821,7 +2821,7 @@
   - D. Rectangle
   - E. Triangle
 
-- **QID**: I-yg_3yx6iA_2 | **motion**: N | **correct**: False
+- **QID**: I-yg_3yx6iA_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the gray background, a row of soldiers wearing green uniforms is advancing along the diagonal staircase, holding guns. There is a bold white English text in the center of the screen. When the subtitle 'koreas the war was an international' appears, what shape is the figure at the bottom of the stairs?
   - A. triangle
@@ -2830,7 +2830,7 @@
   - D. rectangle
   - E. circle
 
-- **QID**: IGmuaY1jB1w_0 | **motion**: N | **correct**: False
+- **QID**: IGmuaY1jB1w_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the bottom right corner of the screen, there is a number 36. There are 9 colorful images in the center, and the top right corner has an image of an airplane. When the subtitles say 'find paper to the power,' what other objects are present on the screen?
   - A. watch, radio, car, sunflower
@@ -2838,7 +2838,7 @@
   - C. watch, radio, car, elephant
   - D. watch, radio, car, big tree
 
-- **QID**: IGmuaY1jB1w_1 | **motion**: N | **correct**: True
+- **QID**: IGmuaY1jB1w_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the bottom right corner of the screen, the number is 31. A colorful picture appears on the screen, along with three purple rectangles containing black text. When the subtitle says 'have the image and you have the text so', what else is on the screen?
   - A. Sunflower
@@ -2846,7 +2846,7 @@
   - C. Car
   - D. Radio
 
-- **QID**: IGmuaY1jB1w_2 | **motion**: N | **correct**: False
+- **QID**: IGmuaY1jB1w_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: When the subtitles say 'packages after just cating lunch other,' the number 26 appears in the bottom right corner of the screen, and an image with colorful parts is shown. Beside the image, there are two lines of green text, four lines of yellow text, and two lines of red text. What other items are present on the screen?
   - A. Sunglasses with earrings
@@ -2854,7 +2854,7 @@
   - C. Sunflower
   - D. Microphone
 
-- **QID**: IN0osLg-Mn8_0 | **motion**: N | **correct**: True
+- **QID**: IN0osLg-Mn8_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A man wearing a black coat is kissing a woman with a ponytail. When the subtitle 'the conspiracy Frank sends his wife, Jordan to safety in Venezuela, then burns down his casino' appears, which of the following items is present?
   - A. hat
@@ -2863,7 +2863,7 @@
   - D. ring
   - E. earphone
 
-- **QID**: IN0osLg-Mn8_1 | **motion**: N | **correct**: False
+- **QID**: IN0osLg-Mn8_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A person wearing a black jacket is pressing down another person wearing a checkered jacket on the ground. When the subtitle 'The prideful Frank refuses to cooperate, and is fatally stabbed and left for dead in the desert' appears, which of the following items is present?
   - A. hat
@@ -2872,7 +2872,7 @@
   - D. phone
   - E. watch
 
-- **QID**: IuVyCbtGBFQ_0 | **motion**: N | **correct**: True
+- **QID**: IuVyCbtGBFQ_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The blue sky is filled with many clouds, beneath the clouds lies a mountain ridge resembling a centipede, below the mountain ridge there are green plants and an endless expanse of seawater. A man stands sideways in front of the water. When the subtitle 'This island itself resembles a harbor' appears, what is present in the video frame?
   - A. White sailor cap
@@ -2881,7 +2881,7 @@
   - D. A ferry
   - E. Sailboat
 
-- **QID**: J1IwKg2ufk8_0 | **motion**: N | **correct**: False
+- **QID**: J1IwKg2ufk8_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A person wearing an embroidered dress, whose face is not visible, is cutting a tomato on a wooden board with a vegetable knife. What objects are present in this scene?
   - A. golden fork
@@ -2890,7 +2890,7 @@
   - D. parsley
   - E. pasta
 
-- **QID**: J1IwKg2ufk8_1 | **motion**: N | **correct**: False
+- **QID**: J1IwKg2ufk8_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A person wearing gray clothes without showing their face is holding the handle of the vegetable knife with their right hand and pressing the back of the knife with their left hand, cutting garlic on a wooden board. What objects are present in this scene?
   - A. Silver bracelet
@@ -2899,7 +2899,7 @@
   - D. Golden ring
   - E. Vegetable knife with letters on the blade
 
-- **QID**: J1IwKg2ufk8_2 | **motion**: N | **correct**: True
+- **QID**: J1IwKg2ufk8_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a black pot, there are red ingredients being cooked. A person without a visible face is holding a spatula, stirring the contents in the pot. What objects are present in this scene?
   - A. chopsticks
@@ -2908,7 +2908,7 @@
   - D. iron spatula
   - E. fork
 
-- **QID**: JASFwBtUK40_0 | **motion**: N | **correct**: False
+- **QID**: JASFwBtUK40_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a laboratory shown in the video, there are many experimental instruments and devices on an olive-colored desk. The window behind is white. When the subtitle mentions 'At this moment that we are defining and redefining', which person appears on the screen at this moment?
   - A. Jack
@@ -2916,7 +2916,7 @@
   - C. John
   - D. Andrés Jacque
 
-- **QID**: JASFwBtUK40_1 | **motion**: N | **correct**: False
+- **QID**: JASFwBtUK40_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a room with white walls in the video, there are several brown experiment tables. A man wearing a blue and white shirt and black glasses is explaining. When the subtitle mentions 'I can. The higher I lift it, the faster the explanation goes,' which item is not present in the room at this time?
   - A. Some transparent tubes
@@ -2924,7 +2924,7 @@
   - C. Some white pipes
   - D. Black glasses
 
-- **QID**: JDtVwz1R-kI_0 | **motion**: N | **correct**: False
+- **QID**: JDtVwz1R-kI_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a restroom, the door to a room with a toilet is open, and there's a sink outside the door. A man wearing a gray short-sleeve shirt and carrying a backpack stands with his right thumb up. Where else has this man appeared?
   - A. On a motorcycle
@@ -2933,7 +2933,7 @@
   - D. On a suspension bridge
   - E. On the beach
 
-- **QID**: JDtVwz1R-kI_2 | **motion**: N | **correct**: True
+- **QID**: JDtVwz1R-kI_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room, the ceiling light emits a blend of colors, a red typewriter is placed on the black table, and beside the table, a woman with dark skin wearing gray clothing is holding a bottle of mineral water. Where has this bottle of mineral water been placed?
   - A. On the brown table
@@ -2942,7 +2942,7 @@
   - D. On the airplane
   - E. On the white bed
 
-- **QID**: JIoE18JYGcM_0 | **motion**: N | **correct**: True
+- **QID**: JIoE18JYGcM_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In front of a pure blue background with white squares, there is a man with short hair wearing a gray suit with a white printed shirt inside. What color are his glasses?
   - A. gold
@@ -2951,7 +2951,7 @@
   - D. white
   - E. silver
 
-- **QID**: JIoE18JYGcM_1 | **motion**: N | **correct**: True
+- **QID**: JIoE18JYGcM_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a white webpage background, it says 'Physics of the Everyday,' with a yellow icon next to the text. There is also a bird next to the icon. What kind of feathers does this bird have?
   - A. Gray feathers
@@ -2960,7 +2960,7 @@
   - D. Pink feathers
   - E. White feathers
 
-- **QID**: JLBsG65WoVU_0 | **motion**: N | **correct**: False
+- **QID**: JLBsG65WoVU_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a screen with a white background, there are three headshot photos of people and their information. Below these, there is a headshot photo of one person and their information. On the right side of the screen, there is a male wearing a blue striped shirt. Which object appears on the screen?
   - A. A round photo of a man wearing a black suit
@@ -2968,7 +2968,7 @@
   - C. A rectangular photo of a man wearing a white shirt
   - D. A round photo of a man wearing a black shirt
 
-- **QID**: JLBsG65WoVU_1 | **motion**: N | **correct**: True
+- **QID**: JLBsG65WoVU_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There is a row of neatly arranged green fields on the screen, with differently sized houses with gray roofs on top. Which object appears on the screen below?
   - A. green tree
@@ -2976,7 +2976,7 @@
   - C. white clouds
   - D. yellow sun
 
-- **QID**: JLnsWrzV_j4_0 | **motion**: N | **correct**: True
+- **QID**: JLnsWrzV_j4_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the distance, there are some green plants within grey buildings. A woman dressed in a Tibetan blue long-sleeve top, a blue checkered short-sleeve shirt, black leggings, and carrying a black crossbody bag is taking a photo of a man in front of her who is wearing a Tibetan blue top and grey pants with a backpack. What is the hairstyle of this woman when the subtitle 'ignores her and walks away Yuan secretly' appears?
   - A. Loose hair
@@ -2985,7 +2985,7 @@
   - D. Short brown hair
   - E. Brown curly hair
 
-- **QID**: JLnsWrzV_j4_1 | **motion**: N | **correct**: True
+- **QID**: JLnsWrzV_j4_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A man with black parted hair, wearing a blue shirt, a black backpack, and a wristwatch is kneeling on the ground, looking troubled at the scattered items on the ground. When the caption 'having an accident that distracts her' appears, what color is the wristwatch worn by this man?
   - A. Blue
@@ -2994,7 +2994,7 @@
   - D. White
   - E. Black
 
-- **QID**: J_ZmaKRpyoU_0 | **motion**: N | **correct**: True
+- **QID**: J_ZmaKRpyoU_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On the screen, there are three images on the PPT. One of the images has the word 'Image/Video' below it, another one has the word 'Where?' below it, and in the bottom right corner, there is a woman wearing a dark blue inner outfit, a black outer coat, and glasses. What objects have appeared on the screen?
   - A. A photo of a globe
@@ -3002,7 +3002,7 @@
   - C. A photo of a road at night
   - D. A photo of a man in a black short-sleeved shirt
 
-- **QID**: J_ZmaKRpyoU_1 | **motion**: N | **correct**: True
+- **QID**: J_ZmaKRpyoU_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the screen, there is a data table on a PPT, with English text below the data table. The text above the data table reads 'Cross-view Geo-localization Datasets'. Several rows in the data table are highlighted, and a woman wearing a black outer jacket over a dark blue inner top is seen in the bottom right corner. What lines are present on the screen?
   - A. blue dashed line
@@ -3010,7 +3010,7 @@
   - C. red dashed line
   - D. purple double horizontal line
 
-- **QID**: J_ZmaKRpyoU_2 | **motion**: N | **correct**: False
+- **QID**: J_ZmaKRpyoU_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the screen, there are 15 images on the PPT. On the right side of the images, there are several lines of English text, with the words 'Comparison: Qualitative Results' written on the images. In the bottom right corner, there is a woman wearing a dark blue inner coat with a black outer coat. Which images are highlighted on the screen?
   - A. The last image in the bottom right corner is highlighted with a green box
@@ -3018,7 +3018,7 @@
   - C. The last image in the bottom right corner is highlighted with a red box
   - D. An image in the middle is highlighted
 
-- **QID**: Jaw7eWzgWr0_0 | **motion**: N | **correct**: True
+- **QID**: Jaw7eWzgWr0_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In a room, there is a man wearing a suit with a white shirt and a tie, holding and playing an instrument. What color is the tie the man is wearing?
   - A. white
@@ -3026,7 +3026,7 @@
   - C. black
   - D. yellow
 
-- **QID**: Jaw7eWzgWr0_1 | **motion**: N | **correct**: True
+- **QID**: Jaw7eWzgWr0_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In a room filled with many musical instruments, there is a man wearing a dark green suit with a light blue shirt underneath, a blue tie, and glasses, holding a musical instrument. What is the color of the gloves worn by the man with glasses?
   - A. Black
@@ -3034,7 +3034,7 @@
   - C. White
   - D. Yellow
 
-- **QID**: K24dFfIM0gI_0 | **motion**: N | **correct**: False
+- **QID**: K24dFfIM0gI_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: On the narrow mountain roads where the road is blocked tightly with crawling traffic, filled with all kinds of trucks, which subtitles appear simultaneously when two rows of trucks are tightly connected on the congested road?
   - A. disputes Pakistan sometimes shuts is 
@@ -3042,7 +3042,7 @@
   - C. Economically and it's not only on its
   - D. Millions is sulfur
 
-- **QID**: KWv8DJMEHsE_0 | **motion**: N | **correct**: True
+- **QID**: KWv8DJMEHsE_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Two men wearing straw hats and gray clothes with knee pads are standing in the grass holding knives. There are some grass huts behind them. What kind of knives are they holding?
   - A. Small knife
@@ -3051,7 +3051,7 @@
   - D. Long knife
   - E. Fruit knife
 
-- **QID**: KWv8DJMEHsE_1 | **motion**: N | **correct**: True
+- **QID**: KWv8DJMEHsE_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Two men wearing straw hats and grey clothes stand in a grass field holding long knives. Behind them are a few green trees and a house. What does the house behind them look like?
   - A. Wooden house
@@ -3060,7 +3060,7 @@
   - D. Straw hut
   - E. Earthen house
 
-- **QID**: KlZpZVphLrc_0 | **motion**: N | **correct**: True
+- **QID**: KlZpZVphLrc_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: The BBC is broadcasting news. A woman with gray hair, wearing a red striped dress and glasses, is speaking. Behind her, there is another woman with black hair wearing a yellow dress and a man with glasses wearing a gray dress. There are several people behind them all listening attentively. When the phrase 'create the conditions for a sustainable' is mentioned, which item is not present in the scene?
   - A. diamond necklace
@@ -3069,7 +3069,7 @@
   - D. microphone used for talking
   - E. pearl necklace
 
-- **QID**: KlZpZVphLrc_1 | **motion**: N | **correct**: True
+- **QID**: KlZpZVphLrc_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: BBC Television is currently broadcasting the news. On the left side of the split screen, a woman with long auburn hair, wearing blue clothes, is explaining something. On the right side of the screen, a video shows a man with white hair speaking, holding a white piece of paper, with a man and a woman seated behind him. When the phrase 'must be a condemnation of all parties if' is mentioned, which of the following objects does not appear in the scene?
   - A. Badge with a blue strap
@@ -3078,7 +3078,7 @@
   - D. Microphone
   - E. Blue clothes
 
-- **QID**: LVFvRNRTEd4_0 | **motion**: N | **correct**: True
+- **QID**: LVFvRNRTEd4_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the screen, there is a man on the right wearing a dark blue coat, paired with a green shirt underneath, pointing forward with his right index finger. To the left, there is a black man wearing a red coat, holding a metal rod. When the subtitle mentions 'fishing and research here you know why,' what material is the handle of the metal rod made of?
   - A. Stone
@@ -3086,7 +3086,7 @@
   - C. Cloth
   - D. Wood
 
-- **QID**: LVFvRNRTEd4_1 | **motion**: N | **correct**: True
+- **QID**: LVFvRNRTEd4_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On the left side of the screen, there are some yellow objects under the tree being exposed to the sun. On the right side, there is a person with long hair wearing a white top and blue pants standing in front of a wall. The person with long hair is carrying a bag. When the subtitle mentions 'largest nickel and abaca or Manila home,' what is the shape of the bag the person with long hair is carrying?
   - A. circle
@@ -3094,7 +3094,7 @@
   - C. triangle
   - D. square
 
-- **QID**: LVFvRNRTEd4_2 | **motion**: N | **correct**: False
+- **QID**: LVFvRNRTEd4_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Among the group of people in the video, there is a woman wearing a blue jacket with a white shirt underneath. She is raising her right hand, holding a large stuffed toy in her left hand, and carrying a white plastic bag filled with items. When the subtitle mentions 'those and the word balikbayan means,' what color is the stuffed toy?
   - A. purple
@@ -3103,7 +3103,7 @@
   - D. green
   - E. yellow
 
-- **QID**: Lc7RikDaa30_0 | **motion**: N | **correct**: False
+- **QID**: Lc7RikDaa30_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: Green plants and decorative shelves are respectively on the left and right sides of the screen. A man with glasses, wearing a yellow suit and having a middle part hairstyle, is speaking into the microphone. Which of the following concepts is mentioned first?
   - A. The COE prices in Singapore have always been high
@@ -3112,7 +3112,7 @@
   - D. We need a rational and accurate road pricing system
   - E. More Singaporeans can own cars
 
-- **QID**: Lf7uW4xK2bc_0 | **motion**: N | **correct**: True
+- **QID**: Lf7uW4xK2bc_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the video, there is a bowl on the table containing a white powdery substance. What color is the liquid being dripped into the bowl by the hand on screen?
   - A. black
@@ -3120,7 +3120,7 @@
   - C. purple
   - D. red
 
-- **QID**: LfUsGv-ESbc_0 | **motion**: N | **correct**: False
+- **QID**: LfUsGv-ESbc_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The screen displays a webpage. The webpage contains some code, a gray image at the top, three clickable icons in the left sidebar, and login and settings options on the right side. In the bottom right corner, a man with sunglasses and short hair, wearing black clothes, is explaining something. When he mentions 'there you go and nothing happens of,' what is the shape of the gray icon in the top-right corner of the screen?
   - A. Stairs
@@ -3129,7 +3129,7 @@
   - D. Circle
   - E. Pentagram
 
-- **QID**: LfUsGv-ESbc_1 | **motion**: N | **correct**: False
+- **QID**: LfUsGv-ESbc_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The screen shows a webpage. The top of the webpage has a sea-green background, the middle has a white background, and there's a black-and-white image on the right side. The middle contains some program code. In the black-and-white image, there is a man running with his hands raised. There are some icons connected with lines on his legs. In the lower right corner of the screen, there is a man wearing sunglasses and dressed in black, who is explaining something. The background behind him is grey. What is the shape of the icon connected by white lines on the screen?
   - A. Circle
@@ -3138,7 +3138,7 @@
   - D. Staircase shape
   - E. Rectangle
 
-- **QID**: LfUsGv-ESbc_2 | **motion**: N | **correct**: False
+- **QID**: LfUsGv-ESbc_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The screen displays a Google webpage, with a white background featuring five pictures. The right section has a black background with one picture. In the bottom right corner, there's a man with short hair wearing glasses and dressed in black who is explaining something. He has a beard, and the background behind him is grey. Above these images on the white background, there are eight identical icons related to the images. What is the shape of these icons?
   - A. Oval
@@ -3147,7 +3147,7 @@
   - D. Square
   - E. Rectangle
 
-- **QID**: M-YfPangEfA_0 | **motion**: N | **correct**: False
+- **QID**: M-YfPangEfA_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: On the yellow wooden dining table in the video, some food and tableware are placed. Which of the following items do not exist?
   - A. Noodles
@@ -3156,7 +3156,7 @@
   - D. Black fork
   - E. Bun
 
-- **QID**: M5Umm-ltnao_0 | **motion**: N | **correct**: False
+- **QID**: M5Umm-ltnao_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: A woman with gray clothing and pink manicured hands is holding a copper-colored bracelet up to the camera and says, 'it also comes with this chain one I.' Which object is not shown on the screen?
   - A. black bracelet
@@ -3164,7 +3164,7 @@
   - C. wooden door
   - D. white-framed Pegasus painting
 
-- **QID**: M5YKW6fhlss_1 | **motion**: N | **correct**: False
+- **QID**: M5YKW6fhlss_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a park, next to a garbage bin, there is a tree. Beside the tree, there is a bench on which a man wearing glasses is seated. His right hand is on his waist, and he is holding a cellphone in his left hand. In what scenes has this man appeared?
   - A. In a car
@@ -3173,7 +3173,7 @@
   - D. In an underground cave with a river flowing through it
   - E. Next to a butterfly wearing a green coat
 
-- **QID**: MPQn_orwpfA_0 | **motion**: N | **correct**: True
+- **QID**: MPQn_orwpfA_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: The floor of the room is brown, there are flags and pictures on the wall. To the right is a bookshelf filled with books. A zoomed out map appears in the top right corner. A man wearing a grey coat is sitting on a black stool. What subtitle appears together with the map in the top right corner?
   - A. Music
@@ -3182,7 +3182,7 @@
   - D. We're funding maybe about 75% of all these train lines
   - E. You know at first glance this picture
 
-- **QID**: MPQn_orwpfA_1 | **motion**: N | **correct**: True
+- **QID**: MPQn_orwpfA_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: The floor of the room is tan, there are flags and pictures posted on the walls, a bookshelf filled with books on the right side, in the upper right corner there is a picture of an airplane flying in a clear sky, a man wearing a gray coat sitting on a black chair, which subtitle does this airplane picture appear together with?
   - A. Europe Russia China, India and Australia most of these lines actually don't exist. So let's assume
@@ -3191,7 +3191,7 @@
   - D. We live in a time in which air travel is the preferred method of long distance Journeys however
   - E. 65 to 94
 
-- **QID**: N4VtpYgZLVg_0 | **motion**: N | **correct**: True
+- **QID**: N4VtpYgZLVg_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On the white wall, there are many square picture frames hanging. There is an air conditioner on the left side of the wall, and below the air conditioner, there is a rolled-up curtain. The ceiling is a light color. A man with curly hair wearing an orange coat is speaking. What objects are present in the room?
   - A. A silver necklace
@@ -3200,7 +3200,7 @@
   - D. A hat
   - E. A Mona Lisa painting
 
-- **QID**: N4VtpYgZLVg_1 | **motion**: N | **correct**: True
+- **QID**: N4VtpYgZLVg_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: At the restaurant beside the dim street, a man in a gray short-sleeved shirt is sitting by the tree for a meal. On his left, there is a man wearing glasses and a white short-sleeved shirt along with a woodpile. On his right, there is someone in a yellow outfit and his friend sitting in a dark corner. What items are present in the scene?
   - A. a cat
@@ -3209,7 +3209,7 @@
   - D. a hat
   - E. a dog
 
-- **QID**: N7RTTiHsSjI_0 | **motion**: N | **correct**: True
+- **QID**: N7RTTiHsSjI_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On the exterior facade of a building, there are three windows in the middle, a black pipe on the left side, and a white air conditioner unit on the right side. What is the shape of the air conditioner unit?
   - A. Cuboid
@@ -3218,7 +3218,7 @@
   - D. Cylindrical
   - E. Conical
 
-- **QID**: N7RTTiHsSjI_1 | **motion**: N | **correct**: True
+- **QID**: N7RTTiHsSjI_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a flat ground, the left side is the exterior wall of a building. There are two windows on the exterior wall, two outdoor units of air conditioners, and several plants at the bottom. In the middle, there are 7 people, 5 of whom are looking upward. There is a car in front of them, and there is a liquid on the car. Could you please tell me the color of the liquid on the car at this time?
   - A. Purple
@@ -3227,7 +3227,7 @@
   - D. White
   - E. Blood Red
 
-- **QID**: NHIT9vq6mJU_0 | **motion**: N | **correct**: True
+- **QID**: NHIT9vq6mJU_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a white room, there are many glass cabinets. A yellowish-white pillar is placed against the wall, and next to the pillar, there is a niche in the wall with a painting inside it. What is the shape of the niche?
   - A. Square
@@ -3236,7 +3236,7 @@
   - D. Rectangle
   - E. Arch-shaped
 
-- **QID**: NHIT9vq6mJU_1 | **motion**: N | **correct**: True
+- **QID**: NHIT9vq6mJU_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a white room, there is a large glass display case against the wall, inside the case is a large painting. A woman dressed in a red suit is looking at the painting hanging on the wall. What hairstyle does the woman in the red suit have?
   - A. Black long curly hair
@@ -3245,7 +3245,7 @@
   - D. Black short hair
   - E. Blonde short hair
 
-- **QID**: NHIT9vq6mJU_2 | **motion**: N | **correct**: True
+- **QID**: NHIT9vq6mJU_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a huge room with various exhibits on either side, there is a large pillar in the middle of the room. Next to the pillar, in the middle of the room, there is a long table. What is the color of the long table?
   - A. Green
@@ -3254,7 +3254,7 @@
   - D. Gray
   - E. White
 
-- **QID**: NIxyQQfuVoc_0 | **motion**: N | **correct**: True
+- **QID**: NIxyQQfuVoc_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In front of a white house, surrounded by big trees, there is a woman wearing sunglasses, holding the hands of two little girls. What color is the top that the woman wearing sunglasses is wearing?
   - A. Blue
@@ -3262,7 +3262,7 @@
   - C. Red
   - D. White
 
-- **QID**: NMHmqgO04rU_0 | **motion**: N | **correct**: False
+- **QID**: NMHmqgO04rU_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The man wearing a brown apron and blue jeans is sitting on a sofa, with flower-patterned white cushions and pillows. The man is holding a plate in one hand and chopsticks in the other. There is a dog with a collar in front of him. In the direction of his hand holding the plate, there is a kitchen full of utensils. When the subtitle 'You can't eat this' appears, what is the clothing like under the man's brown apron?
   - A. White shirt
@@ -3271,7 +3271,7 @@
   - D. Blue short sleeves
   - E. White short sleeves
 
-- **QID**: NMHmqgO04rU_1 | **motion**: N | **correct**: False
+- **QID**: NMHmqgO04rU_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A white Pekingese dog is lying on a white cushion on the sofa. The dog is wearing a pearl necklace around its neck. There is a plaid pillow on the sofa. In the bottom left corner of the screen, there is an upper body image of a man wearing a white coat. When the subtitle 'It was just a small amount' appears, what does the sofa look like?
   - A. Olive-colored artificial leather sofa
@@ -3280,7 +3280,7 @@
   - D. Black artificial leather sofa
   - E. Olive-colored wooden sofa
 
-- **QID**: NMHmqgO04rU_2 | **motion**: N | **correct**: False
+- **QID**: NMHmqgO04rU_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The man in a dark suit is handling food on a cutting board with a knife. He is wearing sunglasses, and behind him are various kitchen utensils and white cabinets. On the right side of the table, there is a bottle with green packaging containing cooking oil. In the lower left and right corners of the screen, there are images of two men from the waist up. When the subtitle 'Sheesh...' appears, what is the lighting on the ceiling like?
   - A. Round wall lamp
@@ -3289,7 +3289,7 @@
   - D. Gold pendant lamp
   - E. Silver pendant lamp
 
-- **QID**: NS2V_OHYkvA_0 | **motion**: N | **correct**: False
+- **QID**: NS2V_OHYkvA_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the video, there are many well-arranged categories of foods in the supermarket. When the subtitle mentions 'so', what object is present in the bottom row of the screen?
   - A. eggs
@@ -3297,7 +3297,7 @@
   - C. ice cream bars
   - D. fried chicken
 
-- **QID**: O6UedmnRJc0_0 | **motion**: N | **correct**: True
+- **QID**: O6UedmnRJc0_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: The background is a white wall, with a black cabinet on the right side. A man wearing a white long-sleeved shirt and black pants stands next to a round wooden table with fruit and food on it, speaking to the camera. In which other scenes does this man appear?
   - A. On a sandy beach by the sea
@@ -3306,7 +3306,7 @@
   - D. By a swimming pool
   - E. In a dining hall
 
-- **QID**: O6UedmnRJc0_1 | **motion**: N | **correct**: True
+- **QID**: O6UedmnRJc0_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a warmly lit office, a man wearing a gray short-sleeve shirt and a wristwatch is sitting face-to-face with a woman in a white coat with golden curly hair at a wooden table. In what other scenes has this woman appeared?
   - A. In a gym.
@@ -3315,7 +3315,7 @@
   - D. In a swimming pool.
   - E. In an office with wooden walls, beside a black screen and a laptop, opposite a man in a light denim jacket.
 
-- **QID**: O6UedmnRJc0_2 | **motion**: N | **correct**: True
+- **QID**: O6UedmnRJc0_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: The background features sunlit green trees and a doorway. A man wearing a white short-sleeved shirt, black pants, and sporting a goatee is sitting on a white sofa outside. In what other scenes does this man appear?
   - A. On a rooftop terrace
@@ -3324,7 +3324,7 @@
   - D. Inside a library
   - E. Inside a museum
 
-- **QID**: OGaML8Gg8JQ_0 | **motion**: N | **correct**: True
+- **QID**: OGaML8Gg8JQ_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A man with short black hair, standing in front of a black background, wearing a purple short-sleeve shirt, in which of the following scenes did he appear?
   - A. A scene with a pure black background and a small green map on the side
@@ -3333,7 +3333,7 @@
   - D. A courtyard with many fresh flowers
   - E. In a park with many people
 
-- **QID**: OGaML8Gg8JQ_1 | **motion**: N | **correct**: False
+- **QID**: OGaML8Gg8JQ_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of a backdrop with a plant illustration, there is a man wearing a white hat, a gray T-shirt, and a black wristwatch. In which of the following scenes does he appear?
   - A. In front of a pure black backdrop, there is a scene with a man wearing a white short-sleeved shirt.
@@ -3342,7 +3342,7 @@
   - D. In front of a pure black backdrop, there is a scene with a man wearing a red short-sleeved shirt.
   - E. In front of a pure black backdrop, there is a scene with a man wearing a blue short-sleeved shirt.
 
-- **QID**: OLO19ZtdRwQ_0 | **motion**: N | **correct**: True
+- **QID**: OLO19ZtdRwQ_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The video talks about famous tourist attractions. When the subtitle mentions 'ambitious Island boasting beautiful', there are a few people inside a hall, with a couple taking photos. What type of hall appears on the screen?
   - A. Aquarium
@@ -3350,7 +3350,7 @@
   - C. Not appeared
   - D. Gymnasium
 
-- **QID**: OmhVj_-cfH0_0 | **motion**: N | **correct**: True
+- **QID**: OmhVj_-cfH0_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A middle-aged man wearing a dark brown hat, a suit with a dark blue coat and blue shirt is standing in a gallery. There are paintings displayed on both sides of the gallery, and there is a row of spotlights on the left side of the ceiling. What color is the suit the middle-aged man is wearing?
   - A. Brown
@@ -3359,7 +3359,7 @@
   - D. Black
   - E. Green
 
-- **QID**: OmhVj_-cfH0_1 | **motion**: N | **correct**: False
+- **QID**: OmhVj_-cfH0_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On the screen, there is an elderly man wearing a dark brown hat, dressed in a brown suit, with a dark blue sweater and a blue shirt underneath, walking in the gallery. On the right side of the gallery, there is an artwork displayed, among which a painting shows a woman in a green dress sitting on a sofa. Can you tell what color the sofa is?
   - A. red
@@ -3368,7 +3368,7 @@
   - D. green
   - E. white
 
-- **QID**: P0BSTjziVys_0 | **motion**: N | **correct**: False
+- **QID**: P0BSTjziVys_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the opening of the video, Melissa Maribel with dark brown hair and wearing a white V-neck top appears. In which of the following scenes does Melissa Maribel appear?
   - A. In an orange background with a green paper showing a hint in the middle.
@@ -3376,7 +3376,7 @@
   - C. In an orange background with a green plant pot in the upper right corner and some curved needles on the left.
   - D. On the right side with an orange background containing white text 'SUBSCRIBE', and on the left, a green horizontal line, a red vertical line, and some black text.
 
-- **QID**: P0BSTjziVys_1 | **motion**: N | **correct**: True
+- **QID**: P0BSTjziVys_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the video, there is a green planter in the upper right corner and a curved needle against an orange background on the left. There is a green piece of paper labeled Tip1 on the screen. In which of the following scenes does the green piece of paper also appear?
   - A. It appears simultaneously with the last SUBSCRIBE in the video.
@@ -3384,7 +3384,7 @@
   - C. In the video, there is a green planter in the upper right corner and a curved needle against an orange background on the left. There is a piece of paper labeled TIP2 on the screen.
   - D. In the video, there is a green planter in the upper right corner and a curved needle against an orange background on the left. There is a piece of paper labeled NOTE on the screen.
 
-- **QID**: PQRyGacBRA4_0 | **motion**: N | **correct**: False
+- **QID**: PQRyGacBRA4_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the video, a man wearing black clothes with curly hair is facing the camera. Behind him is a complex building with a clock tower. There are also some withered branches on the left side. In which of the following scenes does this man appear?
   - A. On top of a building with a lot of reporters, and the roof is red.
@@ -3393,7 +3393,7 @@
   - D. On a road surrounded by trees with cars around.
   - E. On a circular stage with many people below.
 
-- **QID**: PQRyGacBRA4_1 | **motion**: N | **correct**: False
+- **QID**: PQRyGacBRA4_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A man wearing a suit and a purple tie is walking on a concrete road surrounded by trees and parked cars. He has short hair and is holding a piece of white paper in his hand. What other scenes did this man appear in?
   - A. On a stage with British flags displayed
@@ -3402,7 +3402,7 @@
   - D. In front of a complex building with a bell tower and some withered branches on the left
   - E. In front of a green backdrop painted with various colorful buildings
 
-- **QID**: PzUxuZ-KGsU_0 | **motion**: N | **correct**: True
+- **QID**: PzUxuZ-KGsU_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a red wooden table, there is a round pancake laid horizontally, and the surface of the pancake is covered with an even spread of sauce. On the screen, a hand is seen sprinkling some garnish onto the sauce. Which of the following ingredients appear?
   - A. Cooked white meat mince
@@ -3410,7 +3410,7 @@
   - C. White diced onions
   - D. Yellow minced ginger sauce
 
-- **QID**: PzUxuZ-KGsU_1 | **motion**: N | **correct**: False
+- **QID**: PzUxuZ-KGsU_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On the red wooden table, there is an iron grid rack with a glass bowl containing four rolls of food. In the frame, there is a brush covered with yellow liquid decorating them. Which of the following objects did not appear?
   - A. Light blue brush
@@ -3418,7 +3418,7 @@
   - C. Glass bowl with egg liquid
   - D. Black iron rack
 
-- **QID**: QHS9ZZBdK-g_1 | **motion**: N | **correct**: False
+- **QID**: QHS9ZZBdK-g_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a beige screen, there is English text in orange, red, and black. In the lower right corner, a man is talking to Mike. What color is the jacket that the man is wearing?
   - A. green
@@ -3426,7 +3426,7 @@
   - C. yellow
   - D. red
 
-- **QID**: QUtk5xEw1mQ_0 | **motion**: N | **correct**: False
+- **QID**: QUtk5xEw1mQ_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: At the beginning of the video, there is a man with greyish-white hair and a beard in front of a light purple background. He is wearing glasses and a brown coat. With which subtitles did this man appear?
   - A. the price of man
@@ -3435,7 +3435,7 @@
   - D. happyless but why they are forced to pay
   - E. helpful but why they are forced to pay
 
-- **QID**: RTUFPjliMCU_0 | **motion**: N | **correct**: False
+- **QID**: RTUFPjliMCU_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: What style of clothing is the woman in the upper right corner of the screen wearing when the subtitle 'doesn’t allow me to produces as much' appears while two women are discussing the combination of milk and coffee?
   - A. Black and white striped suit
@@ -3444,7 +3444,7 @@
   - D. Brown and green striped suit
   - E. Blue and grey striped suit
 
-- **QID**: RTUFPjliMCU_1 | **motion**: N | **correct**: True
+- **QID**: RTUFPjliMCU_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the video, two women are explaining a chemistry problem. There are four numbers circled in the problem analysis. When the subtitles display 'kind of remove all this and just show', what are the characteristics of the line that highlights the circled numbers?
   - A. a dashed blue line
@@ -3453,7 +3453,7 @@
   - D. a solid blue line
   - E. a curved blue line
 
-- **QID**: RTUFPjliMCU_2 | **motion**: N | **correct**: False
+- **QID**: RTUFPjliMCU_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Two women on the screen are explaining a question. In the problem, there is a number crossing a pink bar at the bottom and a slanted line. When the subtitle 'figs but I still would round up so I' appears, what color is the slanted line?
   - A. Olive Yellow
@@ -3462,7 +3462,7 @@
   - D. Grass Green
   - E. Ink Green
 
-- **QID**: SAkgZJllNzw_0 | **motion**: N | **correct**: False
+- **QID**: SAkgZJllNzw_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: There is a yellow title of State Parks at the top of the screen. In a picture on the left, there is a yellow tree and a river. Below, there is a plane, and next to the plane, there is the number 1. On the right, there is a green mountain scene, and below it, there is a plane with the number 5 next to it. When mentioning 'lot of great state parks I've hiked and,' which object does not appear on the screen?
   - A. A plane made of white and black
@@ -3470,7 +3470,7 @@
   - C. A plane made of white, blue, and red
   - D. A green valley
 
-- **QID**: SCZ_Z4NnikA_0 | **motion**: N | **correct**: False
+- **QID**: SCZ_Z4NnikA_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a seaside hill covered with green grass, there is a shining sea in the distance. A white building is constructed on the hill, with a red building at the bottom right corner and a white object as well. What shape is the white building?
   - A. cylindrical
@@ -3479,7 +3479,7 @@
   - D. irregular
   - E. stepped
 
-- **QID**: SCZ_Z4NnikA_1 | **motion**: N | **correct**: True
+- **QID**: SCZ_Z4NnikA_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: There is a river in a grove, with green grass on the hillside next to it. On the left side of the river are green plants, and on the right side are white rocks. Some water is flowing in the river, and there is a bridge above it. What color are the railings of the bridge?
   - A. Yellow
@@ -3488,7 +3488,7 @@
   - D. Green
   - E. Black
 
-- **QID**: Scne0ls23MA_0 | **motion**: N | **correct**: False
+- **QID**: Scne0ls23MA_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a scene with a man in a white short-sleeve shirt, with a large rectangular account book (or register) behind him, and a brown object with a round spike at the top right corner of the screen, which of the following characters has appeared before?
   - A. A person wearing a blue and white headscarf and a black short-sleeve shirt
@@ -3496,7 +3496,7 @@
   - C. A person wearing a red and white headscarf and a black short-sleeve shirt
   - D. A person wearing a red and white headscarf and a black and white striped short-sleeve shirt
 
-- **QID**: Sn7JPKbG6tY_0 | **motion**: N | **correct**: True
+- **QID**: Sn7JPKbG6tY_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room with sunlight streaming through the window, decorated with many green plants, and with a shelf holding books and other items, there is a woman holding a cup. What is the color of this cup?
   - A. green
@@ -3505,7 +3505,7 @@
   - D. black
   - E. white
 
-- **QID**: Sn7JPKbG6tY_1 | **motion**: N | **correct**: True
+- **QID**: Sn7JPKbG6tY_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room, sunlight passes through the window and shines in. The room is decorated with many green plants. There is also a shelf containing books and other items. A woman is holding a makeup item. What shape are the glasses the woman is wearing?
   - A. Triangle
@@ -3514,7 +3514,7 @@
   - D. Circle
   - E. Stair-shaped
 
-- **QID**: Sn7JPKbG6tY_2 | **motion**: N | **correct**: True
+- **QID**: Sn7JPKbG6tY_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room with sunlight streaming through the windows, the room is decorated with many green plants. There is also a shelf with books and other items on it. A woman is admiring her eyeshadow in a mirror. What color is the woman's nail polish?
   - A. black
@@ -3523,7 +3523,7 @@
   - D. purple
   - E. white
 
-- **QID**: T15Kv6dtYO0_0 | **motion**: N | **correct**: True
+- **QID**: T15Kv6dtYO0_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the oil painting, there are a few men wearing clothes of various colors discussing in the back left, while on the front right, there's a bucket containing a liquid. Beside the bucket, a few women are stirring the liquid with wooden sticks. What color is the liquid inside the bucket in the painting?
   - A. yellow
@@ -3532,7 +3532,7 @@
   - D. black
   - E. blue
 
-- **QID**: T15Kv6dtYO0_1 | **motion**: N | **correct**: True
+- **QID**: T15Kv6dtYO0_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On the wooden floor, there is a pair of white sandals on the left side and a pair of red slippers along with a colorful rug on the right side. Behind the slippers is a cabinet. What color is the cabinet in the video?
   - A. white
@@ -3541,7 +3541,7 @@
   - D. red
   - E. green
 
-- **QID**: T15Kv6dtYO0_2 | **motion**: N | **correct**: True
+- **QID**: T15Kv6dtYO0_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the room, on the left is an open window, on the right is a red bed, on the back wall there is a gear-shaped decoration hanging, on the ceiling there is a chandelier, in the front a man dressed in black and wearing a black hat is holding the hand of a woman dressed in green and wearing a white headscarf. What is the shape of the hat in the room?
   - A. round
@@ -3550,7 +3550,7 @@
   - D. rectangular
   - E. stair-shaped
 
-- **QID**: T1K4rgs-1b8_0 | **motion**: N | **correct**: True
+- **QID**: T1K4rgs-1b8_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The screen shows a woman with black hair tied up. Behind her is a brick wall, she is wearing a lanyard necklace, and it seems she is also wearing a black bracelet on her hand. What object is not present in the scene?
   - A. Red and white scarf
@@ -3559,7 +3559,7 @@
   - D. Red lanyard necklace
   - E. Black pillar
 
-- **QID**: T57jVsvVVR0_1 | **motion**: N | **correct**: False
+- **QID**: T57jVsvVVR0_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On the left side of the screen, there is a large white board with black text saying 'NO EXTRADITION Free Julian Assange'. On the right side, there is a person holding a rectangular board with the text 'PRESS FREEDOM IS MY FREEDOM'. What style of shoes is the person on the right wearing when the subtitles say 'well I think the Australian government'?
   - A. skate shoes
@@ -3568,7 +3568,7 @@
   - D. black sneakers
   - E. black high heels
 
-- **QID**: T5bTeGzgJFs_0 | **motion**: N | **correct**: True
+- **QID**: T5bTeGzgJFs_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a grassy field with a gentle breeze and beautiful sunshine, there is a withered tree on the right. In the middle, a group of people dressed in animal skins are standing. They are holding long spears, and the leader is placing stone heads with carved patterns together. Which of the following subtitles have appeared along with the stone heads with carved patterns?
   - A. The trip continues with only stops to hunt and rest. One evening,when they find a large and
@@ -3577,7 +3577,7 @@
   - D. to give Kappa a memorial service that symbolizes the passing of one's spirit to the afterlife.
   - E. on a further ledge,where he breaks a leg and falls unconscious. Desperate to save his san,
 
-- **QID**: T5bTeGzgJFs_1 | **motion**: N | **correct**: False
+- **QID**: T5bTeGzgJFs_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a mountain cave, there is a person on the right wearing something, and on the left, there is a wolf baring its teeth at the person wearing something. Below the wolf, there is a coil of rope. Which of the following subtitles have appeared with the wolf?
   - A. on a further ledge, where he breaks a leg and falls unconscious. Desperate to save his san,
@@ -3586,7 +3586,7 @@
   - D. men bring the sleds to carry the bison on, Tau stays by the edge of the diff, crying in denial.
   - E. finds with the wolf as well. But worms are not enough to keep themselves fed, so Keda finally
 
-- **QID**: TlaX2iIYZD4_0 | **motion**: N | **correct**: False
+- **QID**: TlaX2iIYZD4_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The PPT on the screen has a three-line English title at the top, chemical formulas are filled below, and there are video screens of two women on the right; the woman at the bottom right is wearing a light-colored short-sleeve shirt, has long hair, black-frame glasses, and a wristwatch with a white strap. What kind of necklace is the woman at the bottom right wearing when the subtitle 'okay so what do we do now to find the' appears?
   - A. silver necklace
@@ -3595,7 +3595,7 @@
   - D. pearl necklace
   - E. green gemstone necklace
 
-- **QID**: TlaX2iIYZD4_1 | **motion**: N | **correct**: True
+- **QID**: TlaX2iIYZD4_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: At the top of the PPT in the video, there are three lines of English titles, with the bottom filled with chemical formulas. On the right, there are video frames of two women. The woman in the lower right is wearing a light-colored short-sleeve, long hair, and black-rimmed glasses. The woman in the upper right is wearing a black-and-white checkered jacket with a dark red inner layer. What is the hairstyle of the woman in the upper right when the subtitle 'of these and the limiting reactant is' appears?
   - A. Short curly hair
@@ -3604,7 +3604,7 @@
   - D. Curly black hair
   - E. Brown hair
 
-- **QID**: TlaX2iIYZD4_2 | **motion**: N | **correct**: True
+- **QID**: TlaX2iIYZD4_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There is a line of English text at the top of the PPT in the video, with some chemical formulas written below it. On the right side, there are two women in video frames. The woman in the lower right is sitting in front of a mirror with her head down, while the woman in the upper right with long black straight hair is wearing a black and white checkered coat and a dark red inner garment, facing the mirror. When the subtitle 'one and it‘s not of that I what I want' appears, what is the color of the chair that the woman in the lower right is sitting on?
   - A. Black
@@ -3613,7 +3613,7 @@
   - D. Olive
   - E. Green
 
-- **QID**: TxS1JnfuG34_0 | **motion**: N | **correct**: False
+- **QID**: TxS1JnfuG34_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a slightly dimly lit room, there is a woman with long hair, wearing a white short-sleeved shirt, sitting on a bed. She is holding a mobile phone. There is a white cabinet behind her, filled with various items. In which of the following scenes has the mobile phone appeared?
   - A. On a white perforated table
@@ -3622,7 +3622,7 @@
   - D. On a blue perforated table
   - E. On a red perforated table
 
-- **QID**: TxS1JnfuG34_1 | **motion**: N | **correct**: True
+- **QID**: TxS1JnfuG34_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On a street at night, there are two people. Among them, a woman with long black hair wearing a red coat is sitting on the ground. In front of her, a short-haired man wearing an olive-colored outfit is kneeling. In which of the following scenes did this woman appear?
   - A. In the woods
@@ -3631,7 +3631,7 @@
   - D. In the sea
   - E. On a plane
 
-- **QID**: TxS1JnfuG34_2 | **motion**: N | **correct**: False
+- **QID**: TxS1JnfuG34_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room, a man with short black hair, wearing black clothes, is holding a gun. He is pointing the gun at another man with short black hair, wearing black clothes with a belt. The question is, in which of the following scenes does this gun appear?
   - A. In the hand of the man with red hair
@@ -3640,7 +3640,7 @@
   - D. In the hand of the man with blue hair
   - E. In the hand of the man with purple hair
 
-- **QID**: UD5ifzOPzhc_0 | **motion**: N | **correct**: False
+- **QID**: UD5ifzOPzhc_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the white background at the top that has black English text 'Classifiers: Nearest neighbor', in the bottom right corner, there is a man wearing glasses and a suit. The screen also has some blue rectangular prints, and when the subtitle says 'category just assign that blue category', what color is the circle print on the screen?
   - A. green
@@ -3649,7 +3649,7 @@
   - D. blue
   - E. red
 
-- **QID**: UD5ifzOPzhc_1 | **motion**: N | **correct**: True
+- **QID**: UD5ifzOPzhc_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the white background at the top with black English letters 'K-nearest neighbor' written on it, there is a man wearing glasses and a suit in the bottom right corner. The screen has some red error symbols. When the subtitles say 'okay because these might be some noise,' what is the shape of the green graphic on the screen?
   - A. rectangle
@@ -3658,7 +3658,7 @@
   - D. star
   - E. square
 
-- **QID**: UKU-W5bBCwY_0 | **motion**: N | **correct**: False
+- **QID**: UKU-W5bBCwY_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the scene of a movie on the screen, a group of people are dressed in very shabby clothes, with burlap bags over their heads showing only their eyes. They are in a well-decorated room. The walls of the room have orange-colored light strips, the ceiling is blue, and there are orange-colored sofas and chairs in the room. There is a red laser on the ceiling. What is the shape of the patterns on the ceiling?
   - A. Triangle
@@ -3667,7 +3667,7 @@
   - D. Heart
   - E. Square
 
-- **QID**: UMFy3keSk-s_0 | **motion**: N | **correct**: False
+- **QID**: UMFy3keSk-s_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room with white walls, there is a brown wardrobe and a black television. A man in a pink short-sleeve shirt is sitting in the room. Which objects are present in the room with white walls?
   - A. A blue hat
@@ -3676,7 +3676,7 @@
   - D. A black and grey backpack
   - E. A white bed
 
-- **QID**: UMFy3keSk-s_1 | **motion**: N | **correct**: False
+- **QID**: UMFy3keSk-s_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a scene with a lakeside view, there is a green tree by the lakeside, and a woman in a black jacket is running towards the lakeside. What objects are present in the scene?
   - A. White glasses
@@ -3685,7 +3685,7 @@
   - D. Pink shorts
   - E. Pink skirt
 
-- **QID**: UMFy3keSk-s_2 | **motion**: N | **correct**: True
+- **QID**: UMFy3keSk-s_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In clear weather, there is a dirt road with a green forest in the distance. A man in a gray short-sleeved shirt is standing on the dirt road. Which objects are present in the scene?
   - A. Black dog
@@ -3694,7 +3694,7 @@
   - D. White hat
   - E. Blue hat
 
-- **QID**: UN3ICsfqKEY_0 | **motion**: N | **correct**: True
+- **QID**: UN3ICsfqKEY_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the open space in front of a red building, a person is holding a skateboard with a design that reads '8.0', running towards a woman wearing glasses and dressed in wine-red pants. What objects are present in this scene?
   - A. A necklace
@@ -3703,7 +3703,7 @@
   - D. A green skateboard with a design that reads '8.0'
   - E. Black-framed glasses
 
-- **QID**: UN3ICsfqKEY_1 | **motion**: N | **correct**: False
+- **QID**: UN3ICsfqKEY_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: White clouds drift in the blue sky. A long-haired girl, wearing a red short-sleeve shirt and a reversed baseball cap, falls onto the ground. Beside her is a skateboard. What items are present in this scene?
   - A. A gray baseball cap
@@ -3712,7 +3712,7 @@
   - D. A green skateboard
   - E. A red baseball cap
 
-- **QID**: UO_6TQnnOxM_0 | **motion**: N | **correct**: True
+- **QID**: UO_6TQnnOxM_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: The video shows the interior of a museum with two white light fixtures. Many white cabinets containing different artifacts are placed on the dark-colored floor. On the right side of the screen, a woman is sitting in a room illuminated by white lights, shown in a small video frame. What material is the protective cover placed over the artifacts on the cabinet made of?
   - A. Ceramics
@@ -3721,7 +3721,7 @@
   - D. Iron
   - E. Acrylic
 
-- **QID**: UO_6TQnnOxM_1 | **motion**: N | **correct**: False
+- **QID**: UO_6TQnnOxM_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The screen shows two black men sitting and performing music and singing under the lights. The man towards the left-back is wearing an olive-colored suit, while the man on the right is holding a wooden guitar and wearing a blue patterned robe and singing into a microphone. In the top-right corner of the screen, there is a small video of a black man wearing a white shirt with a blue collar. What is the hairstyle of the man holding the guitar?
   - A. Long blonde hair
@@ -3730,7 +3730,7 @@
   - D. Black afro
   - E. Short curly hair
 
-- **QID**: UO_6TQnnOxM_2 | **motion**: N | **correct**: False
+- **QID**: UO_6TQnnOxM_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: The scene shows two Black men sitting under a lamp performing music and singing. The man to the back left is wearing an olive suit, and the man on the right is holding a guitar and wearing a floral-patterned blue robe while singing into a microphone. In the top right corner of the screen, there's a small video frame of another Black man wearing a white shirt with a blue collar. What type of guitar is the man holding while singing into the microphone?
   - A. black wood guitar
@@ -3739,7 +3739,7 @@
   - D. yellow electric guitar
   - E. black electric guitar
 
-- **QID**: US5Oz0q0BVE_0 | **motion**: N | **correct**: True
+- **QID**: US5Oz0q0BVE_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a room with two rows of bookshelves, there is a desk in front of the bookshelves. On the desk are two paintings, one upright and one lying flat. Sitting next to the desk is a woman dressed in black. What style of glasses is this woman wearing?
   - A. Not wearing glasses
@@ -3748,7 +3748,7 @@
   - D. Monocle
   - E. Gold-frame glasses
 
-- **QID**: UUaiqR1I454_1 | **motion**: N | **correct**: False
+- **QID**: UUaiqR1I454_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: Inside a room, hanging on the wall are an orange bag and a green and white garment. A woman wearing green clothes is holding a baby dressed in white. In which captions does this baby appear together?
   - A. cuts and bruises and they did not surrender
@@ -3757,7 +3757,7 @@
   - D. years that followed his wife sadly died and many more suffered similarly
   - E. they did not surrender and many more suffered similarly
 
-- **QID**: UbcWAfHo5j0_0 | **motion**: N | **correct**: True
+- **QID**: UbcWAfHo5j0_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: When a group of girls wearing blue tops walk down the stairs from the second floor of the building with green plants on the right, what kind of skirts are they wearing?
   - A. Super short skirt
@@ -3766,7 +3766,7 @@
   - D. Knee-length skirt
   - E. Ankle-length skirt
 
-- **QID**: UwJTCg5fpXg_0 | **motion**: N | **correct**: False
+- **QID**: UwJTCg5fpXg_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the screen, there is a lady sitting on a chair. The lady is holding two children beside her. There is a child standing behind her. One boy is wearing a black coat, and the boy behind her is wearing a blue coat. The girl is wearing a red coat and a checkered skirt. In the background, there is a white glass door, and there are green plants beside it. Who is the child that the lady sitting on the chair is holding?
   - A. The child wearing gray clothes
@@ -3775,7 +3775,7 @@
   - D. The child wearing a red coat
   - E. The child wearing a checkered shirt
 
-- **QID**: UwJTCg5fpXg_1 | **motion**: N | **correct**: True
+- **QID**: UwJTCg5fpXg_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the picture, a woman is sitting on a chair holding two children beside her. Another child is standing behind her. A boy in a black woolen coat and another boy in a blue jacket are visible. The girl is wearing a red woolen coat and a checkered skirt. There is a white glass door in the background and green plants on the side. Who is the child sitting on the armrest of the chair in the picture?
   - A. The child wearing a red woolen coat
@@ -3784,7 +3784,7 @@
   - D. The child wearing a green woolen coat
   - E. The child wearing a checkered shirt
 
-- **QID**: UwJTCg5fpXg_2 | **motion**: N | **correct**: False
+- **QID**: UwJTCg5fpXg_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the scene, a woman is sitting on a chair holding two children beside her. There is a child standing behind her. One boy is wearing a black coat, the boy behind is wearing a blue jacket, and the girl is wearing a red coat and a checkered skirt. In the background, there's a white glass door and a green plant. Who is wearing black leather shoes?
   - A. The child in the checkered shirt
@@ -3793,7 +3793,7 @@
   - D. The child in the red coat
   - E. The child in the blue jacket
 
-- **QID**: Uy_o-WCq2Cc_0 | **motion**: N | **correct**: True
+- **QID**: Uy_o-WCq2Cc_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The scene shows a very large space with gray-white walls and gray tiles on the floor. There are a few people standing by the wall and four long tables on the ground. A woman in black clothing is sitting in front of one of the tables. In which other scene does this woman appear?
   - A. In a place with all white walls and gray tiles on the floor, with a piece of paper on the table
@@ -3802,7 +3802,7 @@
   - D. In a forest
   - E. In a seat in a movie theater
 
-- **QID**: V-RIpt7Tknc_1 | **motion**: N | **correct**: True
+- **QID**: V-RIpt7Tknc_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room, a group of people dressed in formal attire are seated around a long table with paper documents placed on it. They are actively engaging in discussion. The room has podiums and paintings around. The story mentions the signing of the London Treaty at the end of May 1913. What else is mentioned?
   - A. Montenegro permanently leaving Bulgaria
@@ -3811,7 +3811,7 @@
   - D. Second Balkan War
   - E. Greco-Bulgarian War
 
-- **QID**: V-RIpt7Tknc_2 | **motion**: N | **correct**: False
+- **QID**: V-RIpt7Tknc_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A group of people are gathered in front of a large building's gate, where there is a round ball ornament on top of the gate, and plants on both sides of the gate. There is also a mention of the year 1908. After mentioning the Young Turk Revolution shaking the Ottoman Empire, what other event is mentioned?
   - A. Bulgaria's proclamation of independence
@@ -3820,7 +3820,7 @@
   - D. The Greek War
   - E. The Second Balkan War
 
-- **QID**: VFXJnbnN5ro_0 | **motion**: N | **correct**: True
+- **QID**: VFXJnbnN5ro_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a space setting, there is a yellow sun design in the center with the word 'Emission' below. In which of the following scenarios has this sun design appeared?
   - A. In the starry sky from a side view, there is a glaring white light in the center, surrounded by a halo of white light.
@@ -3829,7 +3829,7 @@
   - D. In a space background, there is a yellow design on the left side with radiating lines around it, and on the right side, there is a circular design with light blocked by something, with a yellow line attached to the sun.
   - E. In a blue background, the center is sparkling with densely packed light dots.
 
-- **QID**: VFXJnbnN5ro_1 | **motion**: N | **correct**: False
+- **QID**: VFXJnbnN5ro_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Against a blue background, there's an image of a green nebula in the middle. The wallpaper's cover is a computer screenshot, and the page contains many computer desktop icons. In which of the following scenes does this green nebula image appear?
   - A. In space, there's a green mist-like star in the middle, with some white star points in the green background.
@@ -3838,7 +3838,7 @@
   - D. In a hazy, dark gray background, a rainbow-colored drop-like object is in the middle of the screen, with the label 'SN 1604' in the lower-left corner.
   - E. In a black starry background with many star points, there's a reddish cloud-like object in the starry sky, with the label 'NGC 1976' in the lower-left corner.
 
-- **QID**: VFXJnbnN5ro_2 | **motion**: N | **correct**: True
+- **QID**: VFXJnbnN5ro_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Against a black background, there is an object on the left emitting yellow-green light, consisting of two connected dots, dispersing light upwards and downwards. In the middle, there is a large bright spot radiating red-yellow light in all directions. On the right, there is an arched light spot emitting red light in all directions. Can you tell in which of the following scenes the object on the left emitting yellow-green light has appeared before?
   - A. A sphere emitting red-blue light, with the phrase 'Reflection Nebula' written at the top.
@@ -3846,7 +3846,7 @@
   - C. A blue spherical object radiating strong light with two rings of red light around it, imprinted with 'NGC 6720' at the bottom left of the screen.
   - D. A white spherical object emitting white light in the pitch-black night sky.
 
-- **QID**: VLInjyogciw_0 | **motion**: N | **correct**: False
+- **QID**: VLInjyogciw_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: The screen shows a red wall with a black door. Beside the door, there is a round stone carving with several holes in the middle, seemingly sculpted into human facial features. In front of the stone carving, there is a black-striped pole. At what time did this stone carving and which subtitles appear simultaneously?
   - A. TRUTH
@@ -3855,7 +3855,7 @@
   - D. EVENING
   - E. EARLY 
 
-- **QID**: VSZ8ywgGNGM_1 | **motion**: N | **correct**: True
+- **QID**: VSZ8ywgGNGM_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: There is a lioness inside an iron mesh enclosure. Outside the iron mesh, someone is extending a pair of tongs through the mesh towards the lioness's nose. What is being clamped by the tongs that are reaching towards the lioness's nose?
   - A. A flower
@@ -3864,7 +3864,7 @@
   - D. A leaf
   - E. A chicken
 
-- **QID**: VwZeSoYugZk_0 | **motion**: N | **correct**: False
+- **QID**: VwZeSoYugZk_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a blue-green sea, there is a boat floating. There are yellow letters in the scene, and some clouds in the distant sky. The green sea is shimmering. When it mentions 'The crater is roughly 30 kilometers in diameter, and would have created a megatsunami,' what color is the roof of the boat in the scene?
   - A. purple
@@ -3873,7 +3873,7 @@
   - D. white
   - E. yellow
 
-- **QID**: VwZeSoYugZk_1 | **motion**: N | **correct**: True
+- **QID**: VwZeSoYugZk_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Above a green lake, there is a small building by the shore. In the distance, there are some mountain peaks and a deep blue sky with clouds floating in it. The small building by the lake is light yellow with two windows. When it is mentioned that 'and only allowing a small group of people and animals, to survive and repopulate,' what is the shape of the roof of the small building?
   - A. Staircase
@@ -3882,7 +3882,7 @@
   - D. Rectangle
   - E. Semi-circle
 
-- **QID**: W94Rth-aIkc_0 | **motion**: N | **correct**: True
+- **QID**: W94Rth-aIkc_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: White clouds are floating in the sky, with a mountain peak towering underneath them. The jade blue sea quietly presses against the mountain peak. What is the state of the mountain peak?
   - A. Jade-green mountain peak
@@ -3891,7 +3891,7 @@
   - D. Glowing mountain peak
   - E. Yellow mountain peak
 
-- **QID**: WmrwQMFZLqI_0 | **motion**: N | **correct**: False
+- **QID**: WmrwQMFZLqI_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: There is a short-haired woman wearing a long-sleeved suit with an apron in the video. Her hands are placed in front of her chest, with her right thumb pointing up. In front of her is a stove with a yellow pot on it. What color is the apron worn by the woman in the video?
   - A. Green
@@ -3899,7 +3899,7 @@
   - C. Yellow
   - D. White
 
-- **QID**: WmrwQMFZLqI_1 | **motion**: N | **correct**: False
+- **QID**: WmrwQMFZLqI_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the video, there is a person wearing a black apron with the word 'TASTY' on it. They are wearing a ring on their left hand which is resting on a dough. There is a wooden board on the table. What is the shape of the dough in the video?
   - A. Square
@@ -3907,7 +3907,7 @@
   - C. Round
   - D. Triangular
 
-- **QID**: WpbB_swXHkc_0 | **motion**: N | **correct**: False
+- **QID**: WpbB_swXHkc_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of a ruin of a building with two stone pillars standing at the entrance, there is a woman sitting. She has black curly hair and is wearing a blue long-sleeved garment, covering her face with both hands. Which subtitles have appeared together with this woman?
   - A. all right that’s the fun part of the day
@@ -3916,7 +3916,7 @@
   - D. It’s seven o’clock, did you hear?
   - E. if you take a deep breath and keep it
 
-- **QID**: WpbB_swXHkc_1 | **motion**: N | **correct**: False
+- **QID**: WpbB_swXHkc_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On the right side of a desk with a building in the background, there are three icons, and next to the icons is a video being recorded. In the video, on a sofa with red flowers embroidered on it, sits a woman wearing earrings and a long-sleeved wine-red garment. With which subtitles does this woman appear together?
   - A. before the time of the pandemic here
@@ -3925,7 +3925,7 @@
   - D. really exciting to me to have it all to
   - E. me to 
 
-- **QID**: X29dPzJIMbA_0 | **motion**: N | **correct**: False
+- **QID**: X29dPzJIMbA_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the video, there are three women sitting on a bench. The woman on the left is wearing a black long-sleeve shirt, with her right hand extended forward. The woman in the middle is wearing a light gray long-sleeve shirt. The woman on the right is wearing a white long-sleeve shirt. Who is sitting in the middle?
   - A. Nancy
@@ -3933,7 +3933,7 @@
   - C. Jo-Anne
   - D. Cara
 
-- **QID**: XJ6REZOXsvM_0 | **motion**: N | **correct**: False
+- **QID**: XJ6REZOXsvM_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a room, there is a table beside a sofa. On the sofa, there is a man with short hair wearing a long-sleeved shirt. In front of him, there is a transparent window. In front of the window, there is another table with decorations on it. To the left of it, there is a glowing screen. To the left of the screen, there is a burning fireplace. Next to the man, there is also a lamp. What is the shape of the glowing screen?
   - A. Circle
@@ -3942,7 +3942,7 @@
   - D. Triangle
   - E. Square
 
-- **QID**: XJ6REZOXsvM_1 | **motion**: N | **correct**: True
+- **QID**: XJ6REZOXsvM_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In a room with slightly dim lighting, there stands a woman with long hair, wearing blue clothes. She is looking at a square screen in front of her and is touching the screen with her hand. On the screen, there is a man. Not far from them, there is a lit lamp. What is the color of the man's clothes on the screen?
   - A. white
@@ -3951,7 +3951,7 @@
   - D. olive
   - E. pink
 
-- **QID**: XR3Ov2nQ39s_1 | **motion**: N | **correct**: False
+- **QID**: XR3Ov2nQ39s_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a small road in the forest, there is a green tank riding on it, a man wearing green clothes and a hat is standing in the tank. With which subtitles does this man appear together?
   - A. dead areas certain anti aircraft machine
@@ -3959,7 +3959,7 @@
   - C. prices in October 2016 the regular price
   - D. for an adult is 7.5 euros if you have a
 
-- **QID**: XuQswmEPgxU_0 | **motion**: N | **correct**: True
+- **QID**: XuQswmEPgxU_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: At the very beginning of the video, a woman wearing a hat and a fur coat is standing in front of a car. In the car, in the driver's seat, there is a man also wearing a fur coat. In the upper left corner of the screen, the white text 'HARLEM IS EVERY WHERE' appears. Where else does this white text appear?
   - A. In the purple background on the left side, there is a group of English words, and on the right side, there is a picture of a nude woman sitting with her hands hugging her knees, staring at the stove
@@ -3968,7 +3968,7 @@
   - D. In a red background on the right side, there is a picture of a nude person sitting in front of a stove
   - E. In a purple background on the right side, there is a picture of a person wearing a white short-sleeve shirt sitting in front of a stove
 
-- **QID**: XuQswmEPgxU_1 | **motion**: N | **correct**: False
+- **QID**: XuQswmEPgxU_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the gray background, on the far right side, there is a picture. In the picture, a woman is turning her head to look at a man behind her. Below the picture, in white English text, it says 'James Van Der Zee, Self-Portrait with Gaynella Greenlee'. Where else has this picture appeared?
   - A. Appears in the top right corner of a screen displaying eight pictures at the same time
@@ -3977,7 +3977,7 @@
   - D. Appears in the bottom left corner of a screen displaying six pictures at the same time
   - E. Appears in the bottom right corner of a screen displaying six pictures at the same time
 
-- **QID**: XuQswmEPgxU_2 | **motion**: N | **correct**: False
+- **QID**: XuQswmEPgxU_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On the far right side of the gray background, there is a picture depicting a crescent yellow moon and two black-skinned figures. Below this picture, there are white English words reading 'William H. Johnson, Street Life, Harlem, ca.' Where else has this picture on the far right appeared?
   - A. It appeared in the upper left corner of a screen with six pictures simultaneously.
@@ -3986,7 +3986,7 @@
   - D. It appeared in the lower left corner of a screen with six pictures simultaneously.
   - E. It appeared in the upper right corner of a screen with eight pictures simultaneously.
 
-- **QID**: XvJqVKi8i_I_0 | **motion**: N | **correct**: False
+- **QID**: XvJqVKi8i_I_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In front of a vast outdoor sports field, a man with curly hair wearing a grey short-sleeved shirt and with blue paint on his hands, appeared in which subtitle together?
   - A. it's the ultimate office and everywhere
@@ -3994,7 +3994,7 @@
   - C. is vacation
   - D. yeah yeah New York
 
-- **QID**: YebUIUOCo94_0 | **motion**: N | **correct**: False
+- **QID**: YebUIUOCo94_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the scene, there is a man wearing a military uniform, with yellow decorations on his shoulders, and a red shoulder strap. When the subtitle mentions 'in the challenging years that lay ahead,' what is the man's hairstyle?
   - A. Bald
@@ -4002,7 +4002,7 @@
   - C. Long hair
   - D. Crew cut
 
-- **QID**: YebUIUOCo94_1 | **motion**: N | **correct**: True
+- **QID**: YebUIUOCo94_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the video, there is a man wearing white pants lying on a blue-sheeted rack. There is another man watching him, and behind them, there is a person wearing a white skirt and an injured person leaning against the wall. When the caption mentions 'The operation went well. But the wound became infected, and Lannes died nine days later.', what is the condition of the lying man's leg?
   - A. Right leg amputated
@@ -4010,7 +4010,7 @@
   - C. Both legs intact
   - D. Both legs amputated
 
-- **QID**: YebUIUOCo94_2 | **motion**: N | **correct**: True
+- **QID**: YebUIUOCo94_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On the left side of the screen, there's a black and white photo of a man with many words around it. On the right side, there's a picture showing a man sitting on a red chair, with other people standing nearby. When the subtitle mentions 'Davout only surrendered Hamburg in May 1814, after confirmation arrived of Napoleon's abdication.', what color are the pants of the man sitting on the right?
   - A. Green
@@ -4018,7 +4018,7 @@
   - C. Yellow
   - D. Black
 
-- **QID**: Yh48p5efBTk_0 | **motion**: N | **correct**: True
+- **QID**: Yh48p5efBTk_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a well-lit room, a silver-haired man wearing a black jacket and blue jeans pulls a poster from a desk, which also has a green paper box, a yellow book, white documents, and a silver box on it. The shelves hold a large number of paper items. What kind of top is this silver-haired man wearing?
   - A. Gray robe
@@ -4027,7 +4027,7 @@
   - D. Black long sleeve
   - E. Gray sweater
 
-- **QID**: Z-1lgAXOEc8_0 | **motion**: N | **correct**: False
+- **QID**: Z-1lgAXOEc8_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A man wearing a leather jacket is standing by the side of the road, behind him is a black iron gate and columns, surrounded by some green leaves and small yellow flowers. On the left side of the screen, there is a traffic light. In the distance, there are some buildings. In which other scenes does this man appear?
   - A. In a green photo green ceiling with two storefront pizza shops.
@@ -4036,7 +4036,7 @@
   - D. In a long corridor covered with photos.
   - E. In an open kitchen with white cabinets and a black stove, there is also a white door nearby.
 
-- **QID**: Z-1lgAXOEc8_1 | **motion**: N | **correct**: True
+- **QID**: Z-1lgAXOEc8_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the scene, there is a blonde woman wearing a black tank top and a man with curly hair wearing a black T-shirt. They are talking in front of a mirror, with a black column and a thick tree behind them. There are also two white cars parked by the roadside. In which scene does the woman in the gold tank top appear?
   - A. On the stairs in front of a red building with black handrails.
@@ -4045,7 +4045,7 @@
   - D. On the stairs in front of a red building with yellow handrails.
   - E. On the stairs in front of a red building with orange handrails.
 
-- **QID**: Z-1lgAXOEc8_2 | **motion**: N | **correct**: True
+- **QID**: Z-1lgAXOEc8_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A man wearing a black T-shirt is standing in front of a black and white painted roller shutter door. He has black hair and is holding a white paper plate with pizza in it. In which other scene does this white paper plate appear?
   - A. In a scene where someone is holding a pizza next to a transparent box containing red sauce.
@@ -4054,7 +4054,7 @@
   - D. In a scene where someone is holding a pizza next to a transparent box containing black sauce.
   - E. In a scene where someone is holding a pizza next to a transparent box containing green sauce.
 
-- **QID**: Z7Cox6lPW3c_0 | **motion**: N | **correct**: True
+- **QID**: Z7Cox6lPW3c_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A woman wearing red clothes and a man wearing black clothes are in a video call, and a sentence starting with 'TSMC GETS' is gradually being revealed at the bottom. What kind of hair does the woman in the video call have?
   - A. She has short blonde hair.
@@ -4063,7 +4063,7 @@
   - D. She has long blonde hair.
   - E. She has black bob cut.
 
-- **QID**: Z7Cox6lPW3c_1 | **motion**: N | **correct**: True
+- **QID**: Z7Cox6lPW3c_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In front of a background board with the word 'Bloomberg' and a high-rise building, a man with gold and gray-white short hair is speaking directly into the camera. The text in front of him is gradually appearing. What kind of clothes is this man wearing?
   - A. He is wearing a pure black coat.
@@ -4072,7 +4072,7 @@
   - D. He is wearing a pure black suit.
   - E. He is wearing a black striped shirt.
 
-- **QID**: ZRMbh0wSly0_0 | **motion**: N | **correct**: False
+- **QID**: ZRMbh0wSly0_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On a grey concrete ground, a group of girls dressed in the same white tops and beige floral skirts hold hands to form a circle. When mentioning the 'collodion anole rain making ritual,' what kind of ornaments are on the girls' skirts?
   - A. Waist belts adorned with colorful flowers
@@ -4080,7 +4080,7 @@
   - C. Green leaf-shaped small skirts
   - D. Small animal-shaped ornaments made of folded green leaves
 
-- **QID**: ZRMbh0wSly0_1 | **motion**: N | **correct**: False
+- **QID**: ZRMbh0wSly0_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Looking at the screen full of people, how many people are holding a blue and yellow interwoven banner? In the middle of the screen, a woman in a black leather jacket is holding a little girl with a blue headscarf with star and moon designs. When mentioning 'on to their culture language and claim,' what kind of glasses is this woman wearing who is dressed in leather and wearing a black hat?
   - A. Wearing glasses with black frames and purple lenses
@@ -4088,7 +4088,7 @@
   - C. Wearing red-framed sunglasses
   - D. Wearing black-framed sunglasses
 
-- **QID**: ZRMbh0wSly0_2 | **motion**: N | **correct**: False
+- **QID**: ZRMbh0wSly0_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a white room with a red wooden chair, there are four people wearing identical white tops with black and red floral patterns. When the phrase 'notice they all kind of have like a' is mentioned, what kind of accessory is the woman on the far left of the screen wearing on her head?
   - A. Wearing a red scarf
@@ -4096,7 +4096,7 @@
   - C. Wearing a red hat
   - D. Wearing a black hat
 
-- **QID**: ZaXpMou55lw_0 | **motion**: N | **correct**: True
+- **QID**: ZaXpMou55lw_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the upper right corner of a white background, a middle-aged man wearing a gray short-sleeved shirt is explaining. Behind him are a piano keyboard and various objects. At the top of the screen are bold English letters, and in the center is a table with white data on a black background. What object is present in the scene?
   - A. A silver bracelet
@@ -4105,7 +4105,7 @@
   - D. There is a wristwatch
   - E. A yellow bracelet
 
-- **QID**: ZaXpMou55lw_1 | **motion**: N | **correct**: True
+- **QID**: ZaXpMou55lw_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A man wearing a grey short-sleeve shirt is sitting in a chair and talking. Behind him, there's a black and white piano keyboard and a black microphone stand. The curtain next to the keyboard is white. In the corner of the room, there is a guitar and a drum set. What objects are present in the scene?
   - A. black wristwatch
@@ -4114,7 +4114,7 @@
   - D. necklace
   - E. silver wristwatch
 
-- **QID**: ZaXpMou55lw_2 | **motion**: N | **correct**: False
+- **QID**: ZaXpMou55lw_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the top-right corner of a white background, a man with short grey hair is explaining something. Behind the man, there is a piano keyboard and miscellaneous items. At the top of the screen, there are bold English characters, and below the characters, there are two web addresses. To the left of the web addresses, there are yellow and blue circular icons and simple cartoon graphics. Below the web addresses, there is a black rectangular text box filled with white and green characters. What objects or elements are present in the scene?
   - A. Red circular icon
@@ -4123,7 +4123,7 @@
   - D. Black circular icon
   - E. White wristwatch
 
-- **QID**: _7sd4fjnmvc_0 | **motion**: N | **correct**: True
+- **QID**: _7sd4fjnmvc_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A woman wearing a purple dress with an injured face is lying on a wooden floor, and a man is helping her up. In what scenes has the woman in the purple dress appeared?
   - A. A woman sitting on a running horse
@@ -4132,7 +4132,7 @@
   - D. On a road filled with wooden logs
   - E. On a boat
 
-- **QID**: _7sd4fjnmvc_1 | **motion**: N | **correct**: True
+- **QID**: _7sd4fjnmvc_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the dark night, there is an old man wearing a hat, one hand holding a flickering candle, one hand on the door, and watching a man and a woman. In which scenes has the old man in the hat appeared?
   - A. A crowded street
@@ -4141,7 +4141,7 @@
   - D. Sitting in a room with a flickering candle
   - E. Sitting in a carriage
 
-- **QID**: _EUDpS9UF9o_0 | **motion**: N | **correct**: True
+- **QID**: _EUDpS9UF9o_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, there's a person cutting a green onion with a knife, and in the upper left corner, there's also a screen with burning wood. When the subtitle mentions 'Onion,' what other objects are present in the scene?
   - A. On the table, there's also a silver bowl containing a tomato and a pumpkin.
@@ -4149,7 +4149,7 @@
   - C. Bread
   - D. Watch
 
-- **QID**: _hODR1cR9lo_0 | **motion**: N | **correct**: True
+- **QID**: _hODR1cR9lo_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a white room, there is a woman with yellow hair, wearing a brown coat, a pair of necklaces, and glasses. With which of the following subtitles did she appear together?
   - A. "I like to wear it when I sleep"
@@ -4158,7 +4158,7 @@
   - D. "There are a lot of people who like to wear this"
   - E. "I really like this style"
 
-- **QID**: _kQXNFG664Y_0 | **motion**: N | **correct**: True
+- **QID**: _kQXNFG664Y_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a corner of a bedroom, a short-haired woman wearing an olive green tank top is sitting in front of a bed. To the right is a bookshelf filled with books. What color is the bookshelf in the screen?
   - A. A three-layer pink bookshelf
@@ -4166,7 +4166,7 @@
   - C. A four-layer red bookshelf
   - D. A five-layer orange bookshelf
 
-- **QID**: _uL3a3aMdMQ_0 | **motion**: N | **correct**: False
+- **QID**: _uL3a3aMdMQ_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In front of a black background, two men are standing: one is wearing a white short-sleeve, and the other is wearing a blue long-sleeve coat. When the man in the white short-sleeve says "wouldn't be a monarch to like fantasize", what color is the inner wear of the man in the blue long-sleeve coat?
   - A. blue
@@ -4175,7 +4175,7 @@
   - D. green
   - E. white
 
-- **QID**: _uL3a3aMdMQ_1 | **motion**: N | **correct**: False
+- **QID**: _uL3a3aMdMQ_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In front of a black background, there is a woman wearing a gray and white suspender dress. She is wearing a ring on her hand, and there is also a picture of a British flag beside her. When the subtitle "was there too okay this is gonna be a" appears, what kind of hairstyle does the woman in the gray and white suspender dress have?
   - A. Long black hair
@@ -4184,7 +4184,7 @@
   - D. Long black curls
   - E. Long blonde curls
 
-- **QID**: _uL3a3aMdMQ_2 | **motion**: N | **correct**: True
+- **QID**: _uL3a3aMdMQ_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On a green meadow, next to it is a riverside road with many pedestrians walking. On the green meadow, there is a woman with dark skin wearing a white short-sleeve shirt and holding wheat. When she says 'everyone is mixed up with different', what shape is the hair accessory on her head?
   - A. Bear ears shape
@@ -4193,7 +4193,7 @@
   - D. Bunny ears shape
   - E. Feather shape
 
-- **QID**: _zEM6Fc-7NI_0 | **motion**: N | **correct**: False
+- **QID**: _zEM6Fc-7NI_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On the street, in the distance there is the wall of a house, nearby there is a black car, on the right there are several people wearing overalls, in the middle there is a soldier wearing camouflage. When the narration mentions 'we just got to downtown LA to join the', which of these objects is not present on the screen?
   - A. people wearing overalls
@@ -4202,7 +4202,7 @@
   - D. soldier wearing camouflage
   - E. black car
 
-- **QID**: _zEM6Fc-7NI_1 | **motion**: N | **correct**: False
+- **QID**: _zEM6Fc-7NI_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of a wall with white lacquer on both sides and a yellow wooden board in the middle, on the left side is a tree trunk, with a white and yellow prismatic barrier next to the right side of the trunk. When the commentary mentions 'protesting or I must sleep in my bed my,' which object is on the screen?
   - A. portrait of a woman with short hair
@@ -4211,7 +4211,7 @@
   - D. armored vehicle
   - E. police
 
-- **QID**: aoxy2e7j9Bc_0 | **motion**: N | **correct**: True
+- **QID**: aoxy2e7j9Bc_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Under the blue sky, there are many lush green trees, golden shining stone walls under the sunlight, and below is a desolate road. What objects are present in the scene at this time?
   - A. Utility Pole
@@ -4220,7 +4220,7 @@
   - D. White Cloud
   - E. Telegraph Line
 
-- **QID**: aoxy2e7j9Bc_1 | **motion**: N | **correct**: True
+- **QID**: aoxy2e7j9Bc_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the forest with green trees and grass on both sides, there is a clear stream in the middle, and above the stream, there is a bridge with a white railing. What object can be seen on the screen at this moment?
   - A. child
@@ -4229,7 +4229,7 @@
   - D. goldfish
   - E. rock
 
-- **QID**: aqGQw1bXFN4_0 | **motion**: N | **correct**: False
+- **QID**: aqGQw1bXFN4_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: At the beginning of the scene, in front of two buildings with triangular roofs and red beams, there is a small figure dressed in grey, holding a quill and writing on a scroll. Which subtitles appear alongside this scene?
   - A. I will not let this law go through
@@ -4238,7 +4238,7 @@
   - D. What are you doing
   - E. were also the source of the tribunes' power. Any Tribune could intercede on
 
-- **QID**: aqUisZS9Ruw_0 | **motion**: N | **correct**: False
+- **QID**: aqUisZS9Ruw_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room, a woman with long black hair wearing a white coat is clenching her hands tightly. On the screen, there is the word 'but'. In which subtitles has this woman appeared together with these words?
   - A. hope you want to
@@ -4247,7 +4247,7 @@
   - D. people here also really nice especially
   - E. be spending all the night Moon
 
-- **QID**: aqUisZS9Ruw_1 | **motion**: N | **correct**: False
+- **QID**: aqUisZS9Ruw_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A long-haired woman is holding two books and smiling happily. The book in her right hand has a blue cover, and the book in her left hand has a green cover. In which subtitles does the book with the green cover appear together?
   - A. wait I think they took it oh I was lit
@@ -4256,7 +4256,7 @@
   - D. which one to get I just came back before
   - E. please take please take my car s if they
 
-- **QID**: aqUisZS9Ruw_2 | **motion**: N | **correct**: False
+- **QID**: aqUisZS9Ruw_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the scene, there is a woman wearing a gray coat and a black floral-patterned shirt. She is holding a gray-shelled mobile phone. With which subtitles did this mobile phone appear together?
   - A. hope you want to
@@ -4265,7 +4265,7 @@
   - D. nice these malls are huge and they’re
   - E. people here also really nice especially
 
-- **QID**: athabNMGceo_0 | **motion**: N | **correct**: True
+- **QID**: athabNMGceo_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Against a blue background, a man wearing a pair of black-rimmed glasses and a white short-sleeved shirt with a small bird pattern is explaining something. Which of the following animals can spray feces up to 40 cm?
   - A. Hamster
@@ -4273,7 +4273,7 @@
   - C. Ostrich
   - D. Rabbit
 
-- **QID**: athabNMGceo_1 | **motion**: N | **correct**: True
+- **QID**: athabNMGceo_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Against a blue background, a man wearing black-framed glasses and a white short-sleeve shirt with a small bird pattern is explaining. Which of the following animals evolved hindgut fermentation?
   - A. Ostrich
@@ -4281,7 +4281,7 @@
   - C. Kangaroo
   - D. Whale
 
-- **QID**: bAGhXcYc0o4_0 | **motion**: N | **correct**: True
+- **QID**: bAGhXcYc0o4_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a white room with a painting on the wall, a woman with light brown shoulder-length hair, wearing a white short-sleeved shirt, mentions ‘So in standard Norwegian, you would say “Soppel”, but in Bergen, we say “Boss”’. What objects are present on the screen?
   - A. gray desk lamp
@@ -4289,7 +4289,7 @@
   - C. wooden desk lamp
   - D. white desk lamp
 
-- **QID**: bAGhXcYc0o4_1 | **motion**: N | **correct**: False
+- **QID**: bAGhXcYc0o4_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In front of a wooden wall decorated with a face flag, a man wearing a blue striped short sleeve shirt is sitting on a grey sofa. When 'Norwegian Geograpeeps explaining' is mentioned, what objects are present on the screen?
   - A. A black hat
@@ -4297,7 +4297,7 @@
   - C. A yellow small flag
   - D. A black small flag
 
-- **QID**: bAGhXcYc0o4_2 | **motion**: N | **correct**: False
+- **QID**: bAGhXcYc0o4_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Beneath the clouds, there are two cliffs covered with patches of green moss. Between them, there's a strange boulder. When mentioning 'There's that weird boulder jammed between two cliffs,' what objects are present on the screen?
   - A. white arrowhead with black outline
@@ -4305,7 +4305,7 @@
   - C. black arrowhead with white outline
   - D. pure black arrowhead
 
-- **QID**: bDpgz_2Piqg_0 | **motion**: N | **correct**: False
+- **QID**: bDpgz_2Piqg_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: A man wearing a grey shirt and a black hat is standing in front of a container holding food. There are many people around him, including one at the forefront wearing a black headscarf and another person in a grey shirt holding a plate of food. There's also a man wearing glasses in the corner. What type of hat is this?
   - A. Western cowboy hat
@@ -4313,7 +4313,7 @@
   - C. Duck tongue hat
   - D. Beret
 
-- **QID**: bXRuqcmTIuk_0 | **motion**: N | **correct**: False
+- **QID**: bXRuqcmTIuk_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room with slightly dim lighting and white walls, a long-haired woman in a red dress is sitting on a chair. She is holding a red musical instrument in her hand. Behind her are a few gray chairs. On the wall behind the chairs hangs a white square board. There is a window behind her on the right side. With which subtitles does the girl's musical instrument appear together?
   - A. Here we learn that young Joe had a lot of enemies because he was a bully
@@ -4322,7 +4322,7 @@
   - D. a prep school called Evergreen Academy, which is a school Joe went to when he was younger.
   - E. hope. therefore he begins to write letters to his daughter, hoping that once he gets out, his
 
-- **QID**: bXRuqcmTIuk_2 | **motion**: N | **correct**: False
+- **QID**: bXRuqcmTIuk_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room, a long-haired woman in a black long-sleeved dress is sitting by a desk, with a short-haired man in a black long-sleeved shirt standing beside her. There is a laptop on the desk. Behind them, there is a white door, and two paintings are hanging on the right side. On the desk, which subtitles have appeared together with the laptop?
   - A. At night, Joe and Maric who are still unaware of what is going on, sneak into the school
@@ -4331,7 +4331,7 @@
   - D. Here we learn that young Joe had a bit of enemies because he was a bully
   - E. The two try looking up the school on the internet but the website is inaccessible
 
-- **QID**: b__dUom9AcQ_0 | **motion**: N | **correct**: True
+- **QID**: b__dUom9AcQ_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In front of the curtain, there is a transparent lectern with red text on it. Next to the lectern, a person wearing a blue coat is raising their right hand and speaking with their head lowered. What item is present in this scene?
   - A. Tie
@@ -4340,7 +4340,7 @@
   - D. Display Screen
   - E. Mobile Phone
 
-- **QID**: b__dUom9AcQ_1 | **motion**: N | **correct**: False
+- **QID**: b__dUom9AcQ_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On stage, a large screen in the background shows a scene of a building, and in the center of the stage, two people are seated on chairs. One is a bald man wearing a blue suit, and the other is a person in a white shirt, holding a microphone in the left hand and raising the right hand. What object is not present in this scene?
   - A. table
@@ -4349,7 +4349,7 @@
   - D. red lamp
   - E. car
 
-- **QID**: b__dUom9AcQ_2 | **motion**: N | **correct**: False
+- **QID**: b__dUom9AcQ_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the black background, there are two screens. On the left, there is a white car passing by on a road in front of a construction building. On the right, there are two people conversing on a red carpet stage. What objects are present in this screen?
   - A. helicopter
@@ -4358,7 +4358,7 @@
   - D. traffic light
   - E. handgun
 
-- **QID**: baFsMWNavQ4_0 | **motion**: N | **correct**: True
+- **QID**: baFsMWNavQ4_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On the screen, there is a black-skinned woman wearing a white and green shirt with black floral patterns. She is standing in a white room with a large screen behind her displaying some images. The woman is speaking with her hands open, facing the camera. What subtitles appeared simultaneously with this woman?
   - A. Thank you
@@ -4368,7 +4368,7 @@
 
   - E. Can you
 
-- **QID**: c6fuIEzOZ2E_0 | **motion**: N | **correct**: False
+- **QID**: c6fuIEzOZ2E_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a small room, a man and a woman are sitting on a white sofa. The man is wearing a dark gray jacket, and the woman is wearing a black dress. When the phrase 'people more a lot of things maybe how we' is mentioned, which objects are not present in the scene?
   - A. A painting with a black frame
@@ -4376,7 +4376,7 @@
   - C. A black microphone with a white pattern
   - D. A beige pillow with blue design
 
-- **QID**: c6fuIEzOZ2E_1 | **motion**: N | **correct**: False
+- **QID**: c6fuIEzOZ2E_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a waiting room, a man with black hair wearing a green down jacket is sitting. Next to him is a man wearing a blue jacket. When the phrase 'but maybe build on the mindset of the' is mentioned, which object does not appear on the screen?
   - A. black television
@@ -4384,7 +4384,7 @@
   - C. black-framed glasses
   - D. black knitted hat
 
-- **QID**: cc0T2vtuJtc_0 | **motion**: N | **correct**: False
+- **QID**: cc0T2vtuJtc_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the video, when the spoon is used to place the prepared meat onto the mashed potatoes in the glass dish, and the subtitle mentions 'Just pour the potatoes over minced meat!!', what other items are visible on the screen?
   - A. Knife
@@ -4392,7 +4392,7 @@
   - C. Green onion
   - D. Cheese
 
-- **QID**: cc0T2vtuJtc_1 | **motion**: N | **correct**: False
+- **QID**: cc0T2vtuJtc_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: There is a white plate in the middle of the screen with food on it, and a hand wearing a black glove is placed above the food. When the subtitle mentions 'I'd be happy to improve my channel!', what other object can be seen on the screen?
   - A. spoon
@@ -4400,7 +4400,7 @@
   - C. red seasoning
   - D. fork
 
-- **QID**: cceTeD4JADU_1 | **motion**: N | **correct**: True
+- **QID**: cceTeD4JADU_1 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the screen, there is a woman with green and black hair wearing glasses. She is in a room covered with drawings. In front of her is a computer desk, which besides the computer also has some cluttered items. She is wearing a sweater that matches the color of her green hair. When she mentions 'graded for it my exam,' what object is not present in the scene?
   - A. An orange string
@@ -4409,7 +4409,7 @@
   - D. A white bookshelf
   - E. A white keyboard
 
-- **QID**: e11Q4ThFu5A_0 | **motion**: N | **correct**: False
+- **QID**: e11Q4ThFu5A_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the video, a man and a woman are leaning on each other. The woman is wearing a black backless dress and has golden hair, while the man is wearing a grey suit and a yellow tie. There are many other people in the background, and they are in a banquet hall. The woman is wearing a necklace and holding a cup in her hand. What material is the cup made of?
   - A. Crystal glass cup
@@ -4418,7 +4418,7 @@
   - D. Ceramic cup
   - E. Transparent plastic cup
 
-- **QID**: eE5Z7gDbgVA_0 | **motion**: N | **correct**: True
+- **QID**: eE5Z7gDbgVA_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a black-and-white scene, two police officers in uniform are holding a woman. The woman looks excited, wearing a short-sleeved shirt and a medal around her neck. The policeman on the right is wearing sunglasses, and the one on the left is wearing a watch. Behind them are buildings and a dense crowd. When the subtitle 'Not cool, Rosie' appears, what is the tattoo design on the chest of the woman in the middle?
   - A. Round tattoo
@@ -4427,7 +4427,7 @@
   - D. Square tattoo
   - E. Small cat tattoo
 
-- **QID**: eE5Z7gDbgVA_1 | **motion**: N | **correct**: False
+- **QID**: eE5Z7gDbgVA_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A man in a yellow shirt is standing in front of a gray background. His mouth shows a full set of white teeth. The man is holding a toy in one hand and a bag of food in the other hand. There is a paper bag in front of him. When the subtitle 'a whole lot easier' appears, what is the man's hairstyle like?
   - A. golden long hair
@@ -4436,7 +4436,7 @@
   - D. silver long hair
   - E. golden short hair
 
-- **QID**: eE5Z7gDbgVA_2 | **motion**: N | **correct**: True
+- **QID**: eE5Z7gDbgVA_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Against a black-and-white background, three men appear on the screen. The man on the right has his hands crossed in front of his chest, the man on the left is wearing a hat and his finger is pointing to the upper right. The other man is staring sharply at the man on the right. What is the style of the hat worn by the man on the left when the subtitle 'There's no way I'm going down' appears?
   - A. a beanie
@@ -4445,7 +4445,7 @@
   - D. a baseball cap
   - E. a beret
 
-- **QID**: eJr-y6UXnRE_0 | **motion**: N | **correct**: False
+- **QID**: eJr-y6UXnRE_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: What is the color of the first piece of clothing shown in the video?
   - A. white
@@ -4454,7 +4454,7 @@
   - D. olive
   - E. black
 
-- **QID**: eJr-y6UXnRE_1 | **motion**: N | **correct**: False
+- **QID**: eJr-y6UXnRE_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: What is the first food item displayed in the video?
   - A. Avocado
@@ -4463,7 +4463,7 @@
   - D. Apple
   - E. Potato chips
 
-- **QID**: fO7nwCix8xU_0 | **motion**: N | **correct**: False
+- **QID**: fO7nwCix8xU_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room that is slightly dimly lit, there is a white desk with various items on it. Next to the desk stands a man with short hair, wearing a long-sleeve black shirt and a red and white striped tie. He is surrounded by white bookshelves filled with books. Which object appears in the scene?
   - A. Water cup
@@ -4472,7 +4472,7 @@
   - D. Snacks
   - E. Table lamp
 
-- **QID**: fWNJmZAWRNg_2 | **motion**: N | **correct**: True
+- **QID**: fWNJmZAWRNg_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In front of a wooden platform with three potted plants, there is a person looking down with both legs raised on the table. Who is this person?
   - A. A woman with brown short hair
@@ -4480,7 +4480,7 @@
   - C. A woman with black short hair
   - D. A woman with black long hair
 
-- **QID**: fryyNwUCPWA_0 | **motion**: N | **correct**: False
+- **QID**: fryyNwUCPWA_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a round cylindrical space, there is a man sitting who is wearing a white coat and blue jeans. When the subtitle 'orange nice well I honestly never' appears, what objects are present on the screen?
   - A. white hat
@@ -4489,7 +4489,7 @@
   - D. blue hat
   - E. black-framed glasses
 
-- **QID**: fryyNwUCPWA_1 | **motion**: N | **correct**: False
+- **QID**: fryyNwUCPWA_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room with white walls, there is a beige curved table with a computer on it. When the subtitle 'we're about to fly well I think it's a' appears, what objects are present on the screen?
   - A. black remote control
@@ -4498,7 +4498,7 @@
   - D. blue hat
   - E. red coat
 
-- **QID**: fryyNwUCPWA_2 | **motion**: N | **correct**: True
+- **QID**: fryyNwUCPWA_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room with various instruments and control panels, there is a man with short hair wearing a white lab coat. When the subtitle 'think you'll see this technology be used' appears, what objects are present in the scene?
   - A. a gold chain
@@ -4507,7 +4507,7 @@
   - D. a black remote
   - E. a black steering wheel
 
-- **QID**: fsz6bkkIHzQ_1 | **motion**: N | **correct**: True
+- **QID**: fsz6bkkIHzQ_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a black-and-white photo, a group of people are holding signs on the steps in front of a building. When the subtitles '35,000 was an enormous sum in 1958, and the commission would bring Rothko's left-wing views into conflict.' appear, what happens on the screen?
   - A. The group is advertising for a store
@@ -4516,7 +4516,7 @@
   - D. The group is playing games
   - E. The group is holding an event
 
-- **QID**: g7zuBUMBr2E_0 | **motion**: N | **correct**: False
+- **QID**: g7zuBUMBr2E_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a space constructed with lines, featuring various colors, what objects are present when the subtitle 'they hear a mix of different sounds' appears?
   - A. A man with hands down, looking up
@@ -4525,7 +4525,7 @@
   - D. A woman wearing a colorful headscarf
   - E. A man raising both hands with palms facing outward
 
-- **QID**: gJijNOktmoI_0 | **motion**: N | **correct**: True
+- **QID**: gJijNOktmoI_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On a stretch of yellow sandbriskеd by jade-green seawater, a man wearing a grey short-sleeve shirt, glasses, and sporting a goatee is taking a selfie. In which of the following scenes does this goateed man appear?
   - A. Inside a large turtle tank
@@ -4534,7 +4534,7 @@
   - D. In a park during the rain
   - E. In a park with a slide
 
-- **QID**: gJijNOktmoI_1 | **motion**: N | **correct**: True
+- **QID**: gJijNOktmoI_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There is a sea with jade-green water, a sky that is azure blue, small boats floating on the jade-green water, and a man with curly hair standing on the yellow sandy beach, wearing a grey short-sleeve shirt. In which of the following scenes has the man with curly hair, who is wearing a grey short-sleeve shirt, appeared before?
   - A. On the beach during a rainstorm
@@ -4543,7 +4543,7 @@
   - D. In a pool with large turtles
   - E. In a restaurant with yellow curry
 
-- **QID**: gJijNOktmoI_2 | **motion**: N | **correct**: True
+- **QID**: gJijNOktmoI_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Under a cloudless blue sky, there is a turquoise sea. A dark-skinned woman wearing glasses and a white bikini is in the turquoise sea. In which of the following scenes has this dark-skinned woman appeared?
   - A. On the beach during rain
@@ -4552,7 +4552,7 @@
   - D. In a dense primal forest
   - E. By the sea with a yellow boat
 
-- **QID**: gyV6EqgiPNg_0 | **motion**: N | **correct**: True
+- **QID**: gyV6EqgiPNg_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the screen, a white plate is holding several buns, with a hand picking up one of the buns. When the subtitle 'the biggest change in the recipe was adding chocolate chips i did it for sake of my children' appears, what pattern is on the cloth under the plate?
   - A. white striped
@@ -4560,7 +4560,7 @@
   - C. black and white checkered
   - D. white checkered
 
-- **QID**: h2RbVVz3NZc_0 | **motion**: N | **correct**: False
+- **QID**: h2RbVVz3NZc_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a small car, a man wearing a blue hoodie is next to a man wearing a white shirt. In which subtitle did these two people appear together?
   - A. yep
@@ -4568,7 +4568,7 @@
   - C. we could jump off of the ones off the 20
   - D. look
 
-- **QID**: hXFfPjytMo0_0 | **motion**: N | **correct**: False
+- **QID**: hXFfPjytMo0_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a room with a grey chair, two people are sitting on a sofa watching a broadcasted news program on TV. On the TV screen, a blond female reporter in a red coat is speaking into a microphone. When the subtitle says 'but after seeing that Terence is being accused of involvement in the murder as well as the media's...', what is the color of the wall behind the TV?
   - A. red
@@ -4577,7 +4577,7 @@
   - D. blue
   - E. black
 
-- **QID**: i327DBSS_iE_1 | **motion**: N | **correct**: False
+- **QID**: i327DBSS_iE_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: After a video scene of a woman wearing a light-colored coat, carrying a red bag, walking a small dog through a forest filled with red leaves, which season appears first?
   - A. Autumn
@@ -4585,7 +4585,7 @@
   - C. Winter
   - D. Spring
 
-- **QID**: iDFDxwPTjeU_0 | **motion**: N | **correct**: True
+- **QID**: iDFDxwPTjeU_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: At the beginning of the video, a calendar and a hand-drawn booklet appear. With which subtitle did they appear together?
   - A. the key
@@ -4593,7 +4593,7 @@
   - C. say you want
   - D. which is a very big adulting thing that
 
-- **QID**: iHNjWhx3EaI_0 | **motion**: N | **correct**: False
+- **QID**: iHNjWhx3EaI_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: When the curly-haired man wearing a gray hoodie picks up a box of pink-packaged tea leaves and the subtitle ‘editing my video drinking some yamamoto’ appears, which item is not present in the room behind him?
   - A. Black Overcoat
@@ -4602,7 +4602,7 @@
   - D. Tableware
   - E. Refrigerator
 
-- **QID**: iJgh2dnudIU_0 | **motion**: N | **correct**: False
+- **QID**: iJgh2dnudIU_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: Next to a refrigerator covered in many pictures, there is a woman with purple hair wearing a green top. Her hands are open with the palms facing upwards. What items are behind her to the left?
   - A. Green and gray boards
@@ -4610,7 +4610,7 @@
   - C. Tea cup
   - D. Water faucet
 
-- **QID**: iJgh2dnudIU_1 | **motion**: N | **correct**: False
+- **QID**: iJgh2dnudIU_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A person wearing a green short-sleeved shirt, holding a phone in their right hand, is facing 3 bottles on the table. What is this person holding in their left hand?
   - A. A can
@@ -4618,7 +4618,7 @@
   - C. A dumpling
   - D. Beef
 
-- **QID**: ie9NxdgNe0g_0 | **motion**: N | **correct**: True
+- **QID**: ie9NxdgNe0g_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In front of a white curtain with some plastic vine embellishments, there is a woman wearing a pearl headband, draped long hair, and dressed in a suit. In which of the following scenarios has she appeared?
   - A. At the ticket checkpoint of a high-speed railway station
@@ -4626,7 +4626,7 @@
   - C. In the driver's seat of a car
   - D. In front of a bus stop on a rainy day
 
-- **QID**: il_wMYlDQ6I_0 | **motion**: N | **correct**: False
+- **QID**: il_wMYlDQ6I_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In daytime with the sun, the video shows the process of an airplane slowly taking off. At the beginning of the video, where does the airplane on the flat ground appear?
   - A. in the sky
@@ -4634,7 +4634,7 @@
   - C. in the ocean
   - D. on a hill
 
-- **QID**: ixAU3l0sX_o_0 | **motion**: N | **correct**: True
+- **QID**: ixAU3l0sX_o_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: On screen, a short-haired woman puts her entire right hand into her mouth. There are many people behind her, including a man wearing a striped shirt sitting in the background. What color clothing is this woman wearing?
   - A. Blue
@@ -4642,7 +4642,7 @@
   - C. White
   - D. Black
 
-- **QID**: ixlQX7lV8dc_0 | **motion**: N | **correct**: False
+- **QID**: ixlQX7lV8dc_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a picture featuring an animal with chameleon eyes, after the subtitle 'helped it seek out prey, primarily' appears, which animal is shown?
   - A. gecko
@@ -4650,7 +4650,7 @@
   - C. chipmunk
   - D. frog
 
-- **QID**: ixlQX7lV8dc_1 | **motion**: N | **correct**: True
+- **QID**: ixlQX7lV8dc_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In a picture with a microscope, after the subtitle 'After completing a study about prehistoric insects' appears, what person appears?
   - A. A man in a yellow shirt
@@ -4658,7 +4658,7 @@
   - C. A man in a green shirt
   - D. A woman wearing glasses
 
-- **QID**: j7kxn5CsHnw_0 | **motion**: N | **correct**: False
+- **QID**: j7kxn5CsHnw_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: A silver plate was placed on the wooden table, which contained some nuts and fragments of pastries like buns. A hand was holding a red wooden spoon picking up some pastry fragments. What subtitles appeared along with this red wooden spoon?
   - A. Meat buns were once popular in the USA and the UK
@@ -4667,7 +4667,7 @@
   - D. Sharing some information about meat buns
   - E. Music
 
-- **QID**: jJGbXCCU5yc_1 | **motion**: N | **correct**: True
+- **QID**: jJGbXCCU5yc_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: White clouds are flowing atop the mountain peak. A man wearing a gray coat and black shorts is standing in front of the cliff, gazing at the distant green mountains. What is the item in this man's hand?
   - A. glasses
@@ -4676,7 +4676,7 @@
   - D. phone
   - E. stick
 
-- **QID**: jbPR2SJuFHg_0 | **motion**: N | **correct**: False
+- **QID**: jbPR2SJuFHg_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: On a large marble table, there is a piece of baked food. A person wearing a ring is using chopsticks to apply sauce. What kind of ring is this person wearing?
   - A. Gold ring on the index finger
@@ -4684,7 +4684,7 @@
   - C. Gold ring on the middle finger
   - D. Silver ring on the middle finger
 
-- **QID**: k194yU67Zik_0 | **motion**: N | **correct**: False
+- **QID**: k194yU67Zik_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In a kitchen with a background showing an egg on the left and a roasted chicken hanging on the right wall, which words appear together with the man wearing a black hat and a black T-shirt?
   - A. no matter how old
@@ -4693,7 +4693,7 @@
   - D. you bye
   - E. there's nothing really bad about it but
 
-- **QID**: kN88RP3XWUU_0 | **motion**: N | **correct**: True
+- **QID**: kN88RP3XWUU_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A man who is not wearing clothes but has a piece of cloth hanging around his waist is carrying a large blue and white ball. The man has bronze-colored skin and black curly hair. Which of the following subtitles has this man appeared with?
   - A. punishments one of the Titans Atlas was
@@ -4701,7 +4701,7 @@
   - C. world looked like this kind of like an O
   - D. with the T inside here was Europe here
 
-- **QID**: kN88RP3XWUU_1 | **motion**: N | **correct**: False
+- **QID**: kN88RP3XWUU_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: Against a vintage backdrop, there is a black frame within which there is a person with curly hair wearing a wreath made of leaves on their head. In which of the following subtitles did this person appear?
   - A. the conclusion that Atlas was derived
@@ -4709,7 +4709,7 @@
   - C. attached to what we call the Atlas
   - D. enduring Duras durable yeah which makes
 
-- **QID**: kOZnpwI2hIM_0 | **motion**: N | **correct**: False
+- **QID**: kOZnpwI2hIM_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Outside a house in Yangguanmingyao, a man wearing a white short-sleeved shirt is sitting on a chair. Behind the man, there are green grass, trees, and a house. Next to the man, there is an empty chair. The man has a tattooed arm and is wearing a watch and a bracelet on one hand, while the other hand is wrapped with a white bandage. After the subtitle 'Music' appears, what characters show up on the screen?
   - A. A man with a black backpack
@@ -4718,7 +4718,7 @@
   - D. A shirtless man
   - E. A man wearing a blue shirt and a man wearing a black short-sleeved shirt
 
-- **QID**: kOZnpwI2hIM_2 | **motion**: N | **correct**: False
+- **QID**: kOZnpwI2hIM_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Blue skies with floating white clouds, the distant and nearby continuous mountain ranges, the blue sea and the deserted sandy beach, after the subtitle 'Luke decided to tell us a bit about his' appeared, which character appeared on the screen?
   - A. A small cat
@@ -4727,7 +4727,7 @@
   - D. A man in a blue short-sleeved shirt
   - E. A man in a white short-sleeved shirt
 
-- **QID**: kWUmHAzCp7s_0 | **motion**: N | **correct**: True
+- **QID**: kWUmHAzCp7s_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A group of people wearing uniforms are standing with their backs turned at a platform. On the platform are three people, all standing in a dimly lit building with light pouring in from a rectangular window behind them, casting long shadows. When it mentions 'the boys are put through a strict training regime by the Peacekeepers. They also have to', what objects are present in the scene?
   - A. yellow uniform
@@ -4736,14 +4736,14 @@
   - D. green uniform
   - E. white and red uniform
 
-- **QID**: kj3Po7zUeyw_0 | **motion**: N | **correct**: False
+- **QID**: kj3Po7zUeyw_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: What is the ethnicity of the first person to appear in the video?
   - A. White
   - B. Black
   - C. Asian
 
-- **QID**: kk-iRzLv81o_1 | **motion**: N | **correct**: False
+- **QID**: kk-iRzLv81o_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: The screen shows a plot of land surrounded by green trees. The land is brown, and there is a person wearing a yellow outfit with a cowboy hat and a mustache who is making a fire. There is also a person wearing white clothes and a gray skirt with a backpack behind him. Which one is carrying a gun?
   - A. The person wearing white clothes and a gray skirt
@@ -4752,7 +4752,7 @@
   - D. The person wearing yellow clothes and a hat making a fire
   - E. The person wearing white clothes, a gray skirt, and green shoes
 
-- **QID**: l3vxOGgAM2g_0 | **motion**: N | **correct**: True
+- **QID**: l3vxOGgAM2g_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: When mentioning 'Music', the man wearing a white shirt, yellow jacket, and yellow pants, what type is his jacket?
   - A. Sweater
@@ -4760,7 +4760,7 @@
   - C. Coat
   - D. Jacket
 
-- **QID**: lQODAJ_F5yE_0 | **motion**: N | **correct**: False
+- **QID**: lQODAJ_F5yE_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On yellow paper lies white paper with black symbols on it and a black arrow. The white paper and the arrow form a formula. Pink paper strips are used as markers. Below, the two largest sheets of paper are orange and blue. In the upper left corner is a black-headed, multicolored pencil. A hand with red nails is holding a pen and writing. The subtitle reads 'The first answer is with a negative sign because heat is released. We could have also written'. What elements are present in this scene?
   - A. Red triangular paper with 'b' written on it
@@ -4769,7 +4769,7 @@
   - D. Red round paper with 'b' written on it
   - E. Orange round paper with 'b' written on it
 
-- **QID**: lQODAJ_F5yE_1 | **motion**: N | **correct**: False
+- **QID**: lQODAJ_F5yE_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: On a yellow paper, there are three strips of paper with characters written on them. In the top left corner, there is a stationery item with a black head and a colorful body. In the bottom right corner, a woman with long hair is speaking inside a red circular frame. The subtitle appears 'enthalpy stoichiometry and how to use them. So if'. What is on the woman's body?
   - A. Blue nail polish
@@ -4778,7 +4778,7 @@
   - D. Necklace
   - E. Black and white striped outerwear
 
-- **QID**: lcEaHk8f4Co_0 | **motion**: N | **correct**: True
+- **QID**: lcEaHk8f4Co_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: Someone is holding a floral tray and pushing a tray filled with yellow block-like food material into a metal rack. What is the food material that's being pushed forward in the tray?
   - A. Bread
@@ -4787,7 +4787,7 @@
   - D. Papaya
   - E. Butter
 
-- **QID**: liRm38L9EC4_0 | **motion**: N | **correct**: True
+- **QID**: liRm38L9EC4_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In front of a background with silver waves, there is a woman with long blonde hair, wearing a blue and white fitted top and black pants. In front of her, there is a wooden colored table. What objects appear in this scene?
   - A. A plate with brown objects
@@ -4796,7 +4796,7 @@
   - D. A plate with green objects
   - E. A plate with blue objects
 
-- **QID**: liRm38L9EC4_1 | **motion**: N | **correct**: False
+- **QID**: liRm38L9EC4_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of a white wall, there is a woman wearing a beige coat with a white camisole underneath and short hair. She is holding a cup of black liquid in her hand. On either side of her, there is a woman: one with a ponytail and another wearing a hairband with long earrings. What objects are present in this scene?
   - A. A pure white plate
@@ -4805,7 +4805,7 @@
   - D. A blue painting board
   - E. A white plate with blue floral patterns
 
-- **QID**: mFliMGufpwc_0 | **motion**: N | **correct**: False
+- **QID**: mFliMGufpwc_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a dark room, there is a woman with long hair dressed in yellow and a child. They are both sitting on a bed. What items are present in this room?
   - A. electric fan
@@ -4814,7 +4814,7 @@
   - D. dog
   - E. cat
 
-- **QID**: mFliMGufpwc_1 | **motion**: N | **correct**: False
+- **QID**: mFliMGufpwc_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: There is a woman with medium-length wavy black hair on the screen, wearing a black and grey suit jacket, sitting on a chair facing a mirror. What objects are present in this scene?
   - A. notebook
@@ -4823,7 +4823,7 @@
   - D. camera
   - E. pen
 
-- **QID**: mFliMGufpwc_2 | **motion**: N | **correct**: True
+- **QID**: mFliMGufpwc_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There is a woman with short black hair on the screen, wearing glasses with purple-red frames, a green undershirt, and a white outer coat, with a black ornament on the collar. What items have appeared on the screen?
   - A. mobile phone
@@ -4832,7 +4832,7 @@
   - D. watch
   - E. earring
 
-- **QID**: mTn_C-SyW84_0 | **motion**: N | **correct**: True
+- **QID**: mTn_C-SyW84_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In a room, a woman wearing a white coat is facing the mirror and picking up a bouquet of flowers. One of her braids is draped between her eyes. What objects are present in this scene?
   - A. a necklace
@@ -4841,7 +4841,7 @@
   - D. a hair clip
   - E. a door
 
-- **QID**: mTn_C-SyW84_1 | **motion**: N | **correct**: True
+- **QID**: mTn_C-SyW84_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On a wooden surface, a pair of hands is embroidering flowers on a cloth. There are already some yellow and white flowers embroidered on this cloth. What objects exist in this scene?
   - A. A flower basket
@@ -4850,7 +4850,7 @@
   - D. A cup
   - E. A needle
 
-- **QID**: mTn_C-SyW84_2 | **motion**: N | **correct**: False
+- **QID**: mTn_C-SyW84_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room with wooden walls, a woman in a grey strapless long dress stands in front of a white door, looking down and arranging her clothes. What is the object present in this scene?
   - A. Bracelet
@@ -4859,7 +4859,7 @@
   - D. Necklace
   - E. A broom
 
-- **QID**: md3LVlEzFBU_0 | **motion**: N | **correct**: True
+- **QID**: md3LVlEzFBU_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: The dazzling sunlight shines in the upper left corner of the sky, a yellow tank's gun barrel pointing to the upper left, with a white C-shaped logo on the tank's body, and the tank’s tracks are pressing against the grass. When the subtitle 'serious drawback its gun could only be' appears, what color is the background of the square within the C shape on the tank?
   - A. white
@@ -4868,7 +4868,7 @@
   - D. black
   - E. yellow
 
-- **QID**: md3LVlEzFBU_1 | **motion**: N | **correct**: True
+- **QID**: md3LVlEzFBU_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: The sky is blue over a yellow desert, and there are two military vehicles facing each other. On these vehicles, there are two people wearing hats with their upper bodies exposed. When the subtitle 'legacy of service in british military' appears, what is the shape of the camera-like object in the middle of the left-hand vehicle?
   - A. square
@@ -4877,7 +4877,7 @@
   - D. circle
   - E. semicircle
 
-- **QID**: mfS6gyP0mwo_0 | **motion**: N | **correct**: False
+- **QID**: mfS6gyP0mwo_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A woman with long hair, wearing a purple top and a necklace, is giving an introduction at the beginning of the video and later gives a lecture. What changes occur in the color of the wall behind her at these times?
   - A. White changes to blue
@@ -4885,7 +4885,7 @@
   - C. White changes to olive green
   - D. Olive green changes to blue
 
-- **QID**: mkqgTAe2_O4_0 | **motion**: N | **correct**: False
+- **QID**: mkqgTAe2_O4_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A man and a woman, dressed as ordinary people, are holding shovels and digging soil. The man is wearing a hat, and the woman is wearing a headscarf. There are two soldiers in blue uniforms with black hats holding guns nearby. In the distance, there are some green plants. What is present in this scene?
   - A. A photographer wearing a hat
@@ -4894,7 +4894,7 @@
   - D. NP-News-Programers
   - E. Various colored horses
 
-- **QID**: mkqgTAe2_O4_1 | **motion**: N | **correct**: False
+- **QID**: mkqgTAe2_O4_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the distance of the battlefield is a broken white building, with an archway on the left side of the building. A soldier wearing a green uniform and helmet is shooting, while another soldier without a helmet is wounded and leaning in the corner. There is a rifle to the left side of the wounded soldier. What objects are present in this scene?
   - A. Doctor in a white coat
@@ -4903,7 +4903,7 @@
   - D. Broken iron pillar
   - E. Stacked lumber
 
-- **QID**: mld0TnA2jEs_0 | **motion**: N | **correct**: False
+- **QID**: mld0TnA2jEs_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A man in a red short-sleeve shirt is sitting on a sofa with his hands folded. There is a laptop on the left side of the sofa and a pillow on the right side. Behind the sofa is an open kitchen with brown cabinets. When the subtitle 'a very desirable property now let's talk' appears, what objects are present in this scene?
   - A. a black thread
@@ -4912,7 +4912,7 @@
   - D. a watch
   - E. a necklace
 
-- **QID**: mld0TnA2jEs_1 | **motion**: N | **correct**: False
+- **QID**: mld0TnA2jEs_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A man wearing a red short-sleeve shirt and dark pants is sitting on the sofa with his hands spread out to the sides. There is a laptop on the left side of the sofa. Behind the sofa is an open kitchen with cabinets that are oak-colored. When the subtitle 'be used in machine learning algorithms' appears, what objects are present in the scene?
   - A. watch
@@ -4921,7 +4921,7 @@
   - D. umbrella
   - E. necklace
 
-- **QID**: mq6L8CnNJXc_0 | **motion**: N | **correct**: False
+- **QID**: mq6L8CnNJXc_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On a white shelf, there is a pair of mismatched shoes, and next to the shoes, there's a wooden-colored bag. What kind of fastener does the bag in the video have?
   - A. It is a gold square fastener
@@ -4929,7 +4929,7 @@
   - C. It is a silver round fastener
   - D. It is a gold round fastener
 
-- **QID**: mq6L8CnNJXc_1 | **motion**: N | **correct**: True
+- **QID**: mq6L8CnNJXc_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In front of a wall with blue ceramic tiles, there's a man with a mustache, carrying a backpack and wearing a short-sleeved shirt. What is the color of the straps on the backpack he's carrying in the video?
   - A. Olive
@@ -4937,7 +4937,7 @@
   - C. White
   - D. Gray
 
-- **QID**: mq6L8CnNJXc_2 | **motion**: N | **correct**: True
+- **QID**: mq6L8CnNJXc_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In the scene, there are two characters made to look like maps with eyes. The one on the left is holding a cup, and the one on the right is holding a fish. What kind of cup is the one in the scene?
   - A. A glass tea cup containing red tea
@@ -4945,7 +4945,7 @@
   - C. A ceramic cup containing green tea
   - D. A glass tea cup containing coffee
 
-- **QID**: nBWB-h68E4k_0 | **motion**: N | **correct**: False
+- **QID**: nBWB-h68E4k_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: When the subtitle in the video mentions 'they assume that I make the work that I do,' what style of clothing is the person speaking wearing?
   - A. A black and white polka dot shirt
@@ -4953,7 +4953,7 @@
   - C. A plain black shirt
   - D. A black and white striped shirt with a black and gold collar
 
-- **QID**: oCXKARwr6PA_0 | **motion**: N | **correct**: False
+- **QID**: oCXKARwr6PA_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In an image of a young girl with a yellow background, wearing a headscarf, accompanied by feathers and some simple ornaments, which objects have never appeared?
   - A. Yellow headscarf
@@ -4962,7 +4962,7 @@
   - D. Blue gemstones
   - E. Peacock feathers
 
-- **QID**: oO8OJZFZT9s_0 | **motion**: N | **correct**: False
+- **QID**: oO8OJZFZT9s_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the green mountains, a blond man wearing a blue short-sleeve shirt, carrying a green backpack, and a red jacket around his waist, appeared with which captions?
   - A. into the beach and you're gonna start and marsh and then you're gonna kind of hit
@@ -4970,7 +4970,7 @@
   - C. that on your list and make sure you
   - D. and we came right when the Sun was
 
-- **QID**: oddHY1vwcjo_0 | **motion**: N | **correct**: True
+- **QID**: oddHY1vwcjo_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A man and a woman are standing by the roadside talking. The woman has her brown hair tied up and is wearing a shirt. The man also has brown hair. In the distance, there are buildings, traffic lights, and a road. The image is blurry, and the whole scene is shrouded in darkness. What material is the man's jacket made of?
   - A. A woolen jacket
@@ -4979,7 +4979,7 @@
   - D. A cotton jacket
   - E. A silk jacket
 
-- **QID**: oiBhGhROP5o_0 | **motion**: N | **correct**: False
+- **QID**: oiBhGhROP5o_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: When various indicative markers with summary English words are shown in the video and the phrase 'with this assumption ever after' is mentioned, which of the following icons does not appear?
   - A. Open-ended icon with 'assuming surprise'
@@ -4987,7 +4987,7 @@
   - C. Sequence icon with 'didn't try to bring maximum carrier'
   - D. Icon with 'limited plan'
 
-- **QID**: otaJfBSlsG8_0 | **motion**: N | **correct**: False
+- **QID**: otaJfBSlsG8_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of a white cabinet, there is a woman with long black hair wearing a pink top, and there's also a green potted plant on the surface behind her. With which of the following subtitles has she appeared together?
   - A. history
@@ -4996,7 +4996,7 @@
   - D. people
   - E. science
 
-- **QID**: otaJfBSlsG8_1 | **motion**: N | **correct**: False
+- **QID**: otaJfBSlsG8_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In front of a white cabinet, there is a green potted plant on the side. In front, there is a woman with long black hair holding an illustrated book. Which of the following subtitles appeared with this illustrated book?
   - A. that afternoon stella and her clay
@@ -5005,7 +5005,7 @@
   - D. started
   - E. story time and activity now
 
-- **QID**: ozpGTw6DrXs_0 | **motion**: N | **correct**: False
+- **QID**: ozpGTw6DrXs_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A blonde man wearing a gray short sleeve shirt is in front of a mountain and an ocean in the scene. In which other scene does this man appear?
   - A. Appears on the road between the sea and the buildings
@@ -5013,7 +5013,7 @@
   - C. Appears on a boat
   - D. Appears in a restaurant
 
-- **QID**: ozpGTw6DrXs_1 | **motion**: N | **correct**: True
+- **QID**: ozpGTw6DrXs_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a blue object at sea, there is a blonde woman wearing a blue swimsuit. In which other scene does this woman appear?
   - A. She appears in a library.
@@ -5021,7 +5021,7 @@
   - C. She appears on a path between a white building on one side and a gray building on the other.
   - D. She appears in a restaurant.
 
-- **QID**: pFpZvRsEGZs_0 | **motion**: N | **correct**: False
+- **QID**: pFpZvRsEGZs_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A bald person wearing a green coat is holding a phone to his ear. Behind him is a wall made of wooden blocks, and to his left-rear side, there is a white light bulb. What color is the phone?
   - A. black
@@ -5030,7 +5030,7 @@
   - D. yellow
   - E. white
 
-- **QID**: pFpZvRsEGZs_1 | **motion**: N | **correct**: True
+- **QID**: pFpZvRsEGZs_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: A man in a white coat and a long-haired woman are standing face to face next to a shelf. The man is holding a bottle with liquid in one hand and resting the other hand on the shelf. What is the color of the liquid in the bottle?
   - A. Black
@@ -5039,7 +5039,7 @@
   - D. Red
   - E. Blue
 
-- **QID**: pZ-9hGQNHuA_0 | **motion**: N | **correct**: True
+- **QID**: pZ-9hGQNHuA_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: At night, on a street with a car parked with its hazard lights on, a person is standing beside the car with a bent waist. On one side of the road, there are houses, and on the other side, there are houses surrounded by fences. When the text 'what's your name' is mentioned, what objects appear on the screen?
   - A. Truck
@@ -5047,7 +5047,7 @@
   - C. Table
   - D. Car, streetlight, fence
 
-- **QID**: q2bpkhjNxf0_0 | **motion**: N | **correct**: False
+- **QID**: q2bpkhjNxf0_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: The screen shows an animation with blue sky and white clouds, followed by a staircase. The grey staircase has an olive green slope in the middle. A rectangular object wrapped with a string is being pulled upwards along the slope. Which subtitles have appeared together with this rectangular object?
   - A. welcome
@@ -5056,7 +5056,7 @@
   - D. h
   - E. so
 
-- **QID**: qYnloYaeQA8_0 | **motion**: N | **correct**: True
+- **QID**: qYnloYaeQA8_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In front of a gray wall and a yellowish-brown door, there is a transparent glass table with dark brown edges. A man in a dark blue short-sleeved shirt is standing beside the table. What kind of hat is this man wearing?
   - A. A blue beret
@@ -5064,7 +5064,7 @@
   - C. An off-white baseball cap
   - D. A black baseball cap with a white design in the middle and on the upper side of the ear flaps
 
-- **QID**: qYnloYaeQA8_1 | **motion**: N | **correct**: True
+- **QID**: qYnloYaeQA8_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Under the glaring sunlight, three men are running on the golden sand, with many green trees and people having fun in the background. What style of top is the man in the middle wearing?
   - A. Gray sweater
@@ -5072,7 +5072,7 @@
   - C. Blue sleeveless top with red and blue patterned front
   - D. White and black striped long sleeve
 
-- **QID**: qZVBFAtfp2A_0 | **motion**: N | **correct**: False
+- **QID**: qZVBFAtfp2A_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: In the video, a man in pink garb with a ponytail stands in front of a white wall with a white door, as well as a lantern. The man is wearing a pink garment. Not far away, there's a street with some small buildings and parked cars. Behind the man, there is a person in black clothing facing away from the camera. When the phrase 'I can't wait to surprise my mom' is mentioned, what type of garment is the man wearing?
   - A. Pink tank top
@@ -5081,7 +5081,7 @@
   - D. Pink jacket
   - E. Pink sweater
 
-- **QID**: qjY9kmveQAk_0 | **motion**: N | **correct**: True
+- **QID**: qjY9kmveQAk_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a train, a person wearing a green military uniform and a green face mask is making a phone call. What other items appear on this train?
   - A. Biscuit
@@ -5089,7 +5089,7 @@
   - C. Gun
   - D. Piano
 
-- **QID**: qjY9kmveQAk_1 | **motion**: N | **correct**: True
+- **QID**: qjY9kmveQAk_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Some soldiers, dressed in white shirts, gray pants, and wearing green hats, are holding guns and battling the people on the train. At this moment, what else appears?
   - A. sun
@@ -5097,7 +5097,7 @@
   - C. rainbow
   - D. stars
 
-- **QID**: s1TjVlKBpjs_1 | **motion**: N | **correct**: True
+- **QID**: s1TjVlKBpjs_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: It was pouring rain, and among a grove of withered trees, the ground was all mud and bloodstains. When the subtitle 'The awful conditions caused rifles to become clogged up with mud and tanks to become stuck.' appears, what is the first type of weapon shown on the screen?
   - A. Sword
@@ -5106,7 +5106,7 @@
   - D. Hand Grenade
   - E. Tank
 
-- **QID**: s2N4cPqCdys_0 | **motion**: N | **correct**: True
+- **QID**: s2N4cPqCdys_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a dimly lit space, there's a well made of stone, surrounded by people. A man wearing a dark yellow short-sleeved shirt is shining a flashlight into the well. What color is the flashlight beam shining into the well?
   - A. green
@@ -5115,7 +5115,7 @@
   - D. white
   - E. red
 
-- **QID**: sEiyR7-0FOA_0 | **motion**: N | **correct**: False
+- **QID**: sEiyR7-0FOA_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: There are two people holding a book and a pen, wearing khaki outerwear and hats. There is a tank between them. On the tank, there is a person wearing black clothes. When the subtitle 'the next day two Italian War' appears, what color is the book the person on the left is holding?
   - A. red
@@ -5124,7 +5124,7 @@
   - D. black
   - E. white
 
-- **QID**: sEiyR7-0FOA_1 | **motion**: N | **correct**: False
+- **QID**: sEiyR7-0FOA_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: Two people are standing on an orange ground. On the left is a person wearing a helmet and holding a knife and shield. On the right is a person with black hair, also holding a knife and shield. When the subtitle 'threat of death or severe injury ever' appears, what is the shape of the shield held by the person on the left?
   - A. Square
@@ -5133,7 +5133,7 @@
   - D. Circle
   - E. Parallelogram
 
-- **QID**: sEiyR7-0FOA_2 | **motion**: N | **correct**: True
+- **QID**: sEiyR7-0FOA_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: Two soldiers are standing next to a fallen tank, one soldier is holding a bucket, and there are 6 buckets on the ground next to the tank. When the subtitle 'misinformation is extremely effective in' appears, what color are the buckets on the ground?
   - A. orange
@@ -5142,7 +5142,7 @@
   - D. pink
   - E. green
 
-- **QID**: sHUEJw1BsGQ_0 | **motion**: N | **correct**: True
+- **QID**: sHUEJw1BsGQ_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On a car, in the front left seat sits a man wearing a green hat, with a face covered, dressed in khaki clothes. Behind him is a woman with blonde hair in white clothes. In the front right seat is a man wearing sunglasses, with a face covered, dressed in gray clothes, with a black steering wheel in front of him. Behind him is a man with short hair, dressed in a white long-sleeve shirt, wearing a black bow tie. When the subtitle mentions 'The pirates intend to take them to their boss, but Darey tricks them by asking for a cigarette,' what object is present in the picture?
   - A. fan
@@ -5151,7 +5151,7 @@
   - D. computer
   - E. mobile phone
 
-- **QID**: sHUEJw1BsGQ_1 | **motion**: N | **correct**: False
+- **QID**: sHUEJw1BsGQ_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: By the side of a sea, a person with short hair, dressed in a white long-sleeve shirt with a bit of black, stands in the middle. In front of him stands a person with a covered face, dressed in olive clothing. Behind them sits a group of people wearing different styles of clothes. Trees are also planted behind the crowd. When the subtitle reaches 'When Tom is taken to the other captives, he provocatively says something in Balinese to,' what object is present in the frame?
   - A. computer
@@ -5160,7 +5160,7 @@
   - D. fishing rod
   - E. hat
 
-- **QID**: sWfcgeDth_w_0 | **motion**: N | **correct**: False
+- **QID**: sWfcgeDth_w_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: The scene shows a lady sitting in a yellow flower field looking ahead, with a mountain peak in the distance. Yellow flowers bloom on a hillside. The lady has brown hair and is wearing a long-sleeved outfit. When 'Not the least of which, is' is mentioned, what object is not present in the scene?
   - A. Snowy mountain
@@ -5169,7 +5169,7 @@
   - D. Brown long-sleeved outfit
   - E. Yellow flowers of yellow flower clusters
 
-- **QID**: shGkzHpzwAQ_0 | **motion**: N | **correct**: True
+- **QID**: shGkzHpzwAQ_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In a dimly lit room with a bed and a lamp, a woman picks up a black phone with one hand and puts it to her ear. When the subtitle says 'it also wonders why she isn't following the rules. Greta drops the phone, but then there's knocking', what type of clothing is this woman wearing?
   - A. nurse's uniform
@@ -5178,7 +5178,7 @@
   - D. suit
   - E. wool coat
 
-- **QID**: t1nhAnMQBHg_0 | **motion**: N | **correct**: False
+- **QID**: t1nhAnMQBHg_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a dimly lit room, there is a chair. A man in front of the chair, wearing a white short-sleeved shirt, is bending over looking at something in his hands. When the subtitles mention 'I don't know what this is, it looks like a pointed object', what is the item on the man's head?
   - A. A black beret with red and white interlaced text
@@ -5187,7 +5187,7 @@
   - D. A yellow baseball cap with red and white interlaced text
   - E. A black baseball cap with no text
 
-- **QID**: t1nhAnMQBHg_1 | **motion**: N | **correct**: True
+- **QID**: t1nhAnMQBHg_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In a room with a piano and a display hanging on the wall, a man with a beard wearing black clothes is explaining a small microphone with his thumb and index finger. After the subtitles appear saying, ‘So let’s just jump into the flag and stuff, shall we? The flag known as the Hinomaru or ‘Circle of the sun’,’ what is the image that appears in the center of the green-patterned background?
   - A. British flag
@@ -5196,7 +5196,7 @@
   - D. Vietnamese flag
   - E. Brazilian flag
 
-- **QID**: tCnelzIAHA0_0 | **motion**: N | **correct**: True
+- **QID**: tCnelzIAHA0_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A long-haired woman wearing round earrings, a blue top, and black inner wear appears on the screen holding a book. What type of clothing is this woman wearing?
   - A. Suit
@@ -5204,7 +5204,7 @@
   - C. Feather coat
   - D. Denim jacket
 
-- **QID**: tGiRbGGwRj8_0 | **motion**: N | **correct**: False
+- **QID**: tGiRbGGwRj8_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In the bottom-left corner of the screen, there's a circle with a woman with long black hair inside it providing explanations. Behind her are 12 and a half sheets of informational background. What color is the outfit the woman is wearing?
   - A. Black
@@ -5212,7 +5212,7 @@
   - C. Red
   - D. Gray
 
-- **QID**: tGiRbGGwRj8_1 | **motion**: N | **correct**: True
+- **QID**: tGiRbGGwRj8_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: On the half blue, half pink tablecloth, this person places three pieces of paper with 'The partial pressure' and formulas written on them. At this moment, what is the color of the nail polish on their fingers?
   - A. pink
@@ -5220,7 +5220,7 @@
   - C. white
   - D. red
 
-- **QID**: to7vCdkLi4s_1 | **motion**: N | **correct**: True
+- **QID**: to7vCdkLi4s_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: There are 6 pictures on the PPT, and each picture has an English word on it. Which subtitles appear on the screen together with these words?
   - A. you rotate it random conf means you and of in a sort of way that doesn't mess up
@@ -5228,7 +5228,7 @@
   - C. across the stacked frames so basically
   - D. sometimes it's beneficial to feed the
 
-- **QID**: to7vCdkLi4s_2 | **motion**: N | **correct**: False
+- **QID**: to7vCdkLi4s_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In the picture, there is an image with colors like red, orange, and blue on a white background. Alongside which subtitles does this screen appear?
   - A. whatever 300 points in this Walker if and okay crop is the most the most effective
@@ -5237,7 +5237,7 @@
   - C. quite grandiose so we'll dive into it
   - D. across the stacked frames so basically
 
-- **QID**: tygk9-aneC4_0 | **motion**: N | **correct**: True
+- **QID**: tygk9-aneC4_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: The screen shows a bar chart comparing the cost-effectiveness of different German tanks during World War II. Which tank, introduced first, has the lowest cost?
   - A. Main Battle Tank
@@ -5245,7 +5245,7 @@
   - C. Heavy Tank
   - D. Panther
 
-- **QID**: u-vYvqxHejY_0 | **motion**: N | **correct**: True
+- **QID**: u-vYvqxHejY_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the video, a blonde woman is explaining something while wearing a black coat. When the person speaking mentions 'Oh, and here's a picture of her at the printing press,' there is a shadow of her pointing to an object on the wall. What is the object present in the screen?
   - A. Tree
@@ -5253,7 +5253,7 @@
   - C. Book
   - D. Watercolor painting
 
-- **QID**: u5NAcHhI_Uc_0 | **motion**: N | **correct**: False
+- **QID**: u5NAcHhI_Uc_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: The screen shows a completely black background with a drawing of a soldier. He is wearing a uniform, has bullets hanging on his body, and is holding a gun. What is this soldier doing?
   - A. The soldier is looking upwards
@@ -5262,7 +5262,7 @@
   - D. The soldier is looking to the right
   - E. The soldier is standing straight
 
-- **QID**: uJgZo4KxoZw_0 | **motion**: N | **correct**: True
+- **QID**: uJgZo4KxoZw_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the scene, there is a man and a woman standing in a large room. In the room, there is a dining table with a blue tablecloth, a glass display case with black objects inside, a lot of glass, and a spiral staircase. The man is wearing a black suit and a white shirt, and he has brown hair. The woman has black hair and is wearing a gray coat. On the white wall next to the dining table, there is a protruding decoration. What is the shape of this decoration?
   - A. Heart
@@ -5271,7 +5271,7 @@
   - D. Circle
   - E. Rectangle
 
-- **QID**: v-7zF3Y0yJs_0 | **motion**: N | **correct**: True
+- **QID**: v-7zF3Y0yJs_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In front of a screen with a blue background and a turret-shaped building on the far right, what color suit is the man sitting in front of the phone booth wearing?
   - A. blue
@@ -5280,7 +5280,7 @@
   - D. black
   - E. yellow
 
-- **QID**: vE0faFD1F_g_0 | **motion**: N | **correct**: True
+- **QID**: vE0faFD1F_g_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: A painting is hanging on the blue wall, and a person wearing long sleeves is standing with their back to the camera, admiring the painting on the wall. When the subtitle says 'day knowing this would be no more than,' what color clothing is the person standing in front of the painting wearing?
   - A. red
@@ -5289,7 +5289,7 @@
   - D. black
   - E. pink
 
-- **QID**: vEy6tcU6eLU_0 | **motion**: N | **correct**: True
+- **QID**: vEy6tcU6eLU_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A man wearing an orange shirt appears in front of a black background. The man rolls up his sleeves, and to his left, there is a square frame with green and white inside. When the subtitle 'Vegetarian and this one means' appears, what is the shape at the center of the green area inside the square frame on the left?
   - A. Circle
@@ -5298,7 +5298,7 @@
   - D. Square
   - E. Droplet shape
 
-- **QID**: vEy6tcU6eLU_1 | **motion**: N | **correct**: True
+- **QID**: vEy6tcU6eLU_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A man wearing an orange shirt appears in front of a black background. The man rolls up his sleeves. The man is holding a plate of Indian specialty food in his hand. There is a food picture to the man's left, and when the subtitle 'These usually come to the Northern regions of India' appears, what is the shape of the plate in the picture to the right?
   - A. Rectangle
@@ -5307,7 +5307,7 @@
   - D. Pentagon
   - E. Irregular Shape
 
-- **QID**: vEy6tcU6eLU_2 | **motion**: N | **correct**: False
+- **QID**: vEy6tcU6eLU_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A man appears in front of a black background. The man has thick and long hair. He is wearing a short-sleeve shirt, and the buttons of the short-sleeve shirt are not fastened. When the subtitle 'So how do they communicate with each other?' appears, what is the color of the shirt under the short-sleeve shirt of the man with thick hair?
   - A. yellow
@@ -5316,7 +5316,7 @@
   - D. white
   - E. green
 
-- **QID**: vJ9hYCUDHTo_0 | **motion**: N | **correct**: False
+- **QID**: vJ9hYCUDHTo_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A lady with brown hair is explaining in front of a mirror. She is wearing light brown clothes, with a white wall behind her decorated with long wooden planks. In the top left corner behind her, there is a display screen showing various times. When the phrase 'best of Malaysia Airline and people who' is mentioned, what objects are present?
   - A. A hanging picture with timestamps
@@ -5325,7 +5325,7 @@
   - D. A blue robe
   - E. A necklace
 
-- **QID**: vJ9hYCUDHTo_1 | **motion**: N | **correct**: False
+- **QID**: vJ9hYCUDHTo_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: A man in a gray suit and tie is speaking on a podium. He is in a large hall, with three blue flags behind him, and has short hair and wears glasses. In front of him are two microphones. When he mentions 'of a tactical or technical issue it is,' which non-existent objects are present?
   - A. yellow pillar
@@ -5334,7 +5334,7 @@
   - D. dark brown door
   - E. blue curtain
 
-- **QID**: vP-fQu22bng_0 | **motion**: N | **correct**: True
+- **QID**: vP-fQu22bng_0 | **motion**: N | **correct**: True | **duration**: short
 
   - **Question**: In the video, it shows a clip of a blue sea with distant, continuous mountains. What happens after this video finishes playing?
   - A. A boy wearing white and blue clothes appears and speaks
@@ -5342,7 +5342,7 @@
   - C. A boy wearing black clothes appears and speaks
   - D. A dolphin appears and swims in the water
 
-- **QID**: wFrztzzohJ8_0 | **motion**: N | **correct**: True
+- **QID**: wFrztzzohJ8_0 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: In front of a grey wall with a huge oil painting hanging on it, there's a dense row of people standing and admiring this artwork. Which objects have not appeared in the scene?
   - A. Blue backpack
@@ -5350,7 +5350,7 @@
   - C. Red hat
   - D. Red handbag
 
-- **QID**: wFrztzzohJ8_1 | **motion**: N | **correct**: False
+- **QID**: wFrztzzohJ8_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In an oil painting depicting many people, there is a man in blue clothes holding an object and kneeling towards a man in black clothes. There are also many people standing behind them. Which character appears in this scene?
   - A. A person in black clothes leaning on a crutch
@@ -5358,7 +5358,7 @@
   - C. A person in gray clothes holding a musical instrument
   - D. A person wearing a purple robe
 
-- **QID**: wFrztzzohJ8_2 | **motion**: N | **correct**: False
+- **QID**: wFrztzzohJ8_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a meadow with many animals, an old man dressed in blue clothes and wearing a red cape is talking to two naked people. Which animal appears on the screen?
   - A. Peacock
@@ -5366,7 +5366,7 @@
   - C. Crow
   - D. Giraffe
 
-- **QID**: wSHPuI7wWIg_0 | **motion**: N | **correct**: False
+- **QID**: wSHPuI7wWIg_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A man wearing black clothes and a black mask appears at the center of the screen, with a woman in a black hooded outfit next to him. Behind the man, there is a parked red car, a person in dark long clothes, and some trees. When the subtitle 'photo spot of the Tokyo Tower' appears, what objects are present in the scene?
   - A. A black handbag
@@ -5375,7 +5375,7 @@
   - D. A black car
   - E. A white handbag
 
-- **QID**: wSHPuI7wWIg_1 | **motion**: N | **correct**: False
+- **QID**: wSHPuI7wWIg_1 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: A man wearing a black coat is sitting on a stool. The man is holding a black straw and a pink drink. Behind the man, there is a white stool and a screen. The screen displays an image of a large group of people gathered together. When the caption 'Can't complain' appears, what object is present in the scene?
   - A. A ring
@@ -5384,7 +5384,7 @@
   - D. A fork
   - E. A table lamp
 
-- **QID**: wSHPuI7wWIg_2 | **motion**: N | **correct**: True
+- **QID**: wSHPuI7wWIg_2 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: A screen with a black frame is placed on the table. On the screen, a blue-haired girl is holding a small tile with a design. The girl is wearing a uniform with a red tie, and her eyes are white with circular patterns. When the subtitle 'Ah, are you kidding me' appears, what items are present in the scene?
   - A. A red heart tile
@@ -5393,7 +5393,7 @@
   - D. A plum blossom tile
   - E. A red hat
 
-- **QID**: wWNBYEUxews_0 | **motion**: N | **correct**: False
+- **QID**: wWNBYEUxews_0 | **motion**: N | **correct**: False | **duration**: short
 
   - **Question**: Who is the person standing in front of a screen, holding a camera and carrying a red bag on their shoulder?
   - A. A woman wearing a blue top and purple skirt
@@ -5402,7 +5402,7 @@
   - D. A woman wearing a red top and olive green skirt
   - E. A woman wearing a blue top and olive green skirt
 
-- **QID**: x4dFLY_-vKs_0 | **motion**: N | **correct**: True
+- **QID**: x4dFLY_-vKs_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In front of a tree outside a bright window, a man dressed in black and wearing glasses is talking. When the subtitle mentions 'But we don't understand everything,' what is the man wearing on his head at this moment?
   - A. black cap
@@ -5411,7 +5411,7 @@
   - D. white overcoat
   - E. red-framed glasses
 
-- **QID**: x4dFLY_-vKs_1 | **motion**: N | **correct**: False
+- **QID**: x4dFLY_-vKs_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a studio, a woman with long hair dressed in black is giving an explanation. In front of her, a white pattern fills the screen and displays the word 'HEADLINES'. When the subtitle mentions 'Science, hence the telescope is on its way', what object is present on the screen?
   - A. Flesh-colored spacesuit without straps
@@ -5420,7 +5420,7 @@
   - D. Glasses
   - E. Flesh-colored spacesuit with straps
 
-- **QID**: yXXhrMqfMlk_0 | **motion**: N | **correct**: False
+- **QID**: yXXhrMqfMlk_0 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a narrow alley flanked by yellow buildings, a man wearing a black short-sleeved shirt and a hat is walking. Sunlight casts on his face, reflecting a dazzling glare. When the subtitles mention 'growing and learning and maturing as a', what object is present in the scene?
   - A. a round hat
@@ -5429,7 +5429,7 @@
   - D. a black car
   - E. a pair of black-framed glasses
 
-- **QID**: yXXhrMqfMlk_1 | **motion**: N | **correct**: False
+- **QID**: yXXhrMqfMlk_1 | **motion**: N | **correct**: False | **duration**: medium
 
   - **Question**: In a dimly lit room, a man wearing a duckbill hat and colorful clothes is reaching out with both hands, with 'TRAVELWITHMAX.ORG' written above his head. When the subtitle mentions 'that should have all the information you', what object is present in this scene?
   - A. a pair of headphones
@@ -5438,7 +5438,7 @@
   - D. a bracelet
   - E. a decorative lamp emitting red light
 
-- **QID**: yn7oTvw8QRY_1 | **motion**: N | **correct**: True
+- **QID**: yn7oTvw8QRY_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: There are two pictures here. One features a little boy with short golden hair, wearing a short-sleeve striped shirt, standing in front of a solid-colored background wall, holding a mud-colored clay container made of clay. The other picture features a pottery jar with a mountain goat design. According to the video, which of the following pictures appears last?
   - A. a small bowl made of clay
@@ -5447,7 +5447,7 @@
   - D. a pottery jar with a mountain goat design
   - E. a girl wearing green clothing and tying her hair
 
-- **QID**: ysRFFN5nzqE_0 | **motion**: N | **correct**: False
+- **QID**: ysRFFN5nzqE_0 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: In a room with a rectangular wooden board hanging on a wall, a woman with long black hair, wearing a black leather jacket, is sitting in front of a table with a water cup and a flat panel. What is the color of the water cup on the table when the subtitle says 'to Melissa miracle calm and I'll see you'?
   - A. yellow
@@ -5456,7 +5456,7 @@
   - D. black
   - E. red
 
-- **QID**: ysRFFN5nzqE_1 | **motion**: N | **correct**: True
+- **QID**: ysRFFN5nzqE_1 | **motion**: N | **correct**: True | **duration**: long
 
   - **Question**: On the left side of the screen, there is an orange area above the pink text on a white screen, and on the right side of the white screen there are two character cutouts from top to bottom. When the subtitle says 'actually we can actually change that to', what shape is the orange area in the middle of the white screen?
   - A. circle
@@ -5465,7 +5465,7 @@
   - D. stair shape
   - E. square
 
-- **QID**: ysRFFN5nzqE_2 | **motion**: N | **correct**: False
+- **QID**: ysRFFN5nzqE_2 | **motion**: N | **correct**: False | **duration**: long
 
   - **Question**: On the rightmost side of the white screen, from top to bottom, there are two person frames. The top one is a black-haired woman sitting in front of a desk, and the bottom one is a woman wearing glasses. When the subtitle says 'get a little bit technical which you,' what type of clothing is the woman wearing glasses at the bottom wearing?
   - A. T-shirt
@@ -5474,7 +5474,7 @@
   - D. Swimsuit
   - E. Suit
 
-- **QID**: z6HTO2SOxUc_0 | **motion**: N | **correct**: True
+- **QID**: z6HTO2SOxUc_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: There's a black surface on the table with a plate on it, inside the plate there's a multicolored dotted face mask, next to it there's a black and green cucumber model, and a yellow label with the word 'Blondies'. What other objects appear in the video?
   - A. Piano
@@ -5482,7 +5482,7 @@
   - C. Television
   - D. Leaf
 
-- **QID**: z6HTO2SOxUc_1 | **motion**: N | **correct**: True
+- **QID**: z6HTO2SOxUc_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the video, two men and a woman with straight hair wearing a black and white striped outfit appear, they are facing the camera and waving. There are also many objects on the table with the word JELL-O on them. Besides this, what else appears in the room?
   - A. Mobile phone
@@ -5490,7 +5490,7 @@
   - C. Flower pot
   - D. Piano
 
-- **QID**: ze66pbJYr18_0 | **motion**: N | **correct**: True
+- **QID**: ze66pbJYr18_0 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: Sitting at a table are 5 people, one of whom is a woman wearing a hat and pouring tea from a teapot. When the subtitle 'lived in a small hut and slept on straw' appears, what objects are present on the screen?
   - A. Bed
@@ -5498,7 +5498,7 @@
   - C. Lamp, table, chair
   - D. TV, lamp, table
 
-- **QID**: ze66pbJYr18_1 | **motion**: N | **correct**: True
+- **QID**: ze66pbJYr18_1 | **motion**: N | **correct**: True | **duration**: medium
 
   - **Question**: In the middle of the black background, there is a picture. The picture shows a blue sky and yellow stars. The color of the house on the left is yellow and gray. When the subtitle 'iconic works the quaint setting and use' appears, what object is on the screen?
   - A. Table and chair
