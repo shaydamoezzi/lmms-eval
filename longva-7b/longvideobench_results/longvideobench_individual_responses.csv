@@ -1,0 +1,1264 @@
+question_id,global_id,category_id,category_name,pred_answer,answer,correct
+5qMcDQd17Y4_1,global_023191,,,A,A,True
+7F9IrtSHmc0_0,global_023192,5,Holistic Understanding of Events,B,C,False
+9PD3ciudpIE_0,global_023188,,,C,A,False
+7F9IrtSHmc0_1,global_023193,5,Holistic Understanding of Events,D,D,True
+86CxyhFV9MI_1,global_023187,1,Change Detection,D,C,False
+86CxyhFV9MI_0,global_023186,,,C,B,False
+9PD3ciudpIE_1,global_023189,,,D,A,False
+QJ6sjg7SXOQ_0,global_023194,2,Interaction Recognition,E,E,True
+QJ6sjg7SXOQ_1,global_023195,5,Holistic Understanding of Events,D,C,False
+mH9LdC7IFH8_1,global_023197,3,Action Transition,D,A,False
+mH9LdC7IFH8_0,global_023196,3,Action Transition,D,B,False
+LB1qPExHQY8_0,global_023198,1,Change Detection,B,A,False
+LB1qPExHQY8_1,global_023199,1,Change Detection,A,B,False
+8hhcFRoR0mw_0,global_023200,2,Interaction Recognition,D,D,True
+8hhcFRoR0mw_1,global_023201,5,Holistic Understanding of Events,A,A,True
+h4jIoMxZopU_0,global_023202,5,Holistic Understanding of Events,E,E,True
+h4jIoMxZopU_1,global_023203,5,Holistic Understanding of Events,A,A,True
+M7YSCIkUaNw_0,global_023204,5,Holistic Understanding of Events,C,C,True
+M7YSCIkUaNw_1,global_023205,1,Change Detection,D,D,True
+mbcvVYobCXI_1,global_023206,3,Action Transition,B,C,False
+CEZ9rbjK3P4_1,global_023208,,,A,A,True
+CEZ9rbjK3P4_0,global_023207,,,A,A,True
+5KLSf7kwr7s_0,global_023211,5,Holistic Understanding of Events,A,E,False
+MPQn_orwpfA_1,global_023210,,,D,D,True
+5KLSf7kwr7s_1,global_023212,5,Holistic Understanding of Events,B,D,False
+MPQn_orwpfA_0,global_023209,,,B,B,True
+rMXJOKhf_AA_0,global_023213,5,Holistic Understanding of Events,B,D,False
+JIoE18JYGcM_0,global_023217,,,B,B,True
+rMXJOKhf_AA_1,global_023214,1,Change Detection,C,C,True
+LcZxjqtzXJI_0,global_023215,5,Holistic Understanding of Events,B,A,False
+JIoE18JYGcM_1,global_023218,,,D,D,True
+LcZxjqtzXJI_1,global_023216,5,Holistic Understanding of Events,E,E,True
+rZq-8Bq3mkU_0,global_023219,1,Change Detection,A,E,False
+rZq-8Bq3mkU_1,global_023220,1,Change Detection,B,E,False
+wxWo44MoCTI_1,global_023226,1,Change Detection,C,A,False
+ezhafkxoRdo_0,global_023223,3,Action Transition,C,C,True
+ezhafkxoRdo_1,global_023224,3,Action Transition,C,D,False
+wxWo44MoCTI_0,global_023225,1,Change Detection,D,B,False
+VSZ8ywgGNGM_0,global_023221,2,Interaction Recognition,B,D,False
+VkNF0rXuDXw_0,global_023227,2,Interaction Recognition,D,D,True
+VSZ8ywgGNGM_1,global_023222,,,B,B,True
+VkNF0rXuDXw_1,global_023228,5,Holistic Understanding of Events,B,B,True
+v0QLje6xYgA_0,global_023229,1,Change Detection,C,D,False
+x4dFLY_-vKs_1,global_023233,,,E,B,False
+x4dFLY_-vKs_0,global_023232,,,A,A,True
+UUaiqR1I454_1,global_023231,,,D,C,False
+yn7oTvw8QRY_0,global_023234,1,Change Detection,D,D,True
+UUaiqR1I454_0,global_023230,5,Holistic Understanding of Events,A,C,False
+t1nhAnMQBHg_0,global_023236,,,C,B,False
+yn7oTvw8QRY_1,global_023235,,,D,D,True
+eJr-y6UXnRE_0,global_023241,,,D,E,False
+s1TjVlKBpjs_1,global_023238,,,C,C,True
+s1TjVlKBpjs_0,global_023237,5,Holistic Understanding of Events,E,B,False
+KIf2fGmluhY_1,global_023240,1,Change Detection,A,A,True
+KIf2fGmluhY_0,global_023239,5,Holistic Understanding of Events,B,C,False
+_zEM6Fc-7NI_0,global_023243,,,B,C,False
+_zEM6Fc-7NI_1,global_023244,,,D,A,False
+Z00vWImw1KQ_1,global_023246,1,Change Detection,E,E,True
+eJr-y6UXnRE_1,global_023242,,,C,B,False
+tGiRbGGwRj8_0,global_023247,,,A,B,False
+ixlQX7lV8dc_0,global_023249,,,A,D,False
+Z00vWImw1KQ_0,global_023245,1,Change Detection,C,C,True
+tGiRbGGwRj8_1,global_023248,,,A,A,True
+AnLMDMzO4QY_1,global_023252,,,B,B,True
+marOr6mJefE_1,global_023254,1,Change Detection,D,D,True
+marOr6mJefE_0,global_023253,2,Interaction Recognition,C,C,True
+@movie.explained6-7261188695892462856_0,global_023255,5,Holistic Understanding of Events,B,B,True
+AnLMDMzO4QY_0,global_023251,,,A,A,True
+qjY9kmveQAk_0,global_023256,,,C,C,True
+qjY9kmveQAk_1,global_023257,,,B,B,True
+ixlQX7lV8dc_1,global_023250,,,B,B,True
+QHS9ZZBdK-g_0,global_023258,5,Holistic Understanding of Events,C,A,False
+NpYUxd1vUUE_1,global_023263,5,Holistic Understanding of Events,D,B,False
+liRm38L9EC4_0,global_023264,,,A,A,True
+QHS9ZZBdK-g_1,global_023259,,,D,B,False
+h0OHi9uAcBo_0,global_023260,3,Action Transition,B,B,True
+h0OHi9uAcBo_1,global_023261,3,Action Transition,B,B,True
+liRm38L9EC4_1,global_023265,,,C,E,False
+zk6fgbXI5AE_0,global_023266,1,Change Detection,A,D,False
+zk6fgbXI5AE_1,global_023267,1,Change Detection,D,D,True
+kLuqCtnKr_8_1,global_023272,3,Action Transition,B,B,True
+kLuqCtnKr_8_0,global_023271,3,Action Transition,C,C,True
+5zbV24vyO44_0,global_023273,3,Action Transition,C,B,False
+bUaFXONIXzM_1,global_023270,1,Change Detection,E,C,False
+bUaFXONIXzM_0,global_023269,1,Change Detection,E,D,False
+5zbV24vyO44_1,global_023274,3,Action Transition,B,B,True
+OGaML8Gg8JQ_0,global_023275,,,A,A,True
+OGaML8Gg8JQ_1,global_023276,,,A,E,False
+otaJfBSlsG8_0,global_023277,,,F,D,False
+otaJfBSlsG8_1,global_023278,,,E,A,False
+60-ADf8OL9A_0,global_023279,1,Change Detection,C,E,False
+60-ADf8OL9A_1,global_023280,1,Change Detection,D,B,False
+VL259eBJ68w_0,global_023281,5,Holistic Understanding of Events,A,A,True
+d8H7hgQY9ew_0,global_023283,5,Holistic Understanding of Events,D,C,False
+VL259eBJ68w_1,global_023282,5,Holistic Understanding of Events,B,E,False
+d8H7hgQY9ew_1,global_023284,5,Holistic Understanding of Events,C,E,False
+LYvStKy8iAc_0,global_023285,3,Action Transition,B,B,True
+LYvStKy8iAc_1,global_023286,3,Action Transition,D,A,False
+rIU_BQEuKQ8_0,global_023287,5,Holistic Understanding of Events,C,A,False
+X0U3fP0tZyY_0,global_023288,3,Action Transition,B,B,True
+X0U3fP0tZyY_1,global_023289,1,Change Detection,B,B,True
+NexB4vj8_54_1,global_023291,5,Holistic Understanding of Events,C,C,True
+NexB4vj8_54_0,global_023290,5,Holistic Understanding of Events,A,A,True
+Ng2rNm6Nwsg_0,global_023294,3,Action Transition,D,D,True
+JpjytHmGHZ4_0,global_023292,5,Holistic Understanding of Events,E,E,True
+JpjytHmGHZ4_1,global_023293,5,Holistic Understanding of Events,D,D,True
+Ng2rNm6Nwsg_1,global_023295,5,Holistic Understanding of Events,C,E,False
+BktEeBeA7a8_1,global_023297,1,Change Detection,A,E,False
+BktEeBeA7a8_0,global_023296,2,Interaction Recognition,B,B,True
+ydm72ftJStQ_1,global_023299,5,Holistic Understanding of Events,C,C,True
+ydm72ftJStQ_0,global_023298,1,Change Detection,F,D,False
+88LbBgZP1vQ_1,global_023301,1,Change Detection,A,A,True
+88LbBgZP1vQ_0,global_023300,1,Change Detection,E,E,True
+3JzhP8qfbqE_0,global_023304,,,C,C,True
+F7RSW-2rF4w_1,global_023303,,,A,E,False
+3JzhP8qfbqE_1,global_023305,,,B,D,False
+wq90Upjaij8_0,global_023306,1,Change Detection,C,C,True
+wq90Upjaij8_1,global_023307,1,Change Detection,D,A,False
+dE5iWeCVpGI_0,global_023308,5,Holistic Understanding of Events,B,E,False
+jJGbXCCU5yc_1,global_023311,,,C,C,True
+F7RSW-2rF4w_0,global_023302,,,D,A,False
+jJGbXCCU5yc_0,global_023310,5,Holistic Understanding of Events,B,B,True
+dE5iWeCVpGI_1,global_023309,5,Holistic Understanding of Events,A,A,True
+D7VYbsORD8k_1,global_023315,2,Interaction Recognition,B,B,True
+D7VYbsORD8k_0,global_023314,1,Change Detection,A,A,True
+7rMgpExA4kM_0,global_023318,3,Action Transition,C,C,True
+sv4wLIbSDqo_0,global_023316,1,Change Detection,C,C,True
+WpbB_swXHkc_1,global_023313,,,A,E,False
+sv4wLIbSDqo_1,global_023317,1,Change Detection,A,C,False
+7rMgpExA4kM_1,global_023319,3,Action Transition,B,C,False
+lN3WnXMaE0o_0,global_023320,1,Change Detection,D,C,False
+lN3WnXMaE0o_1,global_023321,1,Change Detection,A,B,False
+vJ9hYCUDHTo_0,global_023324,,,A,B,False
+Q47I8AdRgzc_0,global_023326,1,Change Detection,D,E,False
+Fq3zbbp-lv4_1,global_023323,,,B,D,False
+vJ9hYCUDHTo_1,global_023325,,,C,E,False
+Q47I8AdRgzc_1,global_023327,1,Change Detection,C,E,False
+tPQf5sB03ZE_0,global_023328,1,Change Detection,D,D,True
+tPQf5sB03ZE_1,global_023329,1,Change Detection,D,A,False
+c6fuIEzOZ2E_0,global_023331,,,C,B,False
+PzUxuZ-KGsU_0,global_023330,,,B,B,True
+0mEN5Jf2hU0_0,global_023333,3,Action Transition,C,C,True
+Fq3zbbp-lv4_0,global_023322,,,B,C,False
+WpbB_swXHkc_0,global_023312,,,F,B,False
+ZoUsR8t8IxE_0,global_023335,5,Holistic Understanding of Events,D,D,True
+0mEN5Jf2hU0_1,global_023334,3,Action Transition,C,D,False
+22iOyzE8Ec0_0,global_023336,3,Action Transition,D,D,True
+c6fuIEzOZ2E_1,global_023332,,,A,B,False
+22iOyzE8Ec0_1,global_023337,3,Action Transition,D,D,True
+JwoBdRC2fzE_0,global_023338,5,Holistic Understanding of Events,D,D,True
+JwoBdRC2fzE_1,global_023339,5,Holistic Understanding of Events,D,B,False
+qYnloYaeQA8_0,global_023340,,,D,D,True
+zda-T6wrEhs_0,global_023343,5,Holistic Understanding of Events,D,B,False
+qYnloYaeQA8_1,global_023341,,,C,C,True
+Oht0i1DACcA_0,global_023342,1,Change Detection,C,C,True
+zda-T6wrEhs_1,global_023344,5,Holistic Understanding of Events,A,D,False
+-kaF6SnSEo8_0,global_023345,,,C,C,True
+-kaF6SnSEo8_1,global_023346,,,B,A,False
+P0BSTjziVys_0,global_023347,,,A,B,False
+P0BSTjziVys_1,global_023348,,,C,C,True
+JASFwBtUK40_0,global_023349,,,B,D,False
+JASFwBtUK40_1,global_023350,,,A,B,False
+athabNMGceo_0,global_023351,,,C,C,True
+SCZ_Z4NnikA_0,global_023353,,,B,A,False
+SCZ_Z4NnikA_1,global_023354,,,B,B,True
+athabNMGceo_1,global_023352,,,B,B,True
+jdbG9gmg_SA_1,global_023355,5,Holistic Understanding of Events,D,C,False
+PQRyGacBRA4_0,global_023356,,,C,D,False
+HAED3riiZkw_1,global_023360,5,Holistic Understanding of Events,E,D,False
+Efuyl2Anehg_0,global_023358,,,A,A,True
+HAED3riiZkw_0,global_023359,1,Change Detection,D,D,True
+PQRyGacBRA4_1,global_023357,,,A,C,False
+0_YDrJoUe8s_0,global_023361,1,Change Detection,E,E,True
+0_YDrJoUe8s_1,global_023362,1,Change Detection,B,A,False
+TFbGLEZ4qt0_0,global_023363,5,Holistic Understanding of Events,E,E,True
+TFbGLEZ4qt0_1,global_023364,5,Holistic Understanding of Events,A,B,False
+VwZeSoYugZk_1,global_023366,,,C,C,True
+ip8khYCMb8Y_0,global_023367,1,Change Detection,C,C,True
+ip8khYCMb8Y_1,global_023368,1,Change Detection,C,E,False
+VwZeSoYugZk_0,global_023365,,,C,B,False
+8_MG-E8QlBM_0,global_023369,3,Action Transition,E,E,True
+8_MG-E8QlBM_1,global_023370,2,Interaction Recognition,C,C,True
+Lc7RikDaa30_1,global_023372,5,Holistic Understanding of Events,B,B,True
+aoxy2e7j9Bc_1,global_023376,,,E,E,True
+lCvQtGVhUrc_0,global_023373,1,Change Detection,C,C,True
+aoxy2e7j9Bc_0,global_023375,,,A,A,True
+KWv8DJMEHsE_1,global_023378,,,D,D,True
+Lc7RikDaa30_0,global_023371,,,D,A,False
+lCvQtGVhUrc_1,global_023374,1,Change Detection,B,A,False
+KWv8DJMEHsE_0,global_023377,,,D,D,True
+0WEnmqVVbHo_0,global_023379,2,Interaction Recognition,B,C,False
+uWBh0meTg08_1,global_023383,3,Action Transition,A,D,False
+uWBh0meTg08_0,global_023382,3,Action Transition,A,A,True
+f2-6Mh6lyQQ_0,global_023380,2,Interaction Recognition,A,C,False
+f2-6Mh6lyQQ_1,global_023381,5,Holistic Understanding of Events,E,E,True
+GawGUhl9zuQ_0,global_023384,1,Change Detection,A,B,False
+GawGUhl9zuQ_1,global_023385,1,Change Detection,D,E,False
+2zZSMnGLGao_0,global_023386,5,Holistic Understanding of Events,E,E,True
+mkqgTAe2_O4_1,global_023390,,,B,E,False
+mkqgTAe2_O4_0,global_023389,,,A,B,False
+2zZSMnGLGao_1,global_023387,5,Holistic Understanding of Events,D,A,False
+zkmoxOKhpvk_0,global_023393,5,Holistic Understanding of Events,C,E,False
+T57jVsvVVR0_0,global_023388,5,Holistic Understanding of Events,A,B,False
+lQODAJ_F5yE_0,global_023391,,,C,E,False
+lQODAJ_F5yE_1,global_023392,,,B,C,False
+fp1r40w_PtA_0,global_023395,5,Holistic Understanding of Events,B,C,False
+zkmoxOKhpvk_1,global_023394,2,Interaction Recognition,B,B,True
+fp1r40w_PtA_1,global_023396,1,Change Detection,A,D,False
+Aw1_7wSaeKk_0,global_023397,1,Change Detection,B,D,False
+Aw1_7wSaeKk_1,global_023398,1,Change Detection,B,B,True
+iJgh2dnudIU_0,global_023400,,,A,D,False
+iJgh2dnudIU_1,global_023401,,,E,A,False
+DRIpznER-VQ_0,global_023399,,,B,B,True
+ze66pbJYr18_0,global_023402,,,C,C,True
+AjF13uKVQa0_0,global_023404,2,Interaction Recognition,B,B,True
+ze66pbJYr18_1,global_023403,,,A,A,True
+AjF13uKVQa0_1,global_023405,,,D,D,True
+X29dPzJIMbA_0,global_023406,,,D,C,False
+WM78_KqcrSY_1,global_023409,3,Action Transition,C,C,True
+F8Ma1qs0Rkg_1,global_023411,1,Change Detection,D,D,True
+F8Ma1qs0Rkg_0,global_023410,1,Change Detection,B,C,False
+AYMdAVxALP4_0,global_023412,1,Change Detection,C,B,False
+X29dPzJIMbA_1,global_023407,5,Holistic Understanding of Events,A,A,True
+cc0T2vtuJtc_1,global_023415,,,D,A,False
+AYMdAVxALP4_1,global_023413,1,Change Detection,D,B,False
+cc0T2vtuJtc_0,global_023414,,,C,B,False
+WmrwQMFZLqI_0,global_023416,,,D,B,False
+6Lb1PyJxVQM_0,global_023418,,,B,B,True
+BtaVRhoLpC0_0,global_023420,5,Holistic Understanding of Events,B,B,True
+WmrwQMFZLqI_1,global_023417,,,C,A,False
+BtaVRhoLpC0_1,global_023421,5,Holistic Understanding of Events,A,A,True
+ozpGTw6DrXs_0,global_023422,,,C,A,False
+6Lb1PyJxVQM_1,global_023419,,,A,A,True
+ozpGTw6DrXs_1,global_023423,,,C,C,True
+XR3Ov2nQ39s_0,global_023424,1,Change Detection,A,D,False
+Jaw7eWzgWr0_0,global_023430,,,C,C,True
+_qepWb_NVj4_1,global_023427,1,Change Detection,A,A,True
+z6HTO2SOxUc_1,global_023429,,,C,C,True
+_qepWb_NVj4_0,global_023426,1,Change Detection,D,D,True
+z6HTO2SOxUc_0,global_023428,,,D,D,True
+Jaw7eWzgWr0_1,global_023431,,,C,C,True
+XR3Ov2nQ39s_1,global_023425,,,D,A,False
+9m4wi5gPdHg_0,global_023432,1,Change Detection,C,C,True
+9m4wi5gPdHg_1,global_023433,3,Action Transition,A,A,True
+a_8G0PzVFbc_0,global_023434,1,Change Detection,C,A,False
+97nEBjiQI1M_0,global_023436,3,Action Transition,D,E,False
+a_8G0PzVFbc_1,global_023435,1,Change Detection,D,D,True
+97nEBjiQI1M_1,global_023437,5,Holistic Understanding of Events,B,D,False
+KlZpZVphLrc_0,global_023438,,,A,A,True
+KlZpZVphLrc_1,global_023439,,,B,B,True
+AxciimuEZAc_0,global_023440,,,A,A,True
+kk-iRzLv81o_0,global_023442,2,Interaction Recognition,D,A,False
+AxciimuEZAc_1,global_023441,,,A,A,True
+kk-iRzLv81o_1,global_023443,,,A,C,False
+Fo97qfO-9_g_1,global_023445,2,Interaction Recognition,B,B,True
+Fo97qfO-9_g_0,global_023444,5,Holistic Understanding of Events,C,D,False
+lojHyp1k0gE_0,global_023448,2,Interaction Recognition,B,B,True
+qbA42wQoWAs_1,global_023447,5,Holistic Understanding of Events,B,B,True
+lojHyp1k0gE_1,global_023449,5,Holistic Understanding of Events,B,B,True
+mbcvVYobCXI_0,global_023450,3,Action Transition,B,D,False
+qbA42wQoWAs_0,global_023446,5,Holistic Understanding of Events,B,A,False
+UN3ICsfqKEY_0,global_023451,,,D,D,True
+UN3ICsfqKEY_1,global_023452,,,D,A,False
+yXXhrMqfMlk_0,global_023453,,,A,C,False
+Z7Cox6lPW3c_1,global_023456,,,B,B,True
+yXXhrMqfMlk_1,global_023454,,,B,C,False
+Z7Cox6lPW3c_0,global_023455,,,B,B,True
+2edlqFUTDVc_0,global_023458,5,Holistic Understanding of Events,E,E,True
+2edlqFUTDVc_1,global_023459,2,Interaction Recognition,D,D,True
+hf4WUOagFAw_0,global_023460,5,Holistic Understanding of Events,A,A,True
+zTeDF7mQ88A_0,global_023462,1,Change Detection,A,A,True
+hf4WUOagFAw_1,global_023461,1,Change Detection,E,B,False
+zTeDF7mQ88A_1,global_023463,1,Change Detection,A,A,True
+yl-6-Yzt--A_0,global_023464,5,Holistic Understanding of Events,C,C,True
+md3LVlEzFBU_1,global_023466,,,D,D,True
+md3LVlEzFBU_0,global_023465,,,D,D,True
+7MemY9jOmuk_0,global_023467,,,B,E,False
+N4VtpYgZLVg_1,global_023470,,,B,B,True
+N4VtpYgZLVg_0,global_023469,,,E,E,True
+6d-EVupvWzU_0,global_023471,1,Change Detection,B,C,False
+7MemY9jOmuk_1,global_023468,,,A,B,False
+6d-EVupvWzU_1,global_023472,5,Holistic Understanding of Events,E,E,True
+RQOdl64DtdI_0,global_023474,3,Action Transition,A,B,False
+vix2_R79-l4_0,global_023475,1,Change Detection,B,B,True
+4QSmRYQBfN4_0,global_023473,1,Change Detection,C,C,True
+M-YfPangEfA_0,global_023477,,,B,D,False
+gyV6EqgiPNg_0,global_023476,,,D,D,True
+Kz8_rwVn094_0,global_023478,5,Holistic Understanding of Events,B,C,False
+TxbSa3ux8SU_0,global_023479,1,Change Detection,A,B,False
+UbcWAfHo5j0_0,global_023481,,,D,D,True
+iHNjWhx3EaI_0,global_023480,,,C,D,False
+uDZrl35yeZE_0,global_023482,1,Change Detection,D,E,False
+US5Oz0q0BVE_0,global_023483,,,B,B,True
+lcEaHk8f4Co_0,global_023484,,,B,B,True
+i6C6r2g4Y7Q_0,global_023485,1,Change Detection,D,A,False
+W94Rth-aIkc_0,global_023486,,,A,A,True
+k194yU67Zik_0,global_023487,,,B,E,False
+v-7zF3Y0yJs_0,global_023488,,,D,D,True
+PCz04UJFaUY_0,global_023489,3,Action Transition,E,E,True
+I2Fyzav8MxE_0,global_023490,1,Change Detection,B,A,False
+qsH6q5wNso4_1,global_023807,5,Holistic Understanding of Events,C,D,False
+NSeq-nVSY_E_1,global_023801,5,Holistic Understanding of Events,B,B,True
+Ro_8-CCORzk_0,global_023809,1,Change Detection,C,C,True
+Ro_8-CCORzk_2,global_023811,1,Change Detection,E,E,True
+QPth_xqBXGY_1,global_023813,1,Change Detection,B,D,False
+Ro_8-CCORzk_1,global_023810,1,Change Detection,B,D,False
+QPth_xqBXGY_0,global_023812,1,Change Detection,B,C,False
+QPth_xqBXGY_2,global_023814,1,Change Detection,A,C,False
+_7sd4fjnmvc_1,global_023816,,,D,D,True
+_7sd4fjnmvc_0,global_023815,,,C,C,True
+T15Kv6dtYO0_1,global_023819,,,D,D,True
+_7sd4fjnmvc_2,global_023817,1,Change Detection,E,E,True
+T15Kv6dtYO0_0,global_023818,,,C,C,True
+T15Kv6dtYO0_2,global_023820,,,A,A,True
+51dUUxFOjDE_0,global_023821,5,Holistic Understanding of Events,C,E,False
+51dUUxFOjDE_1,global_023822,3,Action Transition,A,E,False
+Jfp1Ks7Hh1E_0,global_023824,1,Change Detection,A,A,True
+51dUUxFOjDE_2,global_023823,3,Action Transition,A,C,False
+2vVQo_GMA70_2,global_023826,3,Action Transition,E,E,True
+Sn7JPKbG6tY_0,global_023827,,,A,A,True
+Sn7JPKbG6tY_1,global_023828,,,B,B,True
+2vVQo_GMA70_1,global_023825,1,Change Detection,E,E,True
+pJI5ZU6wxqg_0,global_023830,1,Change Detection,E,D,False
+Sn7JPKbG6tY_2,global_023829,,,A,A,True
+pJI5ZU6wxqg_2,global_023832,3,Action Transition,A,E,False
+pJI5ZU6wxqg_1,global_023831,3,Action Transition,B,E,False
+UMFy3keSk-s_0,global_023836,,,C,D,False
+aVHAr8rc-Ks_0,global_023833,1,Change Detection,A,A,True
+UMFy3keSk-s_2,global_023838,,,C,C,True
+aVHAr8rc-Ks_1,global_023834,3,Action Transition,B,B,True
+UMFy3keSk-s_1,global_023837,,,C,D,False
+fryyNwUCPWA_0,global_023839,,,F,C,False
+fryyNwUCPWA_1,global_023840,,,C,A,False
+aVHAr8rc-Ks_2,global_023835,5,Holistic Understanding of Events,A,D,False
+fryyNwUCPWA_2,global_023841,,,B,B,True
+bqQTWdk1DAM_1,global_023843,5,Holistic Understanding of Events,B,D,False
+bqQTWdk1DAM_0,global_023842,5,Holistic Understanding of Events,C,D,False
+bqQTWdk1DAM_2,global_023844,5,Holistic Understanding of Events,B,D,False
+I-yg_3yx6iA_0,global_023845,,,D,D,True
+I-yg_3yx6iA_1,global_023846,,,C,C,True
+fZBC3nmvJb8_0,global_023848,5,Holistic Understanding of Events,D,C,False
+I-yg_3yx6iA_2,global_023847,,,C,E,False
+fZBC3nmvJb8_1,global_023849,1,Change Detection,A,A,True
+fZBC3nmvJb8_2,global_023850,1,Change Detection,B,B,True
+2W2ZkYARds4_1,global_023852,1,Change Detection,E,D,False
+2W2ZkYARds4_0,global_023851,1,Change Detection,C,C,True
+MJYBHfYF8LI_0,global_023854,5,Holistic Understanding of Events,C,C,True
+2W2ZkYARds4_2,global_023853,1,Change Detection,C,A,False
+yqejTvYILlA_2,global_023859,3,Action Transition,C,A,False
+MJYBHfYF8LI_1,global_023855,2,Interaction Recognition,D,C,False
+MJYBHfYF8LI_2,global_023856,3,Action Transition,D,D,True
+yqejTvYILlA_0,global_023857,3,Action Transition,B,B,True
+yqejTvYILlA_1,global_023858,3,Action Transition,D,C,False
+571nruSayeo_0,global_023860,,,B,C,False
+571nruSayeo_2,global_023862,5,Holistic Understanding of Events,E,E,True
+RTUFPjliMCU_0,global_023863,,,D,A,False
+571nruSayeo_1,global_023861,,,B,B,True
+RTUFPjliMCU_2,global_023865,,,C,D,False
+RTUFPjliMCU_1,global_023864,,,A,A,True
+8k6M0HD162k_1,global_023867,5,Holistic Understanding of Events,D,C,False
+8k6M0HD162k_0,global_023866,5,Holistic Understanding of Events,A,B,False
+8k6M0HD162k_2,global_023868,3,Action Transition,E,B,False
+ll3tR0kUZHc_0,global_023869,5,Holistic Understanding of Events,B,B,True
+ll3tR0kUZHc_1,global_023870,3,Action Transition,D,D,True
+Y1YCvEip_ko_1,global_023873,1,Change Detection,D,D,True
+ll3tR0kUZHc_2,global_023871,3,Action Transition,E,C,False
+vVRC-0VKPrg_0,global_023875,5,Holistic Understanding of Events,A,E,False
+vVRC-0VKPrg_1,global_023876,5,Holistic Understanding of Events,C,B,False
+Y1YCvEip_ko_0,global_023872,5,Holistic Understanding of Events,B,B,True
+Y1YCvEip_ko_2,global_023874,5,Holistic Understanding of Events,D,D,True
+vVRC-0VKPrg_2,global_023877,5,Holistic Understanding of Events,E,E,True
+ZaXpMou55lw_1,global_023879,,,A,A,True
+ZaXpMou55lw_0,global_023878,,,C,C,True
+ZaXpMou55lw_2,global_023880,,,C,B,False
+wSHPuI7wWIg_0,global_023881,,,D,A,False
+wSHPuI7wWIg_2,global_023883,,,A,A,True
+wSHPuI7wWIg_1,global_023882,,,C,A,False
+NMHmqgO04rU_0,global_023884,,,C,E,False
+NMHmqgO04rU_1,global_023885,,,A,E,False
+NMHmqgO04rU_2,global_023886,,,D,C,False
+dCscvoOX2as_0,global_023887,3,Action Transition,D,C,False
+dCscvoOX2as_1,global_023888,1,Change Detection,A,A,True
+dCscvoOX2as_2,global_023889,1,Change Detection,A,C,False
+7m9XIXyT5_I_0,global_023896,5,Holistic Understanding of Events,D,D,True
+7m9XIXyT5_I_1,global_023897,5,Holistic Understanding of Events,D,D,True
+M5YKW6fhlss_0,global_023893,5,Holistic Understanding of Events,B,B,True
+_Y1pW77M3Pg_0,global_023899,3,Action Transition,C,B,False
+M5YKW6fhlss_2,global_023895,1,Change Detection,C,D,False
+M5YKW6fhlss_1,global_023894,,,B,D,False
+_Y1pW77M3Pg_1,global_023900,3,Action Transition,A,A,True
+7m9XIXyT5_I_2,global_023898,2,Interaction Recognition,D,D,True
+_Y1pW77M3Pg_2,global_023901,3,Action Transition,A,B,False
+J_ZmaKRpyoU_0,global_023905,,,A,A,True
+nWDNzv1Gk8Q_1,global_023903,2,Interaction Recognition,D,C,False
+J_ZmaKRpyoU_1,global_023906,,,C,C,True
+nWDNzv1Gk8Q_0,global_023902,5,Holistic Understanding of Events,B,D,False
+6S_e34j6q9U_0,global_023908,1,Change Detection,B,B,True
+nWDNzv1Gk8Q_2,global_023904,5,Holistic Understanding of Events,D,D,True
+J_ZmaKRpyoU_2,global_023907,,,C,A,False
+6S_e34j6q9U_1,global_023909,1,Change Detection,D,D,True
+SFfWUrsg4gE_0,global_023491,3,Action Transition,E,B,False
+Yh48p5efBTk_0,global_023493,,,C,C,True
+iJk-HMfO4yQ_0,global_023494,5,Holistic Understanding of Events,C,C,True
+QeXuzEwC9z4_0,global_023495,1,Change Detection,C,C,True
+GZc0P3Apfx4_0,global_023497,5,Holistic Understanding of Events,C,C,True
+j7kxn5CsHnw_0,global_023492,,,D,E,False
+hznvV2bBkX4_0,global_023496,5,Holistic Understanding of Events,B,D,False
+HWyDOQrYtCk_0,global_023498,1,Change Detection,C,C,True
+lNReCCShKJQ_0,global_023499,1,Change Detection,D,D,True
+DxxVla1CRvU_0,global_023500,5,Holistic Understanding of Events,B,B,True
+SAkgZJllNzw_0,global_023501,,,A,B,False
+ixAU3l0sX_o_0,global_023502,,,D,D,True
+Owmy5Vu3BnA_0,global_023503,5,Holistic Understanding of Events,D,D,True
+XAAqKoQM8Qc_0,global_023504,1,Change Detection,C,C,True
+LQ-mwO30_68_0,global_023506,5,Holistic Understanding of Events,D,A,False
+GwcXYTX2GmA_0,global_023505,,,D,C,False
+-iCLYpeghJs_0,global_023508,,,D,D,True
+StLBHguzO8s_0,global_023507,5,Holistic Understanding of Events,B,A,False
+oKX6y9-zTfI_0,global_023509,3,Action Transition,C,D,False
+luRqMb5qfhM_0,global_023511,2,Interaction Recognition,B,B,True
+ie9NxdgNe0g_0,global_023510,,,C,C,True
+8ew0d0JmsfA_0,global_023512,,,D,B,False
+e-EtQHH4aWE_0,global_023516,3,Action Transition,A,A,True
+aCPNlZ7bvRc_0,global_023513,2,Interaction Recognition,A,A,True
+tYqDvtknII4_0,global_023515,3,Action Transition,A,A,True
+mYotOV3Q51g_0,global_023514,1,Change Detection,A,C,False
+DX-mYMYf8jI_0,global_023519,1,Change Detection,D,D,True
+3t_Knk7FWT8_0,global_023518,,,D,D,True
+wGWbI3BHVM8_0,global_023523,1,Change Detection,A,A,True
+Jim_NG0PYpc_0,global_023517,5,Holistic Understanding of Events,C,A,False
+nvG2YMWiwqU_0,global_023520,5,Holistic Understanding of Events,B,B,True
+oO8OJZFZT9s_0,global_023522,,,D,A,False
+_1kZe-2kiuQ_0,global_023524,5,Holistic Understanding of Events,B,A,False
+TXiX3NO5f5w_0,global_023521,5,Holistic Understanding of Events,B,B,True
+nBWB-h68E4k_0,global_023527,,,A,D,False
+byaqQClCO-Y_0,global_023529,3,Action Transition,C,A,False
+fLn06p2HtAc_0,global_023526,1,Change Detection,A,A,True
+TynnVVRNZGs_0,global_023525,1,Change Detection,D,D,True
+yU9fGAEcxJY_0,global_023530,3,Action Transition,A,A,True
+m1mGerQhdHA_0,global_023531,1,Change Detection,A,A,True
+vP-fQu22bng_0,global_023528,,,A,A,True
+oiBhGhROP5o_0,global_023532,,,A,B,False
+3b_v1KO_U8A_0,global_023535,3,Action Transition,A,B,False
+Z9JSvDVMSm0_0,global_023534,1,Change Detection,C,C,True
+NIxyQQfuVoc_0,global_023537,,,D,D,True
+SYqEMs0EYoI_0,global_023533,5,Holistic Understanding of Events,A,A,True
+kMryvefpcF8_0,global_023536,5,Holistic Understanding of Events,C,C,True
+HvSEKzpSdzw_0,global_023538,5,Holistic Understanding of Events,D,D,True
+tCnelzIAHA0_0,global_023539,,,D,D,True
+7Q8d8Vvk6oo_0,global_023540,5,Holistic Understanding of Events,B,B,True
+i8TJ7RgimNM_0,global_023541,5,Holistic Understanding of Events,D,D,True
+m7sL8LuMD8Q_0,global_023542,3,Action Transition,C,A,False
+oCXKARwr6PA_0,global_023543,,,E,C,False
+IuVyCbtGBFQ_0,global_023544,,,C,C,True
+kFHVBCEwC3w_0,global_023546,1,Change Detection,E,E,True
+-if_Wg43vTk_0,global_023545,5,Holistic Understanding of Events,D,D,True
+alEV01SMFNk_0,global_023548,5,Holistic Understanding of Events,C,D,False
+WHxBO7XecSY_0,global_023547,5,Holistic Understanding of Events,C,E,False
+GHScTyR2OgQ_0,global_023550,2,Interaction Recognition,E,D,False
+8wbNEJjBa0k_0,global_023553,1,Change Detection,A,E,False
+FoeeEQ0VVFE_0,global_023549,1,Change Detection,E,A,False
+g7zuBUMBr2E_0,global_023554,,,C,E,False
+fySqsm5kNl4_0,global_023555,1,Change Detection,C,C,True
+_hODR1cR9lo_0,global_023552,,,B,B,True
+pJuq8D1NGJQ_0,global_023556,3,Action Transition,E,E,True
+QUtk5xEw1mQ_0,global_023557,,,A,B,False
+LKQK0lud4fo_0,global_023559,5,Holistic Understanding of Events,D,E,False
+cceTeD4JADU_0,global_023558,1,Change Detection,B,C,False
+anrKq6HgPvs_0,global_023560,1,Change Detection,C,C,True
+5Ugjg2ru5QQ_0,global_023561,5,Holistic Understanding of Events,D,D,True
+14ot4DrXdds_0,global_023562,3,Action Transition,D,D,True
+mHARxee4EzQ_0,global_023551,5,Holistic Understanding of Events,A,A,True
+bgklOaBBmB8_0,global_023564,3,Action Transition,C,C,True
+FH1L2Dq6964_0,global_023566,5,Holistic Understanding of Events,B,B,True
+npLd4WTSQsM_0,global_023567,3,Action Transition,D,D,True
+59iv6EYWNn8_0,global_023568,,,D,D,True
+PS0gXPNBZy8_0,global_023569,3,Action Transition,B,B,True
+l3vxOGgAM2g_0,global_023570,,,D,D,True
+aqGQw1bXFN4_0,global_023563,,,A,E,False
+Msz128EJeWE_0,global_023573,1,Change Detection,B,B,True
+SH7Unhifaj0_0,global_023572,5,Holistic Understanding of Events,B,C,False
+ZfapKqwklG4_0,global_023571,1,Change Detection,C,C,True
+6Z7AAcD8rbo_0,global_023574,5,Holistic Understanding of Events,C,C,True
+iHzypa15yRA_0,global_023577,1,Change Detection,D,A,False
+JuthlQ2Zo38_0,global_023576,2,Interaction Recognition,A,A,True
+9aWPbYosJUw_0,global_023575,,,D,D,True
+WLl3SeraTV0_0,global_023579,1,Change Detection,B,B,True
+Scne0ls23MA_0,global_023578,,,B,D,False
+kbRtl58u_kk_0,global_023580,5,Holistic Understanding of Events,D,D,True
+pZ-9hGQNHuA_0,global_023581,,,D,D,True
+FOMS_yqdN1o_0,global_023584,5,Holistic Understanding of Events,D,D,True
+F2i-LchFVCU_0,global_023583,5,Holistic Understanding of Events,B,C,False
+YvM4rzSxX1U_0,global_023585,5,Holistic Understanding of Events,A,A,True
+_kQXNFG664Y_0,global_023587,,,D,D,True
+GZFL58_pXPg_0,global_023582,,,C,C,True
+UbgwG8fcIu0_0,global_023589,5,Holistic Understanding of Events,A,A,True
+M5Umm-ltnao_0,global_023586,,,C,A,False
+jbPR2SJuFHg_0,global_023591,,,A,C,False
+GAoK4XjssrM_0,global_023590,,,B,B,True
+h2RbVVz3NZc_0,global_023588,,,A,C,False
+2F7d7aUCmUU_0,global_023594,1,Change Detection,B,B,True
+PE32sjfN-uM_0,global_023593,1,Change Detection,D,B,False
+mB7NW91REF4_0,global_023595,5,Holistic Understanding of Events,A,A,True
+XvJqVKi8i_I_0,global_023592,,,B,A,False
+UM0VOrAtnPA_0,global_023596,2,Interaction Recognition,A,A,True
+W8w09l_mmT4_0,global_023599,1,Change Detection,B,B,True
+BkCbbFn21LY_0,global_023597,5,Holistic Understanding of Events,A,A,True
+H7gnsO4UZmU_0,global_023598,,,A,A,True
+-QSAotqKqX8_0,global_023565,,,B,D,False
+NS2V_OHYkvA_0,global_023601,,,C,A,False
+7PqVVjEW0LM_0,global_023600,1,Change Detection,A,C,False
+18rZLZqg6C8_0,global_023603,3,Action Transition,B,C,False
+iDFDxwPTjeU_0,global_023602,,,D,D,True
+AU0UJVNZMvA_0,global_023604,,,A,A,True
+KFqlW0APKRA_0,global_023606,1,Change Detection,B,A,False
+Ge5SjsgaA4o_0,global_023607,5,Holistic Understanding of Events,B,B,True
+tygk9-aneC4_0,global_023608,,,D,D,True
+CFm3bc9gqYE_0,global_023609,3,Action Transition,D,D,True
+u-vYvqxHejY_0,global_023605,,,B,B,True
+9yQV0t5meo4_0,global_023612,1,Change Detection,D,D,True
+8urCPp_yhWs_0,global_023613,,,A,C,False
+QpDL3mopnWM_0,global_023611,1,Change Detection,B,B,True
+Lk9ZihSgjdo_0,global_023615,1,Change Detection,B,B,True
+NWOF4GqpWaw_0,global_023616,5,Holistic Understanding of Events,B,B,True
+3Qv2K_0GEE0_0,global_023618,,,C,C,True
+1IpgyV9u5nE_0,global_023621,,,D,D,True
+bH1Q9AM5vik_0,global_023620,5,Holistic Understanding of Events,A,A,True
+dxjKdnJFmLs_0,global_023619,2,Interaction Recognition,D,D,True
+V0h7rJShw0g_0,global_023622,2,Interaction Recognition,C,C,True
+Lf7uW4xK2bc_0,global_023614,,,D,D,True
+GKgl3aJr5Xw_0,global_023623,5,Holistic Understanding of Events,A,A,True
+il_wMYlDQ6I_0,global_023624,,,B,A,False
+3ZRVpYPFOl0_0,global_023625,1,Change Detection,D,C,False
+OLO19ZtdRwQ_0,global_023626,,,A,A,True
+bDpgz_2Piqg_0,global_023628,,,D,C,False
+gJuOMPiixUA_0,global_023627,1,Change Detection,A,A,True
+H_b5d-rLXJU_0,global_023630,5,Holistic Understanding of Events,C,C,True
+anQ5KFW8Gn4_0,global_023631,3,Action Transition,D,D,True
+Vn-z0qXp9bQ_0,global_023632,3,Action Transition,C,A,False
+e_nAKiSutiA_0,global_023629,1,Change Detection,A,D,False
+rVGE6xhfVJE_0,global_023633,1,Change Detection,A,C,False
+ZL07dkaoHOg_0,global_023634,1,Change Detection,B,B,True
+g_kziK-UOSU_0,global_023635,3,Action Transition,B,D,False
+VPcdtoldWCA_0,global_023636,2,Interaction Recognition,A,A,True
+K24dFfIM0gI_0,global_023637,,,A,C,False
+qksR2Zvd-FM_1,global_023639,1,Change Detection,A,C,False
+qksR2Zvd-FM_2,global_023640,1,Change Detection,C,B,False
+qksR2Zvd-FM_0,global_023638,1,Change Detection,D,A,False
+VFXJnbnN5ro_0,global_023644,,,D,D,True
+VFXJnbnN5ro_1,global_023645,,,C,A,False
+zJ2uPZfkYMk_0,global_023647,1,Change Detection,E,D,False
+VFXJnbnN5ro_2,global_023646,,,B,B,True
+mqtJErix0ss_0,global_023650,1,Change Detection,D,A,False
+mqtJErix0ss_1,global_023651,1,Change Detection,C,E,False
+zJ2uPZfkYMk_1,global_023648,1,Change Detection,A,E,False
+zJ2uPZfkYMk_2,global_023649,1,Change Detection,A,D,False
+sEiyR7-0FOA_0,global_023653,,,A,B,False
+mqtJErix0ss_2,global_023652,1,Change Detection,A,A,True
+sEiyR7-0FOA_2,global_023655,,,B,B,True
+sEiyR7-0FOA_1,global_023654,,,B,D,False
+LlqsCCa6y58_1,global_023657,5,Holistic Understanding of Events,D,A,False
+LlqsCCa6y58_0,global_023656,5,Holistic Understanding of Events,C,C,True
+mS1QPVgBDQo_0,global_023659,1,Change Detection,A,A,True
+LlqsCCa6y58_2,global_023658,5,Holistic Understanding of Events,E,B,False
+mS1QPVgBDQo_1,global_023660,1,Change Detection,D,D,True
+mS1QPVgBDQo_2,global_023661,1,Change Detection,D,D,True
+hg2Q_O5b9w4_1,global_023663,1,Change Detection,B,A,False
+hg2Q_O5b9w4_0,global_023662,1,Change Detection,C,C,True
+hg2Q_O5b9w4_2,global_023664,1,Change Detection,B,C,False
+CGngv8vTQOs_0,global_023665,5,Holistic Understanding of Events,A,C,False
+CGngv8vTQOs_2,global_023667,5,Holistic Understanding of Events,C,C,True
+CGngv8vTQOs_1,global_023666,2,Interaction Recognition,C,D,False
+8Gl6iy7OEM4_2,global_023670,,,A,A,True
+8Gl6iy7OEM4_1,global_023669,2,Interaction Recognition,B,B,True
+Bwnkg6GbXwU_0,global_023671,1,Change Detection,C,B,False
+Bwnkg6GbXwU_1,global_023672,1,Change Detection,B,D,False
+8Gl6iy7OEM4_0,global_023668,,,D,E,False
+Bwnkg6GbXwU_2,global_023673,1,Change Detection,D,D,True
+-eRimFrm6kQ_0,global_023674,1,Change Detection,B,B,True
+acAWfzV__XI_0,global_023677,3,Action Transition,B,D,False
+-eRimFrm6kQ_2,global_023676,5,Holistic Understanding of Events,B,A,False
+acAWfzV__XI_2,global_023679,1,Change Detection,D,D,True
+acAWfzV__XI_1,global_023678,1,Change Detection,B,A,False
+-eRimFrm6kQ_1,global_023675,1,Change Detection,D,E,False
+RN2g9sRuJhA_0,global_023680,5,Holistic Understanding of Events,B,E,False
+RN2g9sRuJhA_1,global_023681,5,Holistic Understanding of Events,E,D,False
+RN2g9sRuJhA_2,global_023682,5,Holistic Understanding of Events,B,B,True
+o2F-N42Ufo4_0,global_023686,3,Action Transition,D,A,False
+FnKDgC9aNu0_2,global_023685,,,D,D,True
+FnKDgC9aNu0_1,global_023684,,,D,D,True
+FnKDgC9aNu0_0,global_023683,,,A,A,True
+F4bDyyEO4PU_0,global_023687,3,Action Transition,C,D,False
+XVXczyheik0_1,global_023690,1,Change Detection,D,B,False
+XVXczyheik0_0,global_023689,1,Change Detection,D,C,False
+XVXczyheik0_2,global_023691,1,Change Detection,C,D,False
+LfUsGv-ESbc_0,global_023692,,,B,D,False
+LfUsGv-ESbc_1,global_023693,,,D,C,False
+LfUsGv-ESbc_2,global_023694,,,D,B,False
+L-XGTMusZvc_0,global_023695,3,Action Transition,A,A,True
+L-XGTMusZvc_2,global_023697,3,Action Transition,A,B,False
+8MkL3W6wU3g_0,global_023698,3,Action Transition,A,A,True
+L-XGTMusZvc_1,global_023696,3,Action Transition,A,D,False
+8MkL3W6wU3g_1,global_023699,1,Change Detection,A,A,True
+2ekjGl8yWZk_1,global_023702,1,Change Detection,D,D,True
+8MkL3W6wU3g_2,global_023700,1,Change Detection,C,E,False
+2ekjGl8yWZk_2,global_023703,1,Change Detection,B,D,False
+_BDzMutoy6A_1,global_023705,5,Holistic Understanding of Events,E,A,False
+2ekjGl8yWZk_0,global_023701,1,Change Detection,A,A,True
+_BDzMutoy6A_0,global_023704,5,Holistic Understanding of Events,B,D,False
+_BDzMutoy6A_2,global_023706,2,Interaction Recognition,A,A,True
+crmV4OduHYA_1,global_023708,5,Holistic Understanding of Events,A,A,True
+crmV4OduHYA_0,global_023707,3,Action Transition,C,D,False
+crmV4OduHYA_2,global_023709,3,Action Transition,A,A,True
+@jonijawne-7305901654417706246_0,global_023710,1,Change Detection,A,C,False
+i327DBSS_iE_1,global_023711,,,A,C,False
+i327DBSS_iE_2,global_023712,1,Change Detection,D,C,False
+d-GKQeu4S6M_0,global_023713,5,Holistic Understanding of Events,B,B,True
+d-GKQeu4S6M_1,global_023714,1,Change Detection,B,B,True
+P9hDA0u6FO0_2,global_023718,3,Action Transition,C,D,False
+d-GKQeu4S6M_2,global_023715,3,Action Transition,B,E,False
+UwJTCg5fpXg_2,global_023724,,,A,D,False
+wvfctNd-Aio_0,global_023719,1,Change Detection,C,A,False
+UwJTCg5fpXg_1,global_023723,,,A,A,True
+UwJTCg5fpXg_0,global_023722,,,D,B,False
+wvfctNd-Aio_1,global_023720,5,Holistic Understanding of Events,A,A,True
+wvfctNd-Aio_2,global_023721,5,Holistic Understanding of Events,D,A,False
+-PnG8Jp2gFw_1,global_023726,5,Holistic Understanding of Events,A,C,False
+-PnG8Jp2gFw_0,global_023725,3,Action Transition,E,A,False
+-PnG8Jp2gFw_2,global_023727,2,Interaction Recognition,A,A,True
+jvkmcX47bKU_0,global_023728,5,Holistic Understanding of Events,E,B,False
+jvkmcX47bKU_2,global_023730,5,Holistic Understanding of Events,D,A,False
+1pxrIj9Xyps_0,global_023731,2,Interaction Recognition,B,C,False
+jvkmcX47bKU_1,global_023729,3,Action Transition,C,C,True
+1pxrIj9Xyps_1,global_023732,1,Change Detection,A,E,False
+1pxrIj9Xyps_2,global_023733,3,Action Transition,A,A,True
+E7FSg22MdKE_0,global_023734,1,Change Detection,A,A,True
+E7FSg22MdKE_1,global_023735,1,Change Detection,D,D,True
+er1oRjH2iu8_2,global_023739,1,Change Detection,A,B,False
+er1oRjH2iu8_1,global_023738,1,Change Detection,C,B,False
+er1oRjH2iu8_0,global_023737,1,Change Detection,D,A,False
+E7FSg22MdKE_2,global_023736,1,Change Detection,D,A,False
+XYsCVqz3iug_0,global_023740,5,Holistic Understanding of Events,D,D,True
+XYsCVqz3iug_1,global_023741,2,Interaction Recognition,B,B,True
+XYsCVqz3iug_2,global_023742,2,Interaction Recognition,B,B,True
+60oHeCZHtvI_1,global_023744,,,D,D,True
+60oHeCZHtvI_2,global_023745,,,D,D,True
+61SYvhojGvg_2,global_023751,,,E,E,True
+60oHeCZHtvI_0,global_023743,,,B,B,True
+61SYvhojGvg_0,global_023749,,,B,C,False
+61SYvhojGvg_1,global_023750,,,B,B,True
+@movie.explained6-7270058445577948418_0,global_023752,5,Holistic Understanding of Events,D,E,False
+u1D4ArcBjLI_2,global_023754,3,Action Transition,D,A,False
+yFAuXmcGk2Y_1,global_023756,1,Change Detection,C,C,True
+yFAuXmcGk2Y_0,global_023755,1,Change Detection,D,A,False
+yFAuXmcGk2Y_2,global_023757,1,Change Detection,C,C,True
+kOZnpwI2hIM_0,global_023758,,,C,D,False
+kOZnpwI2hIM_2,global_023760,,,D,E,False
+kOZnpwI2hIM_1,global_023759,1,Change Detection,C,B,False
+eE5Z7gDbgVA_2,global_023763,,,B,B,True
+eE5Z7gDbgVA_0,global_023761,,,B,B,True
+eE5Z7gDbgVA_1,global_023762,,,A,C,False
+V-RIpt7Tknc_0,global_023764,5,Holistic Understanding of Events,A,C,False
+V-RIpt7Tknc_1,global_023765,,,D,D,True
+Fw1rirubXiU_0,global_023767,1,Change Detection,C,B,False
+Fw1rirubXiU_1,global_023768,1,Change Detection,C,E,False
+V-RIpt7Tknc_2,global_023766,,,C,A,False
+Fw1rirubXiU_2,global_023769,1,Change Detection,C,D,False
+tdm72-vYxTs_1,global_023771,2,Interaction Recognition,B,B,True
+tdm72-vYxTs_0,global_023770,3,Action Transition,B,A,False
+tdm72-vYxTs_2,global_023772,2,Interaction Recognition,C,E,False
+DoizYSYQRqU_1,global_023774,,,A,B,False
+DoizYSYQRqU_2,global_023775,,,A,C,False
+DoizYSYQRqU_0,global_023773,,,A,A,True
+NAJOZTNkhlI_0,global_023776,1,Change Detection,B,C,False
+pGEF7Tme3Tk_0,global_023782,1,Change Detection,A,D,False
+NAJOZTNkhlI_1,global_023777,1,Change Detection,B,D,False
+NAJOZTNkhlI_2,global_023778,1,Change Detection,D,E,False
+pGEF7Tme3Tk_1,global_023783,1,Change Detection,A,A,True
+pGEF7Tme3Tk_2,global_023784,1,Change Detection,D,E,False
+aqUisZS9Ruw_0,global_023785,,,B,D,False
+aqUisZS9Ruw_1,global_023786,,,D,B,False
+TMe7oXMJoSM_2,global_023790,1,Change Detection,C,C,True
+aqUisZS9Ruw_2,global_023787,,,D,B,False
+TMe7oXMJoSM_0,global_023788,1,Change Detection,D,B,False
+8foMISZGiyw_0,global_023791,5,Holistic Understanding of Events,D,D,True
+8foMISZGiyw_1,global_023792,5,Holistic Understanding of Events,C,B,False
+TMe7oXMJoSM_1,global_023789,1,Change Detection,B,B,True
+J1IwKg2ufk8_1,global_023795,,,C,E,False
+J1IwKg2ufk8_0,global_023794,,,B,C,False
+J1IwKg2ufk8_2,global_023796,,,C,C,True
+8foMISZGiyw_2,global_023793,5,Holistic Understanding of Events,A,E,False
+XuQswmEPgxU_0,global_023797,,,A,A,True
+XuQswmEPgxU_1,global_023798,,,D,E,False
+NSeq-nVSY_E_0,global_023800,1,Change Detection,B,B,True
+XuQswmEPgxU_2,global_023799,,,B,D,False
+NSeq-nVSY_E_2,global_023802,1,Change Detection,D,A,False
+WTT7XZko3qk_0,global_023803,5,Holistic Understanding of Events,C,B,False
+s5edwp0PEqk_1,global_023806,5,Holistic Understanding of Events,D,D,True
+WTT7XZko3qk_2,global_023805,3,Action Transition,B,B,True
+WTT7XZko3qk_1,global_023804,3,Action Transition,B,B,True
+6S_e34j6q9U_2,global_023910,1,Change Detection,D,D,True
+WaiGdRYD36k_0,global_023911,5,Holistic Understanding of Events,D,D,True
+WaiGdRYD36k_1,global_023912,5,Holistic Understanding of Events,A,C,False
+oI975O1BUu0_0,global_023914,1,Change Detection,C,C,True
+WaiGdRYD36k_2,global_023913,3,Action Transition,D,B,False
+oI975O1BUu0_2,global_023916,1,Change Detection,B,B,True
+oI975O1BUu0_1,global_023915,1,Change Detection,A,C,False
+GFg98TDqCpw_0,global_023917,,,B,B,True
+GFg98TDqCpw_1,global_023918,,,C,C,True
+YebUIUOCo94_0,global_023920,,,A,B,False
+GFg98TDqCpw_2,global_023919,,,A,A,True
+YebUIUOCo94_1,global_023921,,,A,A,True
+YebUIUOCo94_2,global_023922,,,B,B,True
+xiK00WS0lkE_1,global_023924,5,Holistic Understanding of Events,A,D,False
+xiK00WS0lkE_0,global_023923,5,Holistic Understanding of Events,C,C,True
+xiK00WS0lkE_2,global_023925,1,Change Detection,B,B,True
+OMJc43wUPLM_1,global_023927,1,Change Detection,C,B,False
+OMJc43wUPLM_0,global_023926,1,Change Detection,A,A,True
+Ytv-9RM4e0o_0,global_023929,1,Change Detection,A,E,False
+OMJc43wUPLM_2,global_023928,1,Change Detection,D,B,False
+Ytv-9RM4e0o_1,global_023930,1,Change Detection,A,A,True
+PbiTIR8N4Hc_1,global_023933,1,Change Detection,A,A,True
+PbiTIR8N4Hc_0,global_023932,3,Action Transition,C,E,False
+Ytv-9RM4e0o_2,global_023931,1,Change Detection,B,B,True
+PbiTIR8N4Hc_2,global_023934,1,Change Detection,A,E,False
+fsz6bkkIHzQ_1,global_023936,,,B,B,True
+fsz6bkkIHzQ_0,global_023935,5,Holistic Understanding of Events,A,D,False
+fsz6bkkIHzQ_2,global_023937,5,Holistic Understanding of Events,E,E,True
+s5edwp0PEqk_0,global_023938,5,Holistic Understanding of Events,B,B,True
+9dSkvxS2EB0_0,global_023941,5,Holistic Understanding of Events,D,D,True
+9dSkvxS2EB0_1,global_023942,1,Change Detection,D,C,False
+s5edwp0PEqk_2,global_023940,5,Holistic Understanding of Events,B,D,False
+9dSkvxS2EB0_2,global_023943,1,Change Detection,B,C,False
+aX_HgA5SNLQ_0,global_023944,1,Change Detection,A,B,False
+aX_HgA5SNLQ_2,global_023946,1,Change Detection,A,A,True
+aX_HgA5SNLQ_1,global_023945,1,Change Detection,B,E,False
+NHIT9vq6mJU_1,global_023948,,,A,A,True
+NHIT9vq6mJU_2,global_023949,,,B,B,True
+NHIT9vq6mJU_0,global_023947,,,E,E,True
+_uL3a3aMdMQ_1,global_023951,,,A,E,False
+_uL3a3aMdMQ_0,global_023950,,,C,E,False
+_uL3a3aMdMQ_2,global_023952,,,C,C,True
+LAbtlJJhUlY_0,global_023953,3,Action Transition,C,C,True
+LAbtlJJhUlY_2,global_023955,3,Action Transition,E,E,True
+LAbtlJJhUlY_1,global_023954,3,Action Transition,D,A,False
+_g3Y_mk64Wc_0,global_023956,5,Holistic Understanding of Events,D,A,False
+_g3Y_mk64Wc_1,global_023957,5,Holistic Understanding of Events,A,A,True
+_g3Y_mk64Wc_2,global_023958,5,Holistic Understanding of Events,B,E,False
+OAcbasjxljY_2,global_023961,5,Holistic Understanding of Events,B,E,False
+OAcbasjxljY_0,global_023959,5,Holistic Understanding of Events,D,D,True
+OAcbasjxljY_1,global_023960,5,Holistic Understanding of Events,F,D,False
+ysRFFN5nzqE_0,global_023962,,,B,C,False
+ysRFFN5nzqE_2,global_023964,,,B,A,False
+ysRFFN5nzqE_1,global_023963,,,C,C,True
+lzAESaVqix0_1,global_023966,3,Action Transition,F,A,False
+lzAESaVqix0_0,global_023965,3,Action Transition,C,C,True
+lzAESaVqix0_2,global_023967,3,Action Transition,A,D,False
+0up5NxTiGZE_2,global_023970,1,Change Detection,C,C,True
+4ouAf1ldH60_1,global_023972,,,D,D,True
+4ouAf1ldH60_0,global_023971,,,B,C,False
+4ouAf1ldH60_2,global_023973,,,E,E,True
+0up5NxTiGZE_0,global_023968,,,A,A,True
+0up5NxTiGZE_1,global_023969,,,B,B,True
+Z-1lgAXOEc8_1,global_023975,,,A,A,True
+eDso3zHFxL8_0,global_023977,5,Holistic Understanding of Events,C,C,True
+Z-1lgAXOEc8_0,global_023974,,,D,E,False
+eDso3zHFxL8_2,global_023979,5,Holistic Understanding of Events,C,C,True
+eDso3zHFxL8_1,global_023978,5,Holistic Understanding of Events,B,B,True
+Z-1lgAXOEc8_2,global_023976,,,A,A,True
+0t1vtW0cT1E_1,global_023981,2,Interaction Recognition,C,B,False
+0t1vtW0cT1E_0,global_023980,2,Interaction Recognition,D,D,True
+0t1vtW0cT1E_2,global_023982,2,Interaction Recognition,A,A,True
+mfS6gyP0mwo_1,global_023984,1,Change Detection,A,C,False
+zVudr8cxHRE_0,global_023986,1,Change Detection,B,B,True
+mfS6gyP0mwo_2,global_023985,1,Change Detection,A,B,False
+zVudr8cxHRE_1,global_023987,1,Change Detection,D,D,True
+zVudr8cxHRE_2,global_023988,1,Change Detection,C,B,False
+LVFvRNRTEd4_0,global_023989,,,D,D,True
+LVFvRNRTEd4_1,global_023990,,,A,A,True
+mfS6gyP0mwo_0,global_023983,,,C,B,False
+OAHsR02dUc0_1,global_023993,1,Change Detection,B,D,False
+LVFvRNRTEd4_2,global_023991,,,A,B,False
+OAHsR02dUc0_0,global_023992,5,Holistic Understanding of Events,D,C,False
+OAHsR02dUc0_2,global_023994,3,Action Transition,B,D,False
+bwDfdTh0VYs_0,global_023995,1,Change Detection,C,C,True
+bwDfdTh0VYs_1,global_023996,3,Action Transition,B,B,True
+bwDfdTh0VYs_2,global_023997,5,Holistic Understanding of Events,A,A,True
+-0aM99dMu_4_0,global_023998,1,Change Detection,A,C,False
+-0aM99dMu_4_1,global_023999,1,Change Detection,D,B,False
+wFrztzzohJ8_1,global_024002,,,A,B,False
+-0aM99dMu_4_2,global_024000,1,Change Detection,A,B,False
+wFrztzzohJ8_0,global_024001,,,A,A,True
+bAGhXcYc0o4_0,global_024004,,,D,D,True
+wFrztzzohJ8_2,global_024003,,,D,A,False
+bAGhXcYc0o4_2,global_024006,,,C,A,False
+mq6L8CnNJXc_0,global_024007,,,C,B,False
+bAGhXcYc0o4_1,global_024005,,,C,B,False
+mq6L8CnNJXc_1,global_024008,,,B,B,True
+mq6L8CnNJXc_2,global_024009,,,A,A,True
+ZRMbh0wSly0_0,global_024010,,,D,C,False
+ZRMbh0wSly0_1,global_024011,,,D,A,False
+F2OhCCEIOcU_1,global_024014,,,A,A,True
+F2OhCCEIOcU_2,global_024015,,,B,A,False
+F2OhCCEIOcU_0,global_024013,,,B,B,True
+ZRMbh0wSly0_2,global_024012,,,C,A,False
+1D9TgBrW6Sw_0,global_024016,1,Change Detection,C,D,False
+1D9TgBrW6Sw_1,global_024017,,,B,D,False
+1D9TgBrW6Sw_2,global_024018,,,A,D,False
+ZsnfXfuGRrg_0,global_024019,1,Change Detection,B,B,True
+ZsnfXfuGRrg_2,global_024021,1,Change Detection,C,D,False
+ZsnfXfuGRrg_1,global_024020,1,Change Detection,A,B,False
+5tN9hyfdkaE_1,global_024023,,,B,C,False
+5tN9hyfdkaE_0,global_024022,,,A,D,False
+5tN9hyfdkaE_2,global_024024,,,D,D,True
+a_hkRXc_bYg_0,global_024025,3,Action Transition,B,B,True
+a_hkRXc_bYg_1,global_024026,3,Action Transition,A,E,False
+a_hkRXc_bYg_2,global_024027,3,Action Transition,C,E,False
+td35F9LNazA_1,global_024029,1,Change Detection,C,E,False
+td35F9LNazA_0,global_024028,1,Change Detection,D,D,True
+ZGMGQsnSdLE_0,global_024031,1,Change Detection,A,C,False
+td35F9LNazA_2,global_024030,1,Change Detection,B,B,True
+ZGMGQsnSdLE_1,global_024032,1,Change Detection,C,B,False
+ZGMGQsnSdLE_2,global_024033,1,Change Detection,A,A,True
+mTn_C-SyW84_0,global_024034,,,E,E,True
+mTn_C-SyW84_1,global_024035,,,E,E,True
+mTn_C-SyW84_2,global_024036,,,F,C,False
+GdFMKGNFXaE_0,global_024037,3,Action Transition,D,E,False
+GdFMKGNFXaE_1,global_024038,3,Action Transition,B,B,True
+rP7sQe784k8_0,global_024040,1,Change Detection,E,E,True
+GdFMKGNFXaE_2,global_024039,2,Interaction Recognition,E,D,False
+rP7sQe784k8_1,global_024041,1,Change Detection,E,A,False
+rP7sQe784k8_2,global_024042,5,Holistic Understanding of Events,B,B,True
+KTY9bogonyw_0,global_024043,5,Holistic Understanding of Events,B,B,True
+KTY9bogonyw_1,global_024044,5,Holistic Understanding of Events,D,D,True
+f0IbZGfTgUM_1,global_024047,1,Change Detection,C,C,True
+f0IbZGfTgUM_0,global_024046,1,Change Detection,A,C,False
+KTY9bogonyw_2,global_024045,5,Holistic Understanding of Events,D,D,True
+f0IbZGfTgUM_2,global_024048,1,Change Detection,B,B,True
+z6THwql5c6w_0,global_024049,2,Interaction Recognition,A,A,True
+z6THwql5c6w_1,global_024050,5,Holistic Understanding of Events,E,B,False
+z6THwql5c6w_2,global_024051,5,Holistic Understanding of Events,E,C,False
+IGmuaY1jB1w_0,global_024055,,,B,D,False
+IGmuaY1jB1w_1,global_024056,,,A,A,True
+DVsw1brd_Yc_0,global_024058,,,A,A,True
+IGmuaY1jB1w_2,global_024057,,,E,A,False
+DVsw1brd_Yc_1,global_024059,,,B,D,False
+DVsw1brd_Yc_2,global_024060,,,D,C,False
+JLBsG65WoVU_0,global_024061,,,C,A,False
+JLBsG65WoVU_2,global_024063,1,Change Detection,C,B,False
+fWNJmZAWRNg_2,global_024066,,,B,B,True
+x4UBaEojM6U_0,global_024067,5,Holistic Understanding of Events,C,D,False
+fWNJmZAWRNg_0,global_024064,,,D,D,True
+x4UBaEojM6U_1,global_024068,5,Holistic Understanding of Events,D,C,False
+JLBsG65WoVU_1,global_024062,,,A,A,True
+fWNJmZAWRNg_1,global_024065,5,Holistic Understanding of Events,C,D,False
+x4UBaEojM6U_2,global_024069,2,Interaction Recognition,C,A,False
+Oht0i1DACcA_1,global_024079,1,Change Detection,D,D,True
+t1nhAnMQBHg_1,global_024073,,,B,B,True
+rIU_BQEuKQ8_1,global_024076,3,Action Transition,A,A,True
+ZoUsR8t8IxE_1,global_024078,5,Holistic Understanding of Events,A,D,False
+PzUxuZ-KGsU_1,global_024077,,,A,B,False
+0WEnmqVVbHo_1,global_024083,5,Holistic Understanding of Events,B,B,True
+0oALTLKRWBA_1,global_024080,3,Action Transition,D,D,True
+Efuyl2Anehg_1,global_024082,,,C,D,False
+q3FAxTSENEw_1,global_024085,5,Holistic Understanding of Events,B,D,False
+q3FAxTSENEw_0,global_024084,5,Holistic Understanding of Events,D,B,False
+T57jVsvVVR0_1,global_024086,,,C,B,False
+DRIpznER-VQ_1,global_024089,,,D,D,True
+HPunfsyjETs_0,global_024095,,,A,C,False
+yl-6-Yzt--A_1,global_024092,5,Holistic Understanding of Events,A,E,False
+mFliMGufpwc_0,global_024099,,,G,A,False
+GdZYLAI0vpc_0,global_024096,3,Action Transition,A,A,True
+mHccnoh9f5w_0,global_024097,5,Holistic Understanding of Events,D,D,True
+mFliMGufpwc_1,global_024100,,,B,C,False
+Q4GK4asczVA_0,global_024098,3,Action Transition,A,A,True
+HeRS3nwySI8_0,global_024105,1,Change Detection,C,E,False
+HeRS3nwySI8_1,global_024106,5,Holistic Understanding of Events,B,E,False
+3u__SZlBLC0_0,global_024108,3,Action Transition,A,D,False
+mFliMGufpwc_2,global_024101,,,A,A,True
+HeRS3nwySI8_2,global_024107,1,Change Detection,B,A,False
+3u__SZlBLC0_1,global_024109,2,Interaction Recognition,D,D,True
+3u__SZlBLC0_2,global_024110,3,Action Transition,D,D,True
+yz3lOAe32Tw_0,global_024111,3,Action Transition,A,A,True
+yz3lOAe32Tw_1,global_024112,3,Action Transition,A,C,False
+yz3lOAe32Tw_2,global_024113,3,Action Transition,C,C,True
+YcbKamVxDzI_1,global_024115,5,Holistic Understanding of Events,B,B,True
+YcbKamVxDzI_0,global_024114,3,Action Transition,A,E,False
+YcbKamVxDzI_2,global_024116,1,Change Detection,C,C,True
+5dJUUQufzw4_1,global_024118,,,B,C,False
+5dJUUQufzw4_2,global_024119,,,C,B,False
+5dJUUQufzw4_0,global_024117,1,Change Detection,D,E,False
+O471uwTNx6k_1,global_024124,1,Change Detection,A,D,False
+O471uwTNx6k_0,global_024123,1,Change Detection,B,B,True
+bXRuqcmTIuk_0,global_024120,,,B,E,False
+bXRuqcmTIuk_1,global_024121,3,Action Transition,C,A,False
+bXRuqcmTIuk_2,global_024122,,,A,E,False
+fO7nwCix8xU_1,global_024127,1,Change Detection,B,E,False
+fO7nwCix8xU_0,global_024126,,,C,E,False
+O471uwTNx6k_2,global_024125,1,Change Detection,A,C,False
+X5v4nBo5y28_0,global_024129,1,Change Detection,D,E,False
+X5v4nBo5y28_1,global_024130,1,Change Detection,A,E,False
+HQns-h_82qU_0,global_024135,3,Action Transition,A,A,True
+fO7nwCix8xU_2,global_024128,1,Change Detection,C,B,False
+X5v4nBo5y28_2,global_024131,3,Action Transition,D,D,True
+MvgJAD6tZXo_0,global_024132,5,Holistic Understanding of Events,A,D,False
+MvgJAD6tZXo_2,global_024134,5,Holistic Understanding of Events,C,A,False
+MvgJAD6tZXo_1,global_024133,5,Holistic Understanding of Events,A,C,False
+HQns-h_82qU_1,global_024136,3,Action Transition,E,E,True
+0ln2qdCR5lA_1,global_024145,3,Action Transition,E,A,False
+O3Hwh0uv8Mg_1,global_024139,1,Change Detection,B,C,False
+O3Hwh0uv8Mg_0,global_024138,1,Change Detection,B,A,False
+HQns-h_82qU_2,global_024137,3,Action Transition,A,B,False
+0ln2qdCR5lA_0,global_024144,3,Action Transition,B,B,True
+0ln2qdCR5lA_2,global_024146,3,Action Transition,C,B,False
+O3Hwh0uv8Mg_2,global_024140,3,Action Transition,C,C,True
+j6beJTHUT_c_2,global_024149,2,Interaction Recognition,E,E,True
+TxS1JnfuG34_2,global_024152,,,B,C,False
+d5JlCEDlHGE_1,global_024154,5,Holistic Understanding of Events,E,E,True
+TxS1JnfuG34_0,global_024150,,,C,A,False
+j6beJTHUT_c_0,global_024147,2,Interaction Recognition,C,C,True
+d5JlCEDlHGE_0,global_024153,5,Holistic Understanding of Events,E,E,True
+j6beJTHUT_c_1,global_024148,5,Holistic Understanding of Events,C,C,True
+TxS1JnfuG34_1,global_024151,,,B,B,True
+Y5833KeDmp4_0,global_024156,5,Holistic Understanding of Events,D,C,False
+T1K4rgs-1b8_0,global_024159,,,A,A,True
+e11Q4ThFu5A_0,global_024157,,,A,B,False
+d5JlCEDlHGE_2,global_024155,5,Holistic Understanding of Events,C,A,False
+3zv9RkDPX14_0,global_024160,,,A,A,True
+oddHY1vwcjo_0,global_024162,,,C,C,True
+uJgZo4KxoZw_0,global_024161,,,D,D,True
+GRPLynULvJY_0,global_024158,,,B,D,False
+TlaX2iIYZD4_1,global_024169,,,C,C,True
+kWUmHAzCp7s_0,global_024163,,,C,C,True
+H2ksp6sRR-k_1,global_024166,5,Holistic Understanding of Events,A,A,True
+H2ksp6sRR-k_0,global_024165,5,Holistic Understanding of Events,B,B,True
+UO_6TQnnOxM_0,global_024171,,,C,C,True
+TlaX2iIYZD4_2,global_024170,,,B,B,True
+H2ksp6sRR-k_2,global_024167,5,Holistic Understanding of Events,E,E,True
+TlaX2iIYZD4_0,global_024168,,,F,C,False
+UO_6TQnnOxM_1,global_024172,,,D,C,False
+UO_6TQnnOxM_2,global_024173,,,A,B,False
+Aau-XoIebno_0,global_024174,5,Holistic Understanding of Events,B,B,True
+Aau-XoIebno_2,global_024176,2,Interaction Recognition,A,D,False
+Aau-XoIebno_1,global_024175,2,Interaction Recognition,B,E,False
+O6UedmnRJc0_1,global_024178,,,E,E,True
+O6UedmnRJc0_0,global_024177,,,C,C,True
+ClYmTkGTGYg_0,global_024183,,,F,E,False
+O6UedmnRJc0_2,global_024179,,,B,B,True
+ClYmTkGTGYg_2,global_024185,,,C,C,True
+b__dUom9AcQ_0,global_024186,,,C,C,True
+b__dUom9AcQ_2,global_024188,,,B,D,False
+b__dUom9AcQ_1,global_024187,,,C,E,False
+JDtVwz1R-kI_2,global_024191,,,A,A,True
+JDtVwz1R-kI_1,global_024190,1,Change Detection,A,C,False
+ClYmTkGTGYg_1,global_024184,5,Holistic Understanding of Events,A,A,True
+_ZIa6SEJEyg_2,global_024194,3,Action Transition,D,C,False
+JDtVwz1R-kI_0,global_024189,,,D,E,False
+_ZIa6SEJEyg_1,global_024193,5,Holistic Understanding of Events,D,B,False
+-An3wZyoYe0_0,global_024195,5,Holistic Understanding of Events,A,E,False
+_ZIa6SEJEyg_0,global_024192,5,Holistic Understanding of Events,C,A,False
+-An3wZyoYe0_1,global_024196,5,Holistic Understanding of Events,C,A,False
+-An3wZyoYe0_2,global_024197,5,Holistic Understanding of Events,A,A,True
+49YMA0f1yhI_0,global_024199,,,B,B,True
+lnCPn8gX3FU_0,global_024198,5,Holistic Understanding of Events,A,B,False
+shGkzHpzwAQ_0,global_024201,,,C,C,True
+hXFfPjytMo0_0,global_024200,,,C,D,False
+8Qe03WDCrB4_0,global_024202,,,C,C,True
+58mCJVNMJvw_0,global_024203,,,A,C,False
+ErGYJ7kqIow_0,global_024204,3,Action Transition,C,C,True
+@asianfoodrecipes-7109221563697876225_0,global_024207,5,Holistic Understanding of Events,C,C,True
+@recipesbyanne-7234536361296940314_0,global_024208,,,E,D,False
+@recipesbyanne-7112477530824756486_0,global_024206,1,Change Detection,A,A,True
+@healthfood-6917750501975100677_0,global_024210,1,Change Detection,C,B,False
+@tiffycooks-7022693587703926022_0,global_024211,3,Action Transition,D,D,True
+@recipesbyanne-7141686631676808454_0,global_024205,,,A,E,False
+@healthfood-6880172230588894465_0,global_024209,1,Change Detection,B,E,False
+@recipesbyanne-7231566545263103259_0,global_024212,1,Change Detection,E,E,True
+@healthfood-7200404243168415022_0,global_024214,5,Holistic Understanding of Events,A,A,True
+@recipesbyanne-7190395053343296774_0,global_024216,3,Action Transition,D,B,False
+@healthfood-6999715804623293702_0,global_024218,,,D,D,True
+@_eat_sleep_travel_repeat-7275734357799652640_0,global_024219,1,Change Detection,D,D,True
+@kelseyinlondon-7258968758130085146_0,global_024220,3,Action Transition,C,A,False
+@recipesbyanne-7161798161395240197_0,global_024217,,,D,D,True
+@healthfood-6867204066108329221_0,global_024215,,,A,E,False
+@daiki.shino-7120297338056281349_0,global_024221,1,Change Detection,C,C,True
+@placesunleashed-7325156862486220038_0,global_024223,,,E,E,True
+@placesunleashed-7297000148201262341_0,global_024222,5,Holistic Understanding of Events,A,A,True
+@jetset_anna-7126584501228129542_0,global_024226,,,A,A,True
+@jetset_anna-6985193727107009798_0,global_024225,5,Holistic Understanding of Events,C,A,False
+@luxtravelbe-7233851486474636570_0,global_024227,2,Interaction Recognition,B,E,False
+@kelseyinlondon-7287537087203511585_0,global_024224,,,C,E,False
+@placesunleashed-7334544531490196741_0,global_024229,1,Change Detection,B,B,True
+@placesunleashed-7303594391850044678_0,global_024230,,,A,D,False
+@placesunleashed-7297652941551439109_0,global_024231,1,Change Detection,B,B,True
+@movie.explained6-7278310085217094914_0,global_024233,1,Change Detection,B,B,True
+@movie.explained6-7268771669123042562_0,global_024237,,,B,B,True
+@movie.explained6-7275485247351901442_0,global_024236,1,Change Detection,B,D,False
+@movie.explained6-7252661595875183874_0,global_024235,,,C,C,True
+@movie.explained6-7253792552996867330_0,global_024239,2,Interaction Recognition,E,E,True
+@movie.explained6-7274542274997013761_0,global_024240,1,Change Detection,E,E,True
+@movie.explained6-7254803496900267266_0,global_024238,,,A,A,True
+@kerstinong-6965059948090821890_0,global_024242,5,Holistic Understanding of Events,B,B,True
+@jess.morg-7195624647830850858_0,global_024243,5,Holistic Understanding of Events,B,B,True
+@jess.morg-7291800958152084782_0,global_024244,1,Change Detection,E,E,True
+@jonijawne-7318074908645264645_0,global_024245,5,Holistic Understanding of Events,A,A,True
+@jess.morg-7275475379375164715_0,global_024246,5,Holistic Understanding of Events,D,D,True
+@jonijawne-7184469162956246277_0,global_024247,5,Holistic Understanding of Events,B,B,True
+@kerstinong-6900436106790194434_0,global_024248,1,Change Detection,A,E,False
+@jonijawne-7312063059160206597_0,global_024249,5,Holistic Understanding of Events,A,D,False
+@jess.morg-7255843192677911851_0,global_024250,1,Change Detection,C,C,True
+@jess.morg-7284004157311421742_0,global_024251,5,Holistic Understanding of Events,A,A,True
+@jess.morg-7248745529272700202_0,global_024253,1,Change Detection,B,C,False
+@kerstinong-6976239624578419969_0,global_024255,3,Action Transition,C,C,True
+@lisolna-7203500499360877829_0,global_024254,,,D,D,True
+@jess.morg-7272881154838023467_0,global_024252,,,C,E,False
+@jess.morg-7079970495499717934_0,global_024257,3,Action Transition,C,A,False
+@jonijawne-7194500194648476933_0,global_024256,3,Action Transition,B,B,True
+Jfp1Ks7Hh1E_1,global_024259,1,Change Detection,A,E,False
+Jfp1Ks7Hh1E_2,global_024260,1,Change Detection,A,C,False
+gURB1JwPfJw_0,global_024261,5,Holistic Understanding of Events,C,C,True
+gURB1JwPfJw_2,global_024263,5,Holistic Understanding of Events,B,B,True
+gURB1JwPfJw_1,global_024262,5,Holistic Understanding of Events,B,E,False
+9S9i12n0TIw_0,global_024264,1,Change Detection,B,E,False
+9S9i12n0TIw_1,global_024265,1,Change Detection,E,E,True
+9S9i12n0TIw_2,global_024266,1,Change Detection,C,C,True
+gJijNOktmoI_0,global_024267,,,A,A,True
+gJijNOktmoI_2,global_024269,,,E,E,True
+d7IqrLV6Tlg_0,global_024270,3,Action Transition,C,C,True
+gJijNOktmoI_1,global_024268,,,B,B,True
+PCPQToF10IM_0,global_024273,1,Change Detection,E,C,False
+PCPQToF10IM_1,global_024274,5,Holistic Understanding of Events,A,D,False
+IN0osLg-Mn8_0,global_024276,,,C,C,True
+PCPQToF10IM_2,global_024275,3,Action Transition,D,B,False
+pFpZvRsEGZs_1,global_024279,,,D,D,True
+pFpZvRsEGZs_0,global_024278,,,A,C,False
+IN0osLg-Mn8_1,global_024277,,,B,E,False
+kj3Po7zUeyw_1,global_024283,1,Change Detection,C,B,False
+kj3Po7zUeyw_0,global_024282,,,A,B,False
+6hBbXVkgxGE_1,global_024281,,,A,A,True
+6hBbXVkgxGE_0,global_024280,5,Holistic Understanding of Events,E,D,False
+w2HKqOhf7KQ_0,global_024284,1,Change Detection,B,B,True
+w2HKqOhf7KQ_1,global_024285,1,Change Detection,C,C,True
+OUeE8nCKWGA_0,global_024288,5,Holistic Understanding of Events,D,C,False
+OUeE8nCKWGA_1,global_024289,5,Holistic Understanding of Events,A,E,False
+N7RTTiHsSjI_0,global_024290,,,A,A,True
+N7RTTiHsSjI_1,global_024291,,,E,E,True
+e6HwinLBK_Y_1,global_024293,1,Change Detection,E,D,False
+n24n_20Kwe4_1,global_024297,5,Holistic Understanding of Events,C,A,False
+e6HwinLBK_Y_0,global_024292,5,Holistic Understanding of Events,C,B,False
+T5bTeGzgJFs_0,global_024294,,,D,D,True
+n24n_20Kwe4_0,global_024296,1,Change Detection,B,B,True
+sHUEJw1BsGQ_0,global_024298,,,C,C,True
+XJ6REZOXsvM_0,global_024300,,,C,E,False
+sHUEJw1BsGQ_1,global_024299,,,C,E,False
+T5bTeGzgJFs_1,global_024295,,,A,E,False
+tWiGnu2BNsY_1,global_024305,3,Action Transition,A,D,False
+tWiGnu2BNsY_0,global_024304,5,Holistic Understanding of Events,F,D,False
+XJ6REZOXsvM_1,global_024301,,,A,A,True
+@movie.explained6-7259227637992705282_0,global_024308,,,A,A,True
+LAQRjgx_OY8_1,global_024307,1,Change Detection,A,A,True
+LAQRjgx_OY8_0,global_024306,1,Change Detection,D,C,False
+@movie.explained6-7253164232307379457_0,global_024309,,,D,B,False
+@movie.explained6-7280742496882134274_0,global_024310,1,Change Detection,C,C,True
+@movie.explained6-7268167132591000833_0,global_024312,,,E,E,True
+@movie.explained6-7277548218106367234_0,global_024313,1,Change Detection,D,D,True
+@movie.explained6-7262938043315686664_0,global_024311,,,A,C,False
+@movie.explained6-7267884432420277506_0,global_024317,,,B,B,True
+@movie.explained6-7269647281668852993_0,global_024314,5,Holistic Understanding of Events,C,E,False
+@movie.explained6-7269746510462536962_0,global_024319,,,A,A,True
+@movie.explained6-7268213090708245761_0,global_024318,1,Change Detection,A,B,False
+@movie.explained6-7270293967017725185_0,global_024320,,,A,A,True
+@movie.explained6-7275653401025826050_0,global_024316,,,B,B,True
+@kerstinong-7074483613273754882_0,global_024324,,,A,D,False
+@movie.explained6-7270058010888768770_0,global_024323,1,Change Detection,B,B,True
+@movie.explained6-7254238802577820929_0,global_024321,5,Holistic Understanding of Events,E,B,False
+@jonijawne-7197144530024500485_0,global_024326,,,D,D,True
+@lisolna-7284252812194729248_0,global_024327,1,Change Detection,D,A,False
+@lisolna-7184160724715883781_0,global_024329,1,Change Detection,D,D,True
+@emsiiees-7296863219178638594_0,global_024328,2,Interaction Recognition,D,D,True
+@jonijawne-7214559428471770374_0,global_024330,3,Action Transition,A,A,True
+@lisolna-7321010343067618592_0,global_024331,1,Change Detection,B,B,True
+@lisolna-7359951777845775648_0,global_024333,1,Change Detection,A,A,True
+@jess.morg-7203120578537049386_0,global_024334,5,Holistic Understanding of Events,D,A,False
+@kerstinong-7197781091162279169_0,global_024335,1,Change Detection,C,C,True
+@lisolna-7198577717292322054_0,global_024336,,,A,B,False
+@jess.morg-7206809277867052330_0,global_024332,,,B,B,True
+@kerstinong-7254520467002854657_0,global_024338,5,Holistic Understanding of Events,D,D,True
+@lisolna-7235995901477604635_0,global_024340,5,Holistic Understanding of Events,E,E,True
+@lisolna-7333990579963039009_0,global_024337,,,D,D,True
+VNvH5u5CWV8_0,global_024342,1,Change Detection,B,D,False
+@kerstinong-7097604725134118146_0,global_024341,,,A,A,True
+@lisolna-7265680288636767520_0,global_024339,5,Holistic Understanding of Events,D,C,False
+akoJDx23QWU_0,global_024344,1,Change Detection,A,A,True
+baFsMWNavQ4_0,global_024343,,,B,B,True
+MTmUo6QITo4_0,global_024345,1,Change Detection,C,C,True
+zU3bjOKfsww_0,global_024346,2,Interaction Recognition,D,D,True
+qZVBFAtfp2A_0,global_024347,,,B,D,False
+Uy_o-WCq2Cc_0,global_024348,,,A,A,True
+z8YF-D-t7AI_0,global_024350,1,Change Detection,B,B,True
+wl58wNMvi6Y_0,global_024351,1,Change Detection,E,E,True
+u5NAcHhI_Uc_0,global_024352,,,B,E,False
+sWfcgeDth_w_0,global_024353,,,C,D,False
+q2bpkhjNxf0_0,global_024349,,,G,B,False
+N2mrK33gCYE_0,global_024354,3,Action Transition,B,B,True
+kONR5_mHofA_0,global_024356,1,Change Detection,B,A,False
+5Hn1UhlLphk_0,global_024357,,,D,D,True
+cceTeD4JADU_1,global_024358,,,D,D,True
+YiHjsOqxtk0_0,global_024359,1,Change Detection,D,C,False
+-QSAotqKqX8_1,global_024361,1,Change Detection,A,E,False
+VLInjyogciw_0,global_024355,,,B,C,False
+bgklOaBBmB8_1,global_024360,1,Change Detection,A,C,False
+@recipesbyanne-7153617149041446150_0,global_024362,1,Change Detection,E,A,False
+@placesunleashed-7293176969531870470_0,global_024364,5,Holistic Understanding of Events,D,C,False
+@kelseyinlondon-7068018011139050758_0,global_024363,,,E,E,True
+@kelseyinlondon-7094322812327906565_0,global_024365,3,Action Transition,B,E,False
+@movie.explained6-7257359603489443073_0,global_024368,,,B,A,False
+UKU-W5bBCwY_0,global_024369,,,C,E,False
+@_eat_sleep_travel_repeat-7296468146473536800_0,global_024366,1,Change Detection,B,B,True
+VGQ_djSR7zE_0,global_024370,3,Action Transition,B,B,True
+@movie.explained6-7268936523481943297_0,global_024367,,,A,A,True
+0rWA-p4p5IM_0,global_024371,1,Change Detection,C,C,True
+8905KCkLDYc_0,global_024375,,,A,A,True
+6qLYX6bzsl4_1,global_024378,1,Change Detection,B,B,True
+fvCrE5NCsts_0,global_024373,5,Holistic Understanding of Events,A,A,True
+fvCrE5NCsts_1,global_024374,1,Change Detection,A,B,False
+8905KCkLDYc_1,global_024376,,,D,A,False
+0rWA-p4p5IM_1,global_024372,1,Change Detection,A,C,False
+UbNyMSwoT5A_0,global_024379,5,Holistic Understanding of Events,A,E,False
+6qLYX6bzsl4_0,global_024377,2,Interaction Recognition,A,A,True
+UbNyMSwoT5A_1,global_024380,2,Interaction Recognition,A,D,False
+Sy2unO22PUE_1,global_024382,1,Change Detection,C,B,False
+Sy2unO22PUE_0,global_024381,1,Change Detection,E,D,False
+66dwcQ1Y048_1,global_024384,1,Change Detection,D,A,False
+66dwcQ1Y048_0,global_024383,1,Change Detection,C,C,True
+UwlKYM2Sotg_0,global_024385,5,Holistic Understanding of Events,A,D,False
+1oL4ugMdDvQ_0,global_024387,2,Interaction Recognition,C,D,False
+1oL4ugMdDvQ_1,global_024388,5,Holistic Understanding of Events,E,D,False
+mld0TnA2jEs_0,global_024389,,,F,A,False
+UwlKYM2Sotg_1,global_024386,1,Change Detection,B,B,True
+@healthfood-6874943613630041350_0,global_024393,3,Action Transition,D,D,True
+mld0TnA2jEs_1,global_024390,,,F,C,False
+JLnsWrzV_j4_1,global_024392,,,E,E,True
+JLnsWrzV_j4_0,global_024391,,,C,C,True
+@tiffycooks-7171182579058511110_0,global_024396,3,Action Transition,B,B,True
+@healthfood-7135100078221430058_0,global_024394,2,Interaction Recognition,B,C,False
+@tiffycooks-7201571680890670342_0,global_024395,,,C,C,True
+@thatrecipe.us-7266555380925287723_0,global_024397,1,Change Detection,A,D,False
+@thatrecipe.us-7301855783438896427_0,global_024399,5,Holistic Understanding of Events,D,D,True
+@healthfood-6862748507976011013_0,global_024401,1,Change Detection,D,B,False
+@tiffycooks-7080578381569445125_0,global_024398,5,Holistic Understanding of Events,C,A,False
+@healthfood-6948509102305791238_0,global_024402,,,B,B,True
+@thatrecipe.us-7245035133688892714_0,global_024405,1,Change Detection,D,D,True
+@healthfood-7125042270381853995_0,global_024404,1,Change Detection,C,C,True
+@tiffycooks-6940704678569053446_0,global_024406,,,A,B,False
+@thatrecipe.us-7309241426028596523_0,global_024407,2,Interaction Recognition,C,C,True
+@placesunleashed-7298820532466683142_0,global_024410,,,B,B,True
+@thatrecipe.us-7262468242692689194_0,global_024403,,,C,D,False
+@placesunleashed-7324498849857326341_0,global_024411,,,D,D,True
+@placesunleashed-7324761016909188358_0,global_024408,,,C,C,True
+@luxtravelbe-7286546546932370721_0,global_024413,5,Holistic Understanding of Events,A,D,False
+@placesunleashed-7308098412078025989_0,global_024412,5,Holistic Understanding of Events,D,D,True
+@placesunleashed-7285075986662624518_0,global_024415,5,Holistic Understanding of Events,A,A,True
+@luxtravelbe-7273938266183847200_0,global_024414,5,Holistic Understanding of Events,A,D,False
+@placesunleashed-7321079612488862981_0,global_024418,3,Action Transition,B,B,True
+@placesunleashed-7302913253959617797_0,global_024417,5,Holistic Understanding of Events,A,C,False
+@placesunleashed-7283971258755140869_0,global_024416,,,A,A,True
+1R5uPaL0V-0_0,global_024421,,,C,A,False
+@placesunleashed-7319588197858610438_0,global_024419,1,Change Detection,C,B,False
+@placesunleashed-7337436458078260485_0,global_024420,1,Change Detection,D,B,False
+1R5uPaL0V-0_1,global_024422,,,B,B,True
+fPLjjr8w6DU_0,global_024424,1,Change Detection,B,B,True
+fPLjjr8w6DU_1,global_024425,5,Holistic Understanding of Events,A,A,True
+1R5uPaL0V-0_2,global_024423,,,D,D,True
+fPLjjr8w6DU_2,global_024426,5,Holistic Understanding of Events,A,C,False
+Z6Hx_BAZeUw_0,global_024427,3,Action Transition,E,E,True
+Z6Hx_BAZeUw_2,global_024429,3,Action Transition,E,E,True
+Z6Hx_BAZeUw_1,global_024428,5,Holistic Understanding of Events,B,B,True
+7TljSpTBS9c_0,global_024430,3,Action Transition,A,B,False
+7TljSpTBS9c_1,global_024431,5,Holistic Understanding of Events,D,D,True
+7TljSpTBS9c_2,global_024432,3,Action Transition,D,D,True
+duxO1EZ650E_0,global_024433,1,Change Detection,C,C,True
+duxO1EZ650E_1,global_024434,1,Change Detection,A,C,False
+vEy6tcU6eLU_0,global_024436,,,A,A,True
+duxO1EZ650E_2,global_024435,1,Change Detection,D,D,True
+vEy6tcU6eLU_2,global_024438,,,D,B,False
+vEy6tcU6eLU_1,global_024437,,,B,B,True
+jiR7qHzgq_c_0,global_024440,1,Change Detection,A,A,True
+vE0faFD1F_g_0,global_024439,,,D,D,True
+AHeq99pojLo_0,global_024443,3,Action Transition,D,D,True
+tdA5atpqaAc_0,global_024441,2,Interaction Recognition,B,B,True
+t48HXAjjDAU_0,global_024442,5,Holistic Understanding of Events,C,C,True
+HRYlXC_ChzU_0,global_024445,,,D,D,True
+MyDAFlHsYsQ_0,global_024446,1,Change Detection,B,B,True
+rzIiQ4Vxlbk_0,global_024447,2,Interaction Recognition,E,B,False
+6moss7hGbvg_0,global_024444,,,B,B,True
+SKET024GdlE_0,global_024448,5,Holistic Understanding of Events,A,A,True
+wKd804fWOyQ_0,global_024450,1,Change Detection,E,E,True
+3pTVbQilDqY_0,global_024449,5,Holistic Understanding of Events,C,C,True
+wWNBYEUxews_0,global_024452,,,D,E,False
+@tiffycooks-7003765189401185542_0,global_024453,1,Change Detection,E,E,True
+@thatrecipe.us-7335998138500648235_0,global_024454,1,Change Detection,A,A,True
+@placesunleashed-7326709884102216965_0,global_024457,,,F,B,False
+@tiffycooks-7194857776877817094_0,global_024456,2,Interaction Recognition,A,A,True
+@healthfood-7267233980473314606_0,global_024455,,,A,B,False
+@movie.explained6-7277140989259599105_0,global_024459,5,Holistic Understanding of Events,B,C,False
+@movie.explained6-7276598470151032066_0,global_024458,1,Change Detection,D,D,True
+@lisolna-7282789187676294432_0,global_024461,5,Holistic Understanding of Events,D,E,False
+@lisolna-7315451966732193057_0,global_024462,1,Change Detection,D,E,False
+@kerstinong-6999997457392307457_0,global_024463,3,Action Transition,E,E,True
+@lisolna-7265337261737217312_0,global_024464,1,Change Detection,B,B,True
+@lisolna-7231929658869107994_0,global_024465,,,A,B,False
+s2N4cPqCdys_0,global_024466,,,B,B,True
+1vvYsirvA2I_0,global_024468,2,Interaction Recognition,D,D,True
+lzuixOdhZow_0,global_024467,5,Holistic Understanding of Events,B,B,True
+1vvYsirvA2I_1,global_024469,,,D,C,False
+OmhVj_-cfH0_0,global_024470,,,C,C,True
+F4bDyyEO4PU_1,global_024475,3,Action Transition,E,E,True
+OmhVj_-cfH0_1,global_024471,,,B,C,False
+t3P11ENBZyc_1,global_024473,1,Change Detection,C,C,True
+-Xg2-SUq6wo_1,global_024477,,,D,A,False
+-Xg2-SUq6wo_0,global_024476,,,A,A,True
+Ip9DbdOtqF4_0,global_024478,1,Change Detection,C,C,True
+t3P11ENBZyc_0,global_024472,1,Change Detection,C,C,True
+Ip9DbdOtqF4_1,global_024479,1,Change Detection,D,D,True
+gAgCnu82RHE_1,global_024481,5,Holistic Understanding of Events,F,D,False
+gAgCnu82RHE_0,global_024480,5,Holistic Understanding of Events,D,D,True
+sKvvuo9Yxqk_0,global_024482,1,Change Detection,C,C,True
+CdTijM0_es4_0,global_024484,,,D,D,True
+CdTijM0_es4_1,global_024485,,,E,E,True
+sKvvuo9Yxqk_1,global_024483,1,Change Detection,A,A,True
+YehqA9xoGTY_0,global_024486,1,Change Detection,A,A,True
+Bjymxow3TVQ_1,global_024489,,,A,A,True
+Bjymxow3TVQ_0,global_024488,,,B,B,True
+YehqA9xoGTY_1,global_024487,1,Change Detection,B,B,True
+by3NxI0dA6w_0,global_024490,1,Change Detection,A,A,True
+3hyPwjkdHEA_0,global_024492,,,D,C,False
+by3NxI0dA6w_1,global_024491,1,Change Detection,D,A,False
+3hyPwjkdHEA_1,global_024493,5,Holistic Understanding of Events,D,E,False
+soNQYQXrx_A_1,global_024499,1,Change Detection,F,E,False
+soNQYQXrx_A_0,global_024498,1,Change Detection,A,A,True
+UD5ifzOPzhc_1,global_024497,,,B,B,True
+UD5ifzOPzhc_0,global_024496,,,D,E,False
+vpKtHB8x0js_1,global_024501,3,Action Transition,A,B,False
+vpKtHB8x0js_0,global_024500,5,Holistic Understanding of Events,C,C,True
+JhlzvoqKOc8_1,global_024503,5,Holistic Understanding of Events,A,A,True
+JhlzvoqKOc8_0,global_024502,1,Change Detection,E,D,False
+Pm93D8CVlY8_0,global_024508,3,Action Transition,D,D,True
+Pm93D8CVlY8_1,global_024509,5,Holistic Understanding of Events,A,A,True
+mFcEWmtn3ag_0,global_024506,5,Holistic Understanding of Events,D,D,True
+mFcEWmtn3ag_1,global_024507,5,Holistic Understanding of Events,D,B,False
+brZugTJ0odg_0,global_024510,3,Action Transition,C,A,False
+brZugTJ0odg_1,global_024511,3,Action Transition,D,A,False
+kN88RP3XWUU_1,global_024513,,,C,A,False
+kN88RP3XWUU_0,global_024512,,,A,A,True
+to7vCdkLi4s_0,global_024514,5,Holistic Understanding of Events,C,B,False
+to7vCdkLi4s_1,global_024515,,,A,A,True
+GGwHSz9towk_0,global_024517,2,Interaction Recognition,C,C,True
+GGwHSz9towk_1,global_024518,5,Holistic Understanding of Events,D,D,True
+7XWqI121-Q4_0,global_024520,3,Action Transition,B,C,False
+_EUDpS9UF9o_0,global_024519,,,A,A,True
+7XWqI121-Q4_2,global_024522,5,Holistic Understanding of Events,A,A,True
+to7vCdkLi4s_2,global_024516,,,D,A,False
+7XWqI121-Q4_1,global_024521,3,Action Transition,D,D,True

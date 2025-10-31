@@ -1,0 +1,4001 @@
+question_id,global_id,category_id,category_name,pred_answer,answer,correct
+8,global_020481,,,C,C,True
+1,global_020468,,,B,B,True
+3,global_020485,,,B,B,True
+5,global_020484,,,A,D,False
+2,global_020469,5,Holistic Understanding of Events,C,E,False
+0,global_020474,,,C,C,True
+7,global_020478,,,C,C,True
+9,global_020482,,,A,A,True
+6,global_020463,,,E,E,True
+0,global_020474,,,A,A,True
+7,global_020478,,,D,D,True
+3,global_020485,,,D,D,True
+8,global_020481,,,D,E,False
+3,global_020485,,,A,A,True
+6,global_020463,,,B,B,True
+9,global_020482,,,A,A,True
+1,global_020468,,,C,C,True
+8,global_020481,,,A,A,True
+8,global_020481,,,C,E,False
+9,global_020482,,,B,B,True
+7,global_020478,,,A,A,True
+3,global_020485,,,A,A,True
+3,global_020485,,,C,C,True
+7,global_020478,,,E,A,False
+0,global_020474,,,C,C,True
+4,global_020477,,,B,B,True
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+8,global_020481,,,B,B,True
+8,global_020481,,,A,A,True
+5,global_020484,,,B,B,True
+6,global_020463,,,A,A,True
+5,global_020484,,,E,E,True
+7,global_020478,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+0,global_020474,,,B,B,True
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,A,False
+3,global_020485,,,B,B,True
+6,global_020463,,,C,C,True
+5,global_020484,,,E,E,True
+0,global_020474,,,B,E,False
+4,global_020477,,,B,B,True
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,D,False
+5,global_020484,,,A,A,True
+10,global_020479,,,B,B,True
+3,global_020485,,,C,C,True
+8,global_020481,,,D,D,True
+8,global_020481,,,D,D,True
+6,global_020463,,,C,C,True
+7,global_020478,,,E,E,True
+3,global_020485,,,A,A,True
+4,global_020477,,,B,B,True
+1,global_020468,,,E,E,True
+0,global_020474,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+4,global_020477,,,E,B,False
+3,global_020485,,,B,E,False
+8,global_020481,,,C,C,True
+0,global_020474,,,D,D,True
+8,global_020481,,,B,B,True
+4,global_020477,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,E,E,True
+0,global_020474,,,C,E,False
+3,global_020485,,,D,D,True
+1,global_020468,,,E,E,True
+5,global_020484,,,B,B,True
+3,global_020485,,,A,A,True
+4,global_020477,,,E,E,True
+1,global_020468,,,D,D,True
+0,global_020474,,,D,D,True
+1,global_020468,,,A,A,True
+9,global_020482,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,E,E,True
+7,global_020478,,,C,C,True
+6,global_020463,,,A,D,False
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,D,D,True
+4,global_020477,,,B,E,False
+3,global_020485,,,D,D,True
+5,global_020484,,,A,A,True
+5,global_020484,,,C,A,False
+3,global_020485,,,E,E,True
+6,global_020463,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+4,global_020477,,,C,C,True
+1,global_020468,,,B,B,True
+5,global_020484,,,C,C,True
+1,global_020468,,,C,C,True
+0,global_020474,,,C,C,True
+6,global_020463,,,B,B,True
+4,global_020477,,,C,C,True
+4,global_020477,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+3,global_020485,,,D,D,True
+4,global_020477,,,C,C,True
+3,global_020485,,,A,A,True
+3,global_020485,,,A,A,True
+8,global_020481,,,A,A,True
+9,global_020482,,,D,E,False
+7,global_020478,,,D,D,True
+5,global_020484,,,C,C,True
+7,global_020478,,,C,C,True
+0,global_020474,,,C,C,True
+0,global_020474,,,B,B,True
+6,global_020463,,,B,B,True
+5,global_020484,,,B,B,True
+5,global_020484,,,E,E,True
+11,global_020273,,,A,A,True
+4,global_020477,,,F,D,False
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+5,global_020484,,,C,C,True
+5,global_020484,,,B,B,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+4,global_020477,,,A,A,True
+0,global_020474,,,E,E,True
+4,global_020477,,,B,B,True
+10,global_020479,,,C,C,True
+6,global_020463,,,A,A,True
+3,global_020485,,,A,A,True
+4,global_020477,,,B,B,True
+1,global_020468,,,C,C,True
+5,global_020484,,,B,B,True
+8,global_020481,,,C,A,False
+6,global_020463,,,D,C,False
+3,global_020485,,,E,E,True
+1,global_020468,,,D,D,True
+5,global_020484,,,A,A,True
+9,global_020482,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,B,False
+0,global_020474,,,A,D,False
+8,global_020481,,,C,C,True
+8,global_020481,,,C,A,False
+10,global_020479,,,E,E,True
+3,global_020485,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,D,D,True
+1,global_020468,,,C,C,True
+7,global_020478,,,C,C,True
+5,global_020484,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+5,global_020484,,,A,A,True
+8,global_020481,,,B,B,True
+0,global_020474,,,D,D,True
+6,global_020463,,,A,A,True
+4,global_020477,,,A,A,True
+0,global_020474,,,B,B,True
+6,global_020463,,,B,B,True
+11,global_020273,,,B,B,True
+1,global_020468,,,E,C,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,A,A,True
+8,global_020481,,,B,B,True
+4,global_020477,,,D,D,True
+7,global_020478,,,C,B,False
+8,global_020481,,,B,B,True
+8,global_020481,,,C,D,False
+9,global_020482,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,D,False
+2,global_020469,5,Holistic Understanding of Events,B,E,False
+8,global_020481,,,D,D,True
+3,global_020485,,,B,A,False
+0,global_020474,,,B,B,True
+8,global_020481,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,B,False
+6,global_020463,,,C,C,True
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,A,D,False
+2,global_020469,5,Holistic Understanding of Events,A,E,False
+8,global_020481,,,C,C,True
+9,global_020482,,,E,C,False
+5,global_020484,,,B,E,False
+4,global_020477,,,D,D,True
+5,global_020484,,,A,E,False
+4,global_020477,,,C,C,True
+6,global_020463,,,A,A,True
+5,global_020484,,,A,A,True
+5,global_020484,,,D,D,True
+6,global_020463,,,E,D,False
+8,global_020481,,,A,C,False
+5,global_020484,,,C,C,True
+1,global_020468,,,A,D,False
+1,global_020468,,,D,D,True
+9,global_020482,,,A,A,True
+6,global_020463,,,D,D,True
+4,global_020477,,,E,E,True
+6,global_020463,,,C,C,True
+1,global_020468,,,E,E,True
+0,global_020474,,,E,E,True
+8,global_020481,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+8,global_020481,,,B,B,True
+11,global_020273,,,B,B,True
+6,global_020463,,,A,A,True
+3,global_020485,,,A,C,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+3,global_020485,,,C,B,False
+1,global_020468,,,B,D,False
+7,global_020478,,,B,C,False
+5,global_020484,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+5,global_020484,,,B,B,True
+5,global_020484,,,D,D,True
+6,global_020463,,,D,D,True
+8,global_020481,,,D,D,True
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,C,False
+9,global_020482,,,E,E,True
+4,global_020477,,,E,D,False
+0,global_020474,,,B,B,True
+11,global_020273,,,D,D,True
+7,global_020478,,,A,A,True
+0,global_020474,,,B,B,True
+0,global_020474,,,C,C,True
+7,global_020478,,,C,A,False
+1,global_020468,,,A,A,True
+7,global_020478,,,E,E,True
+4,global_020477,,,C,C,True
+6,global_020463,,,E,E,True
+0,global_020474,,,E,E,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+10,global_020479,,,A,C,False
+1,global_020468,,,B,B,True
+3,global_020485,,,B,B,True
+6,global_020463,,,B,B,True
+7,global_020478,,,A,A,True
+7,global_020478,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+3,global_020485,,,D,D,True
+7,global_020478,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+4,global_020477,,,D,D,True
+4,global_020477,,,B,B,True
+4,global_020477,,,B,B,True
+7,global_020478,,,C,C,True
+7,global_020478,,,B,B,True
+5,global_020484,,,E,E,True
+5,global_020484,,,A,A,True
+8,global_020481,,,B,B,True
+4,global_020477,,,F,E,False
+1,global_020468,,,E,E,True
+9,global_020482,,,D,D,True
+8,global_020481,,,A,B,False
+6,global_020463,,,B,B,True
+7,global_020478,,,A,A,True
+0,global_020474,,,A,A,True
+0,global_020474,,,C,C,True
+3,global_020485,,,B,B,True
+8,global_020481,,,B,B,True
+8,global_020481,,,C,C,True
+3,global_020485,,,B,B,True
+8,global_020481,,,A,C,False
+7,global_020478,,,C,B,False
+7,global_020478,,,A,A,True
+1,global_020468,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+4,global_020477,,,D,D,True
+4,global_020477,,,C,C,True
+4,global_020477,,,D,C,False
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+8,global_020481,,,B,D,False
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,B,False
+9,global_020482,,,D,D,True
+9,global_020482,,,C,C,True
+8,global_020481,,,D,D,True
+8,global_020481,,,B,B,True
+4,global_020477,,,D,E,False
+1,global_020468,,,B,E,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+5,global_020484,,,C,C,True
+5,global_020484,,,C,C,True
+0,global_020474,,,D,D,True
+5,global_020484,,,D,E,False
+7,global_020478,,,C,C,True
+1,global_020468,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,E,C,False
+5,global_020484,,,B,B,True
+1,global_020468,,,C,C,True
+4,global_020477,,,D,D,True
+1,global_020468,,,D,D,True
+1,global_020468,,,D,A,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+0,global_020474,,,C,C,True
+1,global_020468,,,D,E,False
+6,global_020463,,,A,A,True
+13,global_020143,,,A,A,True
+5,global_020484,,,C,C,True
+3,global_020485,,,A,A,True
+5,global_020484,,,D,D,True
+5,global_020484,,,A,A,True
+3,global_020485,,,C,B,False
+5,global_020484,,,C,C,True
+6,global_020463,,,B,B,True
+4,global_020477,,,B,B,True
+8,global_020481,,,B,B,True
+3,global_020485,,,B,B,True
+13,global_020143,,,D,D,True
+1,global_020468,,,D,D,True
+1,global_020468,,,C,C,True
+7,global_020478,,,A,A,True
+5,global_020484,,,D,D,True
+3,global_020485,,,C,C,True
+6,global_020463,,,E,E,True
+6,global_020463,,,B,B,True
+3,global_020485,,,A,A,True
+4,global_020477,,,C,C,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,D,D,True
+6,global_020463,,,D,D,True
+4,global_020477,,,C,C,True
+4,global_020477,,,C,C,True
+0,global_020474,,,D,D,True
+5,global_020484,,,E,E,True
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,B,B,True
+11,global_020273,,,C,C,True
+4,global_020477,,,F,E,False
+0,global_020474,,,C,C,True
+6,global_020463,,,D,D,True
+6,global_020463,,,E,E,True
+5,global_020484,,,B,B,True
+1,global_020468,,,B,E,False
+8,global_020481,,,B,E,False
+0,global_020474,,,E,E,True
+4,global_020477,,,E,D,False
+3,global_020485,,,E,E,True
+8,global_020481,,,A,A,True
+1,global_020468,,,A,A,True
+4,global_020477,,,A,D,False
+7,global_020478,,,A,A,True
+3,global_020485,,,B,B,True
+1,global_020468,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,D,False
+9,global_020482,,,E,E,True
+8,global_020481,,,C,A,False
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+3,global_020485,,,E,A,False
+9,global_020482,,,A,B,False
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+1,global_020468,,,C,C,True
+4,global_020477,,,D,D,True
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+0,global_020474,,,C,C,True
+6,global_020463,,,A,B,False
+3,global_020485,,,A,A,True
+4,global_020477,,,B,B,True
+8,global_020481,,,C,E,False
+6,global_020463,,,D,B,False
+3,global_020485,,,B,B,True
+8,global_020481,,,B,B,True
+0,global_020474,,,B,C,False
+10,global_020479,,,E,E,True
+1,global_020468,,,B,C,False
+9,global_020482,,,E,E,True
+4,global_020477,,,C,C,True
+5,global_020484,,,E,E,True
+5,global_020484,,,A,D,False
+3,global_020485,,,C,E,False
+4,global_020477,,,E,E,True
+0,global_020474,,,D,D,True
+4,global_020477,,,C,C,True
+7,global_020478,,,C,C,True
+0,global_020474,,,A,A,True
+9,global_020482,,,B,D,False
+6,global_020463,,,C,C,True
+6,global_020463,,,E,D,False
+7,global_020478,,,D,D,True
+3,global_020485,,,B,E,False
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,C,False
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+8,global_020481,,,E,E,True
+3,global_020485,,,B,B,True
+9,global_020482,,,B,B,True
+8,global_020481,,,E,E,True
+8,global_020481,,,E,C,False
+0,global_020474,,,C,C,True
+8,global_020481,,,C,C,True
+5,global_020484,,,A,A,True
+6,global_020463,,,C,C,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+7,global_020478,,,A,A,True
+5,global_020484,,,C,C,True
+3,global_020485,,,A,A,True
+10,global_020479,,,E,E,True
+1,global_020468,,,A,D,False
+6,global_020463,,,A,A,True
+1,global_020468,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,A,A,True
+6,global_020463,,,D,D,True
+3,global_020485,,,A,B,False
+1,global_020468,,,A,A,True
+1,global_020468,,,A,A,True
+4,global_020477,,,A,A,True
+5,global_020484,,,E,E,True
+5,global_020484,,,C,C,True
+7,global_020478,,,C,C,True
+0,global_020474,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,B,B,True
+12,global_020033,4,Causal Motion,A,A,True
+0,global_020474,,,A,A,True
+5,global_020484,,,A,D,False
+1,global_020468,,,A,D,False
+1,global_020468,,,A,A,True
+4,global_020477,,,D,D,True
+6,global_020463,,,A,A,True
+3,global_020485,,,C,A,False
+6,global_020463,,,E,E,True
+4,global_020477,,,E,D,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,D,D,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,C,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,A,A,True
+3,global_020485,,,D,D,True
+8,global_020481,,,B,D,False
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+8,global_020481,,,C,B,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,D,D,True
+4,global_020477,,,A,A,True
+1,global_020468,,,B,B,True
+5,global_020484,,,E,E,True
+3,global_020485,,,E,E,True
+10,global_020479,,,E,E,True
+8,global_020481,,,C,C,True
+8,global_020481,,,E,E,True
+1,global_020468,,,A,A,True
+4,global_020477,,,B,B,True
+3,global_020485,,,D,D,True
+5,global_020484,,,E,E,True
+9,global_020482,,,A,A,True
+4,global_020477,,,A,A,True
+1,global_020468,,,D,D,True
+7,global_020478,,,E,E,True
+0,global_020474,,,C,C,True
+3,global_020485,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,F,A,False
+3,global_020485,,,B,E,False
+6,global_020463,,,B,C,False
+4,global_020477,,,D,D,True
+8,global_020481,,,C,D,False
+4,global_020477,,,A,A,True
+7,global_020478,,,B,B,True
+0,global_020474,,,D,D,True
+6,global_020463,,,A,A,True
+1,global_020468,,,E,E,True
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,A,D,False
+7,global_020478,,,A,A,True
+8,global_020481,,,E,D,False
+3,global_020485,,,A,A,True
+5,global_020484,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+0,global_020474,,,B,E,False
+4,global_020477,,,D,D,True
+1,global_020468,,,B,E,False
+5,global_020484,,,C,C,True
+4,global_020477,,,E,E,True
+9,global_020482,,,C,C,True
+6,global_020463,,,E,E,True
+5,global_020484,,,A,A,True
+1,global_020468,,,C,C,True
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,E,D,False
+7,global_020478,,,B,B,True
+4,global_020477,,,C,C,True
+3,global_020485,,,C,C,True
+3,global_020485,,,B,B,True
+4,global_020477,,,B,B,True
+7,global_020478,,,D,D,True
+0,global_020474,,,C,C,True
+8,global_020481,,,E,A,False
+3,global_020485,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,A,A,True
+8,global_020481,,,E,E,True
+3,global_020485,,,C,C,True
+4,global_020477,,,E,D,False
+8,global_020481,,,B,B,True
+5,global_020484,,,B,B,True
+5,global_020484,,,B,D,False
+3,global_020485,,,B,B,True
+9,global_020482,,,B,C,False
+6,global_020463,,,B,B,True
+6,global_020463,,,A,D,False
+2,global_020469,5,Holistic Understanding of Events,C,D,False
+5,global_020484,,,D,B,False
+3,global_020485,,,C,C,True
+9,global_020482,,,B,B,True
+1,global_020468,,,B,B,True
+5,global_020484,,,C,C,True
+1,global_020468,,,E,D,False
+3,global_020485,,,E,E,True
+1,global_020468,,,A,A,True
+7,global_020478,,,E,E,True
+6,global_020463,,,C,A,False
+3,global_020485,,,C,C,True
+1,global_020468,,,E,E,True
+3,global_020485,,,A,A,True
+0,global_020474,,,A,A,True
+10,global_020479,,,D,D,True
+6,global_020463,,,D,D,True
+8,global_020481,,,C,A,False
+4,global_020477,,,A,A,True
+9,global_020482,,,B,B,True
+4,global_020477,,,E,E,True
+4,global_020477,,,B,B,True
+9,global_020482,,,C,C,True
+9,global_020482,,,C,B,False
+3,global_020485,,,C,C,True
+1,global_020468,,,D,D,True
+6,global_020463,,,A,A,True
+5,global_020484,,,E,C,False
+3,global_020485,,,C,C,True
+9,global_020482,,,E,E,True
+0,global_020474,,,C,C,True
+3,global_020485,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,E,False
+7,global_020478,,,E,E,True
+8,global_020481,,,D,D,True
+7,global_020478,,,C,A,False
+0,global_020474,,,E,E,True
+9,global_020482,,,D,D,True
+5,global_020484,,,B,B,True
+8,global_020481,,,D,D,True
+3,global_020485,,,A,A,True
+8,global_020481,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+8,global_020481,,,A,A,True
+4,global_020477,,,C,B,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,C,C,True
+7,global_020478,,,E,E,True
+0,global_020474,,,E,E,True
+8,global_020481,,,A,A,True
+8,global_020481,,,A,A,True
+9,global_020482,,,D,D,True
+3,global_020485,,,A,A,True
+5,global_020484,,,A,A,True
+5,global_020484,,,E,E,True
+4,global_020477,,,C,C,True
+10,global_020479,,,C,C,True
+7,global_020478,,,A,A,True
+9,global_020482,,,D,D,True
+1,global_020468,,,A,A,True
+6,global_020463,,,B,B,True
+0,global_020474,,,A,A,True
+6,global_020463,,,A,A,True
+6,global_020463,,,A,A,True
+10,global_020479,,,A,A,True
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+1,global_020468,,,B,B,True
+0,global_020474,,,A,A,True
+4,global_020477,,,E,E,True
+0,global_020474,,,E,E,True
+1,global_020468,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+3,global_020485,,,E,E,True
+7,global_020478,,,E,B,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+8,global_020481,,,B,B,True
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+6,global_020463,,,E,E,True
+0,global_020474,,,D,D,True
+3,global_020485,,,B,B,True
+4,global_020477,,,A,A,True
+0,global_020474,,,A,A,True
+7,global_020478,,,A,D,False
+4,global_020477,,,D,D,True
+0,global_020474,,,A,A,True
+8,global_020481,,,C,C,True
+9,global_020482,,,B,B,True
+4,global_020477,,,C,C,True
+6,global_020463,,,E,E,True
+9,global_020482,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,B,True
+7,global_020478,,,C,B,False
+1,global_020468,,,A,A,True
+1,global_020468,,,E,B,False
+8,global_020481,,,E,E,True
+7,global_020478,,,E,E,True
+7,global_020478,,,D,D,True
+4,global_020477,,,E,E,True
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,C,False
+5,global_020484,,,C,C,True
+4,global_020477,,,A,B,False
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+9,global_020482,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,D,False
+6,global_020463,,,C,B,False
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,B,False
+0,global_020474,,,E,E,True
+9,global_020482,,,A,D,False
+6,global_020463,,,A,A,True
+0,global_020474,,,B,B,True
+7,global_020478,,,D,D,True
+3,global_020485,,,B,B,True
+1,global_020468,,,C,C,True
+5,global_020484,,,A,A,True
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+9,global_020482,,,C,C,True
+1,global_020468,,,A,E,False
+4,global_020477,,,D,C,False
+9,global_020482,,,C,C,True
+0,global_020474,,,B,B,True
+0,global_020474,,,D,D,True
+12,global_020033,4,Causal Motion,A,A,True
+4,global_020477,,,A,A,True
+1,global_020468,,,C,C,True
+7,global_020478,,,B,B,True
+5,global_020484,,,B,E,False
+6,global_020463,,,B,B,True
+0,global_020474,,,E,E,True
+8,global_020481,,,A,A,True
+0,global_020474,,,E,A,False
+6,global_020463,,,C,C,True
+6,global_020463,,,C,E,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,B,B,True
+7,global_020478,,,A,A,True
+0,global_020474,,,E,E,True
+1,global_020468,,,D,D,True
+4,global_020477,,,D,D,True
+3,global_020485,,,C,B,False
+3,global_020485,,,D,D,True
+0,global_020474,,,D,C,False
+0,global_020474,,,A,B,False
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+8,global_020481,,,D,D,True
+1,global_020468,,,D,D,True
+0,global_020474,,,B,B,True
+6,global_020463,,,E,E,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+8,global_020481,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,E,E,True
+1,global_020468,,,B,B,True
+0,global_020474,,,D,D,True
+12,global_020033,4,Causal Motion,B,B,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,D,False
+5,global_020484,,,C,C,True
+5,global_020484,,,B,B,True
+0,global_020474,,,B,B,True
+3,global_020485,,,C,C,True
+1,global_020468,,,A,A,True
+0,global_020474,,,D,D,True
+6,global_020463,,,D,D,True
+8,global_020481,,,B,B,True
+3,global_020485,,,F,E,False
+7,global_020478,,,B,E,False
+1,global_020468,,,C,C,True
+7,global_020478,,,D,D,True
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,D,False
+4,global_020477,,,C,C,True
+6,global_020463,,,A,B,False
+5,global_020484,,,E,D,False
+5,global_020484,,,D,D,True
+0,global_020474,,,C,C,True
+8,global_020481,,,E,C,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+4,global_020477,,,D,C,False
+4,global_020477,,,B,B,True
+4,global_020477,,,E,E,True
+3,global_020485,,,B,B,True
+8,global_020481,,,D,D,True
+9,global_020482,,,C,B,False
+3,global_020485,,,B,E,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,D,False
+4,global_020477,,,A,A,True
+1,global_020468,,,C,E,False
+9,global_020482,,,B,B,True
+7,global_020478,,,C,A,False
+0,global_020474,,,D,D,True
+1,global_020468,,,B,A,False
+4,global_020477,,,B,B,True
+4,global_020477,,,A,A,True
+3,global_020485,,,E,E,True
+3,global_020485,,,D,D,True
+0,global_020474,,,D,D,True
+1,global_020468,,,B,B,True
+10,global_020479,,,D,B,False
+7,global_020478,,,C,C,True
+7,global_020478,,,D,D,True
+0,global_020474,,,D,D,True
+6,global_020463,,,D,D,True
+0,global_020474,,,C,C,True
+3,global_020485,,,B,B,True
+6,global_020463,,,B,B,True
+0,global_020474,,,E,D,False
+9,global_020482,,,B,C,False
+5,global_020484,,,D,D,True
+4,global_020477,,,C,C,True
+5,global_020484,,,C,C,True
+7,global_020478,,,D,D,True
+4,global_020477,,,B,B,True
+7,global_020478,,,C,C,True
+7,global_020478,,,A,A,True
+7,global_020478,,,B,B,True
+9,global_020482,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+3,global_020485,,,D,D,True
+3,global_020485,,,B,E,False
+4,global_020477,,,B,B,True
+1,global_020468,,,B,B,True
+9,global_020482,,,E,E,True
+0,global_020474,,,E,B,False
+6,global_020463,,,B,B,True
+4,global_020477,,,A,A,True
+1,global_020468,,,E,E,True
+5,global_020484,,,E,E,True
+5,global_020484,,,C,C,True
+7,global_020478,,,D,A,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+7,global_020478,,,D,D,True
+11,global_020273,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+9,global_020482,,,E,E,True
+4,global_020477,,,E,E,True
+4,global_020477,,,B,B,True
+10,global_020479,,,C,C,True
+5,global_020484,,,A,E,False
+8,global_020481,,,C,C,True
+1,global_020468,,,C,C,True
+4,global_020477,,,D,D,True
+1,global_020468,,,B,B,True
+6,global_020463,,,B,B,True
+8,global_020481,,,A,E,False
+4,global_020477,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,B,True
+0,global_020474,,,E,E,True
+5,global_020484,,,A,B,False
+5,global_020484,,,E,E,True
+4,global_020477,,,B,B,True
+5,global_020484,,,C,C,True
+3,global_020485,,,C,C,True
+0,global_020474,,,C,C,True
+1,global_020468,,,D,D,True
+4,global_020477,,,E,A,False
+9,global_020482,,,E,E,True
+4,global_020477,,,C,C,True
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,B,B,True
+0,global_020474,,,A,A,True
+6,global_020463,,,A,A,True
+9,global_020482,,,D,D,True
+5,global_020484,,,A,A,True
+0,global_020474,,,C,C,True
+6,global_020463,,,B,B,True
+1,global_020468,,,A,A,True
+1,global_020468,,,D,D,True
+3,global_020485,,,E,E,True
+5,global_020484,,,A,A,True
+3,global_020485,,,B,E,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+8,global_020481,,,B,E,False
+3,global_020485,,,D,D,True
+7,global_020478,,,D,E,False
+7,global_020478,,,B,B,True
+4,global_020477,,,B,B,True
+8,global_020481,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+3,global_020485,,,A,A,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+4,global_020477,,,D,D,True
+9,global_020482,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+4,global_020477,,,C,C,True
+1,global_020468,,,E,A,False
+6,global_020463,,,C,A,False
+4,global_020477,,,C,C,True
+9,global_020482,,,A,A,True
+0,global_020474,,,D,D,True
+5,global_020484,,,B,E,False
+8,global_020481,,,C,C,True
+5,global_020484,,,C,C,True
+7,global_020478,,,B,B,True
+0,global_020474,,,C,C,True
+1,global_020468,,,E,E,True
+8,global_020481,,,B,C,False
+3,global_020485,,,E,E,True
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,F,C,False
+5,global_020484,,,D,D,True
+8,global_020481,,,E,E,True
+4,global_020477,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+5,global_020484,,,E,E,True
+1,global_020468,,,B,B,True
+6,global_020463,,,C,C,True
+8,global_020481,,,D,D,True
+4,global_020477,,,D,D,True
+8,global_020481,,,C,C,True
+3,global_020485,,,A,A,True
+8,global_020481,,,D,D,True
+7,global_020478,,,E,E,True
+8,global_020481,,,A,A,True
+0,global_020474,,,A,A,True
+4,global_020477,,,D,D,True
+9,global_020482,,,B,C,False
+1,global_020468,,,A,D,False
+7,global_020478,,,E,E,True
+0,global_020474,,,E,E,True
+5,global_020484,,,C,C,True
+9,global_020482,,,F,B,False
+9,global_020482,,,C,A,False
+3,global_020485,,,D,B,False
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+5,global_020484,,,A,D,False
+3,global_020485,,,E,A,False
+9,global_020482,,,A,A,True
+4,global_020477,,,B,C,False
+8,global_020481,,,B,A,False
+1,global_020468,,,D,D,True
+8,global_020481,,,D,D,True
+0,global_020474,,,A,A,True
+0,global_020474,,,A,A,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+8,global_020481,,,E,E,True
+8,global_020481,,,E,E,True
+0,global_020474,,,B,B,True
+8,global_020481,,,A,A,True
+7,global_020478,,,C,C,True
+3,global_020485,,,A,D,False
+9,global_020482,,,C,C,True
+6,global_020463,,,C,C,True
+7,global_020478,,,C,C,True
+7,global_020478,,,D,D,True
+5,global_020484,,,A,A,True
+5,global_020484,,,D,D,True
+6,global_020463,,,B,B,True
+8,global_020481,,,A,A,True
+8,global_020481,,,D,D,True
+4,global_020477,,,C,C,True
+7,global_020478,,,A,A,True
+5,global_020484,,,A,A,True
+5,global_020484,,,A,A,True
+5,global_020484,,,E,E,True
+3,global_020485,,,D,D,True
+5,global_020484,,,C,C,True
+7,global_020478,,,D,D,True
+8,global_020481,,,C,D,False
+8,global_020481,,,D,D,True
+9,global_020482,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,C,C,True
+6,global_020463,,,D,D,True
+6,global_020463,,,A,A,True
+3,global_020485,,,C,C,True
+6,global_020463,,,C,C,True
+8,global_020481,,,E,E,True
+8,global_020481,,,C,C,True
+4,global_020477,,,C,C,True
+7,global_020478,,,A,B,False
+4,global_020477,,,C,C,True
+7,global_020478,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,F,A,False
+8,global_020481,,,A,D,False
+3,global_020485,,,E,E,True
+0,global_020474,,,C,C,True
+7,global_020478,,,D,D,True
+6,global_020463,,,B,B,True
+0,global_020474,,,C,E,False
+7,global_020478,,,B,B,True
+8,global_020481,,,B,B,True
+6,global_020463,,,D,D,True
+3,global_020485,,,C,C,True
+9,global_020482,,,E,E,True
+4,global_020477,,,A,E,False
+3,global_020485,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,E,E,True
+4,global_020477,,,A,A,True
+4,global_020477,,,E,E,True
+9,global_020482,,,C,A,False
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,E,A,False
+8,global_020481,,,A,A,True
+9,global_020482,,,D,D,True
+4,global_020477,,,D,D,True
+0,global_020474,,,E,E,True
+0,global_020474,,,A,D,False
+4,global_020477,,,E,E,True
+5,global_020484,,,A,C,False
+4,global_020477,,,B,B,True
+4,global_020477,,,A,A,True
+0,global_020474,,,B,B,True
+7,global_020478,,,B,B,True
+3,global_020485,,,D,D,True
+6,global_020463,,,E,C,False
+9,global_020482,,,B,B,True
+6,global_020463,,,E,E,True
+7,global_020478,,,B,B,True
+4,global_020477,,,B,B,True
+3,global_020485,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,A,C,False
+0,global_020474,,,B,B,True
+0,global_020474,,,D,D,True
+1,global_020468,,,B,B,True
+11,global_020273,,,C,C,True
+8,global_020481,,,C,C,True
+5,global_020484,,,B,B,True
+4,global_020477,,,D,A,False
+6,global_020463,,,E,E,True
+0,global_020474,,,C,C,True
+0,global_020474,,,C,C,True
+7,global_020478,,,C,C,True
+4,global_020477,,,A,B,False
+0,global_020474,,,D,D,True
+1,global_020468,,,A,A,True
+1,global_020468,,,A,A,True
+3,global_020485,,,B,B,True
+3,global_020485,,,E,E,True
+0,global_020474,,,C,C,True
+0,global_020474,,,A,A,True
+7,global_020478,,,B,D,False
+1,global_020468,,,C,C,True
+5,global_020484,,,A,A,True
+0,global_020474,,,A,A,True
+3,global_020485,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+8,global_020481,,,C,C,True
+4,global_020477,,,B,B,True
+3,global_020485,,,C,C,True
+8,global_020481,,,C,C,True
+8,global_020481,,,C,C,True
+7,global_020478,,,B,B,True
+1,global_020468,,,C,C,True
+0,global_020474,,,A,A,True
+6,global_020463,,,B,B,True
+1,global_020468,,,A,A,True
+0,global_020474,,,D,C,False
+1,global_020468,,,C,D,False
+6,global_020463,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,A,A,True
+1,global_020468,,,A,B,False
+3,global_020485,,,A,A,True
+1,global_020468,,,E,B,False
+10,global_020479,,,B,B,True
+0,global_020474,,,B,B,True
+7,global_020478,,,C,C,True
+4,global_020477,,,D,A,False
+8,global_020481,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+0,global_020474,,,C,C,True
+11,global_020273,,,C,C,True
+0,global_020474,,,A,A,True
+9,global_020482,,,A,C,False
+5,global_020484,,,E,E,True
+0,global_020474,,,D,D,True
+5,global_020484,,,B,B,True
+9,global_020482,,,C,C,True
+4,global_020477,,,D,B,False
+1,global_020468,,,D,D,True
+6,global_020463,,,B,B,True
+0,global_020474,,,E,E,True
+0,global_020474,,,E,E,True
+6,global_020463,,,C,D,False
+4,global_020477,,,B,B,True
+5,global_020484,,,A,D,False
+4,global_020477,,,A,C,False
+8,global_020481,,,D,B,False
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,B,B,True
+6,global_020463,,,A,A,True
+3,global_020485,,,A,A,True
+5,global_020484,,,C,C,True
+8,global_020481,,,C,A,False
+2,global_020469,5,Holistic Understanding of Events,B,E,False
+6,global_020463,,,D,D,True
+6,global_020463,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,E,E,True
+1,global_020468,,,A,A,True
+0,global_020474,,,A,D,False
+4,global_020477,,,A,A,True
+9,global_020482,,,C,D,False
+8,global_020481,,,E,B,False
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,B,D,False
+7,global_020478,,,D,D,True
+7,global_020478,,,E,E,True
+3,global_020485,,,E,E,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,B,B,True
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+5,global_020484,,,E,E,True
+1,global_020468,,,D,D,True
+1,global_020468,,,B,B,True
+6,global_020463,,,C,C,True
+7,global_020478,,,C,C,True
+10,global_020479,,,A,A,True
+4,global_020477,,,B,B,True
+5,global_020484,,,B,B,True
+5,global_020484,,,E,E,True
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,D,D,True
+1,global_020468,,,D,D,True
+6,global_020463,,,C,C,True
+3,global_020485,,,B,B,True
+8,global_020481,,,C,C,True
+3,global_020485,,,B,B,True
+3,global_020485,,,D,D,True
+0,global_020474,,,B,B,True
+9,global_020482,,,D,D,True
+9,global_020482,,,C,A,False
+3,global_020485,,,B,B,True
+7,global_020478,,,A,D,False
+6,global_020463,,,C,C,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+9,global_020482,,,E,E,True
+3,global_020485,,,A,A,True
+7,global_020478,,,D,D,True
+7,global_020478,,,B,B,True
+5,global_020484,,,B,B,True
+1,global_020468,,,A,B,False
+6,global_020463,,,B,B,True
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+9,global_020482,,,D,B,False
+7,global_020478,,,B,B,True
+11,global_020273,,,E,E,True
+5,global_020484,,,B,B,True
+1,global_020468,,,B,B,True
+3,global_020485,,,A,A,True
+0,global_020474,,,C,C,True
+5,global_020484,,,A,D,False
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,A,False
+5,global_020484,,,B,B,True
+4,global_020477,,,D,D,True
+3,global_020485,,,C,C,True
+4,global_020477,,,C,D,False
+0,global_020474,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,A,D,False
+4,global_020477,,,B,C,False
+7,global_020478,,,C,C,True
+1,global_020468,,,E,E,True
+5,global_020484,,,B,B,True
+6,global_020463,,,B,B,True
+7,global_020478,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+6,global_020463,,,C,D,False
+0,global_020474,,,D,D,True
+0,global_020474,,,B,B,True
+7,global_020478,,,E,E,True
+7,global_020478,,,C,C,True
+1,global_020468,,,F,B,False
+1,global_020468,,,A,A,True
+4,global_020477,,,B,B,True
+1,global_020468,,,E,E,True
+5,global_020484,,,A,D,False
+5,global_020484,,,E,E,True
+1,global_020468,,,C,C,True
+0,global_020474,,,B,B,True
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+1,global_020468,,,B,B,True
+0,global_020474,,,C,C,True
+6,global_020463,,,C,C,True
+6,global_020463,,,A,A,True
+12,global_020033,4,Causal Motion,D,D,True
+1,global_020468,,,D,D,True
+8,global_020481,,,A,A,True
+0,global_020474,,,D,D,True
+3,global_020485,,,A,A,True
+3,global_020485,,,A,A,True
+3,global_020485,,,D,D,True
+5,global_020484,,,A,A,True
+4,global_020477,,,E,E,True
+9,global_020482,,,A,B,False
+6,global_020463,,,D,D,True
+6,global_020463,,,B,B,True
+7,global_020478,,,A,D,False
+8,global_020481,,,D,C,False
+7,global_020478,,,A,A,True
+0,global_020474,,,A,A,True
+5,global_020484,,,E,E,True
+3,global_020485,,,D,D,True
+9,global_020482,,,D,D,True
+8,global_020481,,,D,D,True
+5,global_020484,,,B,A,False
+5,global_020484,,,B,B,True
+9,global_020482,,,A,A,True
+6,global_020463,,,C,C,True
+0,global_020474,,,A,A,True
+4,global_020477,,,B,B,True
+5,global_020484,,,C,C,True
+7,global_020478,,,B,B,True
+5,global_020484,,,B,C,False
+0,global_020474,,,E,E,True
+6,global_020463,,,C,C,True
+4,global_020477,,,D,D,True
+7,global_020478,,,C,D,False
+8,global_020481,,,E,E,True
+8,global_020481,,,E,E,True
+3,global_020485,,,E,E,True
+8,global_020481,,,B,B,True
+5,global_020484,,,B,B,True
+0,global_020474,,,D,D,True
+5,global_020484,,,A,A,True
+11,global_020273,,,A,A,True
+5,global_020484,,,B,B,True
+5,global_020484,,,D,E,False
+3,global_020485,,,E,E,True
+7,global_020478,,,B,B,True
+4,global_020477,,,C,C,True
+5,global_020484,,,E,E,True
+6,global_020463,,,A,A,True
+8,global_020481,,,B,B,True
+1,global_020468,,,C,C,True
+1,global_020468,,,D,D,True
+1,global_020468,,,A,A,True
+3,global_020485,,,B,B,True
+5,global_020484,,,E,E,True
+8,global_020481,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,E,E,True
+8,global_020481,,,B,E,False
+7,global_020478,,,B,B,True
+6,global_020463,,,D,D,True
+3,global_020485,,,A,A,True
+8,global_020481,,,C,C,True
+6,global_020463,,,B,B,True
+5,global_020484,,,E,E,True
+4,global_020477,,,D,D,True
+0,global_020474,,,C,C,True
+4,global_020477,,,E,C,False
+3,global_020485,,,E,D,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,D,D,True
+7,global_020478,,,E,E,True
+10,global_020479,,,D,D,True
+3,global_020485,,,C,D,False
+6,global_020463,,,C,C,True
+5,global_020484,,,B,B,True
+8,global_020481,,,A,D,False
+0,global_020474,,,D,D,True
+0,global_020474,,,C,C,True
+6,global_020463,,,A,C,False
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,A,A,True
+1,global_020468,,,E,E,True
+6,global_020463,,,A,A,True
+7,global_020478,,,D,D,True
+3,global_020485,,,E,E,True
+5,global_020484,,,E,E,True
+6,global_020463,,,C,C,True
+5,global_020484,,,D,D,True
+7,global_020478,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+3,global_020485,,,E,A,False
+1,global_020468,,,C,C,True
+3,global_020485,,,B,B,True
+5,global_020484,,,A,A,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,B,E,False
+8,global_020481,,,A,A,True
+0,global_020474,,,E,E,True
+1,global_020468,,,E,E,True
+6,global_020463,,,C,C,True
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,A,A,True
+0,global_020474,,,C,C,True
+1,global_020468,,,B,B,True
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,E,False
+7,global_020478,,,E,B,False
+10,global_020479,,,E,D,False
+5,global_020484,,,A,A,True
+6,global_020463,,,C,C,True
+7,global_020478,,,A,A,True
+0,global_020474,,,E,E,True
+7,global_020478,,,A,A,True
+9,global_020482,,,E,E,True
+8,global_020481,,,B,A,False
+3,global_020485,,,C,C,True
+3,global_020485,,,A,A,True
+0,global_020474,,,E,E,True
+9,global_020482,,,C,D,False
+1,global_020468,,,E,E,True
+12,global_020033,4,Causal Motion,E,E,True
+5,global_020484,,,E,E,True
+4,global_020477,,,A,A,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,D,D,True
+8,global_020481,,,C,A,False
+4,global_020477,,,A,A,True
+0,global_020474,,,C,C,True
+3,global_020485,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,D,False
+0,global_020474,,,A,A,True
+7,global_020478,,,D,D,True
+1,global_020468,,,A,A,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+5,global_020484,,,A,A,True
+4,global_020477,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,B,E,False
+5,global_020484,,,E,E,True
+0,global_020474,,,B,A,False
+5,global_020484,,,B,B,True
+9,global_020482,,,A,A,True
+5,global_020484,,,B,B,True
+4,global_020477,,,C,C,True
+6,global_020463,,,B,B,True
+0,global_020474,,,D,D,True
+8,global_020481,,,D,E,False
+6,global_020463,,,A,A,True
+1,global_020468,,,D,D,True
+5,global_020484,,,A,A,True
+3,global_020485,,,E,E,True
+5,global_020484,,,B,B,True
+9,global_020482,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,D,D,True
+9,global_020482,,,B,C,False
+0,global_020474,,,D,D,True
+0,global_020474,,,B,B,True
+0,global_020474,,,D,D,True
+11,global_020273,,,A,A,True
+4,global_020477,,,D,D,True
+0,global_020474,,,B,B,True
+1,global_020468,,,B,B,True
+5,global_020484,,,B,B,True
+5,global_020484,,,D,D,True
+1,global_020468,,,E,E,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+0,global_020474,,,D,C,False
+0,global_020474,,,A,A,True
+7,global_020478,,,D,D,True
+4,global_020477,,,A,A,True
+3,global_020485,,,C,C,True
+6,global_020463,,,E,E,True
+1,global_020468,,,A,A,True
+3,global_020485,,,B,B,True
+4,global_020477,,,A,A,True
+3,global_020485,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,B,True
+5,global_020484,,,A,A,True
+4,global_020477,,,D,B,False
+6,global_020463,,,B,B,True
+0,global_020474,,,B,B,True
+6,global_020463,,,B,B,True
+0,global_020474,,,C,C,True
+5,global_020484,,,B,B,True
+1,global_020468,,,A,A,True
+9,global_020482,,,D,D,True
+8,global_020481,,,D,D,True
+1,global_020468,,,A,D,False
+0,global_020474,,,D,D,True
+6,global_020463,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+7,global_020478,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+5,global_020484,,,E,E,True
+6,global_020463,,,C,A,False
+5,global_020484,,,D,D,True
+9,global_020482,,,B,E,False
+5,global_020484,,,A,B,False
+4,global_020477,,,B,B,True
+4,global_020477,,,E,E,True
+7,global_020478,,,A,A,True
+3,global_020485,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+11,global_020273,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,B,False
+10,global_020479,,,A,A,True
+7,global_020478,,,C,C,True
+0,global_020474,,,D,D,True
+7,global_020478,,,B,B,True
+6,global_020463,,,D,D,True
+1,global_020468,,,B,B,True
+0,global_020474,,,C,C,True
+7,global_020478,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,A,E,False
+7,global_020478,,,C,C,True
+5,global_020484,,,B,A,False
+8,global_020481,,,C,C,True
+1,global_020468,,,A,C,False
+6,global_020463,,,A,A,True
+0,global_020474,,,A,A,True
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,B,B,True
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,D,D,True
+0,global_020474,,,D,D,True
+6,global_020463,,,B,B,True
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,B,B,True
+5,global_020484,,,A,A,True
+6,global_020463,,,D,A,False
+6,global_020463,,,E,E,True
+1,global_020468,,,A,A,True
+9,global_020482,,,D,D,True
+3,global_020485,,,C,C,True
+5,global_020484,,,C,A,False
+6,global_020463,,,D,D,True
+1,global_020468,,,B,B,True
+11,global_020273,,,D,D,True
+4,global_020477,,,D,D,True
+0,global_020474,,,A,A,True
+6,global_020463,,,D,C,False
+1,global_020468,,,D,C,False
+3,global_020485,,,B,C,False
+4,global_020477,,,D,B,False
+6,global_020463,,,D,D,True
+0,global_020474,,,D,D,True
+0,global_020474,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,A,A,True
+6,global_020463,,,B,A,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+6,global_020463,,,C,C,True
+8,global_020481,,,E,E,True
+1,global_020468,,,D,D,True
+4,global_020477,,,E,D,False
+4,global_020477,,,D,C,False
+0,global_020474,,,B,B,True
+0,global_020474,,,B,C,False
+3,global_020485,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,B,B,True
+4,global_020477,,,C,C,True
+4,global_020477,,,A,A,True
+3,global_020485,,,C,C,True
+4,global_020477,,,C,C,True
+7,global_020478,,,A,B,False
+5,global_020484,,,A,A,True
+0,global_020474,,,C,C,True
+5,global_020484,,,B,B,True
+4,global_020477,,,B,B,True
+6,global_020463,,,E,E,True
+4,global_020477,,,E,E,True
+4,global_020477,,,B,B,True
+5,global_020484,,,E,E,True
+5,global_020484,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,E,E,True
+8,global_020481,,,B,B,True
+6,global_020463,,,C,C,True
+5,global_020484,,,E,D,False
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+9,global_020482,,,D,D,True
+3,global_020485,,,A,C,False
+5,global_020484,,,D,D,True
+9,global_020482,,,A,A,True
+1,global_020468,,,D,D,True
+8,global_020481,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,C,E,False
+5,global_020484,,,B,B,True
+1,global_020468,,,E,D,False
+6,global_020463,,,C,C,True
+6,global_020463,,,A,A,True
+6,global_020463,,,A,A,True
+0,global_020474,,,C,C,True
+8,global_020481,,,C,D,False
+7,global_020478,,,A,A,True
+1,global_020468,,,C,C,True
+0,global_020474,,,C,C,True
+3,global_020485,,,C,C,True
+9,global_020482,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+3,global_020485,,,C,C,True
+3,global_020485,,,C,C,True
+0,global_020474,,,A,C,False
+3,global_020485,,,A,D,False
+8,global_020481,,,E,D,False
+5,global_020484,,,A,C,False
+6,global_020463,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+0,global_020474,,,E,E,True
+1,global_020468,,,C,C,True
+4,global_020477,,,D,D,True
+6,global_020463,,,D,D,True
+1,global_020468,,,B,B,True
+3,global_020485,,,D,A,False
+4,global_020477,,,A,C,False
+1,global_020468,,,A,C,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+4,global_020477,,,E,E,True
+4,global_020477,,,B,B,True
+7,global_020478,,,B,E,False
+6,global_020463,,,B,D,False
+4,global_020477,,,C,C,True
+9,global_020482,,,C,C,True
+3,global_020485,,,B,A,False
+6,global_020463,,,A,C,False
+7,global_020478,,,A,B,False
+9,global_020482,,,E,E,True
+5,global_020484,,,B,A,False
+7,global_020478,,,C,C,True
+0,global_020474,,,B,B,True
+7,global_020478,,,C,C,True
+3,global_020485,,,C,C,True
+5,global_020484,,,D,D,True
+0,global_020474,,,F,A,False
+4,global_020477,,,C,C,True
+6,global_020463,,,A,E,False
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+9,global_020482,,,C,C,True
+0,global_020474,,,E,E,True
+9,global_020482,,,C,C,True
+4,global_020477,,,E,E,True
+0,global_020474,,,C,E,False
+6,global_020463,,,C,E,False
+6,global_020463,,,C,C,True
+6,global_020463,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,C,False
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+4,global_020477,,,C,C,True
+1,global_020468,,,E,C,False
+4,global_020477,,,A,A,True
+6,global_020463,,,E,E,True
+3,global_020485,,,A,A,True
+0,global_020474,,,C,A,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+5,global_020484,,,C,C,True
+10,global_020479,,,B,B,True
+6,global_020463,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,E,E,True
+0,global_020474,,,E,E,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+8,global_020481,,,A,C,False
+7,global_020478,,,B,B,True
+1,global_020468,,,C,B,False
+1,global_020468,,,C,D,False
+0,global_020474,,,E,E,True
+5,global_020484,,,A,A,True
+3,global_020485,,,D,E,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,C,C,True
+3,global_020485,,,C,C,True
+8,global_020481,,,B,B,True
+3,global_020485,,,B,B,True
+1,global_020468,,,E,D,False
+7,global_020478,,,B,B,True
+10,global_020479,,,A,A,True
+7,global_020478,,,B,C,False
+1,global_020468,,,A,C,False
+0,global_020474,,,A,A,True
+1,global_020468,,,B,B,True
+6,global_020463,,,B,B,True
+3,global_020485,,,E,E,True
+10,global_020479,,,E,E,True
+7,global_020478,,,C,C,True
+4,global_020477,,,C,C,True
+11,global_020273,,,E,E,True
+0,global_020474,,,A,A,True
+6,global_020463,,,A,A,True
+8,global_020481,,,B,B,True
+6,global_020463,,,A,A,True
+4,global_020477,,,D,D,True
+8,global_020481,,,E,E,True
+7,global_020478,,,B,B,True
+9,global_020482,,,A,A,True
+8,global_020481,,,D,D,True
+10,global_020479,,,A,A,True
+9,global_020482,,,C,C,True
+6,global_020463,,,E,E,True
+9,global_020482,,,B,D,False
+0,global_020474,,,D,D,True
+8,global_020481,,,C,A,False
+9,global_020482,,,E,E,True
+3,global_020485,,,C,E,False
+0,global_020474,,,E,E,True
+1,global_020468,,,C,C,True
+4,global_020477,,,B,B,True
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+7,global_020478,,,E,E,True
+5,global_020484,,,E,E,True
+6,global_020463,,,C,D,False
+6,global_020463,,,C,A,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+7,global_020478,,,E,E,True
+3,global_020485,,,C,C,True
+7,global_020478,,,B,C,False
+5,global_020484,,,A,A,True
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+0,global_020474,,,A,A,True
+4,global_020477,,,D,D,True
+4,global_020477,,,C,C,True
+0,global_020474,,,D,E,False
+6,global_020463,,,B,B,True
+4,global_020477,,,A,E,False
+7,global_020478,,,A,A,True
+5,global_020484,,,C,C,True
+4,global_020477,,,D,D,True
+9,global_020482,,,A,A,True
+1,global_020468,,,C,D,False
+7,global_020478,,,E,E,True
+4,global_020477,,,B,B,True
+0,global_020474,,,B,B,True
+0,global_020474,,,D,D,True
+3,global_020485,,,D,C,False
+8,global_020481,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+6,global_020463,,,C,C,True
+3,global_020485,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+5,global_020484,,,B,B,True
+5,global_020484,,,B,B,True
+3,global_020485,,,A,A,True
+1,global_020468,,,C,B,False
+1,global_020468,,,C,C,True
+4,global_020477,,,D,D,True
+5,global_020484,,,B,E,False
+3,global_020485,,,A,A,True
+8,global_020481,,,A,A,True
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+9,global_020482,,,B,B,True
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,E,C,False
+6,global_020463,,,C,E,False
+9,global_020482,,,E,E,True
+1,global_020468,,,A,A,True
+6,global_020463,,,E,E,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+3,global_020485,,,D,D,True
+7,global_020478,,,A,A,True
+6,global_020463,,,A,A,True
+1,global_020468,,,E,E,True
+6,global_020463,,,A,B,False
+7,global_020478,,,B,A,False
+0,global_020474,,,A,A,True
+4,global_020477,,,D,D,True
+6,global_020463,,,C,C,True
+5,global_020484,,,A,B,False
+4,global_020477,,,D,D,True
+5,global_020484,,,B,A,False
+5,global_020484,,,C,C,True
+1,global_020468,,,E,E,True
+1,global_020468,,,E,E,True
+0,global_020474,,,D,D,True
+8,global_020481,,,A,A,True
+0,global_020474,,,A,E,False
+1,global_020468,,,D,D,True
+0,global_020474,,,B,B,True
+9,global_020482,,,D,D,True
+3,global_020485,,,E,B,False
+8,global_020481,,,C,C,True
+5,global_020484,,,C,C,True
+8,global_020481,,,A,A,True
+5,global_020484,,,C,C,True
+7,global_020478,,,B,B,True
+8,global_020481,,,C,C,True
+6,global_020463,,,E,E,True
+8,global_020481,,,A,A,True
+3,global_020485,,,C,C,True
+8,global_020481,,,B,B,True
+5,global_020484,,,D,D,True
+11,global_020273,,,C,C,True
+0,global_020474,,,D,D,True
+5,global_020484,,,B,A,False
+1,global_020468,,,D,D,True
+5,global_020484,,,E,E,True
+7,global_020478,,,D,D,True
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,B,B,True
+5,global_020484,,,F,D,False
+1,global_020468,,,B,B,True
+7,global_020478,,,B,B,True
+7,global_020478,,,B,B,True
+6,global_020463,,,E,D,False
+6,global_020463,,,C,C,True
+3,global_020485,,,C,C,True
+6,global_020463,,,C,A,False
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,C,False
+3,global_020485,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,B,B,True
+4,global_020477,,,C,C,True
+4,global_020477,,,A,A,True
+1,global_020468,,,D,D,True
+4,global_020477,,,C,E,False
+3,global_020485,,,A,E,False
+0,global_020474,,,F,E,False
+8,global_020481,,,A,A,True
+3,global_020485,,,C,C,True
+6,global_020463,,,D,D,True
+5,global_020484,,,A,C,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,D,D,True
+9,global_020482,,,C,C,True
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+3,global_020485,,,C,E,False
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+5,global_020484,,,E,E,True
+5,global_020484,,,E,D,False
+6,global_020463,,,D,B,False
+7,global_020478,,,A,D,False
+1,global_020468,,,C,C,True
+3,global_020485,,,A,A,True
+8,global_020481,,,C,C,True
+0,global_020474,,,C,C,True
+5,global_020484,,,D,D,True
+1,global_020468,,,C,C,True
+3,global_020485,,,E,E,True
+4,global_020477,,,A,A,True
+3,global_020485,,,A,A,True
+6,global_020463,,,D,D,True
+4,global_020477,,,C,C,True
+7,global_020478,,,C,C,True
+6,global_020463,,,D,D,True
+5,global_020484,,,E,B,False
+7,global_020478,,,B,B,True
+0,global_020474,,,E,E,True
+0,global_020474,,,A,B,False
+0,global_020474,,,D,D,True
+5,global_020484,,,E,E,True
+6,global_020463,,,A,D,False
+5,global_020484,,,D,D,True
+9,global_020482,,,E,B,False
+6,global_020463,,,A,A,True
+6,global_020463,,,C,C,True
+4,global_020477,,,B,B,True
+9,global_020482,,,D,D,True
+0,global_020474,,,C,D,False
+1,global_020468,,,A,A,True
+5,global_020484,,,C,C,True
+7,global_020478,,,A,D,False
+0,global_020474,,,C,C,True
+8,global_020481,,,C,A,False
+8,global_020481,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,E,False
+7,global_020478,,,A,A,True
+3,global_020485,,,A,C,False
+4,global_020477,,,C,C,True
+6,global_020463,,,D,C,False
+9,global_020482,,,A,A,True
+3,global_020485,,,E,E,True
+6,global_020463,,,E,C,False
+1,global_020468,,,E,E,True
+1,global_020468,,,F,B,False
+0,global_020474,,,B,B,True
+0,global_020474,,,E,E,True
+1,global_020468,,,A,A,True
+5,global_020484,,,A,E,False
+5,global_020484,,,C,C,True
+1,global_020468,,,B,B,True
+8,global_020481,,,B,B,True
+7,global_020478,,,E,E,True
+5,global_020484,,,A,A,True
+5,global_020484,,,A,A,True
+1,global_020468,,,E,E,True
+7,global_020478,,,E,E,True
+8,global_020481,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+7,global_020478,,,C,C,True
+4,global_020477,,,A,A,True
+4,global_020477,,,B,B,True
+1,global_020468,,,E,E,True
+3,global_020485,,,E,E,True
+6,global_020463,,,C,C,True
+0,global_020474,,,A,A,True
+0,global_020474,,,A,A,True
+1,global_020468,,,E,E,True
+9,global_020482,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,D,D,True
+3,global_020485,,,B,B,True
+5,global_020484,,,B,B,True
+7,global_020478,,,A,A,True
+0,global_020474,,,C,C,True
+5,global_020484,,,D,D,True
+3,global_020485,,,E,E,True
+3,global_020485,,,D,B,False
+5,global_020484,,,C,C,True
+1,global_020468,,,B,B,True
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,B,B,True
+7,global_020478,,,A,A,True
+12,global_020033,4,Causal Motion,A,A,True
+4,global_020477,,,B,B,True
+4,global_020477,,,C,A,False
+0,global_020474,,,E,E,True
+7,global_020478,,,E,E,True
+4,global_020477,,,D,D,True
+0,global_020474,,,C,B,False
+7,global_020478,,,A,D,False
+1,global_020468,,,D,D,True
+4,global_020477,,,D,D,True
+5,global_020484,,,C,C,True
+11,global_020273,,,D,D,True
+0,global_020474,,,A,A,True
+5,global_020484,,,C,C,True
+0,global_020474,,,E,E,True
+5,global_020484,,,E,E,True
+3,global_020485,,,A,A,True
+7,global_020478,,,A,B,False
+1,global_020468,,,E,E,True
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+1,global_020468,,,A,C,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,A,E,False
+1,global_020468,,,B,B,True
+3,global_020485,,,E,E,True
+7,global_020478,,,D,E,False
+6,global_020463,,,D,D,True
+3,global_020485,,,B,A,False
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,A,False
+5,global_020484,,,D,D,True
+8,global_020481,,,B,D,False
+8,global_020481,,,C,C,True
+0,global_020474,,,D,E,False
+3,global_020485,,,A,A,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+5,global_020484,,,E,E,True
+9,global_020482,,,C,C,True
+7,global_020478,,,B,B,True
+8,global_020481,,,A,C,False
+6,global_020463,,,A,E,False
+1,global_020468,,,D,D,True
+0,global_020474,,,B,D,False
+5,global_020484,,,B,B,True
+7,global_020478,,,D,A,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+4,global_020477,,,A,A,True
+5,global_020484,,,C,C,True
+1,global_020468,,,D,D,True
+1,global_020468,,,E,E,True
+9,global_020482,,,B,B,True
+3,global_020485,,,A,A,True
+7,global_020478,,,D,B,False
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,C,False
+9,global_020482,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+7,global_020478,,,E,E,True
+1,global_020468,,,B,B,True
+7,global_020478,,,C,C,True
+7,global_020478,,,A,A,True
+0,global_020474,,,A,A,True
+0,global_020474,,,B,B,True
+4,global_020477,,,D,D,True
+7,global_020478,,,A,A,True
+9,global_020482,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,E,E,True
+7,global_020478,,,D,D,True
+0,global_020474,,,E,E,True
+1,global_020468,,,A,A,True
+6,global_020463,,,B,B,True
+1,global_020468,,,D,B,False
+10,global_020479,,,A,A,True
+3,global_020485,,,D,D,True
+8,global_020481,,,D,D,True
+1,global_020468,,,C,C,True
+3,global_020485,,,B,C,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+10,global_020479,,,C,C,True
+3,global_020485,,,E,E,True
+7,global_020478,,,D,D,True
+4,global_020477,,,D,B,False
+4,global_020477,,,A,A,True
+0,global_020474,,,C,C,True
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,E,False
+4,global_020477,,,B,B,True
+5,global_020484,,,E,E,True
+0,global_020474,,,B,B,True
+8,global_020481,,,A,A,True
+9,global_020482,,,A,A,True
+6,global_020463,,,A,A,True
+4,global_020477,,,E,E,True
+9,global_020482,,,B,B,True
+7,global_020478,,,C,E,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+4,global_020477,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,D,E,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,B,B,True
+0,global_020474,,,E,C,False
+1,global_020468,,,B,E,False
+7,global_020478,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+6,global_020463,,,D,D,True
+8,global_020481,,,E,E,True
+8,global_020481,,,A,A,True
+3,global_020485,,,A,A,True
+3,global_020485,,,C,C,True
+1,global_020468,,,D,B,False
+3,global_020485,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,B,B,True
+3,global_020485,,,C,C,True
+4,global_020477,,,E,E,True
+0,global_020474,,,A,B,False
+5,global_020484,,,E,E,True
+3,global_020485,,,B,B,True
+4,global_020477,,,A,A,True
+6,global_020463,,,C,A,False
+10,global_020479,,,B,B,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,E,E,True
+5,global_020484,,,C,C,True
+7,global_020478,,,A,E,False
+9,global_020482,,,A,A,True
+7,global_020478,,,E,E,True
+1,global_020468,,,E,E,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,D,False
+0,global_020474,,,D,D,True
+5,global_020484,,,B,B,True
+5,global_020484,,,C,C,True
+4,global_020477,,,B,B,True
+0,global_020474,,,A,A,True
+8,global_020481,,,A,A,True
+7,global_020478,,,A,A,True
+1,global_020468,,,D,D,True
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,C,C,True
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+5,global_020484,,,E,A,False
+9,global_020482,,,E,B,False
+8,global_020481,,,D,D,True
+11,global_020273,,,E,E,True
+5,global_020484,,,B,B,True
+5,global_020484,,,E,E,True
+5,global_020484,,,E,E,True
+10,global_020479,,,C,E,False
+0,global_020474,,,A,C,False
+3,global_020485,,,C,C,True
+0,global_020474,,,A,A,True
+4,global_020477,,,C,B,False
+6,global_020463,,,A,B,False
+9,global_020482,,,A,A,True
+7,global_020478,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,B,False
+6,global_020463,,,E,C,False
+6,global_020463,,,E,D,False
+0,global_020474,,,D,D,True
+1,global_020468,,,E,E,True
+8,global_020481,,,B,B,True
+3,global_020485,,,C,B,False
+4,global_020477,,,D,D,True
+6,global_020463,,,D,D,True
+3,global_020485,,,D,D,True
+3,global_020485,,,E,E,True
+1,global_020468,,,B,B,True
+5,global_020484,,,A,A,True
+1,global_020468,,,A,A,True
+5,global_020484,,,C,D,False
+10,global_020479,,,B,B,True
+3,global_020485,,,C,C,True
+1,global_020468,,,A,A,True
+3,global_020485,,,A,A,True
+3,global_020485,,,C,C,True
+1,global_020468,,,D,D,True
+0,global_020474,,,D,C,False
+0,global_020474,,,E,E,True
+1,global_020468,,,A,A,True
+8,global_020481,,,C,C,True
+4,global_020477,,,C,C,True
+4,global_020477,,,A,A,True
+0,global_020474,,,A,A,True
+0,global_020474,,,B,B,True
+8,global_020481,,,D,D,True
+7,global_020478,,,B,B,True
+5,global_020484,,,A,A,True
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+4,global_020477,,,C,C,True
+0,global_020474,,,E,E,True
+0,global_020474,,,E,E,True
+8,global_020481,,,A,E,False
+7,global_020478,,,C,C,True
+6,global_020463,,,E,E,True
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+4,global_020477,,,A,A,True
+1,global_020468,,,B,E,False
+6,global_020463,,,A,A,True
+0,global_020474,,,B,B,True
+3,global_020485,,,C,C,True
+1,global_020468,,,A,A,True
+3,global_020485,,,A,A,True
+0,global_020474,,,C,C,True
+6,global_020463,,,A,A,True
+7,global_020478,,,A,A,True
+7,global_020478,,,A,D,False
+8,global_020481,,,D,D,True
+4,global_020477,,,E,E,True
+10,global_020479,,,C,C,True
+3,global_020485,,,A,C,False
+3,global_020485,,,B,B,True
+6,global_020463,,,A,E,False
+4,global_020477,,,E,E,True
+6,global_020463,,,D,D,True
+0,global_020474,,,D,D,True
+8,global_020481,,,A,E,False
+7,global_020478,,,D,D,True
+3,global_020485,,,C,D,False
+3,global_020485,,,A,C,False
+7,global_020478,,,E,E,True
+3,global_020485,,,E,E,True
+4,global_020477,,,D,D,True
+0,global_020474,,,B,B,True
+1,global_020468,,,D,D,True
+1,global_020468,,,A,B,False
+3,global_020485,,,E,E,True
+12,global_020033,4,Causal Motion,E,A,False
+5,global_020484,,,E,D,False
+7,global_020478,,,A,A,True
+9,global_020482,,,E,E,True
+1,global_020468,,,D,E,False
+3,global_020485,,,C,C,True
+1,global_020468,,,E,E,True
+3,global_020485,,,D,D,True
+9,global_020482,,,A,A,True
+0,global_020474,,,D,D,True
+4,global_020477,,,A,C,False
+5,global_020484,,,D,D,True
+0,global_020474,,,B,B,True
+1,global_020468,,,C,C,True
+4,global_020477,,,B,B,True
+9,global_020482,,,C,C,True
+3,global_020485,,,B,B,True
+3,global_020485,,,A,A,True
+8,global_020481,,,E,C,False
+0,global_020474,,,E,E,True
+12,global_020033,4,Causal Motion,E,E,True
+8,global_020481,,,E,E,True
+9,global_020482,,,D,D,True
+3,global_020485,,,B,B,True
+0,global_020474,,,E,A,False
+3,global_020485,,,A,C,False
+1,global_020468,,,A,E,False
+4,global_020477,,,E,E,True
+1,global_020468,,,C,C,True
+5,global_020484,,,F,B,False
+5,global_020484,,,B,B,True
+6,global_020463,,,A,A,True
+9,global_020482,,,D,D,True
+8,global_020481,,,B,B,True
+7,global_020478,,,A,A,True
+6,global_020463,,,B,A,False
+4,global_020477,,,E,E,True
+3,global_020485,,,B,B,True
+6,global_020463,,,E,B,False
+4,global_020477,,,C,C,True
+9,global_020482,,,A,A,True
+1,global_020468,,,F,D,False
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+7,global_020478,,,D,D,True
+0,global_020474,,,A,E,False
+0,global_020474,,,A,A,True
+0,global_020474,,,B,B,True
+9,global_020482,,,C,C,True
+0,global_020474,,,A,A,True
+6,global_020463,,,A,B,False
+7,global_020478,,,B,B,True
+6,global_020463,,,B,B,True
+0,global_020474,,,D,D,True
+0,global_020474,,,C,C,True
+8,global_020481,,,C,C,True
+8,global_020481,,,C,C,True
+0,global_020474,,,E,E,True
+0,global_020474,,,B,B,True
+4,global_020477,,,C,C,True
+1,global_020468,,,D,D,True
+7,global_020478,,,E,E,True
+7,global_020478,,,A,A,True
+1,global_020468,,,D,D,True
+0,global_020474,,,D,D,True
+8,global_020481,,,E,E,True
+6,global_020463,,,A,A,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,C,C,True
+5,global_020484,,,A,A,True
+3,global_020485,,,D,D,True
+0,global_020474,,,C,C,True
+0,global_020474,,,B,B,True
+5,global_020484,,,A,A,True
+0,global_020474,,,B,B,True
+0,global_020474,,,B,B,True
+3,global_020485,,,D,D,True
+6,global_020463,,,A,A,True
+6,global_020463,,,C,C,True
+6,global_020463,,,A,D,False
+0,global_020474,,,C,E,False
+6,global_020463,,,A,A,True
+7,global_020478,,,C,C,True
+6,global_020463,,,D,B,False
+4,global_020477,,,E,E,True
+5,global_020484,,,E,E,True
+1,global_020468,,,F,D,False
+0,global_020474,,,A,A,True
+4,global_020477,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,F,E,False
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+7,global_020478,,,C,C,True
+6,global_020463,,,C,C,True
+8,global_020481,,,C,C,True
+7,global_020478,,,C,C,True
+5,global_020484,,,E,C,False
+5,global_020484,,,C,C,True
+10,global_020479,,,C,C,True
+0,global_020474,,,B,D,False
+6,global_020463,,,C,D,False
+7,global_020478,,,C,D,False
+9,global_020482,,,D,D,True
+6,global_020463,,,A,A,True
+5,global_020484,,,C,C,True
+5,global_020484,,,A,D,False
+8,global_020481,,,A,A,True
+1,global_020468,,,B,B,True
+4,global_020477,,,D,D,True
+4,global_020477,,,E,E,True
+0,global_020474,,,B,B,True
+4,global_020477,,,E,E,True
+1,global_020468,,,B,B,True
+5,global_020484,,,A,A,True
+0,global_020474,,,C,C,True
+1,global_020468,,,F,C,False
+0,global_020474,,,C,D,False
+7,global_020478,,,A,A,True
+6,global_020463,,,A,A,True
+9,global_020482,,,E,B,False
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,A,False
+7,global_020478,,,C,A,False
+5,global_020484,,,C,C,True
+4,global_020477,,,A,E,False
+6,global_020463,,,E,C,False
+6,global_020463,,,C,C,True
+8,global_020481,,,E,E,True
+1,global_020468,,,B,B,True
+11,global_020273,,,D,D,True
+1,global_020468,,,A,A,True
+9,global_020482,,,E,C,False
+7,global_020478,,,C,C,True
+10,global_020479,,,D,D,True
+9,global_020482,,,A,A,True
+4,global_020477,,,E,E,True
+3,global_020485,,,A,A,True
+5,global_020484,,,B,B,True
+3,global_020485,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,F,E,False
+5,global_020484,,,A,D,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+7,global_020478,,,C,C,True
+3,global_020485,,,C,C,True
+3,global_020485,,,D,A,False
+2,global_020469,5,Holistic Understanding of Events,A,E,False
+6,global_020463,,,B,B,True
+1,global_020468,,,A,A,True
+5,global_020484,,,E,E,True
+0,global_020474,,,E,E,True
+9,global_020482,,,C,C,True
+3,global_020485,,,C,C,True
+6,global_020463,,,B,B,True
+4,global_020477,,,C,B,False
+1,global_020468,,,C,C,True
+1,global_020468,,,D,D,True
+11,global_020273,,,C,C,True
+7,global_020478,,,B,B,True
+5,global_020484,,,B,D,False
+4,global_020477,,,A,A,True
+3,global_020485,,,E,E,True
+5,global_020484,,,B,D,False
+6,global_020463,,,D,D,True
+1,global_020468,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,E,False
+2,global_020469,5,Holistic Understanding of Events,D,C,False
+3,global_020485,,,B,D,False
+3,global_020485,,,D,D,True
+3,global_020485,,,C,C,True
+5,global_020484,,,D,B,False
+0,global_020474,,,A,C,False
+0,global_020474,,,A,A,True
+0,global_020474,,,D,E,False
+7,global_020478,,,E,C,False
+4,global_020477,,,E,E,True
+6,global_020463,,,B,B,True
+0,global_020474,,,C,A,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+8,global_020481,,,D,D,True
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+8,global_020481,,,B,B,True
+7,global_020478,,,D,D,True
+0,global_020474,,,E,E,True
+0,global_020474,,,E,E,True
+7,global_020478,,,A,E,False
+7,global_020478,,,B,B,True
+7,global_020478,,,A,A,True
+8,global_020481,,,C,C,True
+7,global_020478,,,A,D,False
+1,global_020468,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+8,global_020481,,,A,B,False
+3,global_020485,,,B,A,False
+3,global_020485,,,A,A,True
+1,global_020468,,,C,C,True
+10,global_020479,,,A,A,True
+8,global_020481,,,B,C,False
+6,global_020463,,,E,E,True
+8,global_020481,,,B,B,True
+6,global_020463,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,E,False
+2,global_020469,5,Holistic Understanding of Events,E,A,False
+1,global_020468,,,D,D,True
+5,global_020484,,,A,A,True
+11,global_020273,,,A,A,True
+3,global_020485,,,D,D,True
+6,global_020463,,,E,E,True
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+1,global_020468,,,D,D,True
+9,global_020482,,,C,C,True
+1,global_020468,,,A,A,True
+3,global_020485,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+6,global_020463,,,C,C,True
+5,global_020484,,,C,C,True
+1,global_020468,,,A,A,True
+5,global_020484,,,A,A,True
+6,global_020463,,,D,D,True
+0,global_020474,,,B,B,True
+5,global_020484,,,D,D,True
+10,global_020479,,,D,D,True
+3,global_020485,,,A,E,False
+3,global_020485,,,B,B,True
+8,global_020481,,,B,B,True
+9,global_020482,,,D,D,True
+1,global_020468,,,B,A,False
+6,global_020463,,,A,D,False
+9,global_020482,,,E,E,True
+0,global_020474,,,A,A,True
+3,global_020485,,,C,C,True
+5,global_020484,,,B,B,True
+11,global_020273,,,C,C,True
+1,global_020468,,,A,A,True
+7,global_020478,,,B,B,True
+6,global_020463,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,C,C,True
+14,global_014201,4,Causal Motion,A,A,True
+4,global_020477,,,C,C,True
+0,global_020474,,,D,D,True
+9,global_020482,,,C,C,True
+3,global_020485,,,D,D,True
+4,global_020477,,,D,D,True
+5,global_020484,,,B,B,True
+0,global_020474,,,D,C,False
+0,global_020474,,,D,D,True
+1,global_020468,,,A,A,True
+0,global_020474,,,E,E,True
+10,global_020479,,,B,B,True
+1,global_020468,,,B,B,True
+9,global_020482,,,C,C,True
+0,global_020474,,,E,B,False
+5,global_020484,,,D,D,True
+6,global_020463,,,B,B,True
+4,global_020477,,,C,C,True
+1,global_020468,,,A,A,True
+0,global_020474,,,A,A,True
+3,global_020485,,,C,C,True
+6,global_020463,,,A,A,True
+4,global_020477,,,C,C,True
+9,global_020482,,,B,B,True
+1,global_020468,,,A,D,False
+4,global_020477,,,D,D,True
+9,global_020482,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+1,global_020468,,,D,B,False
+8,global_020481,,,C,C,True
+4,global_020477,,,D,D,True
+5,global_020484,,,D,C,False
+3,global_020485,,,B,E,False
+5,global_020484,,,D,D,True
+6,global_020463,,,C,C,True
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,E,False
+8,global_020481,,,B,D,False
+4,global_020477,,,A,A,True
+5,global_020484,,,B,B,True
+4,global_020477,,,A,A,True
+11,global_020273,,,B,B,True
+5,global_020484,,,B,B,True
+7,global_020478,,,E,E,True
+0,global_020474,,,B,B,True
+3,global_020485,,,D,D,True
+8,global_020481,,,C,C,True
+1,global_020468,,,C,C,True
+1,global_020468,,,E,B,False
+7,global_020478,,,A,A,True
+5,global_020484,,,E,E,True
+5,global_020484,,,A,A,True
+5,global_020484,,,A,E,False
+5,global_020484,,,A,A,True
+6,global_020463,,,C,C,True
+6,global_020463,,,A,A,True
+5,global_020484,,,D,D,True
+0,global_020474,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,B,True
+5,global_020484,,,B,E,False
+7,global_020478,,,A,A,True
+3,global_020485,,,C,C,True
+9,global_020482,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,B,False
+8,global_020481,,,D,D,True
+7,global_020478,,,B,B,True
+1,global_020468,,,A,E,False
+8,global_020481,,,E,E,True
+7,global_020478,,,D,D,True
+5,global_020484,,,E,E,True
+7,global_020478,,,B,B,True
+10,global_020479,,,D,D,True
+0,global_020474,,,D,D,True
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+6,global_020463,,,B,A,False
+8,global_020481,,,B,B,True
+11,global_020273,,,C,A,False
+0,global_020474,,,D,D,True
+6,global_020463,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+0,global_020474,,,D,B,False
+8,global_020481,,,A,B,False
+0,global_020474,,,A,A,True
+8,global_020481,,,B,B,True
+5,global_020484,,,C,C,True
+5,global_020484,,,D,B,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,C,C,True
+0,global_020474,,,C,C,True
+9,global_020482,,,A,A,True
+4,global_020477,,,A,A,True
+0,global_020474,,,B,E,False
+4,global_020477,,,A,A,True
+6,global_020463,,,B,D,False
+9,global_020482,,,B,E,False
+5,global_020484,,,D,A,False
+3,global_020485,,,B,D,False
+4,global_020477,,,D,D,True
+0,global_020474,,,E,E,True
+8,global_020481,,,A,A,True
+3,global_020485,,,E,E,True
+3,global_020485,,,C,C,True
+3,global_020485,,,C,E,False
+0,global_020474,,,C,C,True
+7,global_020478,,,B,B,True
+0,global_020474,,,A,A,True
+9,global_020482,,,B,B,True
+6,global_020463,,,B,B,True
+1,global_020468,,,A,C,False
+5,global_020484,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+5,global_020484,,,E,E,True
+5,global_020484,,,C,C,True
+7,global_020478,,,D,D,True
+0,global_020474,,,B,A,False
+7,global_020478,,,B,B,True
+8,global_020481,,,A,A,True
+0,global_020474,,,A,A,True
+9,global_020482,,,D,D,True
+5,global_020484,,,E,E,True
+1,global_020468,,,B,B,True
+1,global_020468,,,C,C,True
+4,global_020477,,,A,A,True
+5,global_020484,,,B,B,True
+7,global_020478,,,A,A,True
+4,global_020477,,,D,D,True
+6,global_020463,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+4,global_020477,,,E,E,True
+1,global_020468,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+4,global_020477,,,B,B,True
+1,global_020468,,,E,E,True
+0,global_020474,,,E,E,True
+1,global_020468,,,D,D,True
+4,global_020477,,,A,A,True
+0,global_020474,,,E,C,False
+3,global_020485,,,A,A,True
+1,global_020468,,,B,D,False
+8,global_020481,,,C,E,False
+8,global_020481,,,B,B,True
+4,global_020477,,,B,B,True
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,D,False
+4,global_020477,,,F,B,False
+4,global_020477,,,E,E,True
+7,global_020478,,,A,D,False
+5,global_020484,,,C,C,True
+8,global_020481,,,E,E,True
+5,global_020484,,,D,B,False
+1,global_020468,,,D,D,True
+7,global_020478,,,A,A,True
+1,global_020468,,,C,E,False
+0,global_020474,,,E,B,False
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,C,B,False
+1,global_020468,,,E,D,False
+6,global_020463,,,C,C,True
+9,global_020482,,,D,D,True
+9,global_020482,,,C,C,True
+1,global_020468,,,C,D,False
+6,global_020463,,,D,D,True
+3,global_020485,,,B,A,False
+0,global_020474,,,A,A,True
+1,global_020468,,,A,A,True
+3,global_020485,,,A,B,False
+8,global_020481,,,C,C,True
+6,global_020463,,,C,C,True
+5,global_020484,,,B,B,True
+7,global_020478,,,A,A,True
+11,global_020273,,,B,B,True
+7,global_020478,,,A,A,True
+4,global_020477,,,B,B,True
+10,global_020479,,,B,B,True
+4,global_020477,,,D,D,True
+6,global_020463,,,E,E,True
+11,global_020273,,,C,C,True
+7,global_020478,,,E,E,True
+4,global_020477,,,B,B,True
+6,global_020463,,,B,B,True
+3,global_020485,,,A,A,True
+9,global_020482,,,B,E,False
+8,global_020481,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+1,global_020468,,,A,A,True
+8,global_020481,,,C,C,True
+4,global_020477,,,E,B,False
+4,global_020477,,,B,B,True
+0,global_020474,,,A,A,True
+7,global_020478,,,C,C,True
+6,global_020463,,,A,A,True
+0,global_020474,,,C,C,True
+4,global_020477,,,C,C,True
+5,global_020484,,,D,D,True
+1,global_020468,,,B,B,True
+6,global_020463,,,D,D,True
+7,global_020478,,,A,D,False
+3,global_020485,,,C,C,True
+6,global_020463,,,E,E,True
+11,global_020273,,,A,A,True
+1,global_020468,,,C,C,True
+4,global_020477,,,A,A,True
+3,global_020485,,,D,B,False
+0,global_020474,,,A,A,True
+5,global_020484,,,A,D,False
+4,global_020477,,,C,C,True
+8,global_020481,,,D,D,True
+0,global_020474,,,B,B,True
+8,global_020481,,,A,A,True
+3,global_020485,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+6,global_020463,,,E,E,True
+8,global_020481,,,D,B,False
+7,global_020478,,,E,E,True
+9,global_020482,,,A,A,True
+5,global_020484,,,A,A,True
+3,global_020485,,,C,C,True
+6,global_020463,,,C,D,False
+7,global_020478,,,B,B,True
+0,global_020474,,,A,A,True
+8,global_020481,,,D,D,True
+8,global_020481,,,C,C,True
+7,global_020478,,,A,E,False
+3,global_020485,,,C,C,True
+8,global_020481,,,B,B,True
+8,global_020481,,,D,D,True
+1,global_020468,,,B,B,True
+8,global_020481,,,A,A,True
+1,global_020468,,,A,A,True
+10,global_020479,,,E,C,False
+5,global_020484,,,A,A,True
+0,global_020474,,,C,C,True
+3,global_020485,,,E,E,True
+6,global_020463,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+1,global_020468,,,A,A,True
+4,global_020477,,,D,D,True
+0,global_020474,,,C,E,False
+7,global_020478,,,C,C,True
+9,global_020482,,,D,D,True
+1,global_020468,,,C,E,False
+6,global_020463,,,A,A,True
+6,global_020463,,,B,B,True
+4,global_020477,,,E,E,True
+6,global_020463,,,D,B,False
+5,global_020484,,,C,E,False
+1,global_020468,,,A,A,True
+6,global_020463,,,C,C,True
+3,global_020485,,,C,B,False
+5,global_020484,,,C,C,True
+1,global_020468,,,C,C,True
+6,global_020463,,,D,D,True
+9,global_020482,,,D,C,False
+9,global_020482,,,D,D,True
+3,global_020485,,,A,A,True
+7,global_020478,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,D,E,False
+10,global_020479,,,A,A,True
+3,global_020485,,,E,B,False
+4,global_020477,,,B,B,True
+3,global_020485,,,B,B,True
+8,global_020481,,,C,C,True
+5,global_020484,,,E,D,False
+1,global_020468,,,E,B,False
+1,global_020468,,,B,D,False
+7,global_020478,,,A,D,False
+3,global_020485,,,E,E,True
+4,global_020477,,,E,E,True
+8,global_020481,,,A,A,True
+7,global_020478,,,C,C,True
+7,global_020478,,,B,B,True
+4,global_020477,,,B,B,True
+7,global_020478,,,D,A,False
+5,global_020484,,,C,C,True
+8,global_020481,,,C,C,True
+6,global_020463,,,D,D,True
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+0,global_020474,,,C,C,True
+7,global_020478,,,D,E,False
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,C,C,True
+4,global_020477,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,D,False
+7,global_020478,,,D,D,True
+7,global_020478,,,C,E,False
+9,global_020482,,,D,D,True
+6,global_020463,,,E,E,True
+4,global_020477,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,E,False
+10,global_020479,,,E,E,True
+3,global_020485,,,A,A,True
+5,global_020484,,,E,E,True
+4,global_020477,,,D,D,True
+5,global_020484,,,D,A,False
+11,global_020273,,,A,E,False
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,A,A,True
+1,global_020468,,,C,C,True
+0,global_020474,,,A,A,True
+6,global_020463,,,B,D,False
+8,global_020481,,,E,E,True
+7,global_020478,,,C,C,True
+10,global_020479,,,A,A,True
+8,global_020481,,,C,C,True
+8,global_020481,,,C,C,True
+7,global_020478,,,C,C,True
+11,global_020273,,,A,A,True
+7,global_020478,,,E,D,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+3,global_020485,,,C,C,True
+7,global_020478,,,B,B,True
+11,global_020273,,,B,A,False
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+3,global_020485,,,B,D,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,C,C,True
+5,global_020484,,,D,D,True
+4,global_020477,,,E,E,True
+1,global_020468,,,D,D,True
+6,global_020463,,,A,A,True
+6,global_020463,,,E,E,True
+3,global_020485,,,E,E,True
+3,global_020485,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+6,global_020463,,,C,C,True
+5,global_020484,,,E,E,True
+8,global_020481,,,A,B,False
+5,global_020484,,,E,D,False
+3,global_020485,,,C,C,True
+6,global_020463,,,A,A,True
+7,global_020478,,,B,B,True
+3,global_020485,,,D,B,False
+1,global_020468,,,E,E,True
+3,global_020485,,,C,E,False
+5,global_020484,,,E,E,True
+3,global_020485,,,B,B,True
+0,global_020474,,,B,B,True
+3,global_020485,,,A,E,False
+5,global_020484,,,D,D,True
+4,global_020477,,,C,D,False
+7,global_020478,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+1,global_020468,,,D,D,True
+0,global_020474,,,B,B,True
+7,global_020478,,,E,E,True
+7,global_020478,,,A,A,True
+0,global_020474,,,E,E,True
+1,global_020468,,,A,A,True
+9,global_020482,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+4,global_020477,,,C,C,True
+3,global_020485,,,A,A,True
+4,global_020477,,,C,C,True
+1,global_020468,,,B,B,True
+5,global_020484,,,C,C,True
+3,global_020485,,,D,D,True
+5,global_020484,,,A,B,False
+8,global_020481,,,E,E,True
+7,global_020478,,,E,E,True
+6,global_020463,,,A,B,False
+7,global_020478,,,D,D,True
+5,global_020484,,,C,C,True
+3,global_020485,,,E,E,True
+3,global_020485,,,D,D,True
+3,global_020485,,,D,E,False
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+6,global_020463,,,C,C,True
+8,global_020481,,,C,E,False
+7,global_020478,,,D,D,True
+0,global_020474,,,E,E,True
+4,global_020477,,,A,A,True
+9,global_020482,,,A,A,True
+3,global_020485,,,A,B,False
+13,global_020143,,,C,C,True
+3,global_020485,,,C,C,True
+10,global_020479,,,A,A,True
+5,global_020484,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+10,global_020479,,,B,B,True
+7,global_020478,,,D,A,False
+6,global_020463,,,B,A,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+9,global_020482,,,A,A,True
+6,global_020463,,,A,A,True
+8,global_020481,,,E,B,False
+8,global_020481,,,E,E,True
+0,global_020474,,,E,E,True
+0,global_020474,,,D,D,True
+4,global_020477,,,B,B,True
+0,global_020474,,,B,D,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,A,A,True
+0,global_020474,,,D,D,True
+0,global_020474,,,A,A,True
+0,global_020474,,,C,C,True
+1,global_020468,,,A,C,False
+0,global_020474,,,B,D,False
+3,global_020485,,,B,D,False
+3,global_020485,,,B,B,True
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,C,False
+12,global_020033,4,Causal Motion,C,C,True
+3,global_020485,,,C,A,False
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,A,A,True
+8,global_020481,,,D,D,True
+9,global_020482,,,E,A,False
+1,global_020468,,,E,E,True
+8,global_020481,,,C,C,True
+6,global_020463,,,D,E,False
+0,global_020474,,,A,A,True
+3,global_020485,,,A,A,True
+4,global_020477,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,A,A,True
+4,global_020477,,,B,B,True
+4,global_020477,,,E,E,True
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,C,False
+5,global_020484,,,C,C,True
+4,global_020477,,,A,A,True
+4,global_020477,,,C,C,True
+8,global_020481,,,C,C,True
+3,global_020485,,,B,B,True
+6,global_020463,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,C,C,True
+6,global_020463,,,C,C,True
+6,global_020463,,,C,C,True
+0,global_020474,,,E,E,True
+7,global_020478,,,E,A,False
+1,global_020468,,,C,B,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+1,global_020468,,,B,A,False
+6,global_020463,,,E,E,True
+8,global_020481,,,A,D,False
+8,global_020481,,,E,E,True
+3,global_020485,,,A,A,True
+8,global_020481,,,A,A,True
+0,global_020474,,,B,B,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,E,E,True
+1,global_020468,,,E,E,True
+4,global_020477,,,E,E,True
+4,global_020477,,,E,E,True
+3,global_020485,,,A,A,True
+7,global_020478,,,B,E,False
+11,global_020273,,,B,B,True
+9,global_020482,,,D,D,True
+7,global_020478,,,A,A,True
+5,global_020484,,,C,C,True
+6,global_020463,,,D,D,True
+0,global_020474,,,D,D,True
+6,global_020463,,,E,E,True
+9,global_020482,,,C,C,True
+5,global_020484,,,D,E,False
+7,global_020478,,,A,A,True
+3,global_020485,,,D,D,True
+1,global_020468,,,D,D,True
+9,global_020482,,,E,E,True
+7,global_020478,,,A,A,True
+10,global_020479,,,E,E,True
+6,global_020463,,,C,A,False
+8,global_020481,,,C,E,False
+4,global_020477,,,D,D,True
+6,global_020463,,,C,C,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+10,global_020479,,,D,D,True
+5,global_020484,,,D,C,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,A,A,True
+1,global_020468,,,B,B,True
+7,global_020478,,,C,D,False
+3,global_020485,,,E,E,True
+5,global_020484,,,A,A,True
+4,global_020477,,,B,B,True
+3,global_020485,,,E,E,True
+8,global_020481,,,B,B,True
+7,global_020478,,,A,A,True
+5,global_020484,,,B,B,True
+11,global_020273,,,C,C,True
+1,global_020468,,,B,B,True
+7,global_020478,,,B,B,True
+7,global_020478,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+8,global_020481,,,B,E,False
+9,global_020482,,,C,C,True
+0,global_020474,,,A,C,False
+9,global_020482,,,A,A,True
+6,global_020463,,,C,C,True
+5,global_020484,,,D,D,True
+1,global_020468,,,D,D,True
+0,global_020474,,,C,D,False
+1,global_020468,,,F,E,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+6,global_020463,,,E,E,True
+6,global_020463,,,C,C,True
+7,global_020478,,,C,C,True
+9,global_020482,,,C,C,True
+8,global_020481,,,C,D,False
+2,global_020469,5,Holistic Understanding of Events,D,A,False
+8,global_020481,,,A,A,True
+0,global_020474,,,D,D,True
+0,global_020474,,,E,E,True
+7,global_020478,,,A,A,True
+12,global_020033,4,Causal Motion,A,A,True
+7,global_020478,,,B,B,True
+3,global_020485,,,C,C,True
+8,global_020481,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+3,global_020485,,,A,A,True
+0,global_020474,,,E,E,True
+4,global_020477,,,B,B,True
+4,global_020477,,,E,D,False
+7,global_020478,,,D,D,True
+5,global_020484,,,D,D,True
+10,global_020479,,,C,C,True
+6,global_020463,,,A,D,False
+5,global_020484,,,E,E,True
+10,global_020479,,,D,D,True
+7,global_020478,,,A,C,False
+3,global_020485,,,C,E,False
+6,global_020463,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,B,False
+6,global_020463,,,C,C,True
+0,global_020474,,,B,D,False
+7,global_020478,,,E,E,True
+4,global_020477,,,E,E,True
+8,global_020481,,,A,A,True
+6,global_020463,,,D,D,True
+5,global_020484,,,A,A,True
+5,global_020484,,,D,D,True
+9,global_020482,,,B,B,True
+4,global_020477,,,B,B,True
+3,global_020485,,,B,B,True
+0,global_020474,,,A,A,True
+0,global_020474,,,A,B,False
+1,global_020468,,,D,D,True
+4,global_020477,,,D,D,True
+8,global_020481,,,C,C,True
+3,global_020485,,,C,C,True
+5,global_020484,,,C,C,True
+5,global_020484,,,B,B,True
+3,global_020485,,,B,A,False
+4,global_020477,,,B,B,True
+1,global_020468,,,D,D,True
+6,global_020463,,,A,A,True
+9,global_020482,,,A,A,True
+9,global_020482,,,C,C,True
+5,global_020484,,,A,D,False
+7,global_020478,,,C,C,True
+3,global_020485,,,C,C,True
+8,global_020481,,,B,B,True
+6,global_020463,,,B,B,True
+9,global_020482,,,B,E,False
+9,global_020482,,,E,E,True
+7,global_020478,,,E,C,False
+3,global_020485,,,D,D,True
+0,global_020474,,,E,E,True
+0,global_020474,,,E,E,True
+3,global_020485,,,B,B,True
+7,global_020478,,,A,A,True
+9,global_020482,,,A,A,True
+5,global_020484,,,A,A,True
+1,global_020468,,,C,C,True
+3,global_020485,,,E,E,True
+7,global_020478,,,D,D,True
+6,global_020463,,,D,D,True
+0,global_020474,,,C,E,False
+0,global_020474,,,D,E,False
+0,global_020474,,,B,B,True
+6,global_020463,,,C,C,True
+0,global_020474,,,D,D,True
+4,global_020477,,,C,C,True
+7,global_020478,,,A,E,False
+9,global_020482,,,B,B,True
+10,global_020479,,,D,D,True
+8,global_020481,,,B,B,True
+3,global_020485,,,A,A,True
+6,global_020463,,,A,A,True
+10,global_020479,,,E,E,True
+1,global_020468,,,D,D,True
+8,global_020481,,,A,A,True
+8,global_020481,,,C,C,True
+9,global_020482,,,E,E,True
+11,global_020273,,,D,D,True
+7,global_020478,,,E,E,True
+3,global_020485,,,B,B,True
+6,global_020463,,,E,A,False
+9,global_020482,,,B,B,True
+1,global_020468,,,E,E,True
+9,global_020482,,,A,A,True
+1,global_020468,,,C,C,True
+1,global_020468,,,C,C,True
+10,global_020479,,,E,A,False
+1,global_020468,,,A,A,True
+1,global_020468,,,C,C,True
+0,global_020474,,,C,C,True
+5,global_020484,,,E,E,True
+0,global_020474,,,D,D,True
+4,global_020477,,,B,C,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,A,A,True
+1,global_020468,,,A,A,True
+11,global_020273,,,C,C,True
+7,global_020478,,,A,A,True
+4,global_020477,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+10,global_020479,,,A,B,False
+7,global_020478,,,C,C,True
+4,global_020477,,,B,B,True
+9,global_020482,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+4,global_020477,,,B,B,True
+8,global_020481,,,A,A,True
+4,global_020477,,,E,E,True
+4,global_020477,,,C,D,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,B,B,True
+3,global_020485,,,E,E,True
+7,global_020478,,,E,E,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+6,global_020463,,,C,C,True
+5,global_020484,,,A,A,True
+5,global_020484,,,E,E,True
+5,global_020484,,,D,D,True
+4,global_020477,,,A,D,False
+3,global_020485,,,B,B,True
+6,global_020463,,,E,E,True
+9,global_020482,,,B,C,False
+6,global_020463,,,A,A,True
+1,global_020468,,,B,B,True
+5,global_020484,,,B,C,False
+7,global_020478,,,B,B,True
+10,global_020479,,,A,A,True
+8,global_020481,,,A,C,False
+8,global_020481,,,D,D,True
+9,global_020482,,,B,B,True
+7,global_020478,,,A,A,True
+8,global_020481,,,C,C,True
+0,global_020474,,,D,D,True
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,E,E,True
+1,global_020468,,,D,C,False
+3,global_020485,,,B,B,True
+3,global_020485,,,C,B,False
+9,global_020482,,,E,E,True
+6,global_020463,,,A,D,False
+3,global_020485,,,C,C,True
+7,global_020478,,,D,A,False
+5,global_020484,,,A,A,True
+4,global_020477,,,A,A,True
+8,global_020481,,,B,B,True
+0,global_020474,,,B,B,True
+4,global_020477,,,D,D,True
+12,global_020033,4,Causal Motion,B,C,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,C,C,True
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+8,global_020481,,,A,D,False
+4,global_020477,,,E,E,True
+8,global_020481,,,C,C,True
+3,global_020485,,,E,E,True
+4,global_020477,,,D,D,True
+6,global_020463,,,A,A,True
+0,global_020474,,,D,E,False
+8,global_020481,,,A,A,True
+1,global_020468,,,C,C,True
+1,global_020468,,,E,E,True
+5,global_020484,,,B,C,False
+6,global_020463,,,E,E,True
+3,global_020485,,,A,A,True
+3,global_020485,,,E,E,True
+0,global_020474,,,D,C,False
+0,global_020474,,,A,D,False
+3,global_020485,,,B,B,True
+8,global_020481,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,A,False
+9,global_020482,,,C,C,True
+5,global_020484,,,B,B,True
+6,global_020463,,,C,C,True
+4,global_020477,,,E,E,True
+6,global_020463,,,C,C,True
+0,global_020474,,,D,E,False
+5,global_020484,,,B,B,True
+6,global_020463,,,E,E,True
+3,global_020485,,,D,B,False
+8,global_020481,,,A,A,True
+10,global_020479,,,E,E,True
+1,global_020468,,,D,D,True
+6,global_020463,,,E,A,False
+6,global_020463,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,E,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,D,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+0,global_020474,,,D,C,False
+1,global_020468,,,E,E,True
+8,global_020481,,,C,C,True
+3,global_020485,,,E,E,True
+0,global_020474,,,B,B,True
+1,global_020468,,,A,A,True
+0,global_020474,,,B,B,True
+3,global_020485,,,D,C,False
+4,global_020477,,,E,B,False
+1,global_020468,,,E,E,True
+7,global_020478,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+4,global_020477,,,A,A,True
+8,global_020481,,,B,B,True
+6,global_020463,,,A,A,True
+0,global_020474,,,D,D,True
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+3,global_020485,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+7,global_020478,,,D,D,True
+8,global_020481,,,B,B,True
+4,global_020477,,,E,E,True
+0,global_020474,,,A,A,True
+7,global_020478,,,E,D,False
+6,global_020463,,,A,D,False
+7,global_020478,,,D,D,True
+1,global_020468,,,B,B,True
+1,global_020468,,,C,C,True
+1,global_020468,,,C,D,False
+0,global_020474,,,B,B,True
+0,global_020474,,,A,A,True
+7,global_020478,,,B,D,False
+9,global_020482,,,B,B,True
+3,global_020485,,,C,C,True
+6,global_020463,,,E,C,False
+7,global_020478,,,A,E,False
+9,global_020482,,,D,D,True
+6,global_020463,,,E,E,True
+0,global_020474,,,D,D,True
+7,global_020478,,,B,A,False
+3,global_020485,,,E,E,True
+5,global_020484,,,A,B,False
+1,global_020468,,,A,A,True
+3,global_020485,,,A,C,False
+1,global_020468,,,B,B,True
+0,global_020474,,,A,A,True
+10,global_020479,,,C,C,True
+7,global_020478,,,D,D,True
+0,global_020474,,,C,C,True
+0,global_020474,,,D,D,True
+6,global_020463,,,D,D,True
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,A,False
+5,global_020484,,,E,E,True
+5,global_020484,,,C,C,True
+6,global_020463,,,A,B,False
+1,global_020468,,,B,B,True
+5,global_020484,,,B,B,True
+6,global_020463,,,E,E,True
+6,global_020463,,,A,A,True
+4,global_020477,,,C,C,True
+6,global_020463,,,E,E,True
+0,global_020474,,,A,A,True
+3,global_020485,,,E,E,True
+4,global_020477,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+3,global_020485,,,D,D,True
+5,global_020484,,,D,D,True
+4,global_020477,,,E,E,True
+6,global_020463,,,E,E,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+7,global_020478,,,E,B,False
+4,global_020477,,,C,C,True
+8,global_020481,,,B,B,True
+1,global_020468,,,E,E,True
+0,global_020474,,,B,B,True
+4,global_020477,,,B,B,True
+1,global_020468,,,D,D,True
+5,global_020484,,,A,A,True
+8,global_020481,,,A,A,True
+5,global_020484,,,A,A,True
+1,global_020468,,,A,A,True
+0,global_020474,,,B,B,True
+4,global_020477,,,B,B,True
+0,global_020474,,,A,B,False
+13,global_020143,,,D,D,True
+3,global_020485,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,E,B,False
+3,global_020485,,,E,D,False
+2,global_020469,5,Holistic Understanding of Events,B,E,False
+9,global_020482,,,C,C,True
+1,global_020468,,,D,D,True
+1,global_020468,,,B,D,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+0,global_020474,,,C,C,True
+6,global_020463,,,E,A,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+1,global_020468,,,A,A,True
+5,global_020484,,,D,D,True
+7,global_020478,,,D,D,True
+7,global_020478,,,D,D,True
+4,global_020477,,,E,E,True
+5,global_020484,,,C,C,True
+7,global_020478,,,E,E,True
+4,global_020477,,,D,D,True
+1,global_020468,,,E,E,True
+7,global_020478,,,A,E,False
+2,global_020469,5,Holistic Understanding of Events,F,D,False
+0,global_020474,,,D,D,True
+10,global_020479,,,B,B,True
+7,global_020478,,,B,D,False
+8,global_020481,,,A,E,False
+5,global_020484,,,D,D,True
+9,global_020482,,,C,C,True
+6,global_020463,,,D,D,True
+3,global_020485,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+9,global_020482,,,A,A,True
+5,global_020484,,,E,E,True
+9,global_020482,,,B,B,True
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+8,global_020481,,,D,D,True
+1,global_020468,,,E,B,False
+10,global_020479,,,D,D,True
+8,global_020481,,,D,D,True
+6,global_020463,,,B,B,True
+6,global_020463,,,D,D,True
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,C,False
+4,global_020477,,,C,C,True
+6,global_020463,,,E,E,True
+5,global_020484,,,C,C,True
+5,global_020484,,,A,A,True
+5,global_020484,,,E,A,False
+6,global_020463,,,A,D,False
+1,global_020468,,,E,E,True
+4,global_020477,,,D,C,False
+6,global_020463,,,E,E,True
+0,global_020474,,,E,E,True
+3,global_020485,,,D,E,False
+3,global_020485,,,D,D,True
+3,global_020485,,,C,C,True
+3,global_020485,,,B,B,True
+1,global_020468,,,A,D,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,E,E,True
+5,global_020484,,,B,B,True
+1,global_020468,,,E,E,True
+4,global_020477,,,C,C,True
+7,global_020478,,,D,D,True
+9,global_020482,,,B,B,True
+1,global_020468,,,A,C,False
+3,global_020485,,,D,E,False
+9,global_020482,,,E,E,True
+4,global_020477,,,A,A,True
+3,global_020485,,,D,D,True
+7,global_020478,,,E,E,True
+7,global_020478,,,E,E,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,A,False
+8,global_020481,,,C,D,False
+8,global_020481,,,C,C,True
+1,global_020468,,,C,C,True
+3,global_020485,,,D,D,True
+11,global_020273,,,E,E,True
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+9,global_020482,,,E,E,True
+1,global_020468,,,E,E,True
+9,global_020482,,,A,A,True
+7,global_020478,,,C,C,True
+7,global_020478,,,D,D,True
+0,global_020474,,,D,D,True
+0,global_020474,,,A,A,True
+4,global_020477,,,A,A,True
+4,global_020477,,,D,D,True
+8,global_020481,,,E,E,True
+1,global_020468,,,B,B,True
+7,global_020478,,,D,D,True
+9,global_020482,,,E,E,True
+6,global_020463,,,A,A,True
+0,global_020474,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+5,global_020484,,,E,E,True
+4,global_020477,,,A,A,True
+3,global_020485,,,B,B,True
+5,global_020484,,,B,B,True
+6,global_020463,,,C,C,True
+0,global_020474,,,B,B,True
+5,global_020484,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+4,global_020477,,,E,E,True
+7,global_020478,,,C,E,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,B,B,True
+9,global_020482,,,C,A,False
+0,global_020474,,,C,A,False
+0,global_020474,,,D,D,True
+0,global_020474,,,D,D,True
+12,global_020033,4,Causal Motion,C,C,True
+8,global_020481,,,C,C,True
+6,global_020463,,,A,A,True
+8,global_020481,,,A,A,True
+7,global_020478,,,C,C,True
+4,global_020477,,,D,D,True
+0,global_020474,,,C,C,True
+7,global_020478,,,E,E,True
+7,global_020478,,,B,C,False
+4,global_020477,,,E,E,True
+1,global_020468,,,F,E,False
+1,global_020468,,,D,D,True
+4,global_020477,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+8,global_020481,,,D,D,True
+3,global_020485,,,B,B,True
+3,global_020485,,,A,A,True
+10,global_020479,,,D,D,True
+3,global_020485,,,B,B,True
+0,global_020474,,,B,B,True
+5,global_020484,,,C,C,True
+6,global_020463,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+4,global_020477,,,B,B,True
+6,global_020463,,,E,C,False
+7,global_020478,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+9,global_020482,,,D,D,True
+7,global_020478,,,A,A,True
+7,global_020478,,,E,E,True
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+6,global_020463,,,D,E,False
+11,global_020273,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,B,False
+8,global_020481,,,A,A,True
+0,global_020474,,,A,A,True
+4,global_020477,,,E,E,True
+0,global_020474,,,A,A,True
+5,global_020484,,,D,D,True
+7,global_020478,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,B,False
+6,global_020463,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,C,C,True
+5,global_020484,,,C,C,True
+9,global_020482,,,A,A,True
+8,global_020481,,,E,E,True
+6,global_020463,,,E,E,True
+5,global_020484,,,B,B,True
+7,global_020478,,,C,C,True
+0,global_020474,,,D,D,True
+5,global_020484,,,D,D,True
+1,global_020468,,,C,C,True
+1,global_020468,,,C,C,True
+9,global_020482,,,D,D,True
+4,global_020477,,,B,B,True
+4,global_020477,,,A,A,True
+8,global_020481,,,A,A,True
+0,global_020474,,,D,D,True
+5,global_020484,,,C,C,True
+3,global_020485,,,B,D,False
+6,global_020463,,,D,E,False
+6,global_020463,,,A,A,True
+9,global_020482,,,D,B,False
+8,global_020481,,,E,C,False
+9,global_020482,,,E,E,True
+1,global_020468,,,D,B,False
+4,global_020477,,,A,A,True
+4,global_020477,,,B,B,True
+1,global_020468,,,E,E,True
+8,global_020481,,,B,B,True
+7,global_020478,,,C,B,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+5,global_020484,,,D,E,False
+1,global_020468,,,D,D,True
+8,global_020481,,,C,C,True
+0,global_020474,,,B,B,True
+3,global_020485,,,E,D,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+10,global_020479,,,D,D,True
+1,global_020468,,,C,C,True
+5,global_020484,,,D,D,True
+3,global_020485,,,D,D,True
+5,global_020484,,,C,C,True
+7,global_020478,,,E,E,True
+4,global_020477,,,A,A,True
+4,global_020477,,,B,B,True
+8,global_020481,,,A,C,False
+10,global_020479,,,E,A,False
+0,global_020474,,,C,C,True
+0,global_020474,,,C,C,True
+6,global_020463,,,A,A,True
+1,global_020468,,,D,D,True
+3,global_020485,,,A,A,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+1,global_020468,,,E,E,True
+3,global_020485,,,A,A,True
+5,global_020484,,,E,E,True
+5,global_020484,,,E,E,True
+6,global_020463,,,D,D,True
+0,global_020474,,,E,B,False
+5,global_020484,,,D,D,True
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+5,global_020484,,,B,B,True
+7,global_020478,,,C,E,False
+1,global_020468,,,E,E,True
+8,global_020481,,,E,E,True
+5,global_020484,,,B,A,False
+2,global_020469,5,Holistic Understanding of Events,A,D,False
+3,global_020485,,,D,D,True
+6,global_020463,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+8,global_020481,,,A,A,True
+0,global_020474,,,B,B,True
+9,global_020482,,,A,A,True
+9,global_020482,,,A,A,True
+9,global_020482,,,E,E,True
+1,global_020468,,,A,A,True
+6,global_020463,,,A,A,True
+8,global_020481,,,C,C,True
+9,global_020482,,,D,D,True
+11,global_020273,,,A,B,False
+6,global_020463,,,B,B,True
+5,global_020484,,,E,E,True
+8,global_020481,,,E,E,True
+4,global_020477,,,D,A,False
+4,global_020477,,,C,C,True
+4,global_020477,,,E,E,True
+0,global_020474,,,A,A,True
+5,global_020484,,,C,D,False
+1,global_020468,,,A,A,True
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+0,global_020474,,,B,D,False
+0,global_020474,,,B,B,True
+10,global_020479,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,E,False
+5,global_020484,,,C,C,True
+6,global_020463,,,C,C,True
+1,global_020468,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+8,global_020481,,,A,C,False
+4,global_020477,,,E,E,True
+7,global_020478,,,E,E,True
+11,global_020273,,,B,B,True
+1,global_020468,,,A,A,True
+7,global_020478,,,B,B,True
+0,global_020474,,,A,A,True
+10,global_020479,,,C,C,True
+4,global_020477,,,A,B,False
+10,global_020479,,,C,C,True
+0,global_020474,,,D,C,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+1,global_020468,,,B,B,True
+6,global_020463,,,A,A,True
+5,global_020484,,,B,A,False
+8,global_020481,,,B,B,True
+8,global_020481,,,A,A,True
+1,global_020468,,,B,B,True
+1,global_020468,,,C,C,True
+1,global_020468,,,A,E,False
+6,global_020463,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,D,D,True
+3,global_020485,,,B,B,True
+4,global_020477,,,B,B,True
+8,global_020481,,,B,B,True
+4,global_020477,,,E,E,True
+4,global_020477,,,D,D,True
+4,global_020477,,,E,E,True
+1,global_020468,,,C,C,True
+5,global_020484,,,D,D,True
+1,global_020468,,,C,C,True
+7,global_020478,,,A,A,True
+4,global_020477,,,D,D,True
+4,global_020477,,,C,C,True
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+8,global_020481,,,E,E,True
+4,global_020477,,,A,A,True
+8,global_020481,,,B,B,True
+9,global_020482,,,B,C,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+6,global_020463,,,A,B,False
+5,global_020484,,,B,B,True
+6,global_020463,,,E,E,True
+11,global_020273,,,D,D,True
+3,global_020485,,,E,E,True
+6,global_020463,,,A,A,True
+1,global_020468,,,C,C,True
+0,global_020474,,,D,D,True
+10,global_020479,,,A,A,True
+8,global_020481,,,D,D,True
+1,global_020468,,,C,D,False
+4,global_020477,,,D,D,True
+5,global_020484,,,A,A,True
+7,global_020478,,,A,A,True
+9,global_020482,,,D,A,False
+5,global_020484,,,A,C,False
+7,global_020478,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+9,global_020482,,,D,D,True
+6,global_020463,,,D,D,True
+3,global_020485,,,E,E,True
+3,global_020485,,,B,B,True
+7,global_020478,,,C,C,True
+1,global_020468,,,A,A,True
+3,global_020485,,,C,C,True
+6,global_020463,,,A,A,True
+9,global_020482,,,B,D,False
+5,global_020484,,,A,A,True
+7,global_020478,,,E,E,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+5,global_020484,,,A,A,True
+3,global_020485,,,D,B,False
+9,global_020482,,,C,C,True
+3,global_020485,,,D,D,True
+0,global_020474,,,C,C,True
+6,global_020463,,,B,B,True
+9,global_020482,,,E,E,True
+10,global_020479,,,D,D,True
+3,global_020485,,,C,C,True
+0,global_020474,,,C,E,False
+3,global_020485,,,D,B,False
+4,global_020477,,,A,E,False
+0,global_020474,,,C,C,True
+4,global_020477,,,A,A,True
+1,global_020468,,,D,D,True
+9,global_020482,,,D,D,True
+8,global_020481,,,D,D,True
+1,global_020468,,,B,B,True
+8,global_020481,,,D,D,True
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+10,global_020479,,,A,E,False
+8,global_020481,,,E,E,True
+3,global_020485,,,C,B,False
+10,global_020479,,,C,C,True
+5,global_020484,,,E,E,True
+0,global_020474,,,D,D,True
+8,global_020481,,,B,B,True
+4,global_020477,,,B,C,False
+5,global_020484,,,D,D,True
+5,global_020484,,,C,C,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+4,global_020477,,,D,D,True
+4,global_020477,,,B,E,False
+7,global_020478,,,C,C,True
+0,global_020474,,,B,B,True
+6,global_020463,,,C,C,True
+5,global_020484,,,A,D,False
+4,global_020477,,,B,B,True
+3,global_020485,,,C,E,False
+0,global_020474,,,D,D,True
+1,global_020468,,,E,E,True
+1,global_020468,,,A,D,False
+6,global_020463,,,C,B,False
+5,global_020484,,,E,E,True
+0,global_020474,,,D,A,False
+6,global_020463,,,E,E,True
+6,global_020463,,,E,D,False
+10,global_020479,,,A,D,False
+7,global_020478,,,A,A,True
+1,global_020468,,,B,B,True
+3,global_020485,,,C,C,True
+4,global_020477,,,D,D,True
+5,global_020484,,,B,B,True
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,B,D,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,E,E,True
+1,global_020468,,,B,B,True
+6,global_020463,,,D,D,True
+6,global_020463,,,A,A,True
+8,global_020481,,,A,C,False
+0,global_020474,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+0,global_020474,,,B,B,True
+6,global_020463,,,A,A,True
+3,global_020485,,,D,D,True
+1,global_020468,,,E,C,False
+8,global_020481,,,C,D,False
+5,global_020484,,,D,D,True
+8,global_020481,,,E,E,True
+10,global_020479,,,C,B,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+7,global_020478,,,C,E,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,A,A,True
+5,global_020484,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+6,global_020463,,,B,B,True
+1,global_020468,,,A,A,True
+0,global_020474,,,E,E,True
+0,global_020474,,,E,E,True
+1,global_020468,,,D,D,True
+5,global_020484,,,A,D,False
+6,global_020463,,,B,B,True
+6,global_020463,,,B,B,True
+6,global_020463,,,D,D,True
+4,global_020477,,,C,E,False
+8,global_020481,,,B,B,True
+0,global_020474,,,C,C,True
+6,global_020463,,,E,E,True
+6,global_020463,,,B,B,True
+7,global_020478,,,E,E,True
+1,global_020468,,,C,C,True
+8,global_020481,,,C,C,True
+8,global_020481,,,D,D,True
+3,global_020485,,,E,E,True
+7,global_020478,,,B,B,True
+1,global_020468,,,B,E,False
+0,global_020474,,,A,A,True
+9,global_020482,,,A,A,True
+8,global_020481,,,A,A,True
+4,global_020477,,,D,D,True
+6,global_020463,,,D,D,True
+9,global_020482,,,A,A,True
+1,global_020468,,,C,C,True
+1,global_020468,,,D,D,True
+7,global_020478,,,D,D,True
+7,global_020478,,,A,A,True
+1,global_020468,,,B,B,True
+3,global_020485,,,E,D,False
+7,global_020478,,,A,A,True
+0,global_020474,,,D,D,True
+7,global_020478,,,D,D,True
+6,global_020463,,,D,D,True
+7,global_020478,,,C,C,True
+10,global_020479,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,F,C,False
+6,global_020463,,,D,D,True
+3,global_020485,,,D,D,True
+7,global_020478,,,C,C,True
+3,global_020485,,,A,A,True
+5,global_020484,,,E,E,True
+1,global_020468,,,E,E,True
+6,global_020463,,,A,A,True
+0,global_020474,,,E,A,False
+0,global_020474,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+0,global_020474,,,C,E,False
+5,global_020484,,,D,D,True
+5,global_020484,,,E,E,True
+9,global_020482,,,D,D,True
+6,global_020463,,,D,D,True
+8,global_020481,,,E,E,True
+1,global_020468,,,C,C,True
+5,global_020484,,,A,A,True
+6,global_020463,,,E,E,True
+3,global_020485,,,D,D,True
+0,global_020474,,,B,B,True
+9,global_020482,,,E,E,True
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,A,False
+6,global_020463,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+4,global_020477,,,E,D,False
+7,global_020478,,,B,B,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,C,C,True
+1,global_020468,,,B,B,True
+6,global_020463,,,E,E,True
+5,global_020484,,,D,C,False
+7,global_020478,,,A,A,True
+8,global_020481,,,A,A,True
+5,global_020484,,,B,B,True
+1,global_020468,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+7,global_020478,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+0,global_020474,,,E,E,True
+9,global_020482,,,C,C,True
+6,global_020463,,,C,C,True
+6,global_020463,,,C,C,True
+4,global_020477,,,B,B,True
+7,global_020478,,,A,A,True
+9,global_020482,,,B,B,True
+3,global_020485,,,C,E,False
+9,global_020482,,,A,A,True
+5,global_020484,,,E,A,False
+8,global_020481,,,B,B,True
+9,global_020482,,,B,B,True
+7,global_020478,,,D,D,True
+6,global_020463,,,B,B,True
+5,global_020484,,,D,D,True
+0,global_020474,,,A,A,True
+0,global_020474,,,E,E,True
+9,global_020482,,,A,A,True
+7,global_020478,,,C,D,False
+3,global_020485,,,A,A,True
+9,global_020482,,,B,B,True
+7,global_020478,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,C,False
+7,global_020478,,,A,A,True
+1,global_020468,,,C,C,True
+3,global_020485,,,A,A,True
+4,global_020477,,,E,E,True
+0,global_020474,,,C,C,True
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,C,False
+3,global_020485,,,A,E,False
+5,global_020484,,,D,D,True
+7,global_020478,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,A,A,True
+4,global_020477,,,D,D,True
+0,global_020474,,,A,A,True
+1,global_020468,,,A,A,True
+0,global_020474,,,D,D,True
+5,global_020484,,,C,C,True
+4,global_020477,,,C,E,False
+3,global_020485,,,A,A,True
+6,global_020463,,,E,D,False
+8,global_020481,,,E,E,True
+10,global_020479,,,E,E,True
+7,global_020478,,,B,B,True
+12,global_020033,4,Causal Motion,B,B,True
+7,global_020478,,,D,C,False
+3,global_020485,,,C,C,True
+10,global_020479,,,A,A,True
+3,global_020485,,,D,D,True
+1,global_020468,,,D,D,True
+0,global_020474,,,A,C,False
+4,global_020477,,,D,D,True
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,D,C,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,A,A,True
+5,global_020484,,,C,C,True
+4,global_020477,,,B,B,True
+7,global_020478,,,D,D,True
+3,global_020485,,,D,D,True
+4,global_020477,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,E,E,True
+1,global_020468,,,E,E,True
+6,global_020463,,,E,A,False
+5,global_020484,,,C,D,False
+6,global_020463,,,A,A,True
+6,global_020463,,,B,B,True
+6,global_020463,,,A,B,False
+3,global_020485,,,E,E,True
+5,global_020484,,,E,C,False
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+3,global_020485,,,D,D,True
+7,global_020478,,,C,C,True
+4,global_020477,,,E,E,True
+5,global_020484,,,E,E,True
+1,global_020468,,,F,E,False
+1,global_020468,,,C,C,True
+4,global_020477,,,E,E,True
+5,global_020484,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+6,global_020463,,,F,C,False
+3,global_020485,,,D,D,True
+6,global_020463,,,C,C,True
+8,global_020481,,,D,D,True
+5,global_020484,,,C,C,True
+7,global_020478,,,C,C,True
+9,global_020482,,,A,A,True
+3,global_020485,,,D,D,True
+12,global_020033,4,Causal Motion,D,D,True
+3,global_020485,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,A,A,True
+4,global_020477,,,E,C,False
+1,global_020468,,,D,D,True
+4,global_020477,,,E,A,False
+0,global_020474,,,D,D,True
+1,global_020468,,,A,A,True
+8,global_020481,,,A,A,True
+7,global_020478,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+3,global_020485,,,D,D,True
+4,global_020477,,,D,A,False
+6,global_020463,,,A,D,False
+0,global_020474,,,B,B,True
+1,global_020468,,,C,C,True
+9,global_020482,,,C,E,False
+1,global_020468,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,C,False
+6,global_020463,,,D,D,True
+5,global_020484,,,D,D,True
+7,global_020478,,,A,B,False
+5,global_020484,,,B,B,True
+0,global_020474,,,E,C,False
+6,global_020463,,,C,B,False
+4,global_020477,,,D,D,True
+6,global_020463,,,B,B,True
+0,global_020474,,,A,A,True
+3,global_020485,,,E,E,True
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+4,global_020477,,,D,D,True
+1,global_020468,,,B,B,True
+4,global_020477,,,C,C,True
+7,global_020478,,,B,B,True
+7,global_020478,,,E,E,True
+7,global_020478,,,B,D,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+8,global_020481,,,D,D,True
+3,global_020485,,,C,C,True
+9,global_020482,,,B,B,True
+4,global_020477,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+9,global_020482,,,E,E,True
+5,global_020484,,,B,B,True
+3,global_020485,,,C,C,True
+10,global_020479,,,B,B,True
+9,global_020482,,,A,C,False
+7,global_020478,,,B,D,False
+4,global_020477,,,A,A,True
+8,global_020481,,,B,A,False
+1,global_020468,,,E,E,True
+0,global_020474,,,B,B,True
+5,global_020484,,,D,D,True
+1,global_020468,,,E,E,True
+10,global_020479,,,E,E,True
+4,global_020477,,,D,D,True
+6,global_020463,,,E,E,True
+4,global_020477,,,B,B,True
+3,global_020485,,,C,C,True
+7,global_020478,,,A,D,False
+6,global_020463,,,C,C,True
+9,global_020482,,,D,D,True
+3,global_020485,,,B,C,False
+7,global_020478,,,A,A,True
+5,global_020484,,,C,E,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+7,global_020478,,,B,E,False
+2,global_020469,5,Holistic Understanding of Events,D,E,False
+6,global_020463,,,D,D,True
+5,global_020484,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,C,False
+0,global_020474,,,A,C,False
+0,global_020474,,,E,A,False
+0,global_020474,,,C,A,False
+1,global_020468,,,B,B,True
+5,global_020484,,,D,D,True
+3,global_020485,,,C,C,True
+5,global_020484,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,E,False
+1,global_020468,,,E,E,True
+5,global_020484,,,B,E,False
+3,global_020485,,,D,D,True
+3,global_020485,,,C,C,True
+10,global_020479,,,E,B,False
+3,global_020485,,,D,E,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+10,global_020479,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+1,global_020468,,,A,B,False
+7,global_020478,,,D,D,True
+1,global_020468,,,C,C,True
+4,global_020477,,,E,E,True
+5,global_020484,,,C,C,True
+8,global_020481,,,B,B,True
+3,global_020485,,,D,D,True
+8,global_020481,,,D,D,True
+8,global_020481,,,D,D,True
+0,global_020474,,,B,B,True
+4,global_020477,,,C,C,True
+1,global_020468,,,D,D,True
+6,global_020463,,,D,A,False
+6,global_020463,,,D,D,True
+5,global_020484,,,B,D,False
+5,global_020484,,,E,E,True
+7,global_020478,,,E,E,True
+0,global_020474,,,D,D,True
+1,global_020468,,,A,A,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+4,global_020477,,,E,E,True
+8,global_020481,,,B,B,True
+8,global_020481,,,B,C,False
+5,global_020484,,,A,A,True
+11,global_020273,,,D,E,False
+1,global_020468,,,D,D,True
+4,global_020477,,,B,D,False
+6,global_020463,,,C,E,False
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,B,D,False
+4,global_020477,,,A,A,True
+7,global_020478,,,C,A,False
+7,global_020478,,,A,A,True
+4,global_020477,,,B,B,True
+1,global_020468,,,D,D,True
+8,global_020481,,,C,B,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+3,global_020485,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+10,global_020479,,,A,A,True
+8,global_020481,,,C,C,True
+5,global_020484,,,D,D,True
+8,global_020481,,,C,C,True
+4,global_020477,,,B,B,True
+9,global_020482,,,A,A,True
+3,global_020485,,,C,B,False
+7,global_020478,,,A,A,True
+1,global_020468,,,E,E,True
+7,global_020478,,,A,E,False
+4,global_020477,,,E,E,True
+0,global_020474,,,D,D,True
+8,global_020481,,,E,E,True
+8,global_020481,,,C,C,True
+1,global_020468,,,B,B,True
+5,global_020484,,,B,E,False
+6,global_020463,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+5,global_020484,,,E,E,True
+4,global_020477,,,A,D,False
+6,global_020463,,,A,A,True
+9,global_020482,,,E,E,True
+7,global_020478,,,C,C,True
+8,global_020481,,,B,B,True
+4,global_020477,,,B,B,True
+10,global_020479,,,C,C,True
+9,global_020482,,,C,C,True
+7,global_020478,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+4,global_020477,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,E,D,False
+3,global_020485,,,B,B,True
+3,global_020485,,,E,E,True
+3,global_020485,,,D,D,True
+3,global_020485,,,E,A,False
+6,global_020463,,,E,E,True
+3,global_020485,,,B,B,True
+4,global_020477,,,B,B,True
+4,global_020477,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+4,global_020477,,,A,A,True
+4,global_020477,,,E,E,True
+0,global_020474,,,C,C,True
+1,global_020468,,,C,C,True
+1,global_020468,,,E,D,False
+5,global_020484,,,A,A,True
+5,global_020484,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+0,global_020474,,,A,A,True
+3,global_020485,,,C,C,True
+6,global_020463,,,D,D,True
+4,global_020477,,,E,E,True
+4,global_020477,,,C,C,True
+7,global_020478,,,A,A,True
+3,global_020485,,,D,D,True
+0,global_020474,,,E,E,True
+0,global_020474,,,A,C,False
+9,global_020482,,,B,B,True
+3,global_020485,,,B,B,True
+0,global_020474,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+1,global_020468,,,C,C,True
+3,global_020485,,,A,E,False
+7,global_020478,,,A,B,False
+9,global_020482,,,A,A,True
+1,global_020468,,,E,E,True
+4,global_020477,,,E,E,True
+0,global_020474,,,A,B,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+4,global_020477,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+3,global_020485,,,A,A,True
+1,global_020468,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+6,global_020463,,,D,D,True
+6,global_020463,,,C,C,True
+0,global_020474,,,C,C,True
+0,global_020474,,,A,A,True
+8,global_020481,,,E,E,True
+10,global_020479,,,E,E,True
+0,global_020474,,,D,D,True
+4,global_020477,,,C,C,True
+6,global_020463,,,A,A,True
+10,global_020479,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,D,C,False
+3,global_020485,,,C,B,False
+7,global_020478,,,C,E,False
+0,global_020474,,,C,C,True
+5,global_020484,,,A,C,False
+3,global_020485,,,A,C,False
+0,global_020474,,,A,D,False
+0,global_020474,,,A,C,False
+7,global_020478,,,A,A,True
+0,global_020474,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+8,global_020481,,,E,E,True
+10,global_020479,,,E,E,True
+10,global_020479,,,A,B,False
+5,global_020484,,,C,C,True
+5,global_020484,,,D,D,True
+3,global_020485,,,B,A,False
+9,global_020482,,,D,D,True
+8,global_020481,,,E,E,True
+1,global_020468,,,B,B,True
+1,global_020468,,,E,E,True
+6,global_020463,,,B,C,False
+6,global_020463,,,D,D,True
+7,global_020478,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+7,global_020478,,,B,B,True
+5,global_020484,,,B,B,True
+6,global_020463,,,D,D,True
+5,global_020484,,,D,D,True
+0,global_020474,,,E,E,True
+9,global_020482,,,A,A,True
+8,global_020481,,,A,A,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+8,global_020481,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,D,C,False
+7,global_020478,,,A,A,True
+12,global_020033,4,Causal Motion,C,C,True
+9,global_020482,,,C,C,True
+2,global_020469,5,Holistic Understanding of Events,C,A,False
+9,global_020482,,,E,E,True
+4,global_020477,,,C,C,True
+4,global_020477,,,C,C,True
+1,global_020468,,,C,C,True
+4,global_020477,,,D,D,True
+4,global_020477,,,E,E,True
+7,global_020478,,,D,D,True
+3,global_020485,,,E,E,True
+8,global_020481,,,E,E,True
+7,global_020478,,,B,B,True
+4,global_020477,,,A,A,True
+0,global_020474,,,E,E,True
+3,global_020485,,,D,D,True
+0,global_020474,,,E,E,True
+5,global_020484,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,C,A,False
+2,global_020469,5,Holistic Understanding of Events,E,C,False
+9,global_020482,,,B,E,False
+3,global_020485,,,D,D,True
+7,global_020478,,,A,A,True
+4,global_020477,,,A,A,True
+7,global_020478,,,B,B,True
+0,global_020474,,,E,E,True
+4,global_020477,,,C,C,True
+1,global_020468,,,C,C,True
+1,global_020468,,,E,E,True
+1,global_020468,,,B,B,True
+5,global_020484,,,B,E,False
+2,global_020469,5,Holistic Understanding of Events,E,E,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+2,global_020469,5,Holistic Understanding of Events,E,D,False
+4,global_020477,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,C,C,True
+1,global_020468,,,B,B,True
+3,global_020485,,,E,E,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+1,global_020468,,,B,B,True
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+1,global_020468,,,E,E,True
+9,global_020482,,,A,A,True
+1,global_020468,,,A,A,True
+8,global_020481,,,A,C,False
+1,global_020468,,,A,C,False
+2,global_020469,5,Holistic Understanding of Events,B,B,True
+8,global_020481,,,E,E,True
+5,global_020484,,,D,D,True
+5,global_020484,,,D,D,True
+3,global_020485,,,D,D,True
+5,global_020484,,,B,B,True
+9,global_020482,,,D,D,True
+2,global_020469,5,Holistic Understanding of Events,D,D,True
+9,global_020482,,,B,E,False
+9,global_020482,,,C,C,True
+0,global_020474,,,D,D,True
+0,global_020474,,,A,A,True
+4,global_020477,,,C,E,False
+2,global_020469,5,Holistic Understanding of Events,A,A,True
+3,global_020485,,,A,A,True
+6,global_020463,,,D,D,True

@@ -1,0 +1,1433 @@
+question_id,global_id,category_id,category_name,pred_answer,answer,correct
+55,global_010373,,,D,D,True
+56,global_010374,5,Holistic Understanding of Events,B,B,True
+61,global_010375,3,Action Transition,C,A,False
+62,global_010376,2,Interaction Recognition,B,B,True
+63,global_010377,2,Interaction Recognition,A,D,False
+65,global_010378,4,Causal Motion,D,A,False
+67,global_010379,2,Interaction Recognition,A,C,False
+68,global_010380,1,Change Detection,B,D,False
+71,global_010381,1,Change Detection,C,D,False
+72,global_010382,,,C,C,True
+73,global_010383,4,Causal Motion,C,A,False
+75,global_010384,2,Interaction Recognition,B,A,False
+78,global_010385,4,Causal Motion,D,D,True
+79,global_010386,5,Holistic Understanding of Events,E,D,False
+80,global_010387,5,Holistic Understanding of Events,B,B,True
+82,global_010388,1,Change Detection,A,A,True
+83,global_010389,,,C,D,False
+84,global_010390,2,Interaction Recognition,C,D,False
+113,global_010391,,,D,D,True
+115,global_010392,5,Holistic Understanding of Events,D,D,True
+117,global_010393,3,Action Transition,C,C,True
+120,global_010394,3,Action Transition,C,A,False
+121,global_010395,4,Causal Motion,A,D,False
+123,global_010396,5,Holistic Understanding of Events,D,C,False
+125,global_010397,5,Holistic Understanding of Events,A,A,True
+126,global_010398,3,Action Transition,A,C,False
+127,global_010399,3,Action Transition,C,C,True
+128,global_010400,3,Action Transition,E,A,False
+130,global_010401,3,Action Transition,B,C,False
+132,global_010402,,,D,B,False
+133,global_010403,5,Holistic Understanding of Events,B,B,True
+134,global_010404,1,Change Detection,D,A,False
+135,global_010405,5,Holistic Understanding of Events,C,A,False
+136,global_010406,1,Change Detection,C,C,True
+137,global_010407,5,Holistic Understanding of Events,C,C,True
+250,global_010420,1,Change Detection,A,B,False
+251,global_010421,1,Change Detection,E,C,False
+252,global_010422,,,A,C,False
+253,global_010423,5,Holistic Understanding of Events,B,A,False
+254,global_010424,5,Holistic Understanding of Events,A,C,False
+255,global_010425,3,Action Transition,C,C,True
+257,global_010426,2,Interaction Recognition,B,A,False
+258,global_010427,,,A,A,True
+259,global_010428,,,A,D,False
+264,global_010429,1,Change Detection,A,D,False
+266,global_010430,2,Interaction Recognition,C,B,False
+267,global_010431,2,Interaction Recognition,D,B,False
+268,global_010432,5,Holistic Understanding of Events,B,C,False
+273,global_010433,5,Holistic Understanding of Events,C,D,False
+274,global_010434,5,Holistic Understanding of Events,D,D,True
+277,global_010435,4,Causal Motion,B,D,False
+278,global_010436,,,B,B,True
+279,global_010437,,,E,D,False
+398,global_010438,3,Action Transition,A,B,False
+399,global_010439,4,Causal Motion,A,D,False
+401,global_010440,,,D,A,False
+402,global_010441,1,Change Detection,C,D,False
+403,global_010442,5,Holistic Understanding of Events,C,D,False
+407,global_010443,4,Causal Motion,D,B,False
+410,global_010444,4,Causal Motion,C,B,False
+412,global_010445,5,Holistic Understanding of Events,C,D,False
+414,global_010446,5,Holistic Understanding of Events,D,D,True
+416,global_010447,3,Action Transition,A,A,True
+417,global_010448,5,Holistic Understanding of Events,A,D,False
+419,global_010449,1,Change Detection,B,D,False
+421,global_010450,,,A,A,True
+503,global_010451,,,A,A,True
+506,global_010452,5,Holistic Understanding of Events,E,D,False
+508,global_010453,4,Causal Motion,D,D,True
+509,global_010454,1,Change Detection,B,B,True
+510,global_010455,,,A,B,False
+511,global_010456,2,Interaction Recognition,B,C,False
+513,global_010457,,,B,C,False
+514,global_010458,,,A,A,True
+516,global_010459,5,Holistic Understanding of Events,B,B,True
+517,global_010460,5,Holistic Understanding of Events,A,A,True
+522,global_010461,,,C,A,False
+527,global_010462,,,D,B,False
+528,global_010463,3,Action Transition,A,B,False
+529,global_010464,,,A,A,True
+531,global_010465,,,B,B,True
+532,global_010466,5,Holistic Understanding of Events,A,C,False
+651,global_010467,,,E,C,False
+653,global_010468,,,A,C,False
+654,global_010469,,,C,A,False
+657,global_010470,4,Causal Motion,B,B,True
+658,global_010471,5,Holistic Understanding of Events,E,D,False
+659,global_010472,,,E,A,False
+660,global_010473,1,Change Detection,A,D,False
+661,global_010474,5,Holistic Understanding of Events,E,D,False
+663,global_010475,1,Change Detection,A,D,False
+664,global_010476,2,Interaction Recognition,B,D,False
+665,global_010477,3,Action Transition,C,D,False
+666,global_010478,5,Holistic Understanding of Events,A,D,False
+667,global_010479,5,Holistic Understanding of Events,A,C,False
+668,global_010480,4,Causal Motion,C,D,False
+670,global_010481,3,Action Transition,C,C,True
+671,global_010482,1,Change Detection,A,B,False
+673,global_010483,5,Holistic Understanding of Events,D,B,False
+674,global_010484,,,C,A,False
+842,global_010485,,,A,A,True
+843,global_010486,1,Change Detection,C,B,False
+847,global_010487,2,Interaction Recognition,D,D,True
+848,global_010488,5,Holistic Understanding of Events,C,C,True
+850,global_010489,2,Interaction Recognition,B,A,False
+851,global_010490,5,Holistic Understanding of Events,B,C,False
+854,global_010491,,,E,C,False
+855,global_010492,5,Holistic Understanding of Events,C,C,True
+856,global_010493,2,Interaction Recognition,D,D,True
+857,global_010494,5,Holistic Understanding of Events,D,D,True
+858,global_010495,5,Holistic Understanding of Events,D,A,False
+859,global_010496,,,A,B,False
+860,global_010497,5,Holistic Understanding of Events,A,D,False
+869,global_010498,5,Holistic Understanding of Events,A,D,False
+898,global_010499,,,D,C,False
+899,global_010500,5,Holistic Understanding of Events,A,A,True
+900,global_010501,,,A,A,True
+901,global_010502,,,A,A,True
+903,global_010503,3,Action Transition,C,C,True
+908,global_010504,,,A,B,False
+911,global_010505,2,Interaction Recognition,D,A,False
+912,global_010506,,,A,D,False
+913,global_010507,,,A,D,False
+914,global_010508,5,Holistic Understanding of Events,B,B,True
+916,global_010509,2,Interaction Recognition,B,C,False
+917,global_010510,2,Interaction Recognition,C,C,True
+918,global_010511,5,Holistic Understanding of Events,A,A,True
+977,global_010512,,,D,D,True
+978,global_010513,3,Action Transition,B,D,False
+979,global_010514,5,Holistic Understanding of Events,C,A,False
+983,global_010515,2,Interaction Recognition,A,D,False
+984,global_010516,5,Holistic Understanding of Events,A,C,False
+985,global_010517,1,Change Detection,C,C,True
+989,global_010518,5,Holistic Understanding of Events,C,B,False
+991,global_010519,,,A,C,False
+992,global_010520,,,D,A,False
+993,global_010521,3,Action Transition,A,D,False
+995,global_010522,1,Change Detection,C,C,True
+996,global_010523,3,Action Transition,C,C,True
+998,global_010524,1,Change Detection,A,A,True
+999,global_010525,1,Change Detection,E,C,False
+1000,global_010526,1,Change Detection,C,D,False
+1001,global_010527,3,Action Transition,B,C,False
+1002,global_010528,3,Action Transition,C,D,False
+1055,global_010529,5,Holistic Understanding of Events,E,C,False
+1069,global_010530,,,A,B,False
+1070,global_010531,,,B,B,True
+1071,global_010532,2,Interaction Recognition,C,D,False
+1076,global_010533,,,A,A,True
+1077,global_010534,,,E,D,False
+1079,global_010535,1,Change Detection,A,B,False
+1080,global_010536,,,A,C,False
+1082,global_010537,,,A,B,False
+1083,global_010538,1,Change Detection,A,A,True
+1112,global_010539,2,Interaction Recognition,D,D,True
+1113,global_010540,,,A,A,True
+1114,global_010541,5,Holistic Understanding of Events,A,A,True
+1115,global_010542,1,Change Detection,A,C,False
+1117,global_010543,2,Interaction Recognition,C,D,False
+1118,global_010544,5,Holistic Understanding of Events,B,B,True
+1120,global_010545,5,Holistic Understanding of Events,A,A,True
+1122,global_010546,5,Holistic Understanding of Events,A,D,False
+1123,global_010547,1,Change Detection,A,A,True
+1125,global_010548,5,Holistic Understanding of Events,D,B,False
+1126,global_010549,,,D,D,True
+1128,global_010550,3,Action Transition,D,C,False
+1129,global_010551,3,Action Transition,C,C,True
+1130,global_010552,3,Action Transition,A,D,False
+1132,global_010553,,,B,B,True
+1133,global_010554,5,Holistic Understanding of Events,A,A,True
+1134,global_010555,5,Holistic Understanding of Events,B,A,False
+1135,global_010556,,,D,D,True
+1136,global_010557,,,D,D,True
+1137,global_010558,,,C,A,False
+1225,global_010559,1,Change Detection,B,B,True
+1227,global_010560,,,B,A,False
+1229,global_010561,,,A,C,False
+1231,global_010562,3,Action Transition,B,D,False
+1232,global_010563,5,Holistic Understanding of Events,A,D,False
+1233,global_010564,2,Interaction Recognition,D,B,False
+1234,global_010565,,,C,C,True
+1235,global_010566,1,Change Detection,A,C,False
+1237,global_010567,3,Action Transition,B,D,False
+1240,global_010568,,,A,D,False
+1241,global_010569,,,C,D,False
+1243,global_010570,5,Holistic Understanding of Events,A,D,False
+1246,global_010571,5,Holistic Understanding of Events,E,D,False
+1247,global_010572,,,A,C,False
+1248,global_010573,3,Action Transition,C,C,True
+1249,global_010574,,,A,A,True
+1558,global_010575,,,C,D,False
+1562,global_010576,,,C,D,False
+1564,global_010577,5,Holistic Understanding of Events,A,B,False
+1567,global_010578,,,C,A,False
+1569,global_010579,,,A,B,False
+1570,global_010580,,,B,B,True
+1572,global_010581,5,Holistic Understanding of Events,B,A,False
+1575,global_010582,5,Holistic Understanding of Events,D,D,True
+1576,global_010583,,,E,C,False
+1938,global_010610,,,C,D,False
+1944,global_010611,,,D,C,False
+1945,global_010612,,,A,D,False
+1947,global_010613,1,Change Detection,D,C,False
+1948,global_010614,,,A,A,True
+1955,global_010615,,,B,B,True
+1957,global_010616,,,C,C,True
+1958,global_010617,,,C,D,False
+1959,global_010618,,,C,D,False
+1961,global_010619,,,C,A,False
+1962,global_010620,5,Holistic Understanding of Events,C,C,True
+1963,global_010621,5,Holistic Understanding of Events,C,C,True
+1964,global_010622,,,C,A,False
+1965,global_010623,1,Change Detection,C,A,False
+1966,global_010624,5,Holistic Understanding of Events,A,D,False
+1967,global_010625,,,C,D,False
+2362,global_010644,1,Change Detection,A,B,False
+2367,global_010645,5,Holistic Understanding of Events,B,A,False
+2370,global_010646,,,C,B,False
+2371,global_010647,1,Change Detection,C,B,False
+2372,global_010648,5,Holistic Understanding of Events,C,B,False
+2373,global_010649,1,Change Detection,A,D,False
+2375,global_010650,1,Change Detection,C,C,True
+2376,global_010651,3,Action Transition,A,C,False
+2378,global_010652,5,Holistic Understanding of Events,B,A,False
+2379,global_010653,5,Holistic Understanding of Events,A,C,False
+2380,global_010654,5,Holistic Understanding of Events,A,A,True
+2381,global_010655,,,D,A,False
+2383,global_010656,5,Holistic Understanding of Events,C,A,False
+2385,global_010657,3,Action Transition,A,D,False
+2386,global_010658,2,Interaction Recognition,B,D,False
+2387,global_010659,5,Holistic Understanding of Events,C,C,True
+2390,global_010660,5,Holistic Understanding of Events,C,C,True
+2391,global_010661,5,Holistic Understanding of Events,C,C,True
+2392,global_010662,5,Holistic Understanding of Events,C,C,True
+2393,global_010663,1,Change Detection,B,B,True
+2394,global_010664,,,A,D,False
+2395,global_010665,1,Change Detection,B,B,True
+2396,global_010666,1,Change Detection,A,A,True
+2398,global_010667,,,A,C,False
+2400,global_010668,5,Holistic Understanding of Events,C,C,True
+2401,global_010669,1,Change Detection,A,C,False
+2407,global_010670,1,Change Detection,D,D,True
+2408,global_010671,5,Holistic Understanding of Events,E,A,False
+2411,global_010672,,,A,B,False
+2413,global_010673,1,Change Detection,A,C,False
+2414,global_010674,1,Change Detection,E,B,False
+2417,global_010675,4,Causal Motion,A,D,False
+2561,global_010692,,,C,C,True
+2565,global_010693,,,A,B,False
+2567,global_010694,5,Holistic Understanding of Events,C,B,False
+2568,global_010695,5,Holistic Understanding of Events,C,D,False
+2573,global_010696,,,B,B,True
+2574,global_010697,5,Holistic Understanding of Events,C,C,True
+2576,global_010698,5,Holistic Understanding of Events,B,A,False
+2580,global_010699,,,E,A,False
+2641,global_010700,5,Holistic Understanding of Events,E,D,False
+2642,global_010701,3,Action Transition,A,A,True
+2646,global_010702,2,Interaction Recognition,C,D,False
+2647,global_010703,1,Change Detection,A,D,False
+2651,global_010704,,,B,D,False
+2652,global_010705,3,Action Transition,C,D,False
+2654,global_010706,,,A,A,True
+2657,global_010707,4,Causal Motion,A,B,False
+2658,global_010708,5,Holistic Understanding of Events,A,C,False
+2664,global_010709,5,Holistic Understanding of Events,B,B,True
+2665,global_010710,5,Holistic Understanding of Events,A,A,True
+2672,global_010711,2,Interaction Recognition,C,A,False
+2673,global_010712,5,Holistic Understanding of Events,A,C,False
+2674,global_010713,,,A,C,False
+2675,global_010714,4,Causal Motion,A,A,True
+2677,global_010715,5,Holistic Understanding of Events,A,D,False
+2678,global_010716,1,Change Detection,B,D,False
+2680,global_010717,,,C,A,False
+2682,global_010718,5,Holistic Understanding of Events,A,A,True
+2683,global_010719,3,Action Transition,C,C,True
+2684,global_010720,5,Holistic Understanding of Events,B,B,True
+2685,global_010721,5,Holistic Understanding of Events,C,C,True
+2689,global_010722,2,Interaction Recognition,E,D,False
+2692,global_010723,5,Holistic Understanding of Events,C,C,True
+2723,global_010724,5,Holistic Understanding of Events,A,A,True
+2725,global_010725,5,Holistic Understanding of Events,C,B,False
+2728,global_010726,4,Causal Motion,A,A,True
+2729,global_010727,5,Holistic Understanding of Events,A,C,False
+2731,global_010728,,,A,B,False
+2732,global_010729,3,Action Transition,D,C,False
+2733,global_010730,4,Causal Motion,D,C,False
+2736,global_010731,1,Change Detection,B,C,False
+2739,global_010732,3,Action Transition,D,B,False
+2741,global_010733,,,C,B,False
+2746,global_010734,4,Causal Motion,D,A,False
+2747,global_010735,,,B,C,False
+2750,global_010736,,,A,A,True
+2751,global_010737,1,Change Detection,A,A,True
+2753,global_010738,,,B,A,False
+2754,global_010739,,,C,C,True
+2756,global_010740,,,D,D,True
+2757,global_010741,3,Action Transition,A,D,False
+2759,global_010742,,,E,A,False
+2762,global_010743,5,Holistic Understanding of Events,C,D,False
+2763,global_010744,5,Holistic Understanding of Events,D,C,False
+2764,global_010745,5,Holistic Understanding of Events,C,D,False
+2766,global_010746,5,Holistic Understanding of Events,D,D,True
+2767,global_010747,2,Interaction Recognition,D,B,False
+2768,global_010748,4,Causal Motion,A,B,False
+2769,global_010749,,,D,D,True
+2770,global_010750,4,Causal Motion,C,D,False
+2771,global_010751,2,Interaction Recognition,B,C,False
+2773,global_010752,4,Causal Motion,A,D,False
+2776,global_010753,5,Holistic Understanding of Events,A,C,False
+2778,global_010754,,,B,A,False
+2779,global_010755,5,Holistic Understanding of Events,B,A,False
+2780,global_010756,,,B,D,False
+2781,global_010757,5,Holistic Understanding of Events,A,A,True
+2783,global_010758,5,Holistic Understanding of Events,A,A,True
+2786,global_010759,1,Change Detection,A,B,False
+2787,global_010760,5,Holistic Understanding of Events,B,B,True
+2788,global_010761,5,Holistic Understanding of Events,B,D,False
+2790,global_010762,,,A,C,False
+2795,global_010763,5,Holistic Understanding of Events,A,A,True
+2804,global_010764,,,A,D,False
+2805,global_010765,,,B,B,True
+2806,global_010766,2,Interaction Recognition,A,B,False
+2807,global_010767,4,Causal Motion,C,C,True
+2809,global_010768,1,Change Detection,B,B,True
+2810,global_010769,5,Holistic Understanding of Events,A,A,True
+2812,global_010770,5,Holistic Understanding of Events,C,A,False
+2815,global_010771,4,Causal Motion,B,D,False
+2817,global_010772,1,Change Detection,D,D,True
+2819,global_010773,,,B,B,True
+2821,global_010774,3,Action Transition,D,D,True
+2822,global_010775,5,Holistic Understanding of Events,C,D,False
+2823,global_010776,3,Action Transition,C,B,False
+2824,global_010777,1,Change Detection,D,D,True
+2825,global_010778,4,Causal Motion,C,C,True
+2826,global_010779,5,Holistic Understanding of Events,A,C,False
+2827,global_010780,,,D,D,True
+2828,global_010781,5,Holistic Understanding of Events,D,D,True
+2829,global_010782,1,Change Detection,A,A,True
+2832,global_010783,,,C,A,False
+2833,global_010784,1,Change Detection,D,C,False
+2834,global_010785,5,Holistic Understanding of Events,B,C,False
+2837,global_010786,3,Action Transition,B,B,True
+2958,global_010787,,,C,D,False
+2963,global_010788,5,Holistic Understanding of Events,D,D,True
+2965,global_010789,,,A,B,False
+2967,global_010790,5,Holistic Understanding of Events,A,C,False
+2972,global_010791,1,Change Detection,B,A,False
+2975,global_010792,,,B,B,True
+2976,global_010793,1,Change Detection,A,C,False
+2977,global_010794,5,Holistic Understanding of Events,C,D,False
+2981,global_010795,5,Holistic Understanding of Events,C,D,False
+2982,global_010796,,,C,B,False
+2983,global_010797,2,Interaction Recognition,C,C,True
+2984,global_010798,3,Action Transition,D,C,False
+2987,global_010799,5,Holistic Understanding of Events,A,D,False
+3166,global_010800,1,Change Detection,A,D,False
+3167,global_010801,5,Holistic Understanding of Events,B,A,False
+3168,global_010802,5,Holistic Understanding of Events,A,A,True
+3171,global_010803,4,Causal Motion,D,A,False
+3173,global_010804,4,Causal Motion,C,B,False
+3174,global_010805,3,Action Transition,C,B,False
+3176,global_010806,2,Interaction Recognition,A,A,True
+3177,global_010807,4,Causal Motion,A,C,False
+3178,global_010808,2,Interaction Recognition,A,C,False
+3180,global_010809,,,A,B,False
+3181,global_010810,4,Causal Motion,A,A,True
+3182,global_010811,,,C,C,True
+3183,global_010812,,,B,B,True
+3184,global_010813,,,B,A,False
+3186,global_010814,5,Holistic Understanding of Events,D,D,True
+3187,global_010815,1,Change Detection,A,A,True
+3188,global_010816,1,Change Detection,C,C,True
+3189,global_010817,5,Holistic Understanding of Events,B,A,False
+3335,global_010818,,,D,C,False
+3336,global_010819,5,Holistic Understanding of Events,D,B,False
+3339,global_010820,,,C,C,True
+3341,global_010821,5,Holistic Understanding of Events,C,D,False
+3343,global_010822,3,Action Transition,B,D,False
+3347,global_010823,1,Change Detection,A,B,False
+3350,global_010824,2,Interaction Recognition,C,B,False
+3352,global_010825,2,Interaction Recognition,A,C,False
+3356,global_010826,2,Interaction Recognition,B,B,True
+3357,global_010827,,,A,B,False
+3358,global_010828,,,C,C,True
+3361,global_010829,1,Change Detection,D,D,True
+3363,global_010830,5,Holistic Understanding of Events,C,C,True
+3364,global_010831,5,Holistic Understanding of Events,B,C,False
+3367,global_010832,5,Holistic Understanding of Events,D,D,True
+3368,global_010833,5,Holistic Understanding of Events,B,B,True
+3369,global_010834,2,Interaction Recognition,C,C,True
+3370,global_010835,,,B,B,True
+3371,global_010836,5,Holistic Understanding of Events,A,A,True
+3372,global_010837,5,Holistic Understanding of Events,B,B,True
+3377,global_010838,1,Change Detection,A,B,False
+3378,global_010839,2,Interaction Recognition,A,A,True
+3380,global_010840,5,Holistic Understanding of Events,C,C,True
+3382,global_010841,5,Holistic Understanding of Events,C,D,False
+3383,global_010842,1,Change Detection,C,A,False
+3385,global_010843,2,Interaction Recognition,E,C,False
+3389,global_010844,3,Action Transition,A,C,False
+3390,global_010845,5,Holistic Understanding of Events,C,C,True
+3392,global_010846,,,B,A,False
+3393,global_010847,1,Change Detection,C,C,True
+3395,global_010848,5,Holistic Understanding of Events,A,A,True
+3397,global_010849,,,B,A,False
+3399,global_010850,,,D,D,True
+3436,global_010851,,,A,A,True
+3437,global_010852,3,Action Transition,E,B,False
+3438,global_010853,1,Change Detection,A,B,False
+3439,global_010854,5,Holistic Understanding of Events,C,C,True
+3442,global_010855,3,Action Transition,C,D,False
+3443,global_010856,1,Change Detection,C,B,False
+3444,global_010857,5,Holistic Understanding of Events,A,D,False
+3446,global_010858,5,Holistic Understanding of Events,A,B,False
+3449,global_010859,1,Change Detection,C,D,False
+3451,global_010860,1,Change Detection,C,C,True
+3453,global_010861,3,Action Transition,D,D,True
+3454,global_010862,4,Causal Motion,C,D,False
+3455,global_010863,,,D,A,False
+3457,global_010864,1,Change Detection,A,C,False
+3459,global_010865,3,Action Transition,A,A,True
+3628,global_010866,1,Change Detection,C,B,False
+3629,global_010867,5,Holistic Understanding of Events,C,B,False
+3630,global_010868,5,Holistic Understanding of Events,A,C,False
+3632,global_010869,1,Change Detection,C,C,True
+3633,global_010870,1,Change Detection,C,C,True
+3634,global_010871,2,Interaction Recognition,A,B,False
+3637,global_010872,2,Interaction Recognition,C,D,False
+3638,global_010873,2,Interaction Recognition,C,C,True
+3641,global_010874,2,Interaction Recognition,A,A,True
+3640,global_010875,,,A,A,True
+3646,global_010876,5,Holistic Understanding of Events,B,B,True
+3642,global_010877,4,Causal Motion,C,C,True
+3649,global_010878,2,Interaction Recognition,D,B,False
+3773,global_010879,5,Holistic Understanding of Events,A,A,True
+3774,global_010880,5,Holistic Understanding of Events,C,A,False
+3777,global_010881,1,Change Detection,C,D,False
+3779,global_010882,2,Interaction Recognition,A,A,True
+3782,global_010883,1,Change Detection,C,A,False
+3783,global_010884,2,Interaction Recognition,C,D,False
+3785,global_010885,1,Change Detection,A,C,False
+3786,global_010886,5,Holistic Understanding of Events,B,C,False
+3787,global_010887,2,Interaction Recognition,D,A,False
+3789,global_010888,4,Causal Motion,A,C,False
+3790,global_010889,,,A,B,False
+3791,global_010890,5,Holistic Understanding of Events,C,C,True
+3792,global_010891,2,Interaction Recognition,E,B,False
+3793,global_010892,,,A,D,False
+3794,global_010893,2,Interaction Recognition,D,C,False
+3796,global_010894,1,Change Detection,B,D,False
+3798,global_010895,2,Interaction Recognition,C,A,False
+3799,global_010896,5,Holistic Understanding of Events,A,B,False
+3801,global_010897,5,Holistic Understanding of Events,C,A,False
+3802,global_010898,5,Holistic Understanding of Events,C,A,False
+3946,global_010899,5,Holistic Understanding of Events,D,B,False
+3948,global_010900,,,D,D,True
+3955,global_010901,,,C,D,False
+3959,global_010902,5,Holistic Understanding of Events,C,A,False
+3960,global_010903,1,Change Detection,C,D,False
+3961,global_010904,1,Change Detection,A,C,False
+3962,global_010905,1,Change Detection,B,B,True
+3963,global_010906,4,Causal Motion,B,B,True
+3964,global_010907,1,Change Detection,A,A,True
+3966,global_010908,5,Holistic Understanding of Events,C,C,True
+3968,global_010909,5,Holistic Understanding of Events,C,D,False
+3970,global_010910,1,Change Detection,A,B,False
+3974,global_010911,,,C,A,False
+3976,global_010912,5,Holistic Understanding of Events,B,C,False
+3977,global_010913,5,Holistic Understanding of Events,D,D,True
+3978,global_010914,4,Causal Motion,A,C,False
+3979,global_010915,5,Holistic Understanding of Events,A,C,False
+3982,global_010916,3,Action Transition,B,D,False
+3984,global_010917,3,Action Transition,D,A,False
+3986,global_010918,5,Holistic Understanding of Events,A,B,False
+3988,global_010919,5,Holistic Understanding of Events,B,D,False
+3989,global_010920,5,Holistic Understanding of Events,A,B,False
+3990,global_010921,5,Holistic Understanding of Events,C,D,False
+3994,global_010922,5,Holistic Understanding of Events,D,B,False
+3997,global_010923,5,Holistic Understanding of Events,A,D,False
+3998,global_010924,1,Change Detection,C,C,True
+3999,global_010925,5,Holistic Understanding of Events,B,D,False
+4083,global_010926,1,Change Detection,A,A,True
+4086,global_010927,5,Holistic Understanding of Events,B,B,True
+4089,global_010928,1,Change Detection,A,D,False
+4090,global_010929,2,Interaction Recognition,C,C,True
+4092,global_010930,5,Holistic Understanding of Events,D,C,False
+4098,global_010931,3,Action Transition,A,A,True
+4104,global_010932,,,A,A,True
+4167,global_010933,5,Holistic Understanding of Events,D,D,True
+4169,global_010934,,,C,A,False
+4172,global_010935,1,Change Detection,C,C,True
+4174,global_010936,5,Holistic Understanding of Events,B,B,True
+4177,global_010937,,,C,C,True
+4178,global_010938,1,Change Detection,D,C,False
+4182,global_010939,1,Change Detection,B,C,False
+4187,global_010940,1,Change Detection,A,D,False
+4188,global_010941,3,Action Transition,D,D,True
+4189,global_010942,,,B,B,True
+4190,global_010943,5,Holistic Understanding of Events,C,B,False
+4450,global_010944,5,Holistic Understanding of Events,D,D,True
+4452,global_010945,,,B,D,False
+4454,global_010946,,,C,A,False
+4455,global_010947,2,Interaction Recognition,B,A,False
+4458,global_010948,2,Interaction Recognition,D,C,False
+4459,global_010949,,,B,B,True
+4461,global_010950,5,Holistic Understanding of Events,A,D,False
+4462,global_010951,3,Action Transition,D,B,False
+4463,global_010952,,,A,A,True
+4467,global_010953,3,Action Transition,C,A,False
+4469,global_010954,2,Interaction Recognition,B,C,False
+4470,global_010955,1,Change Detection,C,C,True
+4471,global_010956,5,Holistic Understanding of Events,A,C,False
+4472,global_010957,1,Change Detection,C,D,False
+4473,global_010958,,,A,B,False
+4476,global_010959,3,Action Transition,B,B,True
+4477,global_010960,5,Holistic Understanding of Events,B,D,False
+4478,global_010961,5,Holistic Understanding of Events,B,D,False
+4482,global_010962,5,Holistic Understanding of Events,A,D,False
+4490,global_010963,,,A,D,False
+4491,global_010964,,,C,D,False
+4492,global_010965,5,Holistic Understanding of Events,A,B,False
+4495,global_010966,,,A,A,True
+4496,global_010967,1,Change Detection,C,D,False
+4497,global_010968,5,Holistic Understanding of Events,C,C,True
+4498,global_010969,1,Change Detection,A,C,False
+4500,global_010970,1,Change Detection,A,B,False
+4502,global_010971,5,Holistic Understanding of Events,B,A,False
+4503,global_010972,,,A,A,True
+4505,global_010973,5,Holistic Understanding of Events,C,A,False
+4506,global_010974,3,Action Transition,D,C,False
+4678,global_010975,5,Holistic Understanding of Events,B,A,False
+4680,global_010976,5,Holistic Understanding of Events,A,A,True
+4682,global_010977,,,C,B,False
+4683,global_010978,,,B,A,False
+4684,global_010979,4,Causal Motion,A,D,False
+4686,global_010980,2,Interaction Recognition,A,B,False
+4689,global_010981,5,Holistic Understanding of Events,C,B,False
+4691,global_010982,5,Holistic Understanding of Events,C,C,True
+4692,global_010983,,,C,A,False
+4693,global_010984,,,D,B,False
+4694,global_010985,1,Change Detection,B,A,False
+4697,global_010986,5,Holistic Understanding of Events,A,A,True
+4698,global_010987,2,Interaction Recognition,D,C,False
+4699,global_010988,4,Causal Motion,B,D,False
+4702,global_010989,2,Interaction Recognition,B,A,False
+4703,global_010990,,,B,B,True
+4704,global_010991,2,Interaction Recognition,C,B,False
+4705,global_010992,1,Change Detection,A,B,False
+4706,global_010993,5,Holistic Understanding of Events,E,D,False
+4739,global_010994,5,Holistic Understanding of Events,B,B,True
+4741,global_010995,,,A,A,True
+4742,global_010996,1,Change Detection,E,D,False
+4744,global_010997,,,D,C,False
+4745,global_010998,,,A,B,False
+4747,global_010999,,,E,B,False
+4748,global_011000,2,Interaction Recognition,C,A,False
+4750,global_011001,,,A,A,True
+4751,global_011002,,,D,D,True
+4753,global_011003,2,Interaction Recognition,A,A,True
+4754,global_011004,,,C,C,True
+4757,global_011005,,,A,A,True
+4759,global_011006,,,B,B,True
+4760,global_011007,2,Interaction Recognition,B,D,False
+4762,global_011008,5,Holistic Understanding of Events,E,C,False
+4764,global_011009,5,Holistic Understanding of Events,D,A,False
+4765,global_011010,3,Action Transition,D,B,False
+4769,global_011011,1,Change Detection,A,A,True
+4771,global_011012,5,Holistic Understanding of Events,D,C,False
+4777,global_011013,3,Action Transition,B,C,False
+4783,global_011014,2,Interaction Recognition,A,D,False
+4784,global_011015,5,Holistic Understanding of Events,A,C,False
+4789,global_011016,3,Action Transition,A,C,False
+4791,global_011017,5,Holistic Understanding of Events,E,A,False
+4792,global_011018,2,Interaction Recognition,A,B,False
+4793,global_011019,,,A,D,False
+4794,global_011020,3,Action Transition,B,B,True
+4797,global_011021,3,Action Transition,A,A,True
+4798,global_011022,,,D,D,True
+4799,global_011023,1,Change Detection,C,B,False
+4831,global_011024,,,A,C,False
+4833,global_011025,5,Holistic Understanding of Events,B,B,True
+4834,global_011026,5,Holistic Understanding of Events,B,A,False
+4838,global_011027,,,C,A,False
+4840,global_011028,,,C,D,False
+4841,global_011029,5,Holistic Understanding of Events,B,B,True
+4845,global_011030,,,D,C,False
+4846,global_011031,,,D,D,True
+4847,global_011032,1,Change Detection,C,B,False
+4849,global_011033,5,Holistic Understanding of Events,A,D,False
+4852,global_011034,2,Interaction Recognition,C,A,False
+4853,global_011035,1,Change Detection,C,B,False
+4854,global_011036,5,Holistic Understanding of Events,C,A,False
+4855,global_011037,3,Action Transition,C,D,False
+5038,global_011038,5,Holistic Understanding of Events,C,D,False
+5044,global_011039,3,Action Transition,B,D,False
+5048,global_011040,3,Action Transition,B,B,True
+5049,global_011041,5,Holistic Understanding of Events,C,C,True
+5050,global_011042,5,Holistic Understanding of Events,C,B,False
+5052,global_011043,4,Causal Motion,A,D,False
+5054,global_011044,5,Holistic Understanding of Events,B,B,True
+5058,global_011045,2,Interaction Recognition,B,B,True
+5061,global_011046,5,Holistic Understanding of Events,E,B,False
+5063,global_011047,,,C,C,True
+5253,global_011048,1,Change Detection,A,B,False
+5254,global_011049,1,Change Detection,E,C,False
+5256,global_011050,1,Change Detection,C,D,False
+5257,global_011051,1,Change Detection,A,D,False
+5258,global_011052,5,Holistic Understanding of Events,C,A,False
+5259,global_011053,5,Holistic Understanding of Events,C,D,False
+5260,global_011054,5,Holistic Understanding of Events,A,D,False
+5261,global_011055,5,Holistic Understanding of Events,A,D,False
+5262,global_011056,,,A,D,False
+5263,global_011057,4,Causal Motion,D,C,False
+5267,global_011058,1,Change Detection,A,A,True
+5268,global_011059,5,Holistic Understanding of Events,B,B,True
+5270,global_011060,5,Holistic Understanding of Events,C,A,False
+5272,global_011061,,,B,A,False
+5274,global_011062,1,Change Detection,C,A,False
+5275,global_011063,1,Change Detection,A,D,False
+5277,global_011064,5,Holistic Understanding of Events,A,A,True
+5279,global_011065,5,Holistic Understanding of Events,D,D,True
+2,global_020469,5,Holistic Understanding of Events,A,C,False
+8,global_020481,,,B,B,True
+9,global_020482,,,A,C,False
+10,global_020479,,,A,C,False
+13,global_020143,,,B,C,False
+15,global_011071,,,D,D,True
+17,global_011072,1,Change Detection,B,B,True
+19,global_011073,5,Holistic Understanding of Events,A,D,False
+20,global_011074,1,Change Detection,B,C,False
+21,global_011075,,,C,A,False
+22,global_011076,4,Causal Motion,D,C,False
+23,global_011077,1,Change Detection,B,A,False
+25,global_011078,5,Holistic Understanding of Events,D,D,True
+26,global_011079,,,B,B,True
+28,global_011080,,,A,B,False
+35,global_011081,2,Interaction Recognition,E,B,False
+36,global_011082,5,Holistic Understanding of Events,D,D,True
+37,global_011083,1,Change Detection,B,C,False
+38,global_011084,2,Interaction Recognition,B,B,True
+41,global_011085,5,Holistic Understanding of Events,D,B,False
+42,global_011086,4,Causal Motion,A,C,False
+43,global_011087,5,Holistic Understanding of Events,A,A,True
+44,global_011088,1,Change Detection,A,B,False
+45,global_011089,5,Holistic Understanding of Events,C,A,False
+46,global_011090,5,Holistic Understanding of Events,C,C,True
+47,global_011091,4,Causal Motion,D,B,False
+50,global_011092,,,A,D,False
+51,global_011093,5,Holistic Understanding of Events,C,A,False
+52,global_011094,5,Holistic Understanding of Events,C,A,False
+54,global_011095,5,Holistic Understanding of Events,D,A,False
+477,global_011126,5,Holistic Understanding of Events,A,A,True
+478,global_011127,,,B,B,True
+479,global_011128,1,Change Detection,B,B,True
+480,global_011129,5,Holistic Understanding of Events,B,A,False
+484,global_011130,,,B,B,True
+487,global_011131,,,B,B,True
+488,global_011132,2,Interaction Recognition,B,D,False
+490,global_011133,5,Holistic Understanding of Events,E,C,False
+491,global_011134,5,Holistic Understanding of Events,C,D,False
+493,global_011135,1,Change Detection,C,D,False
+494,global_011136,1,Change Detection,A,D,False
+498,global_011137,,,C,D,False
+499,global_011138,1,Change Detection,C,C,True
+534,global_011139,1,Change Detection,D,D,True
+538,global_011140,1,Change Detection,C,C,True
+539,global_011141,5,Holistic Understanding of Events,C,C,True
+540,global_011142,5,Holistic Understanding of Events,E,A,False
+542,global_011143,4,Causal Motion,A,A,True
+543,global_011144,2,Interaction Recognition,A,B,False
+546,global_011145,1,Change Detection,C,B,False
+550,global_011146,5,Holistic Understanding of Events,A,A,True
+551,global_011147,,,E,B,False
+552,global_011148,4,Causal Motion,D,C,False
+553,global_011149,3,Action Transition,B,A,False
+554,global_011150,5,Holistic Understanding of Events,A,C,False
+555,global_011151,4,Causal Motion,A,A,True
+556,global_011152,4,Causal Motion,B,D,False
+560,global_011153,5,Holistic Understanding of Events,A,A,True
+561,global_011154,5,Holistic Understanding of Events,A,A,True
+594,global_011155,5,Holistic Understanding of Events,B,B,True
+595,global_011156,1,Change Detection,A,D,False
+596,global_011157,2,Interaction Recognition,D,B,False
+598,global_011158,4,Causal Motion,C,A,False
+599,global_011159,1,Change Detection,A,B,False
+600,global_011160,,,A,A,True
+601,global_011161,5,Holistic Understanding of Events,D,D,True
+602,global_011162,,,C,C,True
+603,global_011163,,,B,D,False
+604,global_011164,4,Causal Motion,D,B,False
+608,global_011165,5,Holistic Understanding of Events,B,C,False
+609,global_011166,,,D,D,True
+611,global_011167,5,Holistic Understanding of Events,C,C,True
+612,global_011168,5,Holistic Understanding of Events,B,B,True
+614,global_011169,5,Holistic Understanding of Events,B,D,False
+616,global_011170,,,C,C,True
+617,global_011171,2,Interaction Recognition,A,A,True
+727,global_011187,3,Action Transition,A,D,False
+728,global_011188,5,Holistic Understanding of Events,A,D,False
+729,global_011189,3,Action Transition,B,A,False
+730,global_011190,1,Change Detection,B,B,True
+734,global_011191,5,Holistic Understanding of Events,E,D,False
+735,global_011192,4,Causal Motion,A,B,False
+736,global_011193,3,Action Transition,A,A,True
+737,global_011194,5,Holistic Understanding of Events,A,A,True
+738,global_011195,5,Holistic Understanding of Events,D,B,False
+740,global_011196,3,Action Transition,B,A,False
+743,global_011197,5,Holistic Understanding of Events,C,A,False
+746,global_011198,4,Causal Motion,A,C,False
+747,global_011199,5,Holistic Understanding of Events,A,C,False
+749,global_011200,3,Action Transition,B,C,False
+750,global_011201,2,Interaction Recognition,D,D,True
+751,global_011202,3,Action Transition,B,A,False
+752,global_011203,1,Change Detection,C,D,False
+753,global_011204,,,A,A,True
+757,global_011205,2,Interaction Recognition,B,D,False
+758,global_011206,3,Action Transition,C,B,False
+760,global_011207,4,Causal Motion,C,A,False
+764,global_011208,1,Change Detection,A,A,True
+766,global_011209,1,Change Detection,D,B,False
+767,global_011210,1,Change Detection,B,C,False
+769,global_011211,,,C,B,False
+771,global_011212,4,Causal Motion,A,D,False
+772,global_011213,,,A,B,False
+773,global_011214,3,Action Transition,B,D,False
+778,global_011215,,,C,B,False
+779,global_011216,2,Interaction Recognition,C,C,True
+780,global_011217,,,C,A,False
+783,global_011218,5,Holistic Understanding of Events,B,B,True
+784,global_011219,,,B,C,False
+786,global_011220,4,Causal Motion,C,B,False
+795,global_011221,5,Holistic Understanding of Events,A,A,True
+796,global_011222,1,Change Detection,A,C,False
+797,global_011223,4,Causal Motion,D,D,True
+799,global_011224,3,Action Transition,E,D,False
+800,global_011225,2,Interaction Recognition,A,C,False
+801,global_011226,5,Holistic Understanding of Events,B,D,False
+802,global_011227,5,Holistic Understanding of Events,A,D,False
+803,global_011228,2,Interaction Recognition,A,A,True
+804,global_011229,2,Interaction Recognition,D,A,False
+806,global_011230,,,B,B,True
+807,global_011231,5,Holistic Understanding of Events,A,D,False
+808,global_011232,2,Interaction Recognition,A,B,False
+810,global_011233,2,Interaction Recognition,A,C,False
+811,global_011234,,,A,D,False
+812,global_011235,5,Holistic Understanding of Events,B,B,True
+813,global_011236,1,Change Detection,B,C,False
+1089,global_011237,1,Change Detection,A,A,True
+1090,global_011238,,,D,A,False
+1092,global_011239,,,E,C,False
+1095,global_011240,,,A,D,False
+1097,global_011241,,,C,A,False
+1098,global_011242,,,D,D,True
+1099,global_011243,1,Change Detection,A,C,False
+1102,global_011244,,,D,D,True
+1106,global_011245,,,C,C,True
+1107,global_011246,5,Holistic Understanding of Events,B,B,True
+1108,global_011247,,,B,B,True
+1109,global_011248,,,C,C,True
+1167,global_011249,4,Causal Motion,C,C,True
+1170,global_011250,,,A,C,False
+1174,global_011251,,,A,A,True
+1176,global_011252,1,Change Detection,A,B,False
+1177,global_011253,5,Holistic Understanding of Events,D,D,True
+1179,global_011254,5,Holistic Understanding of Events,B,D,False
+1180,global_011255,4,Causal Motion,C,C,True
+1184,global_011256,5,Holistic Understanding of Events,B,A,False
+1187,global_011257,1,Change Detection,A,D,False
+1188,global_011258,,,B,D,False
+1192,global_011259,5,Holistic Understanding of Events,A,A,True
+1193,global_011260,1,Change Detection,D,B,False
+1194,global_011261,,,A,B,False
+1316,global_011262,2,Interaction Recognition,B,B,True
+1319,global_011263,,,A,B,False
+1320,global_011264,,,C,A,False
+1322,global_011265,2,Interaction Recognition,C,B,False
+1323,global_011266,5,Holistic Understanding of Events,D,D,True
+1324,global_011267,2,Interaction Recognition,A,A,True
+1326,global_011268,5,Holistic Understanding of Events,A,C,False
+1330,global_011269,3,Action Transition,A,B,False
+1333,global_011270,5,Holistic Understanding of Events,D,C,False
+1334,global_011271,1,Change Detection,A,A,True
+1335,global_011272,2,Interaction Recognition,A,A,True
+1337,global_011273,5,Holistic Understanding of Events,D,D,True
+1338,global_011274,2,Interaction Recognition,D,D,True
+1339,global_011275,5,Holistic Understanding of Events,D,A,False
+1341,global_011276,5,Holistic Understanding of Events,C,D,False
+1342,global_011277,5,Holistic Understanding of Events,B,B,True
+1344,global_011278,5,Holistic Understanding of Events,C,D,False
+1348,global_011279,4,Causal Motion,C,C,True
+1352,global_011280,5,Holistic Understanding of Events,D,D,True
+1353,global_011281,5,Holistic Understanding of Events,C,C,True
+1354,global_011282,4,Causal Motion,D,A,False
+1360,global_011283,5,Holistic Understanding of Events,D,D,True
+1364,global_011284,,,A,D,False
+1416,global_011285,,,A,B,False
+1417,global_011286,4,Causal Motion,A,A,True
+1418,global_011287,4,Causal Motion,A,A,True
+1419,global_011288,,,A,A,True
+1420,global_011289,,,A,C,False
+1425,global_011290,,,D,C,False
+1426,global_011291,5,Holistic Understanding of Events,E,A,False
+1428,global_011292,5,Holistic Understanding of Events,A,B,False
+1429,global_011293,5,Holistic Understanding of Events,B,C,False
+1430,global_011294,,,A,D,False
+1432,global_011295,5,Holistic Understanding of Events,A,C,False
+1433,global_011296,,,A,A,True
+1434,global_011297,5,Holistic Understanding of Events,C,C,True
+1436,global_011298,5,Holistic Understanding of Events,C,B,False
+1437,global_011299,1,Change Detection,A,D,False
+1581,global_011300,,,D,D,True
+1583,global_011301,,,D,D,True
+1584,global_011302,3,Action Transition,B,D,False
+1586,global_011303,5,Holistic Understanding of Events,D,D,True
+1588,global_011304,5,Holistic Understanding of Events,D,A,False
+1589,global_011305,3,Action Transition,C,A,False
+1591,global_011306,,,A,D,False
+1592,global_011307,1,Change Detection,C,D,False
+1593,global_011308,4,Causal Motion,D,C,False
+1595,global_011309,5,Holistic Understanding of Events,A,B,False
+1596,global_011310,1,Change Detection,C,C,True
+1598,global_011311,5,Holistic Understanding of Events,A,A,True
+1599,global_011312,,,C,B,False
+1600,global_011313,,,A,D,False
+1601,global_011314,5,Holistic Understanding of Events,B,A,False
+1603,global_011315,5,Holistic Understanding of Events,B,C,False
+1605,global_011316,5,Holistic Understanding of Events,C,B,False
+1611,global_011317,,,C,C,True
+1612,global_011318,5,Holistic Understanding of Events,B,D,False
+1617,global_011319,,,A,D,False
+1619,global_011320,1,Change Detection,C,A,False
+1620,global_011321,5,Holistic Understanding of Events,D,D,True
+1621,global_011322,1,Change Detection,E,A,False
+1622,global_011323,2,Interaction Recognition,C,C,True
+1624,global_011324,,,C,B,False
+1625,global_011325,,,A,B,False
+1626,global_011326,,,A,D,False
+1627,global_011327,3,Action Transition,B,B,True
+1628,global_011328,1,Change Detection,A,D,False
+1629,global_011329,3,Action Transition,A,A,True
+1630,global_011330,2,Interaction Recognition,A,A,True
+1631,global_011331,,,A,A,True
+1632,global_011332,5,Holistic Understanding of Events,E,A,False
+1634,global_011333,3,Action Transition,C,C,True
+1636,global_011334,1,Change Detection,D,D,True
+1734,global_011335,5,Holistic Understanding of Events,D,C,False
+1735,global_011336,,,C,A,False
+1736,global_011337,2,Interaction Recognition,A,A,True
+1738,global_011338,5,Holistic Understanding of Events,D,B,False
+1744,global_011339,,,A,D,False
+1745,global_011340,,,A,C,False
+1746,global_011341,5,Holistic Understanding of Events,B,A,False
+1749,global_011342,5,Holistic Understanding of Events,C,D,False
+1750,global_011343,5,Holistic Understanding of Events,B,B,True
+1753,global_011344,,,D,A,False
+1756,global_011345,,,A,C,False
+1757,global_011346,5,Holistic Understanding of Events,C,B,False
+1758,global_011347,5,Holistic Understanding of Events,C,B,False
+1819,global_011348,,,D,D,True
+1821,global_011349,,,D,B,False
+1822,global_011350,2,Interaction Recognition,A,B,False
+1823,global_011351,,,A,D,False
+1828,global_011352,5,Holistic Understanding of Events,B,B,True
+1829,global_011353,5,Holistic Understanding of Events,A,A,True
+1830,global_011354,1,Change Detection,D,C,False
+1834,global_011355,5,Holistic Understanding of Events,C,B,False
+1835,global_011356,,,B,D,False
+1838,global_011357,,,B,A,False
+1840,global_011358,,,A,C,False
+1841,global_011359,5,Holistic Understanding of Events,A,C,False
+1842,global_011360,,,C,A,False
+1845,global_011361,5,Holistic Understanding of Events,D,A,False
+1846,global_011362,,,A,A,True
+1851,global_011363,,,C,C,True
+1853,global_011364,,,C,A,False
+1855,global_011365,,,B,C,False
+1856,global_011366,,,B,C,False
+1858,global_011367,,,C,D,False
+1859,global_011368,3,Action Transition,A,D,False
+1860,global_011369,5,Holistic Understanding of Events,B,B,True
+1861,global_011370,,,C,D,False
+1862,global_011371,,,C,B,False
+1863,global_011372,,,A,D,False
+1865,global_011373,5,Holistic Understanding of Events,C,A,False
+1878,global_011374,,,B,A,False
+1885,global_011375,,,C,A,False
+1886,global_011376,,,C,C,True
+1890,global_011377,5,Holistic Understanding of Events,B,D,False
+1896,global_011378,,,C,B,False
+1897,global_011379,,,A,C,False
+1898,global_011380,,,B,D,False
+1899,global_011381,,,C,B,False
+1900,global_011382,,,A,D,False
+1903,global_011383,3,Action Transition,A,C,False
+1904,global_011384,,,A,C,False
+1907,global_011385,1,Change Detection,E,B,False
+1909,global_011386,,,D,D,True
+1913,global_011387,,,A,D,False
+1915,global_011388,,,B,A,False
+1917,global_011389,,,B,C,False
+1921,global_011390,5,Holistic Understanding of Events,A,D,False
+1922,global_011391,,,D,A,False
+1923,global_011392,,,A,D,False
+1926,global_011393,5,Holistic Understanding of Events,C,D,False
+1928,global_011394,,,B,B,True
+1929,global_011395,,,C,D,False
+1932,global_011396,,,A,B,False
+1934,global_011397,,,A,C,False
+1937,global_011398,,,A,B,False
+2064,global_011399,5,Holistic Understanding of Events,A,A,True
+2065,global_011400,1,Change Detection,E,C,False
+2067,global_011401,3,Action Transition,A,C,False
+2069,global_011402,5,Holistic Understanding of Events,B,D,False
+2071,global_011403,,,E,D,False
+2072,global_011404,,,A,D,False
+2074,global_011405,,,C,B,False
+2076,global_011406,,,D,A,False
+2079,global_011407,5,Holistic Understanding of Events,D,C,False
+2082,global_011408,3,Action Transition,A,B,False
+2083,global_011409,,,A,B,False
+2084,global_011410,,,C,A,False
+2087,global_011411,,,E,B,False
+2088,global_011412,,,B,B,True
+2092,global_011413,5,Holistic Understanding of Events,C,C,True
+2093,global_011414,5,Holistic Understanding of Events,C,C,True
+2096,global_011415,,,A,B,False
+2097,global_011416,,,E,C,False
+2098,global_011417,5,Holistic Understanding of Events,C,A,False
+2099,global_011418,,,C,C,True
+2112,global_011419,1,Change Detection,A,B,False
+2113,global_011420,5,Holistic Understanding of Events,B,B,True
+2117,global_011421,,,D,D,True
+2118,global_011422,5,Holistic Understanding of Events,C,A,False
+2119,global_011423,,,A,C,False
+2120,global_011424,,,C,D,False
+2121,global_011425,5,Holistic Understanding of Events,B,B,True
+2122,global_011426,1,Change Detection,C,B,False
+2153,global_011427,5,Holistic Understanding of Events,B,B,True
+2154,global_011428,2,Interaction Recognition,D,C,False
+2156,global_011429,1,Change Detection,C,B,False
+2157,global_011430,1,Change Detection,D,B,False
+2160,global_011431,,,D,B,False
+2162,global_011432,,,A,A,True
+2164,global_011433,5,Holistic Understanding of Events,A,A,True
+2166,global_011434,5,Holistic Understanding of Events,C,C,True
+2171,global_011435,1,Change Detection,A,A,True
+2174,global_011436,,,A,D,False
+2175,global_011437,3,Action Transition,A,D,False
+2176,global_011438,,,A,B,False
+2178,global_011439,5,Holistic Understanding of Events,C,A,False
+2179,global_011440,2,Interaction Recognition,B,D,False
+2181,global_011441,5,Holistic Understanding of Events,A,B,False
+2243,global_011442,1,Change Detection,B,B,True
+2244,global_011443,,,D,D,True
+2245,global_011444,,,B,A,False
+2248,global_011445,,,B,C,False
+2250,global_011446,,,C,C,True
+2251,global_011447,,,C,C,True
+2253,global_011448,1,Change Detection,A,C,False
+2255,global_011449,1,Change Detection,A,B,False
+2256,global_011450,,,C,A,False
+2257,global_011451,,,C,A,False
+2259,global_011452,,,C,D,False
+2260,global_011453,1,Change Detection,A,C,False
+2262,global_011454,5,Holistic Understanding of Events,A,D,False
+2264,global_011455,1,Change Detection,E,B,False
+2265,global_011456,,,B,B,True
+2266,global_011457,,,A,B,False
+2267,global_011458,,,C,C,True
+2268,global_011459,,,B,B,True
+2269,global_011460,1,Change Detection,D,B,False
+2270,global_011461,1,Change Detection,A,C,False
+2271,global_011462,,,B,B,True
+2273,global_011463,5,Holistic Understanding of Events,C,C,True
+2479,global_011464,,,B,B,True
+2480,global_011465,,,C,A,False
+2481,global_011466,,,D,D,True
+2482,global_011467,,,B,B,True
+2483,global_011468,4,Causal Motion,C,D,False
+2487,global_011469,2,Interaction Recognition,B,B,True
+2489,global_011470,5,Holistic Understanding of Events,B,B,True
+2490,global_011471,5,Holistic Understanding of Events,D,C,False
+2491,global_011472,,,B,B,True
+2492,global_011473,,,C,A,False
+2493,global_011474,5,Holistic Understanding of Events,C,D,False
+2494,global_011475,1,Change Detection,B,C,False
+2495,global_011476,,,A,A,True
+2496,global_011477,,,A,A,True
+2498,global_011478,5,Holistic Understanding of Events,B,A,False
+2501,global_011479,,,E,D,False
+2502,global_011480,,,C,B,False
+2584,global_011481,5,Holistic Understanding of Events,A,B,False
+2585,global_011482,5,Holistic Understanding of Events,B,C,False
+2590,global_011483,5,Holistic Understanding of Events,C,D,False
+2592,global_011484,,,E,B,False
+2593,global_011485,,,D,D,True
+2596,global_011486,5,Holistic Understanding of Events,A,B,False
+2597,global_011487,4,Causal Motion,D,D,True
+2598,global_011488,,,A,C,False
+2599,global_011489,5,Holistic Understanding of Events,D,C,False
+2600,global_011490,5,Holistic Understanding of Events,A,D,False
+2601,global_011491,4,Causal Motion,A,A,True
+2604,global_011492,5,Holistic Understanding of Events,D,C,False
+2605,global_011493,5,Holistic Understanding of Events,D,D,True
+2606,global_011494,5,Holistic Understanding of Events,A,A,True
+2607,global_011495,5,Holistic Understanding of Events,D,D,True
+2608,global_011496,5,Holistic Understanding of Events,D,B,False
+2869,global_011497,5,Holistic Understanding of Events,B,D,False
+2871,global_011498,,,D,C,False
+2872,global_011499,3,Action Transition,A,D,False
+2873,global_011500,5,Holistic Understanding of Events,A,A,True
+2876,global_011501,1,Change Detection,A,B,False
+2877,global_011502,,,A,D,False
+2882,global_011503,5,Holistic Understanding of Events,B,A,False
+2883,global_011504,2,Interaction Recognition,C,B,False
+2884,global_011505,5,Holistic Understanding of Events,C,A,False
+2886,global_011506,1,Change Detection,A,C,False
+2887,global_011507,,,A,C,False
+2888,global_011508,,,C,B,False
+2890,global_011509,5,Holistic Understanding of Events,A,D,False
+2891,global_011510,,,D,D,True
+2893,global_011511,3,Action Transition,E,C,False
+2894,global_011512,,,D,D,True
+2896,global_011513,1,Change Detection,A,B,False
+2898,global_011514,1,Change Detection,B,D,False
+2899,global_011515,,,A,C,False
+2900,global_011516,4,Causal Motion,A,A,True
+2901,global_011517,5,Holistic Understanding of Events,A,C,False
+2904,global_011518,,,A,D,False
+2906,global_011519,,,B,B,True
+2908,global_011520,5,Holistic Understanding of Events,C,C,True
+2909,global_011521,5,Holistic Understanding of Events,D,B,False
+2912,global_011522,,,A,A,True
+2913,global_011523,5,Holistic Understanding of Events,C,D,False
+2914,global_011524,5,Holistic Understanding of Events,A,B,False
+2915,global_011525,5,Holistic Understanding of Events,B,C,False
+2917,global_011526,5,Holistic Understanding of Events,A,B,False
+2919,global_011527,4,Causal Motion,B,D,False
+2922,global_011528,5,Holistic Understanding of Events,A,B,False
+3019,global_011529,3,Action Transition,B,B,True
+3021,global_011530,5,Holistic Understanding of Events,B,A,False
+3023,global_011531,,,B,D,False
+3025,global_011532,,,B,A,False
+3027,global_011533,3,Action Transition,C,C,True
+3028,global_011534,1,Change Detection,B,D,False
+3030,global_011535,3,Action Transition,D,D,True
+3034,global_011536,,,E,D,False
+3035,global_011537,2,Interaction Recognition,B,B,True
+3036,global_011538,,,E,B,False
+3040,global_011539,,,B,C,False
+3044,global_011540,5,Holistic Understanding of Events,C,C,True
+3045,global_011541,5,Holistic Understanding of Events,D,D,True
+3047,global_011542,,,B,B,True
+3078,global_011543,,,D,D,True
+3080,global_011544,5,Holistic Understanding of Events,A,A,True
+3082,global_011545,5,Holistic Understanding of Events,C,D,False
+3084,global_011546,5,Holistic Understanding of Events,B,B,True
+3087,global_011547,5,Holistic Understanding of Events,A,C,False
+3088,global_011548,5,Holistic Understanding of Events,A,B,False
+3089,global_011549,,,B,B,True
+3092,global_011550,,,C,C,True
+3093,global_011551,5,Holistic Understanding of Events,B,B,True
+3094,global_011552,,,B,B,True
+3097,global_011553,,,B,D,False
+3098,global_011554,5,Holistic Understanding of Events,B,B,True
+3102,global_011555,,,A,B,False
+3103,global_011556,2,Interaction Recognition,A,A,True
+3105,global_011557,5,Holistic Understanding of Events,C,D,False
+3108,global_011558,,,B,B,True
+3113,global_011559,5,Holistic Understanding of Events,A,A,True
+3118,global_011560,,,A,A,True
+3119,global_011561,3,Action Transition,A,C,False
+3122,global_011562,2,Interaction Recognition,A,D,False
+3123,global_011563,5,Holistic Understanding of Events,C,C,True
+3124,global_011564,5,Holistic Understanding of Events,B,B,True
+3126,global_011565,5,Holistic Understanding of Events,A,C,False
+3128,global_011566,,,C,A,False
+3131,global_011567,,,C,B,False
+3132,global_011568,,,B,A,False
+3221,global_011569,5,Holistic Understanding of Events,B,B,True
+3222,global_011570,,,E,D,False
+3223,global_011571,,,A,C,False
+3224,global_011572,1,Change Detection,B,B,True
+3229,global_011573,5,Holistic Understanding of Events,C,D,False
+3231,global_011574,5,Holistic Understanding of Events,B,D,False
+3235,global_011575,4,Causal Motion,B,B,True
+3237,global_011576,3,Action Transition,B,C,False
+3238,global_011577,3,Action Transition,C,D,False
+3241,global_011578,3,Action Transition,C,B,False
+3248,global_011579,2,Interaction Recognition,A,B,False
+3305,global_011580,3,Action Transition,C,C,True
+3308,global_011581,3,Action Transition,E,D,False
+3311,global_011582,2,Interaction Recognition,A,C,False
+3312,global_011583,,,A,D,False
+3313,global_011584,1,Change Detection,D,B,False
+3314,global_011585,2,Interaction Recognition,D,D,True
+3317,global_011586,3,Action Transition,A,B,False
+3318,global_011587,2,Interaction Recognition,B,A,False
+3320,global_011588,5,Holistic Understanding of Events,A,A,True
+3321,global_011589,3,Action Transition,B,D,False
+3322,global_011590,,,A,C,False
+3323,global_011591,1,Change Detection,A,A,True
+3325,global_011592,5,Holistic Understanding of Events,A,A,True
+3326,global_011593,1,Change Detection,C,B,False
+3329,global_011594,5,Holistic Understanding of Events,A,A,True
+3330,global_011595,,,B,B,True
+3331,global_011596,,,A,A,True
+3332,global_011597,,,A,B,False
+3401,global_011598,5,Holistic Understanding of Events,C,C,True
+3404,global_011599,,,B,C,False
+3409,global_011600,,,D,D,True
+3413,global_011601,,,C,C,True
+3415,global_011602,5,Holistic Understanding of Events,D,C,False
+3416,global_011603,,,A,A,True
+3417,global_011604,1,Change Detection,C,A,False
+3419,global_011605,5,Holistic Understanding of Events,A,C,False
+3420,global_011606,,,B,B,True
+3421,global_011607,3,Action Transition,B,C,False
+3422,global_011608,,,A,A,True
+3424,global_011609,5,Holistic Understanding of Events,B,D,False
+3425,global_011610,5,Holistic Understanding of Events,C,D,False
+3428,global_011611,2,Interaction Recognition,C,D,False
+3431,global_011612,,,B,B,True
+3432,global_011613,5,Holistic Understanding of Events,C,D,False
+3462,global_011614,,,C,B,False
+3463,global_011615,,,C,D,False
+3468,global_011616,5,Holistic Understanding of Events,B,C,False
+3469,global_011617,4,Causal Motion,C,D,False
+3472,global_011618,5,Holistic Understanding of Events,C,C,True
+3473,global_011619,2,Interaction Recognition,A,C,False
+3474,global_011620,4,Causal Motion,C,C,True
+3475,global_011621,5,Holistic Understanding of Events,B,A,False
+3476,global_011622,,,E,A,False
+3477,global_011623,3,Action Transition,A,B,False
+3479,global_011624,3,Action Transition,D,D,True
+3480,global_011625,5,Holistic Understanding of Events,C,B,False
+3481,global_011626,,,A,D,False
+3483,global_011627,3,Action Transition,A,A,True
+3485,global_011628,1,Change Detection,A,C,False
+3486,global_011629,2,Interaction Recognition,B,B,True
+3488,global_011630,3,Action Transition,D,D,True
+3490,global_011631,5,Holistic Understanding of Events,D,A,False
+3523,global_011632,1,Change Detection,D,C,False
+3524,global_011633,2,Interaction Recognition,B,A,False
+3525,global_011634,,,D,D,True
+3528,global_011635,3,Action Transition,B,B,True
+3529,global_011636,4,Causal Motion,A,B,False
+3530,global_011637,4,Causal Motion,D,A,False
+3533,global_011638,1,Change Detection,A,C,False
+3534,global_011639,3,Action Transition,A,A,True
+3535,global_011640,4,Causal Motion,D,B,False
+3539,global_011641,1,Change Detection,C,C,True
+3540,global_011642,2,Interaction Recognition,B,C,False
+3541,global_011643,5,Holistic Understanding of Events,C,C,True
+3542,global_011644,1,Change Detection,B,A,False
+3543,global_011645,1,Change Detection,A,B,False
+3544,global_011646,5,Holistic Understanding of Events,C,B,False
+3919,global_011647,1,Change Detection,C,C,True
+3921,global_011648,4,Causal Motion,D,C,False
+3924,global_011649,3,Action Transition,B,D,False
+3925,global_011650,4,Causal Motion,C,B,False
+3927,global_011651,,,A,A,True
+3928,global_011652,4,Causal Motion,A,B,False
+3929,global_011653,1,Change Detection,A,C,False
+3930,global_011654,1,Change Detection,B,D,False
+3931,global_011655,1,Change Detection,A,A,True
+3932,global_011656,,,C,C,True
+3934,global_011657,5,Holistic Understanding of Events,B,A,False
+3935,global_011658,5,Holistic Understanding of Events,C,B,False
+3936,global_011659,5,Holistic Understanding of Events,A,C,False
+3937,global_011660,5,Holistic Understanding of Events,B,B,True
+3938,global_011661,5,Holistic Understanding of Events,C,C,True
+3939,global_011662,5,Holistic Understanding of Events,B,D,False
+3941,global_011663,1,Change Detection,A,A,True
+3944,global_011664,5,Holistic Understanding of Events,D,D,True
+4003,global_011665,5,Holistic Understanding of Events,B,D,False
+4004,global_011666,4,Causal Motion,C,C,True
+4005,global_011667,5,Holistic Understanding of Events,A,D,False
+4007,global_011668,2,Interaction Recognition,B,D,False
+4009,global_011669,4,Causal Motion,A,A,True
+4010,global_011670,5,Holistic Understanding of Events,A,D,False
+4011,global_011671,2,Interaction Recognition,E,B,False
+4012,global_011672,1,Change Detection,A,A,True
+4015,global_011673,5,Holistic Understanding of Events,C,A,False
+4021,global_011674,4,Causal Motion,A,A,True
+4023,global_011675,4,Causal Motion,E,A,False
+4024,global_011676,3,Action Transition,B,A,False
+4025,global_011677,4,Causal Motion,A,C,False
+4026,global_011678,5,Holistic Understanding of Events,A,D,False
+4027,global_011679,5,Holistic Understanding of Events,A,B,False
+4028,global_011680,5,Holistic Understanding of Events,C,C,True
+4029,global_011681,5,Holistic Understanding of Events,B,A,False
+4039,global_011682,,,D,D,True
+4040,global_011683,1,Change Detection,C,C,True
+4041,global_011684,,,B,B,True
+4042,global_011685,4,Causal Motion,A,A,True
+4043,global_011686,4,Causal Motion,C,C,True
+4050,global_011687,2,Interaction Recognition,C,D,False
+4052,global_011688,5,Holistic Understanding of Events,A,A,True
+4054,global_011689,,,C,C,True
+4055,global_011690,,,B,A,False
+4056,global_011691,1,Change Detection,B,B,True
+4058,global_011692,3,Action Transition,C,A,False
+4062,global_011693,,,B,B,True
+4063,global_011694,3,Action Transition,C,A,False
+4065,global_011695,2,Interaction Recognition,A,C,False
+4067,global_011696,,,D,D,True
+4071,global_011697,1,Change Detection,C,D,False
+4075,global_011698,2,Interaction Recognition,D,A,False
+4081,global_011699,5,Holistic Understanding of Events,B,B,True
+4107,global_011700,5,Holistic Understanding of Events,C,C,True
+4108,global_011701,,,A,A,True
+4109,global_011702,5,Holistic Understanding of Events,C,C,True
+4110,global_011703,,,C,C,True
+4114,global_011704,1,Change Detection,A,C,False
+4118,global_011705,5,Holistic Understanding of Events,D,B,False
+4119,global_011706,3,Action Transition,B,C,False
+4120,global_011707,,,A,A,True
+4121,global_011708,5,Holistic Understanding of Events,D,B,False
+4125,global_011709,,,A,C,False
+4126,global_011710,,,D,D,True
+4128,global_011711,,,B,D,False
+4129,global_011712,,,A,C,False
+4130,global_011713,,,A,A,True
+4131,global_011714,,,B,A,False
+4132,global_011715,3,Action Transition,C,C,True
+4133,global_011716,5,Holistic Understanding of Events,A,A,True
+4134,global_011717,,,C,A,False
+4135,global_011718,3,Action Transition,A,C,False
+4144,global_011719,,,A,A,True
+4145,global_011720,5,Holistic Understanding of Events,C,B,False
+4146,global_011721,2,Interaction Recognition,A,C,False
+4148,global_011722,4,Causal Motion,D,C,False
+4151,global_011723,5,Holistic Understanding of Events,C,A,False
+4152,global_011724,4,Causal Motion,D,B,False
+4153,global_011725,2,Interaction Recognition,C,B,False
+4155,global_011726,5,Holistic Understanding of Events,A,D,False
+4158,global_011727,5,Holistic Understanding of Events,D,B,False
+4160,global_011728,5,Holistic Understanding of Events,A,B,False
+4161,global_011729,4,Causal Motion,D,C,False
+4162,global_011730,4,Causal Motion,B,C,False
+4166,global_011731,2,Interaction Recognition,B,D,False
+4192,global_011732,5,Holistic Understanding of Events,A,A,True
+4193,global_011733,5,Holistic Understanding of Events,C,C,True
+4195,global_011734,,,A,C,False
+4197,global_011735,,,C,D,False
+4198,global_011736,1,Change Detection,A,C,False
+4199,global_011737,5,Holistic Understanding of Events,A,A,True
+4200,global_011738,5,Holistic Understanding of Events,B,C,False
+4201,global_011739,5,Holistic Understanding of Events,A,C,False
+4202,global_011740,,,A,A,True
+4203,global_011741,2,Interaction Recognition,A,B,False
+4207,global_011742,1,Change Detection,D,D,True
+4209,global_011743,1,Change Detection,C,B,False
+4212,global_011744,1,Change Detection,A,C,False
+4213,global_011745,1,Change Detection,A,D,False
+4215,global_011746,,,C,D,False
+4216,global_011747,1,Change Detection,C,C,True
+4221,global_011748,3,Action Transition,A,B,False
+4222,global_011749,,,A,A,True
+4223,global_011750,5,Holistic Understanding of Events,B,B,True
+4226,global_011751,5,Holistic Understanding of Events,B,B,True
+4227,global_011752,,,C,A,False
+4234,global_011753,5,Holistic Understanding of Events,D,D,True
+4238,global_011754,3,Action Transition,A,B,False
+4239,global_011755,5,Holistic Understanding of Events,B,B,True
+4241,global_011756,3,Action Transition,C,C,True
+4242,global_011757,5,Holistic Understanding of Events,D,D,True
+4243,global_011758,,,C,B,False
+4246,global_011759,5,Holistic Understanding of Events,E,A,False
+4301,global_011760,5,Holistic Understanding of Events,D,B,False
+4303,global_011761,,,C,C,True
+4304,global_011762,5,Holistic Understanding of Events,A,D,False
+4305,global_011763,3,Action Transition,D,B,False
+4306,global_011764,2,Interaction Recognition,B,D,False
+4307,global_011765,5,Holistic Understanding of Events,C,A,False
+4310,global_011766,5,Holistic Understanding of Events,A,D,False
+4312,global_011767,,,A,C,False
+4315,global_011768,,,A,B,False
+4319,global_011769,5,Holistic Understanding of Events,C,B,False
+4320,global_011770,5,Holistic Understanding of Events,A,D,False
+4321,global_011771,1,Change Detection,C,B,False
+4322,global_011772,1,Change Detection,C,C,True
+4323,global_011773,,,B,C,False
+4324,global_011774,,,C,B,False
+4325,global_011775,,,A,A,True
+4329,global_011776,,,C,B,False
+4330,global_011777,,,C,C,True
+4331,global_011778,,,C,D,False
+4332,global_011779,,,C,C,True
+4333,global_011780,,,C,B,False
+4334,global_011781,5,Holistic Understanding of Events,C,C,True
+4335,global_011782,1,Change Detection,C,B,False
+4337,global_011783,5,Holistic Understanding of Events,B,A,False
+4338,global_011784,,,B,C,False
+4339,global_011785,1,Change Detection,C,B,False
+4341,global_011786,1,Change Detection,D,C,False
+4343,global_011787,3,Action Transition,A,C,False
+4345,global_011788,1,Change Detection,A,A,True
+4350,global_011789,5,Holistic Understanding of Events,A,A,True
+4351,global_011790,5,Holistic Understanding of Events,A,A,True
+4352,global_011791,5,Holistic Understanding of Events,D,D,True
+4356,global_011792,5,Holistic Understanding of Events,C,A,False
+4358,global_011793,5,Holistic Understanding of Events,D,A,False
+4594,global_011794,,,C,C,True
+4599,global_011795,2,Interaction Recognition,A,A,True
+4600,global_011796,2,Interaction Recognition,C,B,False
+4603,global_011797,4,Causal Motion,A,D,False
+4607,global_011798,,,A,A,True
+4608,global_011799,3,Action Transition,C,C,True
+4613,global_011800,5,Holistic Understanding of Events,A,C,False
+4707,global_011801,,,A,B,False
+4708,global_011802,2,Interaction Recognition,A,D,False
+4714,global_011803,1,Change Detection,C,D,False
+4717,global_011804,1,Change Detection,B,A,False
+4719,global_011805,4,Causal Motion,D,B,False
+4721,global_011806,2,Interaction Recognition,C,D,False
+4722,global_011807,2,Interaction Recognition,C,D,False
+4724,global_011808,,,C,A,False
+4725,global_011809,1,Change Detection,B,B,True
+4729,global_011810,,,C,C,True
+4730,global_011811,2,Interaction Recognition,D,B,False
+4731,global_011812,5,Holistic Understanding of Events,D,B,False
+4732,global_011813,2,Interaction Recognition,B,D,False
+4734,global_011814,2,Interaction Recognition,A,A,True
+4735,global_011815,5,Holistic Understanding of Events,C,C,True
+4737,global_011816,5,Holistic Understanding of Events,D,C,False
+4738,global_011817,2,Interaction Recognition,A,A,True
+4956,global_011818,2,Interaction Recognition,C,C,True
+4957,global_011819,5,Holistic Understanding of Events,B,D,False
+4958,global_011820,5,Holistic Understanding of Events,A,A,True
+4959,global_011821,5,Holistic Understanding of Events,B,D,False
+4961,global_011822,1,Change Detection,C,D,False
+4962,global_011823,5,Holistic Understanding of Events,A,C,False
+4963,global_011824,5,Holistic Understanding of Events,D,C,False
+4964,global_011825,,,D,A,False
+4965,global_011826,5,Holistic Understanding of Events,A,B,False
+4966,global_011827,,,A,C,False
+4968,global_011828,,,A,D,False
+4969,global_011829,5,Holistic Understanding of Events,C,B,False
+4971,global_011830,5,Holistic Understanding of Events,A,B,False
+4972,global_011831,1,Change Detection,C,A,False
+4975,global_011832,,,C,C,True
+4976,global_011833,,,A,D,False
+4977,global_011834,2,Interaction Recognition,C,A,False
+4978,global_011835,,,C,A,False
+4980,global_011836,5,Holistic Understanding of Events,A,B,False
+4981,global_011837,5,Holistic Understanding of Events,D,D,True
+4982,global_011838,,,A,B,False
+4985,global_011839,,,B,B,True
+4989,global_011840,5,Holistic Understanding of Events,C,A,False
+4992,global_011841,5,Holistic Understanding of Events,C,A,False
+4993,global_011842,,,C,A,False
+5000,global_011843,5,Holistic Understanding of Events,C,D,False
+5002,global_011844,1,Change Detection,D,D,True
+5003,global_011845,,,B,B,True
+5004,global_011846,5,Holistic Understanding of Events,C,A,False
+5005,global_011847,5,Holistic Understanding of Events,B,A,False
+5064,global_011848,,,A,D,False
+5067,global_011849,2,Interaction Recognition,C,C,True
+5068,global_011850,,,C,C,True
+5069,global_011851,,,A,C,False
+5070,global_011852,1,Change Detection,A,B,False
+5071,global_011853,3,Action Transition,C,C,True
+5073,global_011854,5,Holistic Understanding of Events,D,C,False
+5075,global_011855,5,Holistic Understanding of Events,B,B,True
+5078,global_011856,4,Causal Motion,D,A,False
+5080,global_011857,,,B,B,True
+5083,global_011858,5,Holistic Understanding of Events,C,B,False
+5085,global_011859,5,Holistic Understanding of Events,A,C,False
+5086,global_011860,,,A,A,True
+5087,global_011861,5,Holistic Understanding of Events,C,A,False
+5088,global_011862,5,Holistic Understanding of Events,A,B,False
+5089,global_011863,5,Holistic Understanding of Events,C,D,False
+5091,global_011864,,,A,B,False
+5093,global_011865,,,E,C,False
+5094,global_011866,3,Action Transition,C,C,True
+5095,global_011867,5,Holistic Understanding of Events,B,B,True
+5102,global_011868,5,Holistic Understanding of Events,A,A,True
+5104,global_011869,3,Action Transition,B,A,False
+5105,global_011870,5,Holistic Understanding of Events,B,B,True
+5110,global_011871,,,A,D,False
+5113,global_011872,5,Holistic Understanding of Events,C,C,True
+5114,global_011873,1,Change Detection,D,B,False
+5116,global_011874,,,A,C,False
+5117,global_011875,5,Holistic Understanding of Events,B,A,False
+5118,global_011876,,,A,A,True
+5120,global_011877,3,Action Transition,A,B,False
+5122,global_011878,2,Interaction Recognition,B,B,True
+5123,global_011879,5,Holistic Understanding of Events,A,C,False
+5124,global_011880,,,A,B,False
+5125,global_011881,5,Holistic Understanding of Events,A,A,True
+5127,global_011882,,,C,D,False
+5129,global_011883,5,Holistic Understanding of Events,A,A,True
+5130,global_011884,,,C,C,True
+5131,global_011885,3,Action Transition,E,D,False
+5132,global_011886,3,Action Transition,A,C,False
+5134,global_011887,3,Action Transition,A,C,False
+5135,global_011888,2,Interaction Recognition,C,D,False
+5137,global_011889,,,B,B,True
+5138,global_011890,2,Interaction Recognition,A,A,True
+5139,global_011891,3,Action Transition,A,B,False
+5140,global_011892,,,A,A,True
+5142,global_011893,1,Change Detection,D,A,False
+5143,global_011894,,,B,A,False
+5145,global_011895,5,Holistic Understanding of Events,B,B,True
+5146,global_011896,5,Holistic Understanding of Events,A,B,False
+5147,global_011897,5,Holistic Understanding of Events,A,B,False
+5148,global_011898,5,Holistic Understanding of Events,B,A,False
+5149,global_011899,5,Holistic Understanding of Events,B,B,True
+5150,global_011900,,,C,D,False
+5151,global_011901,,,C,D,False
+5153,global_011902,2,Interaction Recognition,A,B,False
+5154,global_011903,,,B,D,False
+5155,global_011904,5,Holistic Understanding of Events,C,A,False
+5157,global_011905,,,A,A,True
+5158,global_011906,5,Holistic Understanding of Events,A,D,False
+5161,global_011907,5,Holistic Understanding of Events,A,A,True
+5162,global_011908,5,Holistic Understanding of Events,B,D,False
+5163,global_011909,,,A,A,True
+5165,global_011910,,,C,C,True
+5168,global_011911,,,C,A,False
+5169,global_011912,1,Change Detection,C,C,True
+5170,global_011913,5,Holistic Understanding of Events,A,C,False
+5171,global_011914,2,Interaction Recognition,D,D,True
+5172,global_011915,,,E,D,False
+5173,global_011916,5,Holistic Understanding of Events,C,C,True
+5177,global_011917,3,Action Transition,C,A,False
+5180,global_011918,,,B,B,True
+5183,global_011919,,,D,C,False
+5185,global_011920,5,Holistic Understanding of Events,C,B,False
+5186,global_011921,5,Holistic Understanding of Events,B,C,False
