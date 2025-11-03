@@ -155,25 +155,37 @@ def main():
     out_dir = os.path.join('longva-7b', 'comparison_results')
     os.makedirs(out_dir, exist_ok=True)
 
-    plt.figure(figsize=(12, 5))
+    # Higher-quality styling
+    plt.figure(figsize=(16, 6))
     mv = np.array(motion_vals, dtype=float)
     nmv = np.array(non_motion_vals, dtype=float)
     mask_m = np.isfinite(mv)
     mask_nm = np.isfinite(nmv)
 
-    plt.plot(x[mask_m], mv[mask_m], marker='o', linewidth=2.5, color='#4C78A8', label='Motion')
-    plt.plot(x[mask_nm], nmv[mask_nm], marker='s', linewidth=2.5, color='#F58518', label='Non-Motion')
+    plt.plot(
+        x[mask_m], mv[mask_m], marker='o', markersize=7, linewidth=3.0,
+        color='#4C78A8', label='Motion'
+    )
+    plt.plot(
+        x[mask_nm], nmv[mask_nm], marker='s', markersize=7, linewidth=3.0,
+        color='#F58518', label='Non-Motion'
+    )
 
-    plt.xticks(x, labels, rotation=20, ha='right')
+    plt.xticks(x, labels, rotation=22, ha='right', fontsize=12)
+    plt.yticks(fontsize=12)
     plt.ylim(0, 1)
-    plt.ylabel('Accuracy')
-    plt.title('LongVA-7B: QA Accuracy vs Video Duration (Motion vs Non-Motion)')
-    plt.grid(alpha=0.25, linestyle='--')
-    plt.legend()
+    plt.ylabel('Accuracy', fontsize=14)
+    plt.title('LongVA-7B: QA Accuracy vs Video Duration (Motion vs Non-Motion)', fontsize=16)
+    ax = plt.gca()
+    ax.set_axisbelow(True)
+    plt.grid(alpha=0.3, linestyle='--', linewidth=0.8)
+    plt.legend(fontsize=12)
     plt.tight_layout()
 
     out_path = os.path.join(out_dir, 'motion_nonmotion_accuracy_by_duration.png')
-    plt.savefig(out_path, dpi=300)
+    plt.savefig(out_path, dpi=600)
+    # Also save a vector version for publication-quality scaling
+    plt.savefig(os.path.splitext(out_path)[0] + '.svg')
     print('Saved', out_path)
 
 
