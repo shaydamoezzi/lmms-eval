@@ -450,3 +450,10 @@ class MovieChat(lmms):
 
         pbar.close()
         return res
+
+    def generate_until_multi_round(self, requests: List[Instance]) -> List[str]:
+        """Multi-round generation is not supported for MovieChat.
+
+        This method is implemented to satisfy the abstract interface.
+        """
+        raise NotImplementedError("MovieChat does not support multi-round generation.")
