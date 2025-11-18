@@ -1,0 +1,164 @@
+{
+  "results": {
+    "lostinplainsight": {
+      "alias": "lostinplainsight",
+      "motion_analysis_bench_acc,none": {
+        "overall_acc": 50.0,
+        "by_question_type": {
+          "Reasoning": {
+            "num": 2,
+            "acc": 50.0
+          }
+        },
+        "by_duration_bucket": {
+          "medium": {
+            "num": 2,
+            "acc": 50.0
+          }
+        },
+        "by_motion_number": {
+          "Single": {
+            "num": 2,
+            "acc": 50.0
+          }
+        },
+        "by_timestamps_in_question": {
+          "N": {
+            "num": 2,
+            "acc": 50.0
+          }
+        },
+        "by_object_involved": {
+          "Y": {
+            "num": 2,
+            "acc": 50.0
+          }
+        },
+        "by_egocentric": {
+          "Y": {
+            "num": 2,
+            "acc": 50.0
+          }
+        }
+      },
+      "motion_analysis_bench_acc_stderr,none": "N/A"
+    }
+  },
+  "group_subtasks": {
+    "lostinplainsight": []
+  },
+  "configs": {
+    "lostinplainsight": {
+      "task": "lostinplainsight",
+      "tag": "video_qa",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": [
+            "/projects/aclab/shayda/vqa_benchmarks/lostinplainsight/lostinplainsight.jsonl"
+          ]
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function motion_analysis_bench_doc_to_visual at 0x150220809580>",
+      "doc_to_text": "<function motion_analysis_bench_doc_to_text at 0x1502207ffba0>",
+      "doc_to_target": "answer",
+      "process_results": "<function motion_analysis_bench_process_results at 0x1502207fefc0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "motion_analysis_bench_acc",
+          "aggregation": "<function motion_analysis_bench_aggregate_results at 0x1502207ff240>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 1024,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      },
+      "lmms_eval_specific_kwargs": {
+        "default": {
+          "pre_prompt": "",
+          "post_prompt": "\nAnswer with the option's letter from the given choices directly."
+        },
+        "gpt4v": {
+          "pre_prompt": "",
+          "post_prompt": "Answer the question with A, B, C, D, or E."
+        },
+        "llava_vid": {
+          "pre_prompt": "",
+          "post_prompt": "The best answer is:"
+        },
+        "pre_prompt": "",
+        "post_prompt": "\nAnswer with the option's letter from the given choices directly."
+      }
+    }
+  },
+  "versions": {
+    "lostinplainsight": 0.1
+  },
+  "n-shot": {
+    "lostinplainsight": 0
+  },
+  "higher_is_better": {
+    "lostinplainsight": {
+      "motion_analysis_bench_acc": true
+    }
+  },
+  "n-samples": {
+    "lostinplainsight": {
+      "original": 2,
+      "effective": 2
+    }
+  },
+  "config": {
+    "model": "internvl2",
+    "model_args": "pretrained=OpenGVLab/InternVL2-8B,modality=video,num_frame=32",
+    "batch_size": "1",
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": {
+      "max_new_tokens": 1024
+    },
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "25af12d",
+  "date": "20251105_021510",
+  "task_hashes": {
+    "lostinplainsight": "1ca323938aa3bf0b41a62b0d929e38e3bb551f577a56e99a13955f393c0af0d5"
+  },
+  "model_source": "internvl2",
+  "model_name": "OpenGVLab/InternVL2-8B",
+  "model_name_sanitized": "OpenGVLab__InternVL2-8B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 8895657.392432423,
+  "end_time": 8895672.335692488,
+  "total_evaluation_time_seconds": "14.943260064348578"
+}
