@@ -4,7 +4,7 @@ dataset_path: json
 dataset_kwargs:
   data_files:
     test:
-      - /projects/aclab/shayda/vqa_benchmarks/AVOE/evaluation_questions_expected_motion.jsonl
+      - /projects/aclab/shayda/vqa_benchmarks/AVOE/evaluation_questions_expected_static.jsonl
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils.motion_analysis_bench_doc_to_visual
@@ -16,14 +16,14 @@ generation_kwargs:
   top_p: 1.0
   num_beams: 1
   do_sample: false
-process_results: !function utils.motion_analysis_bench_process_results_motion
+process_results: !function utils.motion_analysis_bench_process_results_static
 metric_list:
   - metric: motion_analysis_bench_acc
     aggregation: !function utils.motion_analysis_bench_aggregate_results
     higher_is_better: true
 lmms_eval_specific_kwargs:
   default:
-    pre_prompt: "Use the overlaid object tracks in the video to aid your answer."
-    post_prompt: "Answer the question with either yes or no."
+    pre_prompt: ""
+    post_prompt: ""
 metadata:
   version: 0.1

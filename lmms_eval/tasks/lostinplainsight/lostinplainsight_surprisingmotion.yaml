@@ -4,7 +4,7 @@ dataset_path: json
 dataset_kwargs:
   data_files:
     test:
-      - /projects/aclab/shayda/vqa_benchmarks/AVOE/evaluation_questions_expected_motion.jsonl
+      - /projects/aclab/shayda/vqa_benchmarks/AVOE/evaluation_questions_surprising_motion.jsonl
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils.motion_analysis_bench_doc_to_visual
@@ -23,7 +23,7 @@ metric_list:
     higher_is_better: true
 lmms_eval_specific_kwargs:
   default:
-    pre_prompt: "Use the overlaid object tracks in the video to aid your answer."
-    post_prompt: "Answer the question with either yes or no."
+    pre_prompt: ""
+    post_prompt: ""
 metadata:
   version: 0.1
