@@ -57,7 +57,7 @@ class VideoLLaMA3(lmms):
         device: Optional[str] = "cuda",
         device_map: Optional[str] = "auto",
         batch_size: Optional[Union[int, str]] = 1,
-        use_flash_attention_2: Optional[bool] = True,
+        use_flash_attention_2: Optional[bool] = False,
         max_num_frames: int = 180,
         use_custom_video_loader=False,  # True for video-mmmu
         **kwargs,

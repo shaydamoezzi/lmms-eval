@@ -1,0 +1,128 @@
+{
+  "results": {
+    "lostinplainsight": {
+      "alias": "lostinplainsight",
+      "video_id,none": [],
+      "video_id_stderr,none": [],
+      "question_id,none": [],
+      "question_id_stderr,none": [],
+      "pred_answer,none": [],
+      "pred_answer_stderr,none": [],
+      "gt_answer,none": [],
+      "gt_answer_stderr,none": [],
+      "correct,none": [],
+      "correct_stderr,none": [],
+      "raw_output,none": [],
+      "raw_output_stderr,none": []
+    }
+  },
+  "group_subtasks": {
+    "lostinplainsight": []
+  },
+  "configs": {
+    "lostinplainsight": {
+      "task": "lostinplainsight",
+      "tag": "video_qa",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": [
+            "/projects/aclab/shayda/vqa_benchmarks/AVOE/evaluation_questions_expected_motion.jsonl"
+          ]
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function motion_analysis_bench_doc_to_visual at 0x1473c4a21300>",
+      "doc_to_text": "<function motion_analysis_bench_doc_to_text at 0x1473c4a21a80>",
+      "doc_to_target": "answer",
+      "process_results": "<function motion_analysis_bench_process_results_motion at 0x1473c4a21da0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "motion_analysis_bench_acc",
+          "aggregation": "<function motion_analysis_bench_aggregate_results at 0x1473c4a17ba0>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 1024,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      },
+      "lmms_eval_specific_kwargs": {
+        "default": {
+          "pre_prompt": "",
+          "post_prompt": "Answer question with either yes or no."
+        },
+        "pre_prompt": "",
+        "post_prompt": "Answer question with either yes or no."
+      }
+    }
+  },
+  "versions": {
+    "lostinplainsight": 0.1
+  },
+  "n-shot": {
+    "lostinplainsight": 0
+  },
+  "higher_is_better": {
+    "lostinplainsight": {
+      "motion_analysis_bench_acc": true
+    }
+  },
+  "n-samples": {
+    "lostinplainsight": {
+      "original": 200,
+      "effective": 200
+    }
+  },
+  "config": {
+    "model": "internvl2",
+    "model_args": "pretrained=OpenGVLab/InternVL2-8B,modality=video,num_frame=32",
+    "batch_size": "1",
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": {
+      "max_new_tokens": 1024
+    },
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "ad1be2d",
+  "date": "20260107_111803",
+  "task_hashes": {
+    "lostinplainsight": "08664bacaca0d47d340ddefd389de8ed6b8ba69c63b57690535a80bd404e9c5e"
+  },
+  "model_source": "internvl2",
+  "model_name": "OpenGVLab/InternVL2-8B",
+  "model_name_sanitized": "OpenGVLab__InternVL2-8B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 390909.305124434,
+  "end_time": 391368.436105064,
+  "total_evaluation_time_seconds": "459.1309806299978"
+}
