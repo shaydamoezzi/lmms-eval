@@ -1,4 +1,4 @@
-task: lostinplainsight
+task: lostinplainsight_expectedstatic
 tag: video_qa
 dataset_path: json
 dataset_kwargs:
