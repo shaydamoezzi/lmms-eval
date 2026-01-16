@@ -1,4 +1,5 @@
 import base64
+import gc
 import re
 from io import BytesIO
 from typing import List, Optional, Tuple, Union
@@ -43,7 +44,7 @@ class Qwen2_VL(lmms):
         max_length: Optional[int] = 2048,  # Added max_length parameter
         max_pixels: int = 602112,
         min_pixels: int = 3136,
-        max_num_frames: int = 32,
+        max_num_frames: int = 16,
         system_prompt: Optional[str] = "You are a helpful assistant.",
         interleave_visuals: Optional[bool] = False,
         reasoning_prompt: Optional[str] = None,
@@ -54,22 +55,51 @@ class Qwen2_VL(lmms):
         assert kwargs == {}, f"Unexpected kwargs: {kwargs}"
 
         accelerator = Accelerator()
+        # Check CUDA availability and fall back to CPU if needed
+        cuda_available = torch.cuda.is_available()
+        
         if accelerator.num_processes > 1:
-            self._device = torch.device(f"cuda:{accelerator.local_process_index}")
-            self.device_map = f"cuda:{accelerator.local_process_index}"
+            if cuda_available:
+                self._device = torch.device(f"cuda:{accelerator.local_process_index}")
+                self.device_map = f"cuda:{accelerator.local_process_index}"
+            else:
+                eval_logger.warning("CUDA not available, falling back to CPU for multi-process execution")
+                self._device = torch.device("cpu")
+                self.device_map = "cpu"
         # Simplified logic for single process
         else:  # accelerator.num_processes == 1
+            # If device is cuda but CUDA is not available, fall back to CPU
+            if device == "cuda" and not cuda_available:
+                eval_logger.warning("CUDA not available, falling back to CPU")
+                device = "cpu"
+            if device_map == "cuda" and not cuda_available:
+                eval_logger.warning("CUDA not available for device_map, falling back to CPU")
+                device_map = "cpu"
+            
             self._device = torch.device(device)
             # Respect device_map if provided and not empty, otherwise use the determined device string
             self.device_map = device_map if device_map else device
 
         if use_flash_attention_2:
-            self._model = Qwen2VLForConditionalGeneration.from_pretrained(
-                pretrained,
-                torch_dtype="auto",
-                device_map=self.device_map,
-                attn_implementation="flash_attention_2",
-            ).eval()
+            try:
+                self._model = Qwen2VLForConditionalGeneration.from_pretrained(
+                    pretrained,
+                    torch_dtype="auto",
+                    device_map=self.device_map,
+                    attn_implementation="flash_attention_2",
+                ).eval()
+            except Exception as e:
+                if "flash_attn" in str(e).lower() or "flash attention" in str(e).lower():
+                    eval_logger.warning(
+                        f"FlashAttention2 requested but not available ({str(e)}). "
+                        "Falling back to default attention implementation. "
+                        "To use FlashAttention2, install flash-attn: pip install flash-attn"
+                    )
+                    self._model = Qwen2VLForConditionalGeneration.from_pretrained(
+                        pretrained, torch_dtype="auto", device_map=self.device_map
+                    ).eval()
+                else:
+                    raise
         else:
             self._model = Qwen2VLForConditionalGeneration.from_pretrained(pretrained, torch_dtype="auto", device_map=self.device_map).eval()
         self.processor = AutoProcessor.from_pretrained(pretrained, max_pixels=max_pixels, min_pixels=min_pixels)
@@ -253,6 +283,7 @@ class Qwen2_VL(lmms):
 
                 for visual in relevant_visuals:
                     if isinstance(visual, str) and visual.endswith((".mp4", ".avi", ".mov")):  # Video file
+                        vr = None
                         try:
                             vr = decord.VideoReader(visual)
                             if len(vr) > 0:
@@ -260,10 +291,16 @@ class Qwen2_VL(lmms):
                                 height, width = first_frame.shape[:2]
                                 max_pixels = height * width # This seems incorrect, should use instance config  ##SHAYDA MODIFIED HERE FOR CUDA OOM BUG POTENTIALLY
                                 processed_visuals.append({"type": "video", "video": visual, "max_pixels": self.max_pixels, "min_pixels": self.min_pixels})
+                                # Clean up frame data
+                                del first_frame
                             else:
                                 eval_logger.warning(f"Skipping empty video: {visual}")
                         except Exception as e:
                             eval_logger.error(f"Failed to process video {visual}: {e}")
+                        finally:
+                            # Explicitly close VideoReader to free memory
+                            if vr is not None:
+                                del vr
                     elif isinstance(visual, Image.Image):  # Handle PIL Image
                         try:
                             base64_image = visual.convert("RGB")
@@ -343,14 +380,20 @@ class Qwen2_VL(lmms):
                         indices = np.linspace(0, total_frames - 1, self.max_num_frames, dtype=int, endpoint=True)
                         indices = np.unique(indices)
 
-                    video_inputs[0] = video_tensor[indices]
+                    # Create new tensor and delete old one to free memory
+                    old_video_tensor = video_inputs[0]
+                    video_inputs[0] = video_tensor[indices].clone()
+                    del old_video_tensor
+                    del video_tensor
                 else:
                     eval_logger.warning(f"Unexpected video_inputs format or empty tensor: {type(video_tensor)}")
 
             inputs = self.processor(text=texts, images=image_inputs, videos=video_inputs, padding=True, return_tensors="pt")
 
             if self.device_map == "auto":
-                inputs = inputs.to("cuda")  # Assuming 'cuda' is the target for 'auto' on single GPU
+                # Use the device determined during initialization, fall back to CPU if CUDA unavailable
+                target_device = self.device if torch.cuda.is_available() else torch.device("cpu")
+                inputs = inputs.to(target_device)
             else:
                 inputs = inputs.to(self.device)
 
@@ -410,6 +453,26 @@ class Qwen2_VL(lmms):
                 # Use original gen_kwargs for caching, not the merged one
                 self.cache_hook.add_partial("generate_until", (context, gen_kwargs), ans)
                 pbar.update(1)
+
+            # Memory cleanup: explicitly delete large tensors and clear GPU cache
+            # Delete model inputs and outputs
+            del inputs, cont, generated_ids_trimmed
+            # Delete video/image inputs if they exist
+            if video_inputs is not None:
+                if isinstance(video_inputs, list) and len(video_inputs) > 0:
+                    for v in video_inputs:
+                        if isinstance(v, torch.Tensor):
+                            del v
+                del video_inputs
+            if image_inputs is not None:
+                del image_inputs
+            # Delete intermediate processing results
+            del texts, batched_messages
+            
+            # Clear GPU cache and run garbage collection
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+            gc.collect()
 
         # reorder this group of results back to original unsorted form
         res = re_ords.get_original(res)
