@@ -57,7 +57,6 @@ def motion_analysis_bench_doc_to_visual(doc):
     video_path = ""
     video_id = ""
     benchmark = doc.get("benchmark")
-    base_data_dir = ("../vqa_benchmarks")
     if benchmark == 'egoschema':
         video_id = doc.get("question_id") #for egoschema only question id maps to vidoe id for pathing purposes 
     else:
@@ -191,7 +190,7 @@ def motion_analysis_bench_aggregate_results(results):
     overall_acc = round((total_correct / total) * 100, 2) if total else 0.0
 
   
-    per_attr = {f: _aggregate_by_field(flat, f) for f in fields}
+    # per_attr = {f: _aggregate_by_field(flat, f) for f in fields}
 
     # Pretty print
     print("\nMotion Analysis Bench — Evaluation Results")

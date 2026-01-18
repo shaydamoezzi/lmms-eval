@@ -1,0 +1,39 @@
+task: lostinplainsight_clevrer
+tag: video_qa
+dataset_path: json
+dataset_kwargs:
+  data_files:
+    test:
+      - /projects/aclab/shayda/vqa_benchmarks/clevrer/clevrer_openended.jsonl
+test_split: test
+output_type: generate_until
+doc_to_visual: !function utils_openended.motion_analysis_bench_doc_to_visual
+doc_to_text: !function utils_openended.motion_analysis_bench_doc_to_text
+doc_to_target: "answer"
+generation_kwargs:
+  max_new_tokens: 2000
+  temperature: 0
+  top_p: 1.0
+  num_beams: 1
+  do_sample: false
+
+lmms_eval_specific_kwargs:
+  default:
+    pre_prompt: "Your goal is to analyze the video and report every motion and collision event with high precision."
+    post_prompt: "
+    [Example of Desired Output]
+        1. Initial State
+        * Cyan Cylinder: Visible on the left, moving diagonally down-right.
+        * Gray Cube: Stationary in the center.
+
+        2. Event Timeline
+        * Event 1 (Collision): The Cyan Rubber Cylinder collides with the Gray Metal Cube.
+            * Result: The Cyan Cylinder is deflected upwards. The Gray Cube begins sliding right.
+        * Event 2 (Exit): The Cyan Rubber Cylinder exits the frame.
+
+        3. Trajectory Summary
+        * The Cyan Cylinder moved right, hit the cube, and exited.
+
+        Analyze the provided video and generate a response for the question following the exact format of the Example above."
+metadata:
+  version: 0.1

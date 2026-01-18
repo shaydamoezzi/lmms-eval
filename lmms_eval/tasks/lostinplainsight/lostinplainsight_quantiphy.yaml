@@ -1,10 +1,10 @@
-task: lostinplainsight
+task: lostinplainsight_quantiphy
 tag: video_qa
 dataset_path: json
 dataset_kwargs:
   data_files:
     test:
-      - ../vqa_benchmarks/quantiphy_evaluation.jsonl
+      - /projects/aclab/shayda/vqa_benchmarks/quantiphy/quantiphy_evaluation.jsonl
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils_mcq.motion_analysis_bench_doc_to_visual
